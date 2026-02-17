@@ -10,12 +10,14 @@ Usage:
     python3 parallel_grab.py --list       # show book list
     python3 parallel_grab.py --limit 4    # download at most 4 books
     python3 parallel_grab.py --setup      # copy auth from emu1 → emu2
+    python3 parallel_grab.py --from-api   # use API bookmarks (all 845)
 """
 from __future__ import annotations
 
 import argparse
 import multiprocessing
 import os
+import requests
 import sqlite3
 import subprocess
 import sys
@@ -66,6 +68,46 @@ def get_bookmarked_books(device: str = "emulator-5554") -> list[dict]:
     """).fetchall()
     conn.close()
     return [{"id": r[0], "name": r[1], "latest_index": r[2] or 0} for r in rows]
+
+
+def get_api_bookmarks() -> list[dict]:
+    """Fetch all bookmarks from the API."""
+    from config import BEARER_TOKEN, HEADERS
+    BASE = "https://android.lonoapp.net"
+    all_books = []
+    page = 1
+    while True:
+        r = requests.get(
+            f"{BASE}/api/bookmarks?page={page}",
+            headers=HEADERS, timeout=30,
+        )
+        data = r.json()
+        items = data.get("data", [])
+        if not items:
+            break
+        for bm in items:
+            book = bm.get("book", {}) or {}
+            bid = bm.get("book_id")
+            if not bid:
+                continue
+            name = book.get("name", f"(unknown-{bid})")
+            chaps = (book.get("latestIndex")
+                     or book.get("latest_index")
+                     or book.get("chapter_count") or 0)
+            all_books.append({
+                "id": bid,
+                "name": name,
+                "latest_index": chaps,
+            })
+        pagination = data.get("pagination", {})
+        last = pagination.get("last", 1)
+        if page % 10 == 0:
+            print(f"  Page {page}/{last}, {len(all_books)} books so far...")
+        if page >= last:
+            break
+        page += 1
+        time.sleep(0.2)
+    return all_books
 
 
 def get_extracted_counts() -> dict[int, int]:
@@ -286,6 +328,8 @@ def main():
     parser.add_argument("--limit", type=int, default=0, help="Max books to download")
     parser.add_argument("--setup", action="store_true",
                         help="Copy auth from emulator-5554 → emulator-5556")
+    parser.add_argument("--from-api", action="store_true",
+                        help="Use API bookmarks instead of device DB")
     args = parser.parse_args()
 
     if args.setup:
@@ -304,11 +348,16 @@ def main():
             sys.exit(1)
     print(f"\n  Both emulators online: {', '.join(DEVICES)}")
 
-    # Read bookmarks from emulator-5554 (primary)
-    print("\n[1] Reading bookmarks from DB...")
-    books = get_bookmarked_books(DEVICES[0])
+    # Read book list
+    if args.from_api:
+        print("\n[1] Fetching bookmarks from API...")
+        books = get_api_bookmarks()
+        print(f"  {len(books)} bookmarked books from API")
+    else:
+        print("\n[1] Reading bookmarks from DB...")
+        books = get_bookmarked_books(DEVICES[0])
+        print(f"  {len(books)} bookmarked books from device DB")
     extracted = get_extracted_counts()
-    print(f"  {len(books)} bookmarked books")
 
     if args.list:
         print_book_list(books, extracted)

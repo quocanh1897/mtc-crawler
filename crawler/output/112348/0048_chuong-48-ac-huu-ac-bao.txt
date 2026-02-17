@@ -1,0 +1,137 @@
+Chương 48: Ác hữu ác báo
+
+Chương 48: Ác hữu ác báo
+
+New York khí trời bắt đầu từ từ trở nên lạnh, sáng sớm sương mù bám vào ở cửa sổ pha lê lên, lưu tầng tiếp theo mông lung màu trắng, đem mới vừa thắp sáng đèn đường ngất ra một vòng mờ nhạt quang ảnh.
+
+Schiller bưng một ly cà phê, ngồi ở Stark phòng thí nghiệm trước bàn làm việc, Stark cầm một chồng lớn số liệu đi tới nói: "Đến lại đem số 5 then chốt cải tạo một hồi, sau đó cùng số 13 then chốt làm một cái đối chiếu tổ thí nghiệm, còn có số 7 cánh tay ở ngoài khôi giáp số liệu cũng có vấn đề, ta sau đó muốn một lần nữa điều chỉnh một chút. . ."
+
+Schiller nói: "Ngươi liền không thể nghỉ một lát sao? Ngươi không mệt mỏi sao?"
+
+Stark một bên đem số liệu tư liệu trải ở trên bàn thu dọn, vừa nói: "Ngươi một buổi tối đã ít hỏi nhất ta 2 0 lần vấn đề này, từ tối ngày hôm qua 7h liền bắt đầu hỏi, vẫn hỏi sáng sớm hôm nay 7h ."
+
+"Đó là bởi vì ngươi vẫn từ ngày hôm qua  giờ kéo ta làm thí nghiệm, ta thậm chí ngay cả uống ly cà phê công phu đều không có."
+
+"Vậy ngươi hiện tại là đang làm gì? Đã 3 phút qua đi, ngươi uống xong đi? Chúng ta còn có hai tổ triển khai thí nghiệm muốn làm, phải vào hôm nay 8 điểm trước làm xong."
+
+Schiller một đầu ngã chổng vó ở trên bàn.
+
+Peter cầm hai phần văn kiện, từ phòng thí nghiệm cửa kính mặt sau đi ra, hắn nói: "Stark tiên sinh, số 5 chân xương cốt ngoại bộ cái giá thật giống có chút vấn đề, Jarvis mới vừa cho ta thứ 3 phần số liệu bên trong, xương cốt chống đỡ kết cấu tựa hồ có không ổn định xu thế, cái giá cũng có vỡ vụn nguy hiểm, tuy rằng Jarvis kiến nghị chúng ta thay đổi vật liệu, có thể nếu như sử dụng quá cứng long cốt, dẻo dai tính cùng sự linh hoạt liền sẽ bị suy yếu. . ."
+
+Stark từ Peter trên tay tiếp nhận tư liệu, hắn nhìn một chút nói: "Này không phải vấn đề lớn lao gì."
+
+Hắn đưa tay ra ở bản thiết kế lên chỉ cho Peter xem."Chúng ta chờ một lúc ở cái này then chốt thêm một cái bước đệm hệ thống, sau đó lại đem nơi này hướng phía dưới chuyển hai cm. . ."
+
+Peter dùng tay sờ cằm suy nghĩ, Stark tiến lên đem Schiller vứt lên, hắn nói: "Thường ngày ngươi uống một chén đậm cà phê chỉ cần 3 giây, hiện tại ngươi đã uống gần 5 phút, mau mau lên làm việc."
+
+"Ta ma pháp năng lực cần khôi phục. . ."
+
+"Ta nhớ tới ai nói, như vậy là cấp thấp thao tác tới?"
+
+Schiller che mắt, hắn nói: "Ngươi có thể hay không làm một bộ hoàn chỉnh giáp máy lại đây, sau đó ta đối với nó triển khai một lần ma pháp, sau đó ngươi là có thể trực tiếp cầm dùng, tại sao nhất định phải đem nó dỡ thành một món linh kiện một món linh kiện đi làm thí nghiệm?"
+
+Stark khá là không nói gì nói: "Tại sao ta có lúc cảm thấy ngươi rất hiểu những thứ đồ này, có thể có lúc lại cảm thấy ngươi là cái cơ giới ngớ ngẩn."
+
+Hắn đem bản thiết kế trải ở trên bàn, sau đó chỉ vào mặt trên đồ án nói: "Nhìn thấy sao? Làm ngươi dùng ma pháp giúp ta đem Mark 4 thu nhỏ lại cùng triển khai giải quyết vấn đề sau khi, ta là có thể đem thiết kế trọng điểm đặt ở nó tính năng cùng công năng lên, thế nhưng một khi ta tăng lên nào đó bộ phận tính năng cùng công năng, nhất định phải một lần nữa kiểm tra nó có hay không có thể thu nhỏ lại lại triển khai, hoặc là nói triển khai sau khi công năng cùng ta mong muốn ở trong có phải hay không như thế."
+
+"Vì lẽ đó ta nhất định phải tiến hành lượng lớn module hóa thí nghiệm, đến kiểm tra một cái nào đó công năng ở đơn độc thu nhỏ lại cùng triển khai thời điểm, liệu sẽ có như ta mong muốn như thế đạt đến nó hiệu quả."
+
+"Vì lẽ đó có cái nào linh kiện không có đạt đến ngươi hiệu quả sao?" Schiller hỏi.
+
+"Vạn nhất là cái kế tiếp đây?" Stark nói.
+
+Đám này đáng chết nghiêm cẩn học sinh khối khoa học tự nhiên, Schiller lại một đầu ngã chổng vó ở trên bàn.
+
+Peter nói: "Ta tán thành Stark tiên sinh, loại cơ giáp này chế tạo không phải đùa giỡn, một khi ngươi bay đến mấy vạn mét trên không, mà một cái nào đó linh kiện lại xảy ra vấn đề, vậy coi như quá nguy hiểm."
+
+"Không chỉ như vậy." Stark một vừa sửa sang lại bản thiết kế vừa nói: "Công suất thấp vận chuyển cùng công suất cao thậm chí siêu tần vận chuyển hiệu quả đều không giống nhau, ngươi nhất định phải bảo đảm nó ở mỗi cái có thể hiệu chuyển vận trên cấp bậc, đều có làm hết sức hoàn mỹ biểu hiện."
+
+Sau đó Stark kéo Schiller cánh tay, lại đem hắn kéo đến bàn thí nghiệm bên cạnh, Peter đưa tới một cái linh kiện, Schiller liền đem nó phân giải lại xây lại, sau đó Stark cầm kiểm tra, Peter lại đưa tới một cái linh kiện, Schiller lại đem chúng nó phân giải đều xem trọng tổ, sau đó lại cầm kiểm tra.
+
+Peter cùng Stark đúng là ở làm thí nghiệm, có thể Schiller cảm giác mình chính là một cái dây chuyền sản xuất lên vặn bóng đèn.
+
+Cộng sinh thể ở trong đầu hắn vẫn lặp lại: "Hai người bọn họ đầu đều thật thơm a, thật sự thật thơm a, rất muốn ăn a, ta có thể ăn một cái trong đó sao? Liền ăn một cái, sau đó một cái khác bữa ăn sau, ta nghĩ trước tiên ăn cái kia mắt xanh. . ."
+
+Schiller phát hiện cộng sinh thể tựa hồ có thể thăm dò đến người sóng não, làm một người đại não bắt đầu nhanh chóng vận chuyển thời điểm, hắn liền sẽ nhận ra được bọn họ trong đầu phóng thích một loại tin tức tố, cái này người đại não hoạt động càng nhanh, cũng là nghe lên càng thơm.
+
+Rất không may, Peter cùng Stark như vậy siêu cấp thiên tài, đầu óc của bọn họ đối với cộng sinh thể tới nói, lại như một khối cất bước siêu cấp vô địch thơm ngát gà rán, căn bản là không có cách từ chối.
+
+Không biết làm sao, cộng sinh thể còn học được ở Schiller trong đầu nhiều lần phát hình nuốt nước miếng âm thanh, nghe hắn đều đói bụng.
+
+Schiller vặn xong cái cuối cùng đưa tới bóng đèn, nói: "Chúng ta đi ăn một chút gì đi, các ngươi không đói bụng sao?"
+
+Stark ném cho hắn hai cái áp súc bánh bích quy, nói: "Cảm tạ S.H.I.E.L.D. đồ chơi mới, ta hiện tại có thể liên tục công tác 40 giờ."
+
+Schiller hít sâu một hơi nói: "Vậy ngươi không mệt không? Còn có ngươi, Peter, ngươi cũng có thể nhanh hai ngày không có ngủ đi?"
+
+"Ta tìm tên tiểu tử này lại đây nguyên nhân chính là, hắn so với những người khác tinh lực dồi dào nhiều."
+
+Peter cũng nhún nhún vai nói: "Từ khi ta thu được năng lực sau khi, ta chỉ cần ngủ rất ngắn một lúc, liền có thể duy trì tinh lực dồi dào, mới vừa ta ở phòng nghỉ ngủ 15 phút, hiện tại cảm giác cũng không tệ lắm."
+
+" không bằng nói, ngươi một cái pháp sư, vì sao lại cảm giác được mệt mỏi? Các ngươi lẽ nào không có cái gì nâng cao tinh thần ma pháp sao?"
+
+Schiller kỳ thực không phải cảm giác được sinh lý lên mệt mỏi, có cộng sinh thể, hắn thậm chí có thể không ăn không uống cũng không ngủ, nhưng là dù là ai ở chỗ này vặn bóng đèn hơn 20 giờ, cũng sẽ cảm giác được trên tinh thần mệt mỏi.
+
+Schiller kỳ thực một chút xíu đều không hiểu nổi bọn họ chiến giáp thiết kế, nhưng mỗi khi Stark từ cửa kính sau đi ra kích động biểu diễn hắn ý nghĩ mới thời điểm, Schiller còn muốn đóng vai đội cổ động viên cho hắn vỗ tay, nếu như hắn không làm như vậy, Stark liền sẽ đón lấy vọt vào cửa kính bên trong, sau đó trải qua liên tiếp leng keng cạch cạch tiếng nổ mạnh, lại cầm mới ý nghĩ đi ra.
+
+Stark nói: "Ngươi làm sao có thể đối với sự nghiệp vĩ đại như vậy như vậy thờ ơ không động lòng? Đây chính là nhân loại khoa học trong lịch sử sự kiện quan trọng! Có lẽ cũng là trên ma pháp! Chúng ta lần thứ nhất đem nhân loại khoa học kỹ thuật kết quả cùng một loại mới thần kỳ sức mạnh kết hợp với nhau, ngươi chẳng lẽ không chờ mong bọn họ sản xuất thành quả sao?"
+
+"Ta càng quan tâm một cái vấn đề khác." Schiller nói: "Ngươi dự định đem chuỗi này chiến giáp cũng gọi là Mark sao? Ta cảm thấy nó nên có một cái tên mới."
+
+"Tên mới? Ngươi cảm thấy S series làm sao? Tên của ngươi cùng ta dòng họ chữ cái đầu."
+
+"Peter sẽ thương tâm, hắn cũng tham dự chế tạo."
+
+Stark gãi gãi đầu, Peter nói: "Này ta ngược lại thật ra không thèm để ý, có điều so với đặt tên, ta cảm thấy mới chiến giáp nên có cái càng huyễn khốc vẻ ngoài, cùng Mark series hoàn toàn khác nhau loại kia."
+
+"Ta cảm thấy ngươi có thể thiết kế thành màu xanh lam." Schiller nói, "Cùng ma pháp rất xứng đôi, cũng có thể cùng ngươi Mark series phân chia ra."
+
+"Như vậy nhường chúng ta mau một chút đi, chỉ cần chúng ta đem hết thảy linh kiện đều thi kiểm tra xong, chúng ta là có thể bắt đầu lắp ráp nó, sau đó rất nhanh chúng ta là có thể cho hắn sơn cái trước đẹp đẽ màu sắc, ta cảm thấy màu xanh lam cùng màu bạc phối hợp liền không sai."
+
+"Mặt khác." Stark nhìn về phía Schiller nói: "Ta cảm thấy người máy này nên có một chút ma pháp công kích năng lực."
+
+"Thế nhưng rất xin lỗi, ta học ma pháp không có cái gì năng lực công kích." Schiller nói.
+
+"Cái kia cái kia mất trọng lượng thuật đây? Ta cảm thấy có thể trôi nổi vật thể ngược lại cũng không tồi."
+
+"Ngươi có thể suy tính một chút từ lực." Schiller không hề gánh nặng trong lòng bán đi Magneto, hắn nói: "Có lẽ từ lực so với ngươi tưởng tượng càng mạnh hơn."
+
+Chờ đến Natasha lại đây thời điểm, ba người này đã sắp hơn 50 giờ không có ngủ, Schiller cùng Peter bởi vì nắm giữ siêu năng lực, xem ra bề ngoài cũng vẫn tính bình thường, có thể Stark đẩy một cái to lớn mắt gấu trúc, Natasha nói: "Chúng ta hầu như muốn cho các ngươi phát thông báo tìm người, các ngươi biến mất nhanh ròng rã ba ngày."
+
+"Nhưng chúng ta có cái rất xuất sắc thành quả!" Stark nói.
+
+Tiếp theo, Natasha nhìn thấy Stark lấy ra một điếu thuốc, nữ đặc công cười nói: "Xem ra ngươi như cũ như vậy không rõ phong tình, từ khi ta gia nhập S.H.I.E.L.D. cũng đã không hút thuốc lá."
+
+"Ngươi hiện tại mới nhớ tới đến dưỡng sinh, đúng hay không chậm chút?" Schiller hỏi nàng.
+
+"Dưỡng sinh? Ta mới không phải vì dưỡng sinh! Ngươi gặp cái nào người nước Nga dưỡng sinh? S.H.I.E.L.D. Văn phòng cái kia đáng chết khói báo động dụng cụ một ngày muốn vang hơn 20 lần, ta bị nó ồn ào thực sự là không chịu được mới cai thuốc."
+
+"Ha, xem nơi này! Các ngươi đang nói những chuyện gì? Nhìn ta, xem ta thành quả!" Stark nói.
+
+Hắn đem cái kia điếu thuốc hướng về lên ném một cái, trong nháy mắt, một bộ do màu bạc cùng màu lam đậm tạo thành giáp máy liền xuất hiện ở trên người hắn.
+
+Cái này giáp máy cùng Mark series tạo hình xác thực hơi có khác biệt, nó có vẻ càng khinh bạc, càng trôi chảy, càng dán vào Stark hình thể, hơn nữa hắn vũ trang quá trình cùng hoạt động quá trình bên trong sẽ không phát ra bất kỳ cái gì khác chiến giáp phát sinh cơ giới âm thanh, cùng với nói là giáp máy, không bằng nói là một bộ tạo hình rất khác biệt quần áo bó.
+
+Schiller đứng lên đến, sau đó nói: "Nguyên bản ngươi ăn mặc giáp máy cao hơn ta 10 centimet, thế nhưng hiện tại chỉ cao 3 centimet."
+
+"Đây là trọng điểm sao? !"
+
+"Đương nhiên, bởi vì ngươi không mặc giáp máy  so với ta thấp một centimet."
+
+"Là thấp hai centimet, tiên sinh." Peter nói, "Ngươi còn phải giảm đi giầy."
+
+Stark hít sâu một hơi, hắn nhẹ nhàng nhảy một cái, chiến giáp liền nổi không trung, không có trước kia động tĩnh lớn như vậy, Stark nói: "Cảm tạ ngươi cho ta linh cảm, ta cũng cảm thấy phun khí động lực có chút hạ giá, có điều loại này từ trôi nổi hệ thống còn có chút không thuần thục, ta còn muốn lại cải tiến một hồi."
+
+Schiller vội vàng hỏi Natasha: "Nick Fury đúng hay không tìm ta có chuyện gì? Ta có thể qua đi lại mở cho hắn một tấm hóa đơn, bao lớn đều được."
+
+Natasha nói: "Được rồi, là có vài việc gì đó, thật giống cùng trước đội trưởng cùng Peter đối phó đám kia Ninja có quan hệ."
+
+"Cho nên nói, ngươi là tìm đến Peter, cái kia Schiller. . ." Stark nói
+
+"Không không không, ta thu S.H.I.E.L.D. Rất nhiều tiền, ta cảm thấy tất yếu cho bọn họ toàn thể một cái cơ sở tâm lý cùng tâm tình kiểm tra, ngươi biết, chuyện này đối với một ít ngoại cần đặc công rất trọng yếu, có thể để tránh cho bọn họ bởi vì lo lắng mà phát rồ."
+
+"Lần này không thu phí?"
+
+"Đương nhiên!"
+
+(tấu chương xong).

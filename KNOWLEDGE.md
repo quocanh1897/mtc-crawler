@@ -158,6 +158,17 @@ python3 grab_book.py "book name"    # fully automated end-to-end
 | (book 145005) | 145005 | 961 | 2026-02-15 |
 | (book 137544) | 137544 | 712 | 2026-02-15 |
 
+## Platform Compatibility
+
+**Currently macOS-only.** The crawler has 5 blockers preventing Windows use:
+1. Hardcoded macOS ADB path (`~/Library/Android/sdk/...`)
+2. Hardcoded `/tmp/` temp paths (6 occurrences across 3 files)
+3. `multiprocessing.get_context('fork')` — Windows only supports `spawn`
+4. `sips` command (macOS-only image tool)
+5. `start_emulators.sh` (Bash script)
+
+See `crawler/WINDOWS_MIGRATION.md` for the full migration plan (~3 hours of code changes).
+
 ## Key Gotchas
 
 - **Flutter ignores everything**: system proxy, env vars, user CAs, network_security_config.xml

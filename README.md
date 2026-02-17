@@ -8,7 +8,7 @@ The mobile API encrypts chapter content (AES-CBC, Laravel envelope). The encrypt
 
 ## Architecture
 
-```
+```txt
                         ┌───────────────┐
                         │  metruyencv   │
                         │  (encrypted)  │
@@ -16,9 +16,9 @@ The mobile API encrypts chapter content (AES-CBC, Laravel envelope). The encrypt
                                 │
                           mitmproxy :8083
                                 │
-              ┌─────────────────┼─────────────────┐
+              ┌─────────────────┼──────────────────┐
               │                 │                  │
-   ┌──────────┴──────────┐   ┌─┴──────────────────┴──┐
+   ┌──────────┴──────────┐   ┌──┴──────────────────┴──┐
    │  Emulator 1 (5554)  │   │  Emulator 2 (5556)     │
    │  MTC Debug APK      │   │  MTC Debug APK         │
    │  ┌───────────────┐  │   │  ┌───────────────┐     │
@@ -31,9 +31,9 @@ The mobile API encrypts chapter content (AES-CBC, Laravel envelope). The encrypt
                        │
             ┌──────────┴──────────┐
             │  Crawler Scripts    │
-            │  API search → UI   │
-            │  automation → DB   │
-            │  extract → .txt    │
+            │  API search → UI    │
+            │  automation → DB    │
+            │  extract → .txt     │
             └──────────┬──────────┘
                        │
               crawler/output/{id}/
@@ -66,15 +66,15 @@ python3 dashboard.py
 
 ## Scripts
 
-| Script | Purpose |
-|--------|---------|
-| `crawler/grab_book.py` | Single book: API search → UI automation → DB poll → extract |
-| `crawler/batch_grab.py` | Loop through all bookmarked books on one emulator |
-| `crawler/parallel_grab.py` | Split work across 2 emulators for ~2x throughput |
-| `crawler/extract_book.py` | Standalone extraction after manual in-app download |
-| `crawler/config.py` | API configuration (base URL, auth token, headers) |
-| `crawler/start_emulators.sh` | Launch emulators + mitmproxy |
-| `progress-checking/dashboard.py` | Real-time terminal dashboard |
+| Script                           | Purpose                                                     |
+| -------------------------------- | ----------------------------------------------------------- |
+| `crawler/grab_book.py`           | Single book: API search → UI automation → DB poll → extract |
+| `crawler/batch_grab.py`          | Loop through all bookmarked books on one emulator           |
+| `crawler/parallel_grab.py`       | Split work across 2 emulators for ~2x throughput            |
+| `crawler/extract_book.py`        | Standalone extraction after manual in-app download          |
+| `crawler/config.py`              | API configuration (base URL, auth token, headers)           |
+| `crawler/start_emulators.sh`     | Launch emulators + mitmproxy                                |
+| `progress-checking/dashboard.py` | Real-time terminal dashboard                                |
 
 ### grab_book.py
 
@@ -116,18 +116,19 @@ python3 dashboard.py --single         # only monitor emulator 1
 
 **Interactive controls:**
 
-| Key | Action |
-|-----|--------|
-| `e` | Cycle view size: 3 → 10 → full |
-| `f` | Jump to full view |
-| `j` / `n` | Next page |
-| `k` / `p` | Previous page |
-| `s` | Cycle sort: Recent, Name, Size, Chapters, ID |
-| `/` | Search (filter by name or ID) |
-| `Esc` | Clear search filter |
-| `q` | Quit |
+| Key       | Action                                       |
+| --------- | -------------------------------------------- |
+| `e`       | Cycle view size: 3 → 10 → full               |
+| `f`       | Jump to full view                            |
+| `j` / `n` | Next page                                    |
+| `k` / `p` | Previous page                                |
+| `s`       | Cycle sort: Recent, Name, Size, Chapters, ID |
+| `/`       | Search (filter by name or ID)                |
+| `Esc`     | Clear search filter                          |
+| `q`       | Quit                                         |
 
 **Dashboard panels:**
+
 - **Device DB Overview** — connection status, bookmarked books count, total chapters
 - **Active Downloads** — progress bars, download rate, ETA
 - **Bookmarked Books** — per-book status (Bookmarked / Downloading / Downloaded / Extracted)
@@ -135,14 +136,14 @@ python3 dashboard.py --single         # only monitor emulator 1
 
 ## Prerequisites
 
-| Requirement | Details |
-|-------------|---------|
-| macOS | Tested on macOS (uses `sips` for screenshot conversion) |
-| Android SDK | Emulator + ADB in `~/Library/Android/sdk/` |
-| AVD | `Medium_Phone_API_36.1` (arm64-v8a, Google APIs) |
+| Requirement | Details                                                        |
+| ----------- | -------------------------------------------------------------- |
+| macOS       | Tested on macOS (uses `sips` for screenshot conversion)        |
+| Android SDK | Emulator + ADB in `~/Library/Android/sdk/`                     |
+| AVD         | `Medium_Phone_API_36.1` (arm64-v8a, Google APIs)               |
 | Patched APK | reflutter-patched, `debuggable=true` (see `apk/` — gitignored) |
-| mitmproxy | `mitmdump --listen-port 8083` |
-| Python 3.9+ | With `httpx`, `uiautomator2` |
+| mitmproxy   | `mitmdump --listen-port 8083`                                  |
+| Python 3.9+ | With `httpx`, `uiautomator2`                                   |
 
 ### Install dependencies
 
@@ -171,11 +172,13 @@ crawler/output/{book_id}/
 ### Database Access
 
 The app's SQLite database is extracted via:
+
 ```bash
 adb shell "run-as com.novelfever.app.android.debug cat databases/app_database.db"
 ```
 
 Key tables:
+
 - **BaseBook** — `id`, `name`, `latestIndex`, `following`, `bookmarkId`
 - **Chapter** — `id`, `bookId`, `index`, `name`, `content`, `slug`
 

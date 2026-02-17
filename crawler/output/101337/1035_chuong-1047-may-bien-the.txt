@@ -1,0 +1,91 @@
+Chương 1047: Máy biến thế
+
+Chương 1047: Máy biến thế
+
+Lý Thực nhìn cái kia máy phát điện rất lâu, cười hỏi: "Này máy phát điện là bao nhiêu kilowatt?"
+
+Quốc doanh nhà máy Đại tổng quản Thái Hoài Thủy trên mặt biến đổi, nói ra: " ta nghe Trần Nhất Minh nói, tựa như là ba ngàn kilowatt."
+
+Lý Thực thấy Thái Hoài Thủy không rõ lắm cụ thể con số, nhướng mày, hỏi: " Trần Nhất Minh người đâu?"
+
+Thái Hoài Thủy bối rối nói ra: " ta hôm qua thông tri hắn hai lần, gọi hắn đúng hạn đến nơi đây chờ Vương gia ngươi tra hỏi, không biết vì cái gì hắn hôm nay không . Ta vừa rồi phái người đi điện lực trong phòng thí nghiệm cũng không tìm được hắn. Trong nhà đi tìm, cũng không có người."
+
+Công ty điện lực tổng quản đứng ra nói ra: "Vương gia, này tham số ta biết. Này phát điện bằng sức nước cơ tại đập chứa nước phía dưới có hai đài. Chúng ta ở đây một đài, phía tây còn có một đài. Mỗi đài đều là ba ngàn kilowatt, hai đài thuỷ điện cơ hội tính toán là bốn ngàn kilowatt."
+
+Ồ
+
+Nguyên lai chỉ có sáu ngàn kilowatt, cái số này ngược lại để Lý Thực có chút thất vọng.
+
+Lý Thực lúc trước thiết kế cái này đập nước, thiết kế cài máy dung lượng tối thiểu là một vạn kilowatt.
+
+Lý Thực ở trong lòng tính một cái, dùng từng gia đình dùng điện cao phong thời điểm sử dụng ba ngọn đèn đèn chân không là tiêu chuẩn lời nói, cái này trạm thuỷ điện chỉ có thể thỏa mãn mười lăm vạn người dùng điện nhu cầu.
+
+Đây là tất cả gia đình đều chỉ sử dụng đèn điện, không có mặt khác đồ điện điều kiện tiên quyết. Về sau theo đủ loại đồ điện phát minh cùng phổ cập, dùng lượng điện sẽ thẳng tắp dâng lên. Nếu như chỉ sử dụng dạng này nhỏ máy phát điện, không biết muốn xây nhiều ít cái trạm phát điện.
+
+Lý Thực nhẹ gật đầu, nói ra: "Đến cùng chỉ là đài thứ nhất phát điện bằng sức nước cơ." Dừng một chút, hắn còn nói thêm: "Nhưng mà dạng này công suất không thể thỏa mãn chúng ta một trấn 9 tỉnh càng ngày càng to lớn dùng điện nhu cầu. Hiện tại rất nhiều nông thôn bách tính đều khát vọng dùng tới điện a!"
+
+"Khiến cho Trần Nhất Minh cùng điện lực phòng thí nghiệm người thêm chút sức, làm ra càng đại công hơn suất máy phát điện đi ra!"
+
+Công ty điện lực tổng quản nhìn một chút đứng ở một bên Thái Hoài Thủy.
+
+Thái Hoài Thủy vội vàng nói: "Vương gia dạy bảo chính là, ta sẽ thêm phái nhân thủ, tài chính cho điện lực phòng thí nghiệm, để bọn hắn sớm ngày đem máy phát điện công suất tăng gấp đôi."
+
+Lý Thực không còn xoắn xuýt cài máy dung lượng vấn đề, quay đầu nhìn một chút dây điện, hỏi: "Máy biến thế cũng thành lập xong được sao?"
+
+Cao Lập Công tranh thủ thời gian đáp: "Máy biến thế đã thành lập xong được, ta mang Vương gia đi xem."
+
+Tại máy phát điện tổ phía ngoài một cái khác phòng máy bên trong, Lý Thực thấy được to lớn máy biến thế.
+
+Máy biến thế là khoảng cách dài tải điện thiết yếu trang bị.
+
+Bất luận cái gì dẫn điện tài liệu đều là có điện trở, tại dòng điện thông qua thời điểm sẽ sinh ra nhiệt lượng tiêu hao điện năng. Cho dù là dùng ngón tay đầu to dây thừng thép làm tải điện dây điện, khoảng cách lớn cũng sẽ hình thành to lớn điện trở. Nếu như sử dụng máy phát điện phát ra điện áp tải điện, khả năng hơn phân nửa dòng điện cũng sẽ ở truyền thâu trên đường tiêu hao hết.
+
+Căn cứ điện học nguyên lý, đi qua dòng điện điện áp càng cao, dây điện thông qua dây điện sinh ra nhiệt lượng liền sẽ càng nhỏ. Cho nên đối với khoảng cách dài điện lực chuyển vận tới nói, nhất định là sử dụng cao áp tải điện.
+
+Muốn đem áp lực thấp điện lực biến thành điện cao thế, này liền cần máy biến thế.
+
+Máy biến thế là lợi dụng cảm ứng điện từ nguyên lý tới cải biến điện xoay chiều ép trang bị, chủ yếu cấu kiện là cuộn dây cảm ứng, cuộn dây thứ cấp cùng sắt tâm. Nói đơn giản đến, liền là tại một cái vòng sắt hai đầu quấn quanh hai bộ cách biệt điện vòng, làm cuộn dây cảm ứng mang dòng điện sau khi tiến vào, vờn quanh sắt tâm dây điện lại ở sắt tâm bên trong sinh ra biến từ thông báo. Loại này điện học hiện tượng sẽ dẫn đến cảm ứng điện từ, khiến cho tại vờn quanh sắt tâm cuộn dây thứ cấp bên trong cũng sinh ra dòng điện.
+
+Mà cuộn dây thứ cấp mang phát ra điện áp lớn nhỏ, lại là cùng cuộn dây thứ cấp số vòng thành đang tương quan. Số vòng càng nhiều, phát ra điện áp liền càng cao.
+
+Lợi dụng cái này điện từ hiện tượng, đời sau nhà khoa học tại thế kỷ mười chín mạt phát minh máy biến thế.
+
+Đương nhiên, muốn sản xuất thực tế có thể dùng máy biến thế, hắn cấu tạo so này nguyên lý phức tạp hơn một chút. Chỉ cần là cỡ lớn máy biến thế liền sẽ không thể tránh khỏi tồn tại đồng tổn hại, sắt tổn hại cùng lỗ hổng từ các loại, lúc này đều sẽ dẫn đến điện năng tiêu hao cùng chảy mất. Vì giảm xuống những này tổn hại lỗ hổng, lại cần trọn vẹn cụ thể ứng đối phương pháp.
+
+Tỉ như máy biến thế sắt tâm không thể khiến đơn giản dây sắt, mà là dựa theo Lý Thực thiết kế, từ E hình miếng sắt chồng hợp mà thành. Như thế có thể rất lớn trình độ giảm xuống lỗ hổng từ.
+
+Lý Thực nhìn một chút máy phát điện bên ngoài, đột nhiên nói ra: "Giống như không có đi đến do ta thiết kế điện áp."
+
+Thái Hoài Thủy trên mặt phát lạnh, chắp tay nói ra: "Vương gia hỏa nhãn kim tinh, đây quả thật là không có đi đến Vương gia thiết kế điện áp. Chúng ta tại thực tế kiến thiết bên trong phát hiện sắt tâm phát nhiệt rất nghiêm trọng, dù như thế nào chỉ có thể đi đến năm ngàn ẩn náu điện áp. Lại hướng lên đi, sắt tâm cũng có chút không chịu nổi."
+
+Lý Thực nhẹ gật đầu, nhìn một chút cái kia lặng im nhưng lại năng lượng vô tận máy biến thế, nói ra: " đài thứ nhất máy biến thế có thể làm được năm ngàn ẩn náu đã rất tốt, các ngươi khổ cực."
+
+" cho nên ở Thiên Tân vệ thành máy biến thế cũng đã làm tốt rồi?"
+
+Công ty điện lực tổng quản tranh thủ thời gian đáp: " không sai Vương gia, chúng ta dọc theo quan đạo hai bên tu hai mươi ba dặm cột điện, đem này năm ngàn Vôn điện cao thế thua đưa đến gấp thiếu điện năng Thiên Tân vệ thành.  bây giờ ở Thiên Tân vệ thành góc Tây Bắc máy biến thế đã xây xong, chúng ta điện lưu truyền đến vệ thành về sau, liền từ máy biến thế xuống làm 200 ẩn náu điện dân dụng."
+
+"Thiên Tân vệ thành nội bộ lưới điện đã sớm thành lập xong được. Bởi vì vì Vương gia đối với bóng đèn thu lấy cực kỳ rẻ tiền lắp đặt phí cùng sử dụng phí, không ít gia đình đều sắp xếp gọn bóng đèn chờ lấy trạm phát điện điện. Cho nên năm ngày trước trạm thuỷ điện mạch điện một trận, nửa cái Thiên Tân vệ thành liền sáng lên."
+
+" Vương gia ngươi bây giờ đi quà vặt đường phố dạo chơi, sẽ phát hiện nơi đó đã bị các cửa hàng đèn điện chiếu lên thoải mái. Chào buổi tối nhiều bách tính đều đến đó mua ăn khuya ăn."
+
+Lý Thực nghe nói như thế, hết sức cao hứng, cười ha ha cười.
+
+Có điện, Thiên Tân tự nhiên sẽ càng ngày càng phồn hoa.
+
+Lý Thực đang ở nơi đó tra hỏi, lại nghe được ngoài cửa sổ truyền đến một hồi tiếng vó ngựa. Điện lực phòng thí nghiệm chuyên gia Trần Nhất Minh hốt hoảng cưỡi ngựa lao đến. Hắn vừa đến trạm thuỷ điện cổng liền lăn xuống ngựa, ngựa cũng không buộc liền vọt vào trạm thuỷ điện.
+
+Lý Thực cười cười, nói ra: " chuyên gia đến rồi!"
+
+Trần Nhất Minh một đầu mồ hôi rịn, bối rối chắp tay nói ra: " Vương gia thứ tội, tại trong đại học làm lỗ hổng từ hiện tượng thí nghiệm, không cẩn thận liền sai chẳng qua thời gian, khiến cho Vương gia đợi lâu."
+
+Lý Thực hỏi: " Trần Nhất Minh, ngươi bây giờ là chúng ta Phạm gia trang hàng thứ nhất điện lực chuyên gia, ngươi nói xem, này trạm thuỷ điện máy phát điện đội bay dung lượng tăng gấp đôi muốn mấy năm? Máy biến thế điện áp trở mình một phen lại phải mấy năm?"
+
+Trần Nhất Minh đứng nghiêm, lớn tiếng nói: " hồi trở lại Vương gia, chỉ cần thời gian một năm, Vương gia yêu cầu công quan hạng mục đều có thể hoàn thành."
+
+Lý Thực nghe nói như thế cười cười, rất hài lòng, quyết định không trừng phạt đến trễ Trần Nhất Minh.
+
+" Trần Nhất Minh, ngươi nhưng muốn nói lời giữ lời. Nếu là đến lúc đó nhiệm vụ kết thúc không thành, ngươi này tổng công trình sư danh hiệu ta cần phải cho người khác."
+
+" Vương gia yên tâm, nhất định hoàn thành công quan!"
+
+✯✯✯✯✯✯✯✯✯✯✯✯✯✯Cầu Vote 9-10 ở cuối chương✯✯✯✯✯✯✯✯✯✯✯✯✯✯.

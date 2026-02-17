@@ -1,0 +1,169 @@
+Chương 78:  đỗ Gall tiên sinh (Canh [3] tìm nguyệt phiếu)
+
+Chương 78:  đỗ Gall tiên sinh (Canh [3] tìm nguyệt phiếu)
+
+Trời mưa suốt cả đêm, đến lúc sáng sớm rốt cục cũng đã ngừng. Cả tòa thành thị bên trong tràn ngập đến từ hải dương ôn nhuận khí tức, mặc dù là cuối mùa thu, thế nhưng tới gần Đại Tây Dương Liverpool còn không có mùa đông khí tức.
+
+Buổi sáng đi làm việc đám người cũng còn mang theo trong người một cây dù, ai biết lúc nào lại sau đó mưa.
+
+Lúc này Anh quốc 3 đảo, chính là mùa mưa, suốt ngày dưới không ngừng đều là rất bình thường.
+
+Ở chỗ này sinh hoạt người hiển nhiên đều đã thành thói quen thời tiết như vậy, chỉ có mới đến người mới sẽ ngạc nhiên phàn nàn Liverpool thời tiết.
+
+xx
+
+Given đỗ Gall tiến vào văn phòng trước đó, trong văn phòng mọi người đang tràn đầy phấn khởi thảo luận ngày hôm qua trận kia cùng thành phố Debby, nhưng khi hắn xuất hiện về sau, hết thảy tiếng thảo luận lại đều biến mất.
+
+Mọi người thậm chí đều không dám nhìn tới hóa.
+
+Hắn là cái này trong văn phòng tư cách nhất lão nhân, đồng thời hắn cũng là một tên đáng tin Everton bóng mê. Mà hắn chỗ đảm nhiệm chức vụ 《 Liverpool Les Échos 》 bên trong thì Liverpool bóng mê chiếm đa số, liền lấy "Thị dân phục vụ" cái này bản khối văn phòng tới nêu ví dụ đi, toà này trong văn phòng, chỉ có hắn một cái Everton bóng mê.
+
+Đỗ Gall tựa hồ không có chú ý tới các đồng nghiệp sự biến hóa này, hắn rất bình tĩnh cùng mọi người lên tiếng chào, cởi áo khoác treo ở mũ áo trên kệ, liền ngồi ở chính mình trước máy vi tính.
+
+Hắn là 《 Liverpool Les Échos 》 một cái chuyên môn vì thị dân phục vụ bản khối biên tập.
+
+Mỗi ngày đều sẽ tiếp vào rất nhiều thư tín, điện tử na kiện, điện thoại, đều là đám dân thành thị hi vọng tại trên báo chí tuyên bố đủ loại thông báo cùng tin tức. Tỉ như vật bị mất mời nhận, tỉ như thông báo tìm người, tỉ như tuyên bố, tỉ như thông cáo. . .
+
+Given đỗ Gall liền chuyên môn phụ trách xử lý những yêu cầu này, cũng không phải nói yêu cầu gì bọn hắn đều sẽ đăng tại trên báo chí, cần thông qua sàng chọn.
+
+Mà lại đây là muốn trả tiền.
+
+Báo chí cũng không phải cơ quan từ thiện.
+
+Đỗ Gall biểu hiện được bình tĩnh như thế không phải là bởi vì hắn thật không nghe thấy những người khác nghị luận, mà là hắn đã thành thói quen.
+
+Dùng thời gian ba năm, hắn đã để chính mình học xong bình tĩnh tiếp nhận thua trận cùng thành phố Debby. Everton xuất hiện tại đối mặt Liverpool xác thực không chiếm được lợi lộc gì, nghĩ rõ ràng điểm này, cũng không có cái gì tốt oán giận. Liverpool thực lực càng cường đại, cái này là chuyện đương nhiên kết quả.
+
+Mặc dù trong lòng của hắn kỳ thật rất thống khổ.
+
+Muốn để cho mình quên thất bại thống khổ, biện pháp tốt nhất liền là nghiệp vụ.
+
+Không nhìn tới hôm nay được tin tức, hắn bật máy tính lên về sau, liền vùi đầu bắt đầu nghiệp vụ.
+
+Đỗ Gall đến, cũng tuyên bố trong văn phòng có quan hệ tối hôm qua trận đấu kia thảo luận đến đây kết thúc.
+
+Đỗ Gall là trong văn phòng tư cách nhất lão nhân, dứt bỏ hai chi đội bóng cừu hận nguyên nhân, đỗ Gall vẫn là một cái người rất tốt, hắn vô cùng nhiệt tâm đây có lẽ là làm một cái vì thị dân phục vụ bản khối người phụ trách thiết yếu tố chất.
+
+Nhiệt tâm người tốt, trong phòng làm việc nhân duyên tự nhiên cũng rất tốt. Cho nên tất cả mọi người vô cùng thức thời, sẽ không ở ngay trước mặt hắn thảo luận Liverpool thi đấu, nhất là tại cùng thành phố Debby về sau.
+
+Đỗ Gall vừa mới bắt đầu công tác lúc, đi vào cửa một cái lão niên nam tử, hắn sau khi vào cửa thần sắc uể oải, sau đó hắn đi thẳng tới nhất tới gần cổng một cái bàn đằng trước, ngồi đối diện tại sau cái bàn mặt báo xã nhân viên công tác nói ra: "Ta muốn đăng tìm vật thông báo "
+
+Sau cái bàn người trẻ tuổi nhẹ gật đầu, bắt đầu móc ra giấy bút chuẩn bị ghi chép: "Được rồi, tiên sinh. Xin hỏi ngươi cần mời nhận chính là một cái thứ gì đâu này?" Không có nghĩ đến cái này đơn giản vấn đề lại đâm kích đến lão tiên sinh kia, tâm tình của hắn chợt trở nên kích động, sắc mặt ửng hồng, há miệng liền hãm không được, thao thao bất tuyệt thế nhưng nói năng lộn xộn giảng thuật lên, đồng thời còn không ngừng vẫy tay.
+
+"Đúng, đúng bóng phiếu là bóng phiếu! Là xòe ra bóng phiếu! Ta làm mất rồi nó ta không biết là lúc nào, ở đâu vứt bỏ, dù sao làm ta khi về đến nhà, ta phát hiện ta mặc kệ ở đâu cũng không tìm tới nó, ta tìm không thấy nó tấm kia bóng phiếu với ta mà nói rất trọng yếu!
+
+Phi thường trọng yếu! Mất đi nó chúng ta vô cùng đau lòng ta hôm qua, ta đêm qua thậm chí đi ngủ đều ngủ không được ngon giấc. . . Ta hôm nay vừa đến đã sớm tới, ta hi vọng có thể đạt được trợ giúp của các ngươi. . . Ta. . . Ta. . ."
+
+Người trẻ tuổi nghe lông mày đều nhíu lại, vẫn là không có cách nào nghe rõ cái lão tiên sinh này nói lời. Hắn chỉ biết là vị lão tiên sinh này mất đi xòe ra bóng phiếu, thế nhưng là xòe ra bóng phiếu mà thôi nha, có trọng yếu như vậy sao? Hắn đương nhiên rõ đêm qua có một trận Liverpool cùng thành phố Debby, đó là hôm nay bản địa truyền thông tiêu điểm sự kiện.
+
+Coi như lại thế nào tiêu điểm, trận đấu này bóng phiếu cũng không phải cái gì hiếm có đồ vật, không có được bất luận cái gì kỷ niệm ý nghĩa.
+
+Hắn không rõ vì cái gì lão tiên sinh coi trọng như thế tấm này bóng phiếu?
+
+Phải biết có rất nhiều người thế nhưng là tại thi đấu tiến hành lúc liền đã đem bóng phiếu xé nát cho hả giận.
+
+Không lẽ nào vị lão tiên sinh này là Liverpool bóng mê?
+
+Cái kia cũng không cần thiết a, Liverpool đã bốn quả mùa giải không có bại đã cho Everton. Cái này xòe ra bóng phiếu lại có cái gì đặc thù ý nghĩa sao?
+
+Lão tiên sinh vẫn ở nơi đó thao thao bất tuyệt, khoa tay múa chân nói, bất quá cũng y nguyên nói năng lộn xộn.
+
+Thanh âm của hắn còn dần dần biến lớn lên.
+
+Rất nhanh hắn liền hấp dẫn toàn bộ văn phòng chú ý.
+
+Đỗ Gall cũng bị làm cho yến tại không cách nào làm việc đi xuống, hắn đứng lên, thăm dò nhìn về phía cổng: "Hiz, ngươi bên kia là chuyện gì xảy ra?"
+
+Bị gọi là "Hiz" người trẻ tuổi chỉ lão tiên sinh đối đỗ Gall nói: "Ách, đỗ Gall tiên sinh. Vị lão tiên sinh này nói hắn mất đi xòe ra bóng phiếu, hắn muốn đăng tìm vật thông báo "
+
+Lúc nói lời này, Hiz biểu hiện trên mặt hết sức cổ quái. Hắn cảm thấy vị lão tiên sinh này hẳn là một cái Liverpool bóng mê, không biết khiến cho đỗ Gall tiên sinh rõ thân phận của hắn về sau, ở cái này mẫn cảm thời khắc, sẽ có kết quả gì. . .
+
+Thế nhưng đỗ Gall trực tiếp từ chỗ ngồi của mình bên trong lượn quanh đi ra, đi tới lão tiên sinh trước mặt, trước đưa tay vỗ vỗ bờ vai của hắn, làm trấn an hình.
+
+Sau đó lôi kéo vị lão tiên sinh này đi ra văn phòng, bên ngoài phòng làm việc mặt có một cái rất nhỏ phòng nghỉ. Là cung cấp những cái kia tới làm việc đám dân thành thị nghỉ ngơi chỗ, có một loạt ghế sô pha cùng một cái bàn trà, ngoài ra còn có mấy cái ghế.
+
+Đỗ Gall khiến cho lão tiên sinh ngồi ở trên ghế sa lon hắn dời cái ghế ngồi tại lão tiên sinh đối diện.
+
+Mang trên mặt mỉm cười thân thiện, trước trấn an lão tiên sinh cảm xúc: "Đừng có gấp, vị tiên sinh này. Có chuyện gì ngươi có thể từ từ nói."
+
+xxx
+
+Trong phòng làm việc, đóng cửa lại đến, tất cả mọi người tại tán thưởng đỗ Gall nhiệt tâm.
+
+"Đỗ Gall tiên sinh luôn luôn nhiệt tâm như vậy. . ."
+
+"Người tốt a! Người tốt! Nhưng vì cái gì liền là một cái Everton bóng mê đâu này?" "Xuỵt. . . Cẩn thận đừng để hóa nghe được!"
+
+xxx
+
+Đỗ Gall cũng không biết trong phòng làm việc, đồng nghiệp của mình là thế nào đánh giá chính mình, hắn đang đang an ủi bị mất bóng phiếu Samuel lặng yên tỳ lão tiên sinh.
+
+Hắn còn không có hỏi mất đi cụ thể là cái gì bóng phiếu, cái này không trọng yếu. Trọng yếu là trước hết để cho người mất cảm xúc tỉnh táo lại, hắn mới có thể một lần nữa tổ chức tiếng nói của chính mình, bằng không căn bản nói không rõ ràng.
+
+Tại hắn không ngừng an ủi dưới lặng yên tỳ tiên sinh cảm xúc rốt cục bình phục xuống tới.
+
+Hắn rốt cục có thể bắt đầu hướng về đỗ Gall kỹ càng giảng thuật phát sinh hôm qua hết thảy.
+
+"Đêm qua ta đi xem Liverpool cùng Everton thi đấu "
+
+Nếu là có đỗ Gall đồng thời tại hiện trường, khẳng định sẽ vì lặng yên tỳ câu nói này thấy lo lắng.
+
+Ngươi đây không phải đâm kích đỗ Gall tiên sinh sao? Nếu như hắn tức giận, không giúp ngươi xử lý, nhìn ngươi làm sao bây giờ!
+
+Nhưng trên thực tế đỗ Gall trên mặt không có có bất kỳ biểu tình biến hóa gì, thật giống như Everton cùng Liverpool thi đấu căn bản cùng hắn không có quan hệ như thế.
+
+Hắn chỉ là nghiêm túc lắng nghe vị lão tiên sinh này tiếp tục nói.
+
+Kỳ thật liền là vị này Liverpool bóng mê lặng yên tỳ tiên sinh hôm qua đi xem Everton sân nhà nghênh chiến Liverpool cùng thành phố Debby, sau đó vứt bỏ chính mình xòe ra bóng phiếu, với hắn mà nói tấm này bóng phiếu vô cùng trân quý, hắn không biết là lúc nào vứt bỏ  chờ hắn về đến trong nhà thời điểm, hắn mới phát hiện trên người không có tấm này bóng phiếu. Hắn lúc ấy liền lập tức trở về Goodison Park sân bóng tìm được còn chưa kịp tan tầm sân bóng nhân viên quản lý, hỏi thăm có quan hệ tấm kia bóng phiếu rơi xuống.
+
+Thế nhưng sân bóng nhân viên quản lý nói cho hắn biết, không có một cái nào công nhân vệ sinh người hoặc là những người khác lại đưa tới xòe ra hắn nói tới bóng phiếu.
+
+Thất vọng sau khi hắn về đến trong nhà, trằn trọc, không cách nào chìm vào giấc ngủ. Cho nên sáng sớm hôm nay, trời còn chưa sáng đâu, hắn liền bò lên, sau đó tại báo xã lúc làm việc liền chạy tới đăng tìm vật thông báo, hi vọng có người hảo tâm nhặt được về sau, có thể đưa tới cho hắn hắn nguyện ý trọng kim tạ ơn!
+
+Đỗ Gall kiên nhẫn nghe xong chuyện này, thế nhưng trong lòng có của hắn vô cùng nồng nghi vấn hắn thật sự là không làm rõ ràng được có cái gì bóng phiếu có thể cho vị lão tiên sinh này coi trọng như vậy.
+
+"Mạo muội hỏi một chút, lặng yên tỳ tiên sinh. Xin hỏi tấm kia bóng phiếu đối với ngươi mà nói thật trọng yếu như vậy sao?" Samuel lặng yên tỳ hết sức kích động gật đầu nói: "Đúng! Vô cùng vô cùng vô cùng trọng yếu! Bởi vì tấm kia bóng phiếu là con của ta di vật! ' nghe đến đó, đỗ Gall thần sắc ngưng trọng lên. Nếu là di vật, vậy chính là có kỷ niệm ý nghĩa đồ vật, như vậy vị lão tiên sinh này coi trọng như thế, tự nhiên là rất bình thường.
+
+Hắn kéo lặng yên tỳ tiên sinh đẩy ra cửa ban công.
+
+"Ta giúp ngươi trèo lên cái này tìm vật thông báo."
+
+Hắn nói ra.
+
+"Cám ơn ngươi, đỗ Gall tiên sinh, ngươi thật sự là một người tốt" lặng yên tỳ đi theo đỗ Gall cùng đi tiến đến, còn luôn miệng nói tạ.
+
+Mọi người thấy đỗ Gall đem chuyện này tiếp tới, đều cúi đầu nên làm cái gì làm cái gì. Chuyện như vậy nói thật, gần như mỗi ngày đều lại ở phòng làm việc của bọn hắn bên trong trình diễn, mọi người đều quen thuộc.
+
+xxx
+
+Đỗ Gall đem lặng yên tỳ tiên sinh dẫn tới bàn làm việc của mình trước, ra hiệu hắn ngồi ở bên cạnh, chính mình thì bật máy tính lên, chuẩn bị ghi chép chuyện này.
+
+Hắn một bên gõ lấy bàn phím vừa nói: "Chúng ta cần kỹ càng miêu tả ra cái này là thế nào xòe ra bóng phiếu, cho nên lặng yên tỳ tiên sinh, ngài có thể nói cho ta biết đó là như thế nào xòe ra bóng phiếu a? Tỉ như sắc mặt, lớn nhỏ, đương nhiên trọng yếu nhất chính là nội dung cụ thể đây là đâu một trận đấu? Thời gian... . . ." Hắn lời nói còn chưa lên tiếng, liền nghe đến lặng yên tỳ tiên sinh đỉnh run lấy thanh âm nói: "Đúng đúng 1 nuốt năm ngày mười lăm tháng tư, Liverpool, Liverpool cùng Nottingham Forest trận đấu kia bóng phiếu... . . ." Đánh bàn phím thanh âm hơi ngừng.
+
+Toàn bộ văn phòng chợt đều lâm vào một hồi yên tĩnh.
+
+Đỗ Gall tiên sinh ngẩng đầu lên nhìn cái này vị này bởi vì bị khơi gợi lên ngày xưa hồi ức mà cảm xúc trở nên kích động lên lão tiên sinh.
+
+Miệng của hắn c hồn tại khẽ run, lại không phát ra được một cái âm tiết.
+
+Đỗ Gall một lần nữa cúi đầu, nhanh chóng đánh khởi bàn phím tới.
+
+Toàn bộ trong văn phòng cũng chỉ có hắn đánh bàn phím thanh âm, không có người nói thêm câu nào.
+
+Thế nhưng những Liverpool đó bóng mê nhóm nhìn về phía lặng yên tỳ ánh mắt đều đã không đồng dạng, thậm chí còn có người lần thứ nhất đối đỗ Gall tiên sinh cách làm không hài lòng lắm ~
+
+Loại thời điểm này nếu như một cái chân chính Liverpool bóng mê, chẳng lẽ không phải hẳn là đứng dậy ôm lấy lặng yên tỳ tiên sinh, an ủi hắn sao?
+
+Quả nhiên là Everton bóng mê
+
+. . .
+
+Ta nói, ngươi đội bóng bại bởi chúng ta, ngươi cũng không cần đem khí rút lui ở chỗ này a?
+
+Liền trong lòng bọn họ oán thầm cấp trên của mình, đồng thời nghĩ muốn lên tiếng an ủi lặng yên tỳ thời điểm, đỗ Gall bàn phím tiếng đánh lại ngừng lại.
+
+Hắn đem chuyện này ghi lại ở sách về sau, đứng lên, vẻ mặt thành thật đối lặng yên tỳ tiên sinh nói: "Ngài yên tâm, lặng yên tỳ tiên sinh. Ta thề nhất định sẽ đem tấm này bóng phiếu cho ngài tìm trở về!
+
+Hiện tại, ta dẫn ngươi đi tìm Chris mong tư khang so tiên sinh." ! .
+
+✯✯✯✯✯✯✯✯✯✯✯✯✯✯Cầu Vote 9-10 ở cuối chương✯✯✯✯✯✯✯✯✯✯✯✯✯✯.

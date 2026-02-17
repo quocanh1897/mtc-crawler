@@ -90,3 +90,12 @@ output/{book_id}/
 - **Proxy**: mitmproxy on `:8083` (reflutter default, emulator → `10.0.2.2:8083`)
 - **Launch**: `~/Library/Android/sdk/emulator/emulator -avd Medium_Phone_API_36.1`
 - **DB extraction**: `adb shell "run-as com.novelfever.app.android.debug cat databases/app_database.db"`
+
+## Platform Compatibility
+
+**Currently macOS-only.** See `WINDOWS_MIGRATION.md` for the plan to add Windows 11 support. Key blockers:
+- Hardcoded macOS ADB/SDK paths
+- `/tmp/` temp directory (Unix-only)
+- `multiprocessing.get_context('fork')` (not available on Windows)
+- `sips` image tool (macOS-only)
+- `start_emulators.sh` (Bash script)
