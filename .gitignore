@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# APKs and binaries (decompiled APKs, keystores, patched builds)
+apk/
+
+# Crawler output (large extracted text files)
+crawler/output/
+
+# Temp databases
+*.db
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Claude
+.claude/
+
+# macOS
+.DS_Store
