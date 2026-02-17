@@ -1,0 +1,76 @@
+{
+  "id": 101374,
+  "name": "Pokemon Chi Bất Tử Điểu",
+  "slug": "pokemon-chi-bat-tu-dieu",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/pokemon-chi-bat-tu-dieu",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11470652,
+  "latest_chapter": 11471229,
+  "latest_index": 579,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/pokemon-chi-bat-tu-dieu/default.jpg?1585206118",
+    "600": "https://static.cdnno.com/poster/pokemon-chi-bat-tu-dieu/600.jpg?1585206118",
+    "300": "https://static.cdnno.com/poster/pokemon-chi-bat-tu-dieu/300.jpg?1585206118",
+    "150": "https://static.cdnno.com/poster/pokemon-chi-bat-tu-dieu/150.jpg?1585206118"
+  },
+  "synopsis": "【  Phi lô mạng tiếng Trung cấp A ký kết tác phẩm: Pokemon chi Bất Tử điểu 】 Pokemon kết thúc, Siêu Thần kết thúc, Digimon kết thúc, Hokage kết thúc. \n\n\"Muốn trở thành Lăng thị tập đoàn dưới cờ khách sạn sản nghiệp chủ bếp, vậy liền để ta xem các ngươi bản sự đi, như là không thể để cho ta hài lòng, như vậy các ngươi đầu bếp kiếp sống cũng liền mang ý nghĩa kết thúc.\" Ngay trước Viễn Nguyệt học viên hết thảy học sinh trước mặt, Ryo ngữ khí lười biếng nói ra. \n\n  Truyện full, có txt, giới thiệu hình như ở Vua Bếp Soma, còn siêu thần là thế giới gì chưa biết, cvt tới sẽ biết.",
+  "vote_count": 7,
+  "review_score": "4.474",
+  "review_count": 3,
+  "comment_count": 5,
+  "chapter_count": 578,
+  "view_count": 0,
+  "word_count": 1459241,
+  "created_at": "2020-03-26T07:01:58.000000Z",
+  "updated_at": "2026-02-16T13:44:50.000000Z",
+  "new_chap_at": "2017-12-15T19:00:24.000000Z",
+  "published_at": "2020-03-26T07:01:58.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Pokemon Chi Bất Tử Điểu",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 139,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 153,
+    "name": "Tiểu Thanh Tiêu",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 7,
+      "name": "Đồng Nhân",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

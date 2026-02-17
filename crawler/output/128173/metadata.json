@@ -1,0 +1,102 @@
+{
+  "id": 128173,
+  "name": "Tinh Không Chức Nghiệp Giả",
+  "slug": "tinh-khong-chuc-nghiep-gia",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/tinh-khong-chuc-nghiep-gia",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 18409383,
+  "latest_chapter": 21948558,
+  "latest_index": 727,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tinh-khong-chuc-nghiep-gia/default.jpg?1720839023",
+    "600": "https://static.cdnno.com/poster/tinh-khong-chuc-nghiep-gia/600.jpg?1720839023",
+    "300": "https://static.cdnno.com/poster/tinh-khong-chuc-nghiep-gia/300.jpg?1720839023",
+    "150": "https://static.cdnno.com/poster/tinh-khong-chuc-nghiep-gia/150.jpg?1720839023"
+  },
+  "synopsis": "Tinh không lịch nguyên niên, nhân loại tiến vào thời đại vũ trụ, tinh tế di dân, phi thuyền vũ trụ, ngoài hành tinh quyến tộc, vực ngoại Tà Thần. . . Theo nhau mà tới\n\n\tTinh không lịch 717 năm, Phương Tinh nhìn vũ trụ bối cảnh phía dưới, lít nha lít nhít đại quân dị tộc, biểu thị cái gì đại quân dị tộc, cái gì Tu Tiên giả, cái gì xúc tu, cái gì Mật Giáo, cái gì Tà Thần, đều muốn bị ta vô thượng thiên phú chấn nhiếp, dùng thiết quyền hết thảy đánh nổ a khẩu hồ. . .\n\n\tĐược a, đây thật ra là một cái người xuyên việt, dựa vào chức nghiệp giả bảng, tại rất nhiều dị giới muốn làm gì thì làm chuyện xưa. . .",
+  "vote_count": 901,
+  "review_score": "4.889",
+  "review_count": 18,
+  "comment_count": 305,
+  "chapter_count": 726,
+  "view_count": 0,
+  "word_count": 1985480,
+  "created_at": "2024-06-09T13:24:30.000000Z",
+  "updated_at": "2026-02-17T04:36:13.000000Z",
+  "new_chap_at": "2025-03-24T01:43:27.000000Z",
+  "published_at": "2024-06-09T13:24:30.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Tinh Không Chức Nghiệp Giả",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1728,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 914,
+    "name": "Văn Sao Công",
+    "avatar": null,
+    "local_name": "文抄公",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    },
+    {
+      "id": 14,
+      "name": "Cao Võ Thế Giới",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

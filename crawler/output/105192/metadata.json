@@ -1,0 +1,83 @@
+{
+  "id": 105192,
+  "name": "Ta Theo Cấm Địa Tới",
+  "slug": "ta-theo-cam-dia-toi",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ta-theo-cam-dia-toi",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13030422,
+  "latest_chapter": 13503349,
+  "latest_index": 453,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-theo-cam-dia-toi/default.jpg?1600221567",
+    "600": "https://static.cdnno.com/poster/ta-theo-cam-dia-toi/600.jpg?1600221567",
+    "300": "https://static.cdnno.com/poster/ta-theo-cam-dia-toi/300.jpg?1600221567",
+    "150": "https://static.cdnno.com/poster/ta-theo-cam-dia-toi/150.jpg?1600221567"
+  },
+  "synopsis": "【 \"2020 huyền huyễn vương\" chủ đề yêu cầu viết bài 】 dự thi tác phẩm .\n\n\tXuyên qua mà đến Cố Trường Thiên tỉnh, lại bị kẹt ở một cái tối tăm không mặt trời địa phương.\n\n\tPhát hiện nơi này là Tu Tiên giới, nhưng không có hệ thống, cũng không thể tu luyện hắn. . . Bỗng nhiên rất tưởng niệm quê quán.\n\n\tBị vây không biết bao nhiêu năm, Cố Trường Thiên cuối cùng ra tới.\n\n\tHắn dần dần phát hiện, cái thế giới này tu sĩ đều rất nhiệt tình hiền hoà, đối với hắn cũng mười phần lễ phép khách khí, khiến cho hắn có chút thụ sủng nhược kinh.\n\n\tChẳng qua là hắn không biết. . .\n\n\tNếm qua hắn đồ ăn mỹ lệ tiên tử, theo bên trong minh ngộ Đại Đạo, đột phá cảnh giới.",
+  "vote_count": 266,
+  "review_score": "5.000",
+  "review_count": 9,
+  "comment_count": 76,
+  "chapter_count": 453,
+  "view_count": 0,
+  "word_count": 1251646,
+  "created_at": "2020-09-16T01:59:30.000000Z",
+  "updated_at": "2026-02-16T13:39:16.000000Z",
+  "new_chap_at": "2021-03-26T14:29:02.000000Z",
+  "published_at": "2020-09-16T01:59:27.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Theo Cấm Địa Tới",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 880,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3806,
+    "name": "Đại Quất Bá",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 5,
+      "name": "Nhẹ Nhàng",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}

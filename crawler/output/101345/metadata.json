@@ -1,0 +1,76 @@
+{
+  "id": 101345,
+  "name": "Đại Tống Tướng Môn",
+  "slug": "dai-tong-tuong-mon",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/dai-tong-tuong-mon",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11448976,
+  "latest_chapter": 11450125,
+  "latest_index": 1150,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/dai-tong-tuong-mon/default.jpg?1585206103",
+    "600": "https://static.cdnno.com/poster/dai-tong-tuong-mon/600.jpg?1585206103",
+    "300": "https://static.cdnno.com/poster/dai-tong-tuong-mon/300.jpg?1585206103",
+    "150": "https://static.cdnno.com/poster/dai-tong-tuong-mon/150.jpg?1585206103"
+  },
+  "synopsis": "C&agrave;nh liễu hiểu lời của gi&oacute;, trăng t&agrave;n kh&uacute;c thanh ca, trăm năm th&aacute;i b&igrave;nh, phồn vinh Đại Tống.\n\nNơi n&agrave;y c&oacute; minh qu&acirc;n, c&oacute; hiền thần, của nhiều d&acirc;n gi&agrave;u, an cư lạc nghiệp, chỉ có thiếu một phần vũ dũng, hai phần ki&ecirc;n cường, ba phần hi sinh, bốn phần m&atilde;nh sĩ cầm gươm, v&igrave; nhiều hơn nữa chịu kh&oacute; n&ocirc;ng phu, tinh xảo thợ thủ c&ocirc;ng, cũng bất qu&aacute; may &aacute;o cưới cho người.\n\nLuyến tiếc ở gọi, c&oacute; Quốc sao c&oacute; thể kh&ocirc;ng ph&ograve;ng!\n\nVăn kh&ocirc;ng cao qu&yacute;, vũ kh&ocirc;ng ti tiện. Kẻ th&ugrave; b&ecirc;n ngo&agrave;i dễ trừ, b&ecirc;n trong quỷ kh&oacute; thắng.\n\nTrong l&uacute;c lơ đ&atilde;ng thuyền nhỏ đ&atilde; qua, vạn tầng n&uacute;i cao, hiển h&aacute;ch tướng m&ocirc;n, cuối c&ugrave;ng cũng c&oacute; l&uacute;c t&aacute;i hưng!\n\nT&aacute;c giả định nghĩa nội dung:  H&agrave;o m&ocirc;n cơ tr&iacute; l&agrave;m ruộng đồng kiếm tiền",
+  "vote_count": 4,
+  "review_score": "4.405",
+  "review_count": 2,
+  "comment_count": 9,
+  "chapter_count": 1150,
+  "view_count": 0,
+  "word_count": 4556372,
+  "created_at": "2020-03-26T07:01:43.000000Z",
+  "updated_at": "2026-02-16T13:42:24.000000Z",
+  "new_chap_at": "2018-03-06T09:00:27.000000Z",
+  "published_at": "2020-03-26T07:01:43.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Đại Tống Tướng Môn",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 78,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1163,
+    "name": "Thanh Sử Tẫn Thành Hôi",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 8,
+      "name": "Dã Sử",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

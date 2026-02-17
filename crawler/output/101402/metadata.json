@@ -1,0 +1,77 @@
+{
+  "id": 101402,
+  "name": "Vấn Đạo Chương",
+  "slug": "van-dao-chuong",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/van-dao-chuong",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 12289414,
+  "latest_chapter": 12289744,
+  "latest_index": 332,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/van-dao-chuong/default.jpg?1585206131",
+    "600": "https://static.cdnno.com/poster/van-dao-chuong/600.jpg?1585206131",
+    "300": "https://static.cdnno.com/poster/van-dao-chuong/300.jpg?1585206131",
+    "150": "https://static.cdnno.com/poster/van-dao-chuong/150.jpg?1585206131"
+  },
+  "synopsis": "Xuyên qua thêm trùng sinh, đầy đủ nhân vật chính mệnh?\n\nKhắc Dấu sư chi đạo, nạp thiên địa tại phương thốn tấc lòng, chế đạo văn tại trong lòng bàn tay!\n\nLại xem thiếu niên Đoàn Ngọc sống lại một đời, sẽ qua ra như thế nào đặc sắc?\n\n- Cảnh giới:\n  Trúc Cơ, tam hoa tụ đỉnh, ngũ khí triều nguyên, Nguyên Thần xuất khiếu (Chân nhân), Du Thần ngự khí, hô phong hoán vũ, lôi kiếp bất diệt, thuần dương bất hủ...\n\nVăn Sao Công sách mới, cùng tác: Tiêu Diêu Mộng Lộ, Chủ Thần Quật Khởi, Vu Giới Thuật Sĩ, Võ Lâm Bán Hiệp Truyện...",
+  "vote_count": 20,
+  "review_score": "4.417",
+  "review_count": 2,
+  "comment_count": 4,
+  "chapter_count": 331,
+  "view_count": 0,
+  "word_count": 1328890,
+  "created_at": "2020-03-26T07:02:11.000000Z",
+  "updated_at": "2026-02-16T13:45:56.000000Z",
+  "new_chap_at": "2019-04-09T13:00:12.000000Z",
+  "published_at": "2020-03-26T07:02:11.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Vấn Đạo Chương",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 69,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 914,
+    "name": "Văn Sao Công",
+    "avatar": null,
+    "local_name": "文抄公",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

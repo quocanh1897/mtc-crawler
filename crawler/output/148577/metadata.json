@@ -1,0 +1,102 @@
+{
+  "id": 148577,
+  "name": "Theo Môn Phái Võ Lâm Đến Trường Sinh Tiên Môn",
+  "slug": "theo-mon-phai-vo-lam-den-truong-sinh-tien-mon",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/theo-mon-phai-vo-lam-den-truong-sinh-tien-mon",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 25021010,
+  "latest_chapter": 26888713,
+  "latest_index": 335,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/theo-mon-phai-vo-lam-den-truong-sinh-tien-mon/default.jpg?1763006534",
+    "600": "https://static.cdnno.com/poster/theo-mon-phai-vo-lam-den-truong-sinh-tien-mon/600.jpg?1763006534",
+    "300": "https://static.cdnno.com/poster/theo-mon-phai-vo-lam-den-truong-sinh-tien-mon/300.jpg?1763006534",
+    "150": "https://static.cdnno.com/poster/theo-mon-phai-vo-lam-den-truong-sinh-tien-mon/150.jpg?1763006534"
+  },
+  "synopsis": "\"Kể từ hôm nay, ngươi chính là Thanh Tiêu Môn môn chủ!\"\n\n\tSư phụ lưu lại câu nói này về sau, liền vứt bỏ Lý Thanh Thu cùng sư đệ, các sư muội xuống núi, một mình tầm tiên đi.\n\n\tCũng chính là một ngày này, Lý Thanh Thu mở ra đạo thống truyền thừa, hắn có khả năng thông qua đạo thống bảng xem xét đệ tử độ trung thành, tư chất, mệnh cách, làm Thanh Tiêu Môn phát triển mỗi bên trên một bậc thang lúc, hắn còn có thể phục chế trong môn đệ tử mệnh cách.\n\n\tTheo võ lâm khởi thế, tại trong hồng trần tu tiên.\n\n\tGiang hồ bãi cỏ hoang như cá diếc sang sông, khoái ý ân cừu, miếu đường quyền quý cầu mãi Tiên đạo, xem mạng người như cỏ rác, đang rung chuyển tuế nguyệt bên trong, Lý Thanh Thu dẫn đầu Thanh Tiêu Môn từng bước một trèo lên trên, siêu thoát thế tục.\n\n\tChư thiên Tu Tiên giới, đạo thống san sát, muôn vàn Đạo Môn tranh thượng lưu, Thanh Tiêu Môn theo phàm trần tới, trở thành thương sinh trong lòng trường sinh Tiên môn.\n\n\tTu Tiên giới chỉ biết Lý Thanh Thu có biết người chi năng, tổng có thể nuôi dưỡng được nhiều đời thiên kiêu vì Thanh Tiêu Môn tranh đoạt khí vận, thật tình không biết có được 【  Bất Diệt Phách Thể 】, 【  Liệt Dương Đạo Tâm 】, 【  Huyền Chiến Thần Phách 】, 【  Tự Tại Ngự Linh 】, 【  Thái Thượng Ngũ Linh Căn 】 rất nhiều mệnh cách Lý Thanh Thu mới là Thanh Tiêu Tiên Môn nhân vật khủng bố nhất.\n\n\tTuế nguyệt trường thệ, cố nhân đã thành mây khói, làm Lý Thanh Thu ngồi một mình đạo đài hồi ức trước kia lúc, một tên đệ tử tìm tới cửa.\n\n\t\"Sư phụ, thế nhân đều nói ngài là thế gian duy nhất Trường Sinh giả, chỉ cần luyện hóa ngài thân thể máu thịt, liền có thể trường sinh đắc đạo, không bằng ngài thành toàn ta đi?\"",
+  "vote_count": 8745,
+  "review_score": "4.988",
+  "review_count": 68,
+  "comment_count": 1662,
+  "chapter_count": 335,
+  "view_count": 0,
+  "word_count": 876513,
+  "created_at": "2025-10-09T09:59:43.000000Z",
+  "updated_at": "2026-02-17T16:30:16.000000Z",
+  "new_chap_at": "2026-02-17T01:41:42.000000Z",
+  "published_at": "2025-10-09T09:59:43.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Theo Môn Phái Võ Lâm Đến Trường Sinh Tiên Môn",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2951,
+  "chapter_per_week": 16,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 665,
+    "name": "Nhâm Ngã Tiếu",
+    "avatar": null,
+    "local_name": "任我笑",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

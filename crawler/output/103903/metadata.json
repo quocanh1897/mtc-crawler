@@ -1,0 +1,90 @@
+{
+  "id": 103903,
+  "name": "Kiếm Kiếm Siêu Thần",
+  "slug": "kiem-kiem-sieu-than",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/kiem-kiem-sieu-than",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 12627034,
+  "latest_chapter": 16786962,
+  "latest_index": 1509,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/kiem-kiem-sieu-than/default.jpg?1586962662",
+    "600": "https://static.cdnno.com/poster/kiem-kiem-sieu-than/600.jpg?1586962662",
+    "300": "https://static.cdnno.com/poster/kiem-kiem-sieu-than/300.jpg?1586962662",
+    "150": "https://static.cdnno.com/poster/kiem-kiem-sieu-than/150.jpg?1586962662"
+  },
+  "synopsis": "Thường thường không có gì lạ phổ phổ thông thông bang phái tiểu lâu la Lâm Tiêu bàn tay vàng cuối cùng tới sổ, từ đó rút kiếm hướng đi thế giới.\n\n\tTrước không thấy cổ nhân sau không thấy người đến, niệm thiên địa chi ung dung, duy ta Lâm Tiêu rút kiếm, một kiếm bổ thạch, nhất kiếm trảm thép, nhất kiếm tồi thành, nhất kiếm băng sơn, nhất liệt địa, nhất kiếm phúc hải, nhất kiếm phá thiên, nhất kiếm toái tinh, nhất kiếm sinh tử luân hồi, kiếm kiếm Siêu Thần.\n\nLục Đạo Trầm Luân sách mới, cùng tác Kiếm Đạo Thông Thần, Kiếm Đạo Độc Thần...",
+  "vote_count": 295,
+  "review_score": "4.500",
+  "review_count": 5,
+  "comment_count": 85,
+  "chapter_count": 1506,
+  "view_count": 0,
+  "word_count": 3995420,
+  "created_at": "2020-04-15T14:50:20.000000Z",
+  "updated_at": "2026-02-16T13:38:01.000000Z",
+  "new_chap_at": "2023-09-19T10:38:49.000000Z",
+  "published_at": "2020-04-15T14:50:20.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Kiếm Kiếm Siêu Thần",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 762,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 2340,
+    "name": "Lục Đạo Trầm Luân",
+    "avatar": null,
+    "local_name": "六道沉沦",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

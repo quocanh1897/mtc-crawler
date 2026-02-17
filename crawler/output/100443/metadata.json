@@ -1,0 +1,96 @@
+{
+  "id": 100443,
+  "name": "Võ Ánh Tam Thiên Đạo",
+  "slug": "van-co-de-nhat-con-re",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/van-co-de-nhat-con-re",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 12130058,
+  "latest_chapter": 24484975,
+  "latest_index": 3786,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/van-co-de-nhat-con-re/default.jpg?1585205609",
+    "600": "https://static.cdnno.com/poster/van-co-de-nhat-con-re/600.jpg?1585205609",
+    "300": "https://static.cdnno.com/poster/van-co-de-nhat-con-re/300.jpg?1585205609",
+    "150": "https://static.cdnno.com/poster/van-co-de-nhat-con-re/150.jpg?1585205609"
+  },
+  "synopsis": "Hứa Vô Chu xuyên việt rồi, kinh ngạc hắn phát hiện chính mình thành con rể tới nhà, không chỉ là công nhận phế vật sâu mọt, còn tại đêm tân hôn nằm ở tân nương khuê mật trên giường.\n\nĂn bữa cơm lại ngộ nhập thanh lâu, thanh lãnh thê tử đối với hắn thất vọng cực độ, cha vợ đuổi hắn đi gia tộc Võ Đường , mặc hắn kệ sống kệ chết.\n\nNhưng hắn lại bởi vì xuyên qua, đạt được một cái Luân Hồi Bát rách tung toé cần dựa vào nuốt vạn vật mới có thể chữa trị, mà mỗi chữa trị một vết nứt liền sẽ phản hồi hắn lực lượng. Nuốt\n\nMột khối sắt, thu hoạch được một ngưu chi lực; nuốt một khối bạc, cảnh giới tăng lên một trọng; nuốt một khối vàng, chiến kỹ tu luyện đến đại thành. . . .\n\nThế là, Hứa Vô Chu mở ra hắn phóng đãng không bị trói buộc nhân sinh.\n........\nTên khác: Vạn Cổ Đệ Nhất Tế, Vạn Cổ Đệ Nhất Con Rể",
+  "vote_count": 5577,
+  "review_score": "4.336",
+  "review_count": 40,
+  "comment_count": 1524,
+  "chapter_count": 3744,
+  "view_count": 0,
+  "word_count": 6862587,
+  "created_at": "2020-03-26T06:53:29.000000Z",
+  "updated_at": "2026-02-16T13:53:07.000000Z",
+  "new_chap_at": "2025-09-04T02:27:43.000000Z",
+  "published_at": "2020-03-26T06:53:29.000000Z",
+  "published": 1,
+  "user_id": 1000015,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Võ Ánh Tam Thiên Đạo",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2871,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000015,
+    "name": "DarkHero",
+    "avatar": [
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/200.jpg?1592316927",
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/100.jpg?1592316927",
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/50.jpg?1592316927"
+    ],
+    "level": 4,
+    "exp": 3484,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 365,
+    "name": "Thuần Tình Tê Lợi Ca",
+    "avatar": null,
+    "local_name": "纯情犀利哥",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "Vô Sỉ",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 62,
+      "name": "Vô Địch",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

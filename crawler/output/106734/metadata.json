@@ -1,0 +1,89 @@
+{
+  "id": 106734,
+  "name": "Điệu Thấp Làm Hoàng Đế",
+  "slug": "dieu-thap-lam-hoang-de",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/dieu-thap-lam-hoang-de",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13425840,
+  "latest_chapter": 14317247,
+  "latest_index": 709,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/dieu-thap-lam-hoang-de/default.jpg?1614479338",
+    "600": "https://static.cdnno.com/poster/dieu-thap-lam-hoang-de/600.jpg?1614479338",
+    "300": "https://static.cdnno.com/poster/dieu-thap-lam-hoang-de/300.jpg?1614479338",
+    "150": "https://static.cdnno.com/poster/dieu-thap-lam-hoang-de/150.jpg?1614479338"
+  },
+  "synopsis": "Tam hoàng tử Lý Chính là tiếp thụ qua chủ nghĩa xã hội giáo dục người, cảm thấy có làm hay không hoàng đế cũng không đáng kể. Nhưng là hắn chưa về nhà chồng hoàng phi tựa hồ muốn làm Nữ Đế ! Chờ một chút, nàng muốn làm phản!\n\n\tMột ngày nào đó, làm Tần Lâm Quân muốn làm phản thành công lúc, Lý Chính mang theo Vương Tiễn, Lữ Bố, Lý Quảng, Lý Tư, Quách Gia, Từ Thế Tích. . . Xuất hiện ở trước mặt nàng nói ra:\n\n\t\"Hoàng phi, cớ gì mưu phản!\"",
+  "vote_count": 5217,
+  "review_score": "4.734",
+  "review_count": 72,
+  "comment_count": 1807,
+  "chapter_count": 709,
+  "view_count": 0,
+  "word_count": 1250280,
+  "created_at": "2021-02-28T02:29:00.000000Z",
+  "updated_at": "2026-02-17T08:12:01.000000Z",
+  "new_chap_at": "2021-12-29T01:18:17.000000Z",
+  "published_at": "2021-02-28T02:28:58.000000Z",
+  "published": 1,
+  "user_id": 1000020,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Điệu Thấp Làm Hoàng Đế",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1810,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000020,
+    "name": "Vô Ưu",
+    "avatar": [
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/200.jpg?1635993328",
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/100.jpg?1635993328",
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/50.jpg?1635993328"
+    ],
+    "level": 3,
+    "exp": 1649,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 4397,
+    "name": "Tùy Ngộ Giả",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "Vô Sỉ",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 13,
+      "name": "Vương Triều Tranh Bá",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

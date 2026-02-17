@@ -1,0 +1,76 @@
+{
+  "id": 101371,
+  "name": "Vạn Cổ Đệ Nhất Đế",
+  "slug": "van-co-de-nhat-de",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/van-co-de-nhat-de",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11468534,
+  "latest_chapter": 12869384,
+  "latest_index": 1180,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/van-co-de-nhat-de/default.jpg?1585206116",
+    "600": "https://static.cdnno.com/poster/van-co-de-nhat-de/600.jpg?1585206116",
+    "300": "https://static.cdnno.com/poster/van-co-de-nhat-de/300.jpg?1585206116",
+    "150": "https://static.cdnno.com/poster/van-co-de-nhat-de/150.jpg?1585206116"
+  },
+  "synopsis": "Cửu thiên thập địa, vạn cổ đệ nhất!\n\nMột cái đứng ở chín tầng trời, bễ nghễ chúng sinh nam nhân truyện xưa.\n\nCảnh giới:\n\nLuyện Khí, Trúc Cơ, Thông Huyền, Linh Phôi, Kim Đan, Nguyên Anh, Hóa Thần, Phản Hư, Hợp Đạo, Đại Thừa.\n\nPhàm cảnh, Linh cảnh, Tông cảnh, Thiên Cảnh, Tôn Cảnh, Thánh Cảnh, Đế Cảnh, Tổ Cảnh, Thần Cảnh, Tổ Thần.",
+  "vote_count": 53,
+  "review_score": "4.120",
+  "review_count": 5,
+  "comment_count": 43,
+  "chapter_count": 1179,
+  "view_count": 0,
+  "word_count": 3434402,
+  "created_at": "2020-03-26T07:01:56.000000Z",
+  "updated_at": "2026-02-16T13:36:58.000000Z",
+  "new_chap_at": "2020-07-20T08:42:36.000000Z",
+  "published_at": "2020-03-26T07:01:56.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Vạn Cổ Đệ Nhất Đế",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 489,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1178,
+    "name": "Thiên Hạ Thanh Không",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

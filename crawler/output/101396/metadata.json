@@ -1,0 +1,76 @@
+{
+  "id": 101396,
+  "name": "Quật Khởi Thức Tỉnh Thời Đại",
+  "slug": "quat-khoi-thuc-tinh-thoi-dai",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/quat-khoi-thuc-tinh-thoi-dai",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11484407,
+  "latest_chapter": 12288634,
+  "latest_index": 1274,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/quat-khoi-thuc-tinh-thoi-dai/default.jpg?1585206129",
+    "600": "https://static.cdnno.com/poster/quat-khoi-thuc-tinh-thoi-dai/600.jpg?1585206129",
+    "300": "https://static.cdnno.com/poster/quat-khoi-thuc-tinh-thoi-dai/300.jpg?1585206129",
+    "150": "https://static.cdnno.com/poster/quat-khoi-thuc-tinh-thoi-dai/150.jpg?1585206129"
+  },
+  "synopsis": "Linh khí thức tỉnh, giống loài trật tự vỡ tan, nhân loại có hay không còn có thể đứng tại chuỗi sinh vật đỉnh, đây là một lần chật vật khảo nghiệm.\n\nCảnh giới:\n\n- Sơ Linh cảnh: Nhất nguyên cảnh, Nhị nguyên cảnh, Tam nguyên cảnh, Địa Nguyên cảnh, Thiên Nguyên cảnh, \n- Thần Nguyên cảnh(Tinh Linh cảnh),Nguyệt Linh cảnh, Linh Chủ cảnh, Pháp Tắc cảnh, Bản Nguyên cảnh, Chân Thần...",
+  "vote_count": 18,
+  "review_score": "4.125",
+  "review_count": 4,
+  "comment_count": 24,
+  "chapter_count": 1274,
+  "view_count": 0,
+  "word_count": 3380102,
+  "created_at": "2020-03-26T07:02:09.000000Z",
+  "updated_at": "2026-02-16T13:39:13.000000Z",
+  "new_chap_at": "2019-12-06T05:00:32.000000Z",
+  "published_at": "2020-03-26T07:02:09.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Quật Khởi Thức Tỉnh Thời Đại",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 305,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1191,
+    "name": "Cực Địa Phong Nhận",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 6,
+      "name": "Đô Thị",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

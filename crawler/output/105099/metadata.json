@@ -1,0 +1,84 @@
+{
+  "id": 105099,
+  "name": "Ta Có Một Tòa Thời Không Điền Viên",
+  "slug": "ta-co-mot-toa-thoi-khong-dien-vien",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ta-co-mot-toa-thoi-khong-dien-vien",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13007429,
+  "latest_chapter": 13418905,
+  "latest_index": 467,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-co-mot-toa-thoi-khong-dien-vien/default.jpg?1599487947",
+    "600": "https://static.cdnno.com/poster/ta-co-mot-toa-thoi-khong-dien-vien/600.jpg?1599487947",
+    "300": "https://static.cdnno.com/poster/ta-co-mot-toa-thoi-khong-dien-vien/300.jpg?1599487947",
+    "150": "https://static.cdnno.com/poster/ta-co-mot-toa-thoi-khong-dien-vien/150.jpg?1599487947"
+  },
+  "synopsis": "Vương Miểu xuyên qua đến mối nguy tứ phía Đại Hoang giới, đập vào mắt một mảnh rừng núi hoang vắng, vốn cho rằng ngày đầu tiên sẽ phải nghỉ chơi, lại thu được một tòa công năng mạnh mẽ điền viên.\n\n\tSử dụng điền viên chất dinh dưỡng bồi dưỡng linh quả, không chỉ mùi vị tốt, còn có thể bỏ qua bình cảnh tăng cao tu vi, thậm chí thu hoạch được tương ứng năng lực đặc thù.\n\n\tTrồng ra Thiên Hương thánh quả, toàn thân phiêu hương tâm ma trừ.\n\n\tTrồng ra tầm bảo tay cừ khôi Tiểu Linh Ly, thế gian bảo vật không chỗ giấu.",
+  "vote_count": 268,
+  "review_score": "4.762",
+  "review_count": 7,
+  "comment_count": 36,
+  "chapter_count": 467,
+  "view_count": 0,
+  "word_count": 856505,
+  "created_at": "2020-09-07T14:12:30.000000Z",
+  "updated_at": "2026-02-16T13:39:19.000000Z",
+  "new_chap_at": "2021-02-25T11:02:47.000000Z",
+  "published_at": "2020-09-07T14:12:27.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Có Một Tòa Thời Không Điền Viên",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 660,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3068,
+    "name": "Hỗn Độn Đông Qua Tinh",
+    "avatar": null,
+    "local_name": "混沌冬瓜精",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}

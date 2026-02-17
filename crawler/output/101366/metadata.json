@@ -1,0 +1,76 @@
+{
+  "id": 101366,
+  "name": "Đấu Phá Chi Phương Xa Uchiha",
+  "slug": "dau-pha-chi-phuong-xa-uchiha",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/dau-pha-chi-phuong-xa-uchiha",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11466408,
+  "latest_chapter": 11466681,
+  "latest_index": 274,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/dau-pha-chi-phuong-xa-uchiha/default.jpg?1585206114",
+    "600": "https://static.cdnno.com/poster/dau-pha-chi-phuong-xa-uchiha/600.jpg?1585206114",
+    "300": "https://static.cdnno.com/poster/dau-pha-chi-phuong-xa-uchiha/300.jpg?1585206114",
+    "150": "https://static.cdnno.com/poster/dau-pha-chi-phuong-xa-uchiha/150.jpg?1585206114"
+  },
+  "synopsis": "Tại \"Người ăn người\" Thế Giới Hokage Chiến Quốc Thời Đại phấn đấu hai mươi sáu năm Uchiha Ato, cuối cùng trở thành đã từng chiến hữu, chính mình anh họ Uchiha Madara Mangekyo Sharingan vật hi sinh. Bất quá khi hắn mở to mắt về sau, lại phát hiện mình đi tới một cái có chút thế giới xa lạ...   \n\nTác giả định nghĩa nội dung: Lãnh khốc.",
+  "vote_count": 9,
+  "review_score": "4.550",
+  "review_count": 6,
+  "comment_count": 17,
+  "chapter_count": 274,
+  "view_count": 0,
+  "word_count": 838250,
+  "created_at": "2020-03-26T07:01:54.000000Z",
+  "updated_at": "2026-02-16T13:42:52.000000Z",
+  "new_chap_at": "2018-02-21T09:00:32.000000Z",
+  "published_at": "2020-03-26T07:01:54.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Đấu Phá Chi Phương Xa Uchiha",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 184,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1174,
+    "name": "Nhiễm Mẫn Hồ Đồ",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 7,
+      "name": "Đồng Nhân",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

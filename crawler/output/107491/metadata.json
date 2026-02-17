@@ -1,0 +1,90 @@
+{
+  "id": 107491,
+  "name": "Thánh Tử Thực Sự Quá Cao Điệu",
+  "slug": "thanh-tu-thuc-su-qua-cao-dieu",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/thanh-tu-thuc-su-qua-cao-dieu",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13621328,
+  "latest_chapter": 13774540,
+  "latest_index": 191,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/thanh-tu-thuc-su-qua-cao-dieu/default.jpg?1620814147",
+    "600": "https://static.cdnno.com/poster/thanh-tu-thuc-su-qua-cao-dieu/600.jpg?1620814147",
+    "300": "https://static.cdnno.com/poster/thanh-tu-thuc-su-qua-cao-dieu/300.jpg?1620814147",
+    "150": "https://static.cdnno.com/poster/thanh-tu-thuc-su-qua-cao-dieu/150.jpg?1620814147"
+  },
+  "synopsis": "Tần Trường Ca vượt qua tu tiên giới, thu hoạch được một cái thu thập sùng bái giá trị liền có thể tiến hành rút thưởng Cầu Nguyện Trì, từ đó về sau, hắn tại cao điệu trên đường càng chạy càng xa.\n\n\t\"Thánh tử đúng là Kiếm Tiên chuyển thế!\"\n\n\t\"Thánh tử tại trên Luận Kiếm đại hội đơn đấu một cái môn phái!\"\n\n\t\"Thánh tử đột phá Nguyên Anh cảnh! Hắn là từ trước tới nay trẻ tuổi nhất Nguyên Anh a!\"\n\n\t\"Nghiệt Long hiện thế, Thánh Tử ngăn cơn sóng dữ, thật là chúng ta mẫu mực a!\"\n\n\t\"Vô địch thế gia lão tổ xuất thế! Cái gì, bị Thánh Tử nhất quyền đánh nổ rồi? ! !\"\n\n\tTrấn áp thiên kiêu, quét ngang yêu ma, toàn bộ tu tiên giới bắt đầu lưu truyền Tần Trường Ca truyền thuyết.\n\n\tVô số năm sau, hắn leo lên tiên đạo chi đỉnh, tại ức vạn sinh linh chứng kiến dưới, rộng rãi thanh âm vang vọng chư thiên vạn giới: \"Ta vì Tần Thiên Đế, chúng sinh đến bái ta!\"",
+  "vote_count": 84,
+  "review_score": "4.100",
+  "review_count": 5,
+  "comment_count": 81,
+  "chapter_count": 191,
+  "view_count": 0,
+  "word_count": 345114,
+  "created_at": "2021-05-12T10:09:10.000000Z",
+  "updated_at": "2026-02-16T13:40:23.000000Z",
+  "new_chap_at": "2021-07-01T01:40:57.000000Z",
+  "published_at": "2021-05-12T10:09:07.000000Z",
+  "published": 1,
+  "user_id": 1000020,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Thánh Tử Thực Sự Quá Cao Điệu",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 254,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000020,
+    "name": "Vô Ưu",
+    "avatar": [
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/200.jpg?1635993328",
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/100.jpg?1635993328",
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/50.jpg?1635993328"
+    ],
+    "level": 3,
+    "exp": 1649,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3690,
+    "name": "Lưu Phong Tiếu",
+    "avatar": null,
+    "local_name": "流风笑",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 62,
+      "name": "Vô Địch",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

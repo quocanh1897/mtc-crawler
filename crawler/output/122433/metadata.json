@@ -1,0 +1,102 @@
+{
+  "id": 122433,
+  "name": "Theo Trảm Yêu Trừ Ma Bắt Đầu Trường Sinh Bất Tử",
+  "slug": "theo-tram-yeu-tru-ma-bat-dau-truong-sinh-bat-tu",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/theo-tram-yeu-tru-ma-bat-dau-truong-sinh-bat-tu",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 17179237,
+  "latest_chapter": 23469092,
+  "latest_index": 1160,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/theo-tram-yeu-tru-ma-bat-dau-truong-sinh-bat-tu/default.jpg?1735208268",
+    "600": "https://static.cdnno.com/poster/theo-tram-yeu-tru-ma-bat-dau-truong-sinh-bat-tu/600.jpg?1735208268",
+    "300": "https://static.cdnno.com/poster/theo-tram-yeu-tru-ma-bat-dau-truong-sinh-bat-tu/300.jpg?1735208268",
+    "150": "https://static.cdnno.com/poster/theo-tram-yeu-tru-ma-bat-dau-truong-sinh-bat-tu/150.jpg?1735208268"
+  },
+  "synopsis": "Tiêu hao thọ nguyên quán chú võ học, có thể không hạn tiến hành thôi diễn.\n\n\tThẩm Nghi phàm nhân thân thể, số tuổi thọ không hơn trăm năm, may mà có khả năng thông qua chém giết yêu ma thu hoạch đối phương còn thừa thọ nguyên.\n\n\tTại Tà Túy khắp nơi trên đất trong loạn thế lộ ra trường đao, nhường đám này sống trăm ngàn năm sinh linh sợ vỡ mật!\n\n\tTheo 【  Ưng Trảo công 】 đến 【  Bát Hoang Liệt Thiên Thủ 】, theo 【  Phục Ma quyền 】 đến 【  Kim Thân Trấn Ngục Pháp Tướng 】!\n\n\tThẩm Nghi tình cờ cũng sẽ trầm tư, này tuổi thọ làm sao càng dùng càng nhiều?\n\n\tHắn thu đao vào vỏ, ngước mắt nhìn lên bên trên nhìn lại, nghe nói cái kia đám mây phía trên có bầu trời ngọc phủ, trong đó ngồi đầy thiên chân vạn thánh, bất luận một vị nào đều từng trải qua vô tận tuế nguyệt.\n\n\tLần này đạp thiên tới, chỉ vì hướng chư tiên mượn cái trăm vạn năm, dùng chứng ta trường sinh bất tử Đại Đạo.\n\n\t. . .\n\n\tCuốn sách này lại tên 《 nhường ngươi khắc mệnh luyện võ, ngươi khắc người khác? 》, 《 đạo hữu xin dừng bước, ngươi thọ nguyên cùng tại hạ hữu duyên 》.",
+  "vote_count": 9184,
+  "review_score": "4.827",
+  "review_count": 110,
+  "comment_count": 3573,
+  "chapter_count": 1158,
+  "view_count": 0,
+  "word_count": 2369898,
+  "created_at": "2023-12-14T09:33:40.000000Z",
+  "updated_at": "2026-02-16T23:34:18.000000Z",
+  "new_chap_at": "2025-07-01T00:55:03.000000Z",
+  "published_at": "2023-12-14T09:33:40.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Theo Trảm Yêu Trừ Ma Bắt Đầu Trường Sinh Bất Tử",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 7175,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 2656,
+    "name": "Lục Nguyệt Thập Cửu",
+    "avatar": null,
+    "local_name": "陆月十九",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 4,
+      "name": "Thiết Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

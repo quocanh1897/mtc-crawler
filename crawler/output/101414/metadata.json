@@ -1,0 +1,77 @@
+{
+  "id": 101414,
+  "name": "Chế Tạo Siêu Huyền Huyễn Thế Giới",
+  "slug": "che-tao-sieu-huyen-huyen-the-gioi",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/che-tao-sieu-huyen-huyen-the-gioi",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 12292484,
+  "latest_chapter": 12625961,
+  "latest_index": 671,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/che-tao-sieu-huyen-huyen-the-gioi/default.jpg?1585206137",
+    "600": "https://static.cdnno.com/poster/che-tao-sieu-huyen-huyen-the-gioi/600.jpg?1585206137",
+    "300": "https://static.cdnno.com/poster/che-tao-sieu-huyen-huyen-the-gioi/300.jpg?1585206137",
+    "150": "https://static.cdnno.com/poster/che-tao-sieu-huyen-huyen-the-gioi/150.jpg?1585206137"
+  },
+  "synopsis": "Thiếu niên ngồi xe lăn, mặt hướng biển cả.\n\nCầm một sợi linh khí, chỉ phía xa cái này ầm ầm sóng dậy thế giới.\n\nKhông đúng chỗ nào điểm chỗ nào.\n\n. . .\n\nCó người từng một đao thành thất truyền, trảm Cự Long, tắm long huyết.\n\nCó người từng ưa thích thỉnh uống canh gà, sân sau nuôi dưỡng chín con Phượng Hoàng.\n\nCó người từng khô tọa đỉnh núi, miệng lưỡi lưu loát, một mạch ép tới trăm vạn quân.\n\nCó người từng đặt bút bàn sơn dời núi, vẽ một bộ cẩm tú họa quyển, có thể khốn tiên thần.\n\nMà năm đó, xuân về hoa nở.\n\nBọn hắn bất quá là bình phàm không có gì lạ thợ mổ heo, thối thư sinh, người nuôi gà, nghèo Họa Sư.\n\nĐây là một cái đem đê võ đại lục cải tạo thành siêu huyền huyễn đại thế giới chuyện xưa.\n\n- Cảnh giới: Khí Đan, Thể Tàng, Thiên Tỏa...\n\nLý Hồng Thiên sách mới, cùng tác với Dị Thế Giới Mỹ Thực Gia...\n\n✯ Cvt by KOL",
+  "vote_count": 71,
+  "review_score": "4.815",
+  "review_count": 7,
+  "comment_count": 66,
+  "chapter_count": 671,
+  "view_count": 0,
+  "word_count": 4207220,
+  "created_at": "2020-03-26T07:02:17.000000Z",
+  "updated_at": "2026-02-17T07:41:25.000000Z",
+  "new_chap_at": "2020-04-22T09:36:27.000000Z",
+  "published_at": "2020-03-26T07:02:17.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Chế Tạo Siêu Huyền Huyễn Thế Giới",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 844,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3105,
+    "name": "Lý Hồng Thiên",
+    "avatar": null,
+    "local_name": "李鸿天",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

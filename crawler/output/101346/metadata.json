@@ -1,0 +1,76 @@
+{
+  "id": 101346,
+  "name": "Hokage Chi Vô Tận Trang Độn",
+  "slug": "hokage-chi-vo-tan-trang-don",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/hokage-chi-vo-tan-trang-don",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11450126,
+  "latest_chapter": 11450335,
+  "latest_index": 211,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/hokage-chi-vo-tan-trang-don/default.jpg?1585206103",
+    "600": "https://static.cdnno.com/poster/hokage-chi-vo-tan-trang-don/600.jpg?1585206103",
+    "300": "https://static.cdnno.com/poster/hokage-chi-vo-tan-trang-don/300.jpg?1585206103",
+    "150": "https://static.cdnno.com/poster/hokage-chi-vo-tan-trang-don/150.jpg?1585206103"
+  },
+  "synopsis": "Mang theo không gian hệ thống xuyên việt đến Hokage, còn thành cao phú soái Sasuke?\n\nKhông tệ không tệ, tuy nhiên nhà ta hệ thống này làm sao nhìn qua có chút không quá bình thường a!\n\n\"Thành công tại Hogake Đệ Tam trước mặt sử dụng Miệng Độn, Miệng Độn độ thuần thục tăng lên, Dương Độn điểm kinh nghiệm   100 \"\n\n\"Thành công tại Orochimaru trước mặt sử dụng Trang Độn, Trang Độn độ thuần thục tăng lên, Âm Độn điểm kinh nghiệm   200 \"\n\n\"Hoàn thành nhiệm vụ: Tu tập Uchiha phi tiêu phóng kỹ thuật, khen thưởng: Hoa thức Shuriken phóng kỹ thuật (Trang Độn chuyên dụng) \"\n\n\"Đạt thành thành tựu: Ngày trang cái bức, thu hoạch được xưng hào: Trang bức tiểu thiện nghệ , Trang Độn hình thức mở ra \"\n\nCái kia cái gì, Nagato đừng động thủ, ngươi trước nghe ta nói.\n\nCụ tổ Madara đừng có gấp, trước cho ta trang cái bức.\n\nTác giả định nghĩa nôi dung: vô sỉ hệ thống lưu.",
+  "vote_count": 1,
+  "review_score": "4.786",
+  "review_count": 1,
+  "comment_count": 8,
+  "chapter_count": 210,
+  "view_count": 0,
+  "word_count": 693584,
+  "created_at": "2020-03-26T07:01:43.000000Z",
+  "updated_at": "2026-02-16T13:46:14.000000Z",
+  "new_chap_at": "2017-08-25T09:00:21.000000Z",
+  "published_at": "2020-03-26T07:01:43.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Hokage Chi Vô Tận Trang Độn",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 66,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1164,
+    "name": "Thiên Vũ Vô Nguyệt",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 7,
+      "name": "Đồng Nhân",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

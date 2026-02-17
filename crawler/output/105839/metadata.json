@@ -1,0 +1,84 @@
+{
+  "id": 105839,
+  "name": "Cho Mời Tiểu Sư Thúc",
+  "slug": "cho-moi-tieu-su-thuc",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/cho-moi-tieu-su-thuc",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13171482,
+  "latest_chapter": 13898860,
+  "latest_index": 376,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/cho-moi-tieu-su-thuc/default.jpg?1605574836",
+    "600": "https://static.cdnno.com/poster/cho-moi-tieu-su-thuc/600.jpg?1605574836",
+    "300": "https://static.cdnno.com/poster/cho-moi-tieu-su-thuc/300.jpg?1605574836",
+    "150": "https://static.cdnno.com/poster/cho-moi-tieu-su-thuc/150.jpg?1605574836"
+  },
+  "synopsis": "Trấn Tiên tông, Tông chủ chờ nhiều vị cao tầng đột nhiên ngã xuống, môn phái lâm vào hỗn loạn.\n\n\tVì khôi phục yên ổn, tránh cho hủy diệt, rơi vào đường cùng, đành phải thỉnh một mực tại cấm địa tu luyện Tiểu sư thúc rời núi.\n\n\tVị Tiểu sư thúc này, chỉ có 18 tuổi, mà lại, một điểm tu vi đều không có, ngay tại tất cả mọi người tuyệt vọng thời điểm, đột nhiên phát hiện, hắn mỗi một câu, mỗi một cái động tác, đều phù hợp tự nhiên, không bàn mà hợp Thiên Đạo, chỉ cần dựa theo hắn nói làm, là có thể dễ dàng đột phá.\n\n\tGiờ phút này, bọn hắn mới hiểu được, vị này một điểm tu vi đều không có Tiểu sư thúc, lại là một vị chân chính tuyệt thế cao nhân!\n\n\tTô Ẩn: Ta liền nói một lần heo mẹ hậu sản hộ lý, các ngươi vì cái gì cả đám đều đột phá? Cái thế giới này, thiên tài nhiều như vậy sao? Rất sợ hãi, ta muốn về nhà. . .\n\n-Cảnh giới: Tụ Tức, Chú Nguyên, Thoát Trần, Khai Thiên, Thần Cung, Tông Chủ, Truyền Thừa, Vĩnh Hằng, Hư Tiên\n\nHoành Tảo Thiên Nhai sách mới, cùng tác Thiên Đạo Thư Viện...",
+  "vote_count": 579,
+  "review_score": "4.521",
+  "review_count": 8,
+  "comment_count": 151,
+  "chapter_count": 372,
+  "view_count": 0,
+  "word_count": 1338889,
+  "created_at": "2020-11-16T02:17:46.000000Z",
+  "updated_at": "2026-02-16T13:37:58.000000Z",
+  "new_chap_at": "2021-08-11T07:50:55.000000Z",
+  "published_at": "2020-11-16T02:17:43.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Cho Mời Tiểu Sư Thúc",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 923,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 399,
+    "name": "Hoành Tảo Thiên Nhai",
+    "avatar": null,
+    "local_name": "横扫天涯",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "Vô Sỉ",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}

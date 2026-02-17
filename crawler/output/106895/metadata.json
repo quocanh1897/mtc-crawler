@@ -1,0 +1,84 @@
+{
+  "id": 106895,
+  "name": "Hỗn Thiên Đại Thánh",
+  "slug": "hon-thien-dai-thanh",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/hon-thien-dai-thanh",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13473220,
+  "latest_chapter": 14122363,
+  "latest_index": 397,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/hon-thien-dai-thanh/default.jpg?1615858060",
+    "600": "https://static.cdnno.com/poster/hon-thien-dai-thanh/600.jpg?1615858060",
+    "300": "https://static.cdnno.com/poster/hon-thien-dai-thanh/300.jpg?1615858060",
+    "150": "https://static.cdnno.com/poster/hon-thien-dai-thanh/150.jpg?1615858060"
+  },
+  "synopsis": "Yêu tộc bên trong chí cao vô thượng tồn tại được xưng là Đại Thánh!\n\n\tTông môn thế gia, yêu ma dị tộc, vạn năm trước thượng cổ đại kiếp tuyệt địa thiên thông, tu hành giới trật tự sụp đổ.\n\n\tCó nhân tộc tiểu quốc cung phụng yêu ma, sung làm ngụy thần.\n\n\tCó tu hành tông môn khu sử yêu ma làm loạn, chỉ vì hương hỏa cung phụng.\n\n\tHắc Sơn Lão Yêu đạp âm phong, Cửu Vĩ Yêu Hồ dám ép Long.\n\n\tBắc Minh Yêu Vương tụng Phạm Âm, Yêu Thánh Phúc Hải đổi Âm Dương.\n\n\tLý Huyền Tông cầm trong tay có thể thăng cấp công pháp Huyền Pháp giới hai độ xuyên qua, theo tung hoành giang hồ một đời Tà Vương trở thành phụ thuộc yêu ma đau khổ cầu sinh tầng dưới chót tu sĩ.\n\n\tTrong loạn thế, Lý Huyền Tông vì cầu siêu thoát bước vào đỉnh phong, dùng nhân thân trở thành cái kia quấy thiên hạ phong vân Hỗn Thiên Đại Thánh!\n\nCảnh giới: Luyện Khí, Quy Nguyên, Kim Đan, Linh Đài, Thần Tàng, Thiên Nhân, Phản Hư Hợp Đạo, Độ Kiếp.",
+  "vote_count": 246,
+  "review_score": "5.000",
+  "review_count": 4,
+  "comment_count": 124,
+  "chapter_count": 397,
+  "view_count": 0,
+  "word_count": 803635,
+  "created_at": "2021-03-15T01:57:05.000000Z",
+  "updated_at": "2026-02-16T13:41:18.000000Z",
+  "new_chap_at": "2021-10-26T04:28:31.000000Z",
+  "published_at": "2021-03-15T01:57:00.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Hỗn Thiên Đại Thánh",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 369,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 469,
+    "name": "Phong Thất Nguyệt",
+    "avatar": null,
+    "local_name": "封七月",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 7,
+      "name": "Lãnh Khốc",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}

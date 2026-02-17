@@ -1,0 +1,77 @@
+{
+  "id": 102205,
+  "name": "Bàn Long",
+  "slug": "ban-long",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ban-long",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11877994,
+  "latest_chapter": 11878799,
+  "latest_index": 806,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ban-long/default.jpg?1585208009",
+    "600": "https://static.cdnno.com/poster/ban-long/600.jpg?1585208009",
+    "300": "https://static.cdnno.com/poster/ban-long/300.jpg?1585208009",
+    "150": "https://static.cdnno.com/poster/ban-long/150.jpg?1585208009"
+  },
+  "synopsis": "Lớn nhỏ Huyết Tình Tông Mao Sư, lực lớn vô cùng Tử Tình Kim Mao Viên, hủy thiên diệt địa Cửu Đầu Xà Hoàng, mang theo hủy diệt lôi điện kinh khủng Lôi Long... Nơi này không thiếu cái lạ, đây là một cái uyên bác ma huyễn thế giới. Cường giả có thể đứng tại màu đen cự long đỉnh đầu ngao du phía chân trời, kinh khủng ma pháp có thể đốt cháy giang hà, có thể hủy diệt thành trì, có thể san bằng sơn nhạc...\n\nQuyển sách này, giảng thuật một cái có được 'Bàn Long Giới Chỉ' thiếu niên mộng ảo lữ trình.",
+  "vote_count": 126,
+  "review_score": "4.153",
+  "review_count": 6,
+  "comment_count": 34,
+  "chapter_count": 806,
+  "view_count": 0,
+  "word_count": 3744240,
+  "created_at": "2020-03-26T07:33:29.000000Z",
+  "updated_at": "2026-02-16T13:37:49.000000Z",
+  "new_chap_at": "2019-03-25T14:00:31.000000Z",
+  "published_at": "2020-03-26T07:33:29.000000Z",
+  "published": 1,
+  "user_id": 1000063,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Bàn Long",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 547,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000063,
+    "name": "Song Song",
+    "avatar": [
+      "https://static.cdnno.com/user/a3e53ea5f8d4b13aa6ea9679e65f770b/200.jpg?1586590972",
+      "https://static.cdnno.com/user/a3e53ea5f8d4b13aa6ea9679e65f770b/100.jpg?1586590972",
+      "https://static.cdnno.com/user/a3e53ea5f8d4b13aa6ea9679e65f770b/50.jpg?1586590972"
+    ],
+    "level": 4,
+    "exp": 6107,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 379,
+    "name": "Ngã Cật Tây Hồng Thị",
+    "avatar": null,
+    "local_name": "我吃西红柿",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,77 @@
+{
+  "id": 101391,
+  "name": "Kỳ Tích Triệu Hoán Sư",
+  "slug": "ky-tich-trieu-hoan-su",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ky-tich-trieu-hoan-su",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 12285699,
+  "latest_chapter": 12606580,
+  "latest_index": 2597,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ky-tich-trieu-hoan-su/default.jpg?1585206126",
+    "600": "https://static.cdnno.com/poster/ky-tich-trieu-hoan-su/600.jpg?1585206126",
+    "300": "https://static.cdnno.com/poster/ky-tich-trieu-hoan-su/300.jpg?1585206126",
+    "150": "https://static.cdnno.com/poster/ky-tich-trieu-hoan-su/150.jpg?1585206126"
+  },
+  "synopsis": "Ma thuật tài năng là số một, nhưng thể năng phương diện là phế vật?\n\nTriệu hoán sứ ma có thể là ngàn vạn, nhưng mình là độc thủ phía sau?\n\nĐối với cái này, chỉ muốn nói một câu:\n\n\"Mọi chuyện chẳng đáng là bao!\"\n\nĐây là đạt được kỳ tích, cũng đối kỳ tích trân ái có thừa thiếu niên chuyện xưa.\n\n\"Chỉ cần có sứ ma (đồng bạn), ta chính là vô địch!\"\n\n(PS: Đã bản hoàn tất ba quyển 500 vạn chữ trở lên tiểu thuyết dài 《 Thiếu Nữ Đại Triệu Hoán 》, 《 Toàn Phương Vị Huyễn Tưởng》, 《 Trực Tử Vô Hạn》, thay mới có tiết tháo, các vị bạn đọc có khả năng yên tâm dùng ăn. )\n\nMap:\n\n  Fate/Grand Order: 1-67, 140-219, 796-935, 1851-1995.\n  Kikou Shoujo wa Kizutsukanai:68-139, 611-795, 2101-2200.\n  Sword Art Online: 220-435, 1596-1850.\n Tokyo Ravens: 436-610, 1996-2100.\n Strike the Blood: 936-1210, 2201...\n Hiệp sĩ lưu ban: 1211-1395.\n Sky Wizards Academy: 1396-1595.\n\nNhư Khuynh Như Tố sách mới.\n\n✯ Cvt by KOL.",
+  "vote_count": 118,
+  "review_score": "4.859",
+  "review_count": 10,
+  "comment_count": 37,
+  "chapter_count": 2597,
+  "view_count": 0,
+  "word_count": 6884182,
+  "created_at": "2020-03-26T07:02:06.000000Z",
+  "updated_at": "2026-02-16T13:39:40.000000Z",
+  "new_chap_at": "2020-04-10T09:00:47.000000Z",
+  "published_at": "2020-03-26T07:02:06.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Kỳ Tích Triệu Hoán Sư",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 673,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 499,
+    "name": "Như Khuynh Như Tố",
+    "avatar": null,
+    "local_name": "如倾如诉",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 7,
+      "name": "Đồng Nhân",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

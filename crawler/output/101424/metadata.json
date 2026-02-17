@@ -1,0 +1,77 @@
+{
+  "id": 101424,
+  "name": "Thông U Đại Thánh",
+  "slug": "thong-u-dai-thanh",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/thong-u-dai-thanh",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 12295670,
+  "latest_chapter": 12965987,
+  "latest_index": 584,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/thong-u-dai-thanh/default.jpg?1585206143",
+    "600": "https://static.cdnno.com/poster/thong-u-dai-thanh/600.jpg?1585206143",
+    "300": "https://static.cdnno.com/poster/thong-u-dai-thanh/300.jpg?1585206143",
+    "150": "https://static.cdnno.com/poster/thong-u-dai-thanh/150.jpg?1585206143"
+  },
+  "synopsis": "Quỷ bí giang hồ, yêu dị liên ra, triều đình mục nát, võ lâm thế gia, quần hùng cùng nổi lên.\n\nĐây là một cái không có thần phật thế giới\n\nVõ đạo, thuật pháp, huyền tu, thần thông...\n\nCố Thành tại u ám bên trong buông xuống, san bằng này phân loạn thế gian.\n\n\"Nếu thế giới này không có thần phật, ta đây, chính là thần phật!\"\n\nMỹ nhân họa da khó họa cốt, miếu trung yêu tăng tự Tu La.\n\nChốn đào hoa tâm hoảng loạn, Hắc Sơn Lão Yêu chiếm U Minh.\n\nTa gọi Cố Thành, thành tín Thành.\n\n- Cảnh giới: Luyện khí cửu cảnh: Luyện khí, dưỡng thần, quan tưởng, ngưng cương, nguyên khí, quy nguyên, thần du, động minh, Địa Tiên.\n\nVõ đạo cửu phẩm: Ngoại luyện, nội luyện, đoán cốt, dũng huyết, quan sơn, vọng hải, thần môn, siêu phàm, Võ Thánh.\n\nQuỷ vật là: U hồn, tiểu quỷ, Oán Quỷ, Lệ Quỷ, Ác Quỷ, Quỷ Tướng, Quỷ Vương, Âm Thần.\n\nYêu vật là: Mãnh thú, Tinh quái, Tiểu Yêu, yêu quái, Yêu Linh, Đại Yêu, Yêu Vương, Yêu Thần\n\nCương thi: Du Thi, Bạch Cương, Hắc Cương, Tử Cương, Phi Cương, Bất Hóa Cốt, Bạt\n\nPhong Thất Nguyệt sách mới, cùng tác: Trọng Sinh Chi Ma Giáo Giáo Chủ, Tối Cường Phản Phái Hệ Thống...\n\n✯ Cvt by KOL.",
+  "vote_count": 113,
+  "review_score": "4.651",
+  "review_count": 10,
+  "comment_count": 40,
+  "chapter_count": 584,
+  "view_count": 0,
+  "word_count": 2013895,
+  "created_at": "2020-03-26T07:02:23.000000Z",
+  "updated_at": "2026-02-16T13:41:13.000000Z",
+  "new_chap_at": "2020-08-23T01:10:23.000000Z",
+  "published_at": "2020-03-26T07:02:23.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Thông U Đại Thánh",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 507,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 469,
+    "name": "Phong Thất Nguyệt",
+    "avatar": null,
+    "local_name": "封七月",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

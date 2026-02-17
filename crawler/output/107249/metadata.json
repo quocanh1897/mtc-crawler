@@ -1,0 +1,84 @@
+{
+  "id": 107249,
+  "name": "Ta Tại Hiệu Cầm Đồ Giám Bảo Những Năm Kia",
+  "slug": "ta-tai-hieu-cam-do-giam-bao-nhung-nam-kia",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ta-tai-hieu-cam-do-giam-bao-nhung-nam-kia",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13559848,
+  "latest_chapter": 14685186,
+  "latest_index": 442,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-tai-hieu-cam-do-giam-bao-nhung-nam-kia/default.jpg?1618822109",
+    "600": "https://static.cdnno.com/poster/ta-tai-hieu-cam-do-giam-bao-nhung-nam-kia/600.jpg?1618822109",
+    "300": "https://static.cdnno.com/poster/ta-tai-hieu-cam-do-giam-bao-nhung-nam-kia/300.jpg?1618822109",
+    "150": "https://static.cdnno.com/poster/ta-tai-hieu-cam-do-giam-bao-nhung-nam-kia/150.jpg?1618822109"
+  },
+  "synopsis": "Trần Thiếu Quân tỉnh lại sau giấc ngủ, trở thành Đại Chu hoàng triều hãng cầm đồ bên trong một cái triều phụng học đồ.\n\n\tThông linh giám bảo, tìm căn nguyên tìm nguyên.\n\n\tĐưa vào hiệu cầm đồ bảo vật, như bị sương mù bao phủ, chỉ có đi qua xem xét, mới có thể đủ phát hiện nó đặc thù thuộc tính, vật tận kỳ dụng, bằng không đả thương người hại mình, tai biến hằng sinh.\n\n\tTrần Thiếu Quân phát hiện, hắn lại có thể thông qua xem xét bảo vật thu hoạch đủ loại ban thưởng.\n\n\tPhá Vọng nhãn, Yếm Thắng thuật, Thông Linh Giải Ách Thiên, Thái Âm phù kinh, Khu Quỷ lệnh, Cửu Long yêu tháp, Lục Bia tiên thạch, Vĩnh Hằng đạo quả. . .\n\n\tĐã có vạn định tinh phẩm 《 Siêu Thần Đạo Thuật 》, 《 Cực Đạo Phi Thăng 》 hoàn tất, nhân phẩm cam đoan, yên tâm đọc! !",
+  "vote_count": 312,
+  "review_score": "4.463",
+  "review_count": 9,
+  "comment_count": 153,
+  "chapter_count": 441,
+  "view_count": 0,
+  "word_count": 1251185,
+  "created_at": "2021-04-19T08:48:32.000000Z",
+  "updated_at": "2026-02-16T13:39:00.000000Z",
+  "new_chap_at": "2022-04-19T08:30:57.000000Z",
+  "published_at": "2021-04-19T08:48:29.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Tại Hiệu Cầm Đồ Giám Bảo Những Năm Kia",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 550,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 882,
+    "name": "Đương Niên Yên Hỏa",
+    "avatar": null,
+    "local_name": "当年烟火",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 5,
+      "name": "Nhẹ Nhàng",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": 101397,
+  "name": "Sư Thúc Vô Địch",
+  "slug": "su-thuc-vo-dich",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/su-thuc-vo-dich",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11485373,
+  "latest_chapter": 11485844,
+  "latest_index": 472,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/su-thuc-vo-dich/default.jpg?1585206129",
+    "600": "https://static.cdnno.com/poster/su-thuc-vo-dich/600.jpg?1585206129",
+    "300": "https://static.cdnno.com/poster/su-thuc-vo-dich/300.jpg?1585206129",
+    "150": "https://static.cdnno.com/poster/su-thuc-vo-dich/150.jpg?1585206129"
+  },
+  "synopsis": "Đây là một cái mang theo đại hiệu thuốc nhân vật chính, xuyên qua Tu Tiên giới đi mạo danh thay thế chuyện xưa. . .\n\nLong Cốt quan, Tinh Thần mộ, Thần Ngục phong thiên.\n\nVô Tận hải, Thiên Giác sơn, nơi nào thăng tiên.\n\nTìm trường sinh, kiếm tiêu dao, triều phi càn khung.\n\nVân điêu lương, vũ họa đống, mộ cuốn rèm châu.\n\nTiên tu nhất thế, khó thoát hồng trần thiên lũ.\n\nHiệp lộ nửa đời, một đường si niệm điên.\n\nChớ có hỏi hôm nay là năm nào.\n\nTa thân ở nơi, tức nhân gian.\n\n\nHắc Huyền sách mới, cùng tác Nhất Ngôn Thông Thiên, Trọng Sinh Tiêu Dao Đạo",
+  "vote_count": 1,
+  "review_score": "5.000",
+  "review_count": 1,
+  "comment_count": 2,
+  "chapter_count": 472,
+  "view_count": 0,
+  "word_count": 1367331,
+  "created_at": "2020-03-26T07:02:09.000000Z",
+  "updated_at": "2026-02-16T13:45:15.000000Z",
+  "new_chap_at": "2019-05-21T07:00:13.000000Z",
+  "published_at": "2020-03-26T07:02:09.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Sư Thúc Vô Địch",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 92,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 687,
+    "name": "Hắc Huyền",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

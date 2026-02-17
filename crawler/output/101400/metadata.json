@@ -1,0 +1,77 @@
+{
+  "id": 101400,
+  "name": "Tu La Thiên Đế Quyết",
+  "slug": "tu-la-thien-de-quyet",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/tu-la-thien-de-quyet",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11486828,
+  "latest_chapter": 12289125,
+  "latest_index": 1528,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tu-la-thien-de-quyet/default.jpg?1585206130",
+    "600": "https://static.cdnno.com/poster/tu-la-thien-de-quyet/600.jpg?1585206130",
+    "300": "https://static.cdnno.com/poster/tu-la-thien-de-quyet/300.jpg?1585206130",
+    "150": "https://static.cdnno.com/poster/tu-la-thien-de-quyet/150.jpg?1585206130"
+  },
+  "synopsis": "Cửu Thiên giới Ngũ Đế đứng đầu Tu La đế, tự sáng tạo Tu La Thiên Đế quyết, nghịch thiên mà đi, đạp vô tận xương khô, nhưng lại tại chứng Thiên Đế chi đạo lúc, bị Hỗn Độn lôi kiếp phá huỷ thân thể, thần hồn xuyên qua hư không, một lần nữa trở về. Ở kiếp này, hắn tu nghịch thiên công pháp, thề phải đạp nát thiên địa.\n\nCảnh giới:\n- Tu luyện: \n  Võ cảnh: Võ sĩ, võ sư, đại võ sư, Vũ Linh, Võ Vương, Võ Hoàng, Vũ Tông, Võ Tôn, Võ Đế.\n  Thiên cảnh:  Thiên Vi cảnh, Thiên Linh cảnh, Thiên Phủ cảnh, Thiên Cung cảnh, Thiên Trì cảnh, Thiên Âm cảnh, Thiên Dương cảnh, Thiên Thai cảnh, Thiên Động cảnh, Tam Tai cảnh.\n Đạo cảnh: Sơ cảnh, Khuynh cảnh, Đan cảnh, Không cảnh, Hợp cảnh...\n\n-Luyện đan: 3 sơ cảnh, sau đó là:  Linh cấp, Vương cấp, Hoàng cấp, Tông cấp, Tôn cấp, Đế cấp.",
+  "vote_count": 25,
+  "review_score": "4.036",
+  "review_count": 1,
+  "comment_count": 17,
+  "chapter_count": 1528,
+  "view_count": 0,
+  "word_count": 3813398,
+  "created_at": "2020-03-26T07:02:10.000000Z",
+  "updated_at": "2026-02-16T13:39:12.000000Z",
+  "new_chap_at": "2019-11-05T14:00:03.000000Z",
+  "published_at": "2020-03-26T07:02:10.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Tu La Thiên Đế Quyết",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 304,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1192,
+    "name": "Đại Giáo Thụ",
+    "avatar": null,
+    "local_name": "大教授",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

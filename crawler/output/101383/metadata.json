@@ -1,0 +1,76 @@
+{
+  "id": 101383,
+  "name": "Thiên Kiếm Thần Đế",
+  "slug": "thien-kiem-than-de",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/thien-kiem-than-de",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11475341,
+  "latest_chapter": 12283707,
+  "latest_index": 849,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/thien-kiem-than-de/default.jpg?1585206123",
+    "600": "https://static.cdnno.com/poster/thien-kiem-than-de/600.jpg?1585206123",
+    "300": "https://static.cdnno.com/poster/thien-kiem-than-de/300.jpg?1585206123",
+    "150": "https://static.cdnno.com/poster/thien-kiem-than-de/150.jpg?1585206123"
+  },
+  "synopsis": "Một kiếm táng thần ma, một kiếm diệt sao trời.\n\nBình phàm thiếu niên theo Thập Vạn đại sơn bên trong đi ra, từ đó, cái thế giới này vì đó run rẩy!\n\nHuyết mạch Vũ Hồn thể chất, chia làm: Linh mạch cửu phẩm, hoàng thể, thánh thể, thần thể.\n\nCảnh giới võ đạo, chia làm: Hậu Thiên, Tiên Thiên, Linh Động cảnh, Thiên Cương cảnh, Vạn Tượng cảnh, Âm Dương cảnh, Luyện Hư cảnh, Tạo Hóa cảnh, Thiên Nhân cảnh,  Bán thánh, Chuẩn Thánh, Đại Thánh, Thiên Thánh, Chí Thánh, thánh vương...\n\nQuân Lạc Hoa sách mới, cùng tác với: Chí Tôn Chiến Thần và Vạn Cổ Thánh Vương.",
+  "vote_count": 15,
+  "review_score": "4.712",
+  "review_count": 2,
+  "comment_count": 4,
+  "chapter_count": 849,
+  "view_count": 0,
+  "word_count": 2353683,
+  "created_at": "2020-03-26T07:02:03.000000Z",
+  "updated_at": "2026-02-16T13:42:28.000000Z",
+  "new_chap_at": "2019-03-27T05:00:19.000000Z",
+  "published_at": "2020-03-26T07:02:03.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Thiên Kiếm Thần Đế",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 81,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 603,
+    "name": "Quân Lạc Hoa",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

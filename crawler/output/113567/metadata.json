@@ -1,0 +1,101 @@
+{
+  "id": 113567,
+  "name": "Tình Thánh Kết Cục Sau Ta Xuyên Qua",
+  "slug": "tinh-thanh-ket-cuc-sau-ta-xuyen-qua",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/tinh-thanh-ket-cuc-sau-ta-xuyen-qua",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 15077175,
+  "latest_chapter": 16079592,
+  "latest_index": 288,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tinh-thanh-ket-cuc-sau-ta-xuyen-qua/default.jpg?1659191614",
+    "600": "https://static.cdnno.com/poster/tinh-thanh-ket-cuc-sau-ta-xuyen-qua/600.jpg?1659191614",
+    "300": "https://static.cdnno.com/poster/tinh-thanh-ket-cuc-sau-ta-xuyen-qua/300.jpg?1659191614",
+    "150": "https://static.cdnno.com/poster/tinh-thanh-ket-cuc-sau-ta-xuyen-qua/150.jpg?1659191614"
+  },
+  "synopsis": "Vương Mục tại một cái nào đó võ hiệp dưỡng thành trò chơi liền lá gan mấy tháng, đạt thành \"Một đời Tình Thánh\" hoàn mỹ kết cục về sau, ngoài ý muốn xuyên qua đến thế giới trò chơi bên trong.\n\n\tĐang lúc Vương Mục cho là mình muốn thời điểm cất cánh, lại phát hiện thế giới trò chơi bên trong đã qua hơn ngàn năm, đồng thời tiến vào đã hóa thành tiên hiệp thế giới. . .\n",
+  "vote_count": 181,
+  "review_score": "4.979",
+  "review_count": 8,
+  "comment_count": 286,
+  "chapter_count": 288,
+  "view_count": 0,
+  "word_count": 1279081,
+  "created_at": "2022-07-30T14:23:50.000000Z",
+  "updated_at": "2026-02-17T13:21:14.000000Z",
+  "new_chap_at": "2023-04-09T03:44:15.000000Z",
+  "published_at": "2022-07-30T14:23:50.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Tình Thánh Kết Cục Sau Ta Xuyên Qua",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 562,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 444,
+    "name": "Hạ Thụ Cầm",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 5,
+      "name": "Nhẹ Nhàng",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

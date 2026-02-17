@@ -1,0 +1,102 @@
+{
+  "id": 143107,
+  "name": "Tiên Đạo Phần Cuối",
+  "slug": "tien-dao-phan-cuoi",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/tien-dao-phan-cuoi",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 22992669,
+  "latest_chapter": 26889187,
+  "latest_index": 536,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tien-dao-phan-cuoi/default.jpg?1751438790",
+    "600": "https://static.cdnno.com/poster/tien-dao-phan-cuoi/600.jpg?1751438790",
+    "300": "https://static.cdnno.com/poster/tien-dao-phan-cuoi/300.jpg?1751438790",
+    "150": "https://static.cdnno.com/poster/tien-dao-phan-cuoi/150.jpg?1751438790"
+  },
+  "synopsis": "Nói chuyện trâu, trộm áo ta, bị ép thành thân tiên nữ.\n\n\tNhìn xem tất cả những thứ này, vừa mới xuyên qua tới Giang Mãn cảm giác không hiểu quen thuộc.",
+  "vote_count": 10099,
+  "review_score": "4.963",
+  "review_count": 54,
+  "comment_count": 1647,
+  "chapter_count": 531,
+  "view_count": 0,
+  "word_count": 932310,
+  "created_at": "2025-06-02T01:47:24.000000Z",
+  "updated_at": "2026-02-17T16:22:50.000000Z",
+  "new_chap_at": "2026-02-17T08:52:34.000000Z",
+  "published_at": "2025-06-02T01:47:24.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Tiên Đạo Phần Cuối",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2052,
+  "chapter_per_week": 14,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 4529,
+    "name": "Phạ Lạt Đích Hồng Tiêu",
+    "avatar": null,
+    "local_name": "怕辣的红椒",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

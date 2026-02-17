@@ -1,0 +1,77 @@
+{
+  "id": 101405,
+  "name": "Trường Sinh Chủng",
+  "slug": "truong-sinh-chung",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/truong-sinh-chung",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11488786,
+  "latest_chapter": 11489875,
+  "latest_index": 1090,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/truong-sinh-chung/default.jpg?1585206133",
+    "600": "https://static.cdnno.com/poster/truong-sinh-chung/600.jpg?1585206133",
+    "300": "https://static.cdnno.com/poster/truong-sinh-chung/300.jpg?1585206133",
+    "150": "https://static.cdnno.com/poster/truong-sinh-chung/150.jpg?1585206133"
+  },
+  "synopsis": "\"Tiêu hao một năm bảy tháng tuổi thọ, có thể tăng lên Đồng Tử công.\"\n\n\"Tiêu hao một năm bảy tháng tuổi thọ, có thể tăng lên Kim Chung Tráo.\"\n\n\"Tiêu hao một năm bảy tháng tuổi thọ, có thể tăng lên Thiết Bố Sam.\"\n\n\"Tiêu hao một năm bảy tháng tuổi thọ, có thể tăng lên Thập Tam Thái Bảo hoành luyện.\"\n\n\"Chồng chất Kim Chung Tráo, Thiết Bố Sam, Thập Tam Thái Bảo hoành luyện, Đồng Tử công, thu hoạch được Kim Thân công!\"\n\nĐây là một cái tiêu hao tuổi thọ tăng lên võ công treo bức, tại dị giới muốn làm gì thì làm chuyện xưa!\n\nSinh tử coi nhẹ, không phục liền làm!\n\n...\n\n\n\n- Cảnh giới: Võ Giả: \n  Luyện Bì Mô, Luyện Khí Huyết, Luyện Gân Cốt, Ngoại Công Đỉnh Phong, Nhân Thể Cực Hạn, Tông Sư.\n  Đạo Thể.\n Thánh Thể.\n\n. . .\n\nPS: Lão Nguyệt đã hoành thành 《 Pháp Sư Áo Nghĩa 》 《 Vĩnh Hằng Võ Đạo 》 《 Gien Võ Đạo》《 Huyết Mạch Vô Địch 》《 Kiếm Đạo Sát Đồ》đều là tinh phẩm, đại gia hứng thú có khả năng đi xem một cái. Lão Nguyệt xuất phẩm, tất nhiên thuộc tinh phẩm!\n\n✯ Cvt by KOL",
+  "vote_count": 12,
+  "review_score": "4.786",
+  "review_count": 6,
+  "comment_count": 20,
+  "chapter_count": 1090,
+  "view_count": 0,
+  "word_count": 4406056,
+  "created_at": "2020-03-26T07:02:13.000000Z",
+  "updated_at": "2026-02-16T13:40:38.000000Z",
+  "new_chap_at": "2020-01-07T15:00:19.000000Z",
+  "published_at": "2020-03-26T07:02:13.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Trường Sinh Chủng",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 354,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 345,
+    "name": "Nguyệt Trung Âm",
+    "avatar": null,
+    "local_name": "月中阴",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

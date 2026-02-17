@@ -1,0 +1,77 @@
+{
+  "id": 101358,
+  "name": "Cơ Thể Ta Có Bug",
+  "slug": "co-the-ta-co-bug",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/co-the-ta-co-bug",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11459812,
+  "latest_chapter": 11461033,
+  "latest_index": 1224,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/co-the-ta-co-bug/default.jpg?1585206110",
+    "600": "https://static.cdnno.com/poster/co-the-ta-co-bug/600.jpg?1585206110",
+    "300": "https://static.cdnno.com/poster/co-the-ta-co-bug/300.jpg?1585206110",
+    "150": "https://static.cdnno.com/poster/co-the-ta-co-bug/150.jpg?1585206110"
+  },
+  "synopsis": "Có hay không nghĩ tới tại Võ hiệp trong trò chơi dùng Ma pháp, Tây huyễn trong trò chơi dùng Võ công, Đồ đá trong trò chơi lái Diệt Tinh chiến hạm?\n\n《 Gia Viên 》 là một cái bao quát hết thảy trò chơi, người chơi nhưng từ Gia Viên tiến vào từng cái khác biệt trò chơi, trải nghiệm game khác nhau đồng thời, từ đó thu hoạch được đủ loại hi hữu đạo cụ cùng kỹ năng, thông qua Gia Viên đưa đến trong trò chơi khác trở thành trò chơi cao thủ, oai phong một cỏi!\n\nTrần Binh đối Gia Viên trò chơi nổi lên hứng thú, chỉ là không bao lâu hắn liền phát hiện, thân thể của hắn tựa hồ tự mang Bug, mỗi tiến vào một cái mới trò chơi, cái kia cái trò chơi liền sẽ xảy ra vấn đề, Server tiếp theo sụp đổ xong đời.\n\n【  thời gian quay lại? 】\n\nLần thứ năm dẫn đến trò chơi Server sụp đổ, Trần Binh bỗng nhiên phát hiện trên người hắn nhiều một cái nghịch thiên kỹ năng!\n\nTác giả định nghĩa nội dung: Hệ thống lưu, nhẹ nhõm.",
+  "vote_count": 82,
+  "review_score": "4.789",
+  "review_count": 4,
+  "comment_count": 29,
+  "chapter_count": 1222,
+  "view_count": 0,
+  "word_count": 4057027,
+  "created_at": "2020-03-26T07:01:50.000000Z",
+  "updated_at": "2026-02-16T13:41:09.000000Z",
+  "new_chap_at": "2019-09-16T13:00:56.000000Z",
+  "published_at": "2020-03-26T07:01:50.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Cơ Thể Ta Có Bug",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 459,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1171,
+    "name": "Bất Thị Phù Vân",
+    "avatar": null,
+    "local_name": "不是浮云",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 5,
+      "name": "Võng Du",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

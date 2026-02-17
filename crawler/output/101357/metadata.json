@@ -1,0 +1,76 @@
+{
+  "id": 101357,
+  "name": "Biến Thân Người Qua Đường Nữ Chính",
+  "slug": "bien-than-nguoi-qua-duong-nu-chinh",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/bien-than-nguoi-qua-duong-nu-chinh",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11459185,
+  "latest_chapter": 12280810,
+  "latest_index": 791,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/bien-than-nguoi-qua-duong-nu-chinh/default.jpg?1585206109",
+    "600": "https://static.cdnno.com/poster/bien-than-nguoi-qua-duong-nu-chinh/600.jpg?1585206109",
+    "300": "https://static.cdnno.com/poster/bien-than-nguoi-qua-duong-nu-chinh/300.jpg?1585206109",
+    "150": "https://static.cdnno.com/poster/bien-than-nguoi-qua-duong-nu-chinh/150.jpg?1585206109"
+  },
+  "synopsis": "Người qua đường nữ chính gây sự phương pháp, một lời không hợp liền gây sự, làm lấy làm lấy liền theo người qua đường làm thành nữ chính.  Đây đại khái là một cái đem không có có tồn tại cảm giác chính mình bồi dưỡng thành hoàn mỹ nhân vật nữ chính chuyện xưa.  Tác giả định nghĩa  nội dung:  Biến thân, chuyển kiếp, học sinh, nhẹ nhõm.",
+  "vote_count": 6,
+  "review_score": "4.566",
+  "review_count": 1,
+  "comment_count": 7,
+  "chapter_count": 790,
+  "view_count": 0,
+  "word_count": 2225119,
+  "created_at": "2020-03-26T07:01:49.000000Z",
+  "updated_at": "2026-02-16T13:45:47.000000Z",
+  "new_chap_at": "2018-09-10T04:00:11.000000Z",
+  "published_at": "2020-03-26T07:01:49.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Biến Thân Người Qua Đường Nữ Chính",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 120,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1170,
+    "name": "Túy Ngọa Tiếu Y Nhân",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 7,
+      "name": "Đồng Nhân",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

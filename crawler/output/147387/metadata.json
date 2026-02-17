@@ -1,0 +1,102 @@
+{
+  "id": 147387,
+  "name": "Ta Có Một Mặt Kính Biết Hết",
+  "slug": "ta-co-mot-mat-kinh-biet-het",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/ta-co-mot-mat-kinh-biet-het",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 24571095,
+  "latest_chapter": 26848468,
+  "latest_index": 231,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-co-mot-mat-kinh-biet-het/default.jpg?1757379936",
+    "600": "https://static.cdnno.com/poster/ta-co-mot-mat-kinh-biet-het/600.jpg?1757379936",
+    "300": "https://static.cdnno.com/poster/ta-co-mot-mat-kinh-biet-het/300.jpg?1757379936",
+    "150": "https://static.cdnno.com/poster/ta-co-mot-mat-kinh-biet-het/150.jpg?1757379936"
+  },
+  "synopsis": "Nơi này Tinh Hải cự thú dùng tinh cầu làm thức ăn, cao đẳng sinh mệnh nhấc tay xé rách hoàn vũ, chí cường chủng tộc ánh mắt chiếu tới đều là cương thổ.\n\n\tTô Nguyên xuyên qua tới, nhìn xem trước mặt không gì không biết, hỏi gì đáp nấy ma kính, lâm vào trầm tư.\n\n\tBiết hết tức toàn năng.\n\n\t...\n\n\tNhiều năm về sau.\n\n\t\"Từ cổ chí kim, tối cường sinh mạng thể là ai?\"\n\n\tTô Nguyên nhìn xem trước mặt ma kính, dò hỏi.\n\n\t\"Là ngài, chủ nhân vĩ đại!\"",
+  "vote_count": 97,
+  "review_score": "5.000",
+  "review_count": 2,
+  "comment_count": 22,
+  "chapter_count": 231,
+  "view_count": 0,
+  "word_count": 645518,
+  "created_at": "2025-09-09T01:05:16.000000Z",
+  "updated_at": "2026-02-17T04:35:57.000000Z",
+  "new_chap_at": "2026-02-07T07:21:54.000000Z",
+  "published_at": "2025-09-09T01:05:16.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Có Một Mặt Kính Biết Hết",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 125,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 11032,
+    "name": "Bất Thị Tinh Kỳ Thiên",
+    "avatar": null,
+    "local_name": "不是星期天",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 14,
+      "name": "Cao Võ Thế Giới",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": 101364,
+  "name": "Cấm Khu Chi Hùng",
+  "slug": "cam-khu-chi-hung",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/cam-khu-chi-hung",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11464457,
+  "latest_chapter": 11466005,
+  "latest_index": 1549,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/cam-khu-chi-hung/default.jpg?1585206113",
+    "600": "https://static.cdnno.com/poster/cam-khu-chi-hung/600.jpg?1585206113",
+    "300": "https://static.cdnno.com/poster/cam-khu-chi-hung/300.jpg?1585206113",
+    "150": "https://static.cdnno.com/poster/cam-khu-chi-hung/150.jpg?1585206113"
+  },
+  "synopsis": "Hắn là thế giới bóng đá tranh luận tính cầu thủ. Hắn tại trên sân bóng lấy được thành tựu rõ như ban ngày, nhưng cùng lúc hắn xúc động phách lối nhận người chán ghét, hắn xô đẩy trọng tài chính, khiêu khích đối thủ, dẫn phát ẩu đả. . .\n\nHắn khiến cho trọng tài chính đau đầu, hắn khiến cho đối thủ hậu vệ cùng thủ môn đau đầu, hắn thậm chí để cho mình cùng đối phương huấn luyện viên trưởng đều đau đầu. . .\n\nHắn khiến cho các truyền thông điên cuồng đuổi theo.\n\nHắn dùng ghi bàn lấy lòng fans hâm mộ.\n\nHắn cùng những cái kia muôn hình muôn vẻ các nữ nhân quan hệ bất chính chuyện xấu để cho người ta đố kỵ.\n\nHắn là thiên sứ cùng ma quỷ tổng hợp thể, có người có bao nhiêu chán ghét hắn, liền có nhiều người ưa thích hắn.\n\nDùng 《 Pháp quốc quả bóng 》 lời nói tới nói: \"Hắn là đương đại sân cỏ bên trên nhất không giống bình thường to con!\"\n\nThế nhưng Trần Anh Hùng cảm thấy những này đều chẳng có gì ghê gớm, đừng ngạc nhiên.\n\n\"Các ngươi cho là ta là ai? Ta là Trần Anh Hùng!\"\n\nCẩn thận! Hùng ẩn hiện!! \n\nTác giả định nghĩa nội dung: Nhiệt Huyết",
+  "vote_count": 6,
+  "review_score": "4.500",
+  "review_count": 2,
+  "comment_count": 12,
+  "chapter_count": 1549,
+  "view_count": 0,
+  "word_count": 6361398,
+  "created_at": "2020-03-26T07:01:53.000000Z",
+  "updated_at": "2026-02-16T13:44:37.000000Z",
+  "new_chap_at": "2018-05-14T04:00:13.000000Z",
+  "published_at": "2020-03-26T07:01:53.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Cấm Khu Chi Hùng",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 48,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 121,
+    "name": "Lâm Hải Thính Đào",
+    "avatar": null,
+    "local_name": "林海听涛",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 9,
+      "name": "Cạnh Kỹ",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,90 @@
+{
+  "id": 130846,
+  "name": "Tinh Thần Biến",
+  "slug": "tinh-than-bien",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/tinh-than-bien",
+  "note": "Chúc anh em một ngày đọc truyện quên hết mệt mỏi. Những bộ truyện cũ này chất lượng chưa thật sự tốt, một phần do mình lúc mới làm chưa có nhiều kinh nghiệm, một phần mình lấy lấp hố từ người khác làm, nên không kiểm soát được chất lượng. Thật lòng xin lỗi anh em.\nMình có bán khoai ở phần nạp khoai của web. Nếu anh em nào có nhu cầu thì mua ủng hộ mình nha (tên acc: Note Book). Rất biết ơn anh em",
+  "status_name": "Hoàn thành",
+  "first_chapter": 18995360,
+  "latest_chapter": 19004899,
+  "latest_index": 680,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tinh-than-bien/default.jpg?1722934527",
+    "600": "https://static.cdnno.com/poster/tinh-than-bien/600.jpg?1722934527",
+    "300": "https://static.cdnno.com/poster/tinh-than-bien/300.jpg?1722934527",
+    "150": "https://static.cdnno.com/poster/tinh-than-bien/150.jpg?1722934527"
+  },
+  "synopsis": "Ngàn năm trước, Tiềm Long Đại Lục Sở Quốc Hạng Thị giết chết Tần Vương soán đến vương vị, Tần Vương bộ tộc, lấy quốc làm họ, ẩn vào thế. Thẳng đến mấy năm trước Tần gia chủ mẹ bị Sở Vương sát hại, Trấn Đông Vương Tần Đức không thể không tái hiện sa trường, lập thệ muốn báo đất nước này cừu gia hận. \n\nTrấn Đông Vương Tam thế tử Tần Vũ, văn không có khả năng quyền mưu, võ không có khả năng tu nội công,  trợ giúp phụ thân.\n\nVì báo thù mẹ, mở ra lối riêng, khổ luyện ngoại công, lại dưới cơ duyên xảo hợp, đến trên trời rơi xuống kỳ thạch, từ đây, vận mệnh của hắn phát sinh  biến hóa nghiêng trời lệch đất. \n\nNào có thể đoán được một trận đại chiến bên trong, Tần Vũ không địch lại cường thủ, bị đâm xuyên trái tim......\n\nP/s: Này là bản làm lại bằng convert, không phải bản dịch như mấy bên khác.",
+  "vote_count": 4,
+  "review_score": "0.000",
+  "review_count": 0,
+  "comment_count": 13,
+  "chapter_count": 680,
+  "view_count": 0,
+  "word_count": 2022386,
+  "created_at": "2024-08-06T08:54:10.000000Z",
+  "updated_at": "2026-02-16T13:37:37.000000Z",
+  "new_chap_at": "2024-10-03T14:50:00.000000Z",
+  "published_at": "2024-08-06T11:02:37.000000Z",
+  "published": 1,
+  "user_id": 1084973,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Tinh Thần Biến",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 290,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1084973,
+    "name": "Note Book",
+    "avatar": [
+      "https://static.cdnno.com/user/66c10b39a8f74c217e1e60c10b8403d0/200.jpg?1767845034",
+      "https://static.cdnno.com/user/66c10b39a8f74c217e1e60c10b8403d0/100.jpg?1767845034",
+      "https://static.cdnno.com/user/66c10b39a8f74c217e1e60c10b8403d0/50.jpg?1767845034"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 379,
+    "name": "Ngã Cật Tây Hồng Thị",
+    "avatar": null,
+    "local_name": "我吃西红柿",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 12,
+      "name": "Dị Thế Đại Lục",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

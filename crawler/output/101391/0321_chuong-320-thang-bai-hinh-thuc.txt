@@ -1,0 +1,159 @@
+Chương 320  thắng bại hình thức
+
+Chương 320  thắng bại hình thức
+
+Vô luận là tại loại nào RPG bên trong, quyết đấu đều sẽ bị cân nhắc gia nhập hệ thống một trong.
+
+Mặc dù cũng không ít trò chơi không cho phép tiến hành "pk" hành vi, nhưng ở hai bên đồng ý phía dưới triển khai quyết đấu, lại là rất nhiều RPG trò chơi đặc điểm.
+
+Dù sao, một mực cùng quái vật chiến đấu cũng rất nhàm chán, nếu như người chơi cùng người chơi ở giữa có thể lẫn nhau thi đấu, so sánh song phương trò chơi kỹ thuật, cái kia không thể nghi ngờ hội gia tăng rất nhiều thú vị.
+
+Bởi vậy, cho dù là tại SAO thế giới như vậy bên trong  đồng dạng tồn tại quyết đấu hệ thống.
+
+Tại ngoài vòng tròn, các người chơi như thế tự tiện pk, cái kia suất công kích trước người chơi hội được trao cho người phạm tội thuộc tính, màu sắc phù tiêu lại biến thành màu cam, cũng không có cách nào tiến vào trong vòng.
+
+Tại trong vòng, các người chơi thì không cách nào tiến hành bất kỳ hành vi phạm tội, thuộc về khu vực an toàn.
+
+Thế nhưng là, nếu như là quyết đấu, vậy liền vô luận là tại trong vòng vẫn là tại ngoài vòng tròn, cũng là có thể tiến hành.
+
+Tại trạng huống như vậy dưới, chỉ cần hai bên đều đồng ý, người công kích kia liền sẽ không trở thành chanh tên.
+
+Beta thời kì lúc liền thường có người chơi hội lợi dụng quyết đấu tới khảo thí kiếm kỹ, tổ chức chuyển động cũng hoặc là coi như giải quyết phân tranh phương thức.
+
+Nhưng mà, từ khi SAO chính thức vận chuyển buôn bán, biến thành tử vong trò chơi về sau, quyết đấu liền trở thành kỷ luật nghiêm minh hành vi.
+
+Lý do đương nhiên là bởi vì HP về không lời nói liền sẽ nghênh đón cái chết thực sự.
+
+Kể từ đó, tự nhiên không có người chơi hội tự tiện tiến hành quyết đấu, chỉ có những cái kia rắp tâm làm loạn chanh tên người chơi mới có thể muốn lợi dụng quyết đấu hệ thống tới áp dụng giết người hành vi.
+
+Tuy nói, biết rõ HP về không liền sẽ chết mất các người chơi sẽ không dễ dàng đáp ứng quyết đấu, có thể SAO quyết đấu nhưng cũng bị thiết kế thành ba loại hình thức.
+
+Loại thứ nhất là chiến đấu đến HP về không mới thôi hình thức "Hoàn toàn thắng bại hình thức" .
+
+Loại thứ hai là chiến đấu đến HP còn lại một nửa liền kết thúc hình thức "Nửa tổn hại thắng bại hình thức" .
+
+Loại thứ ba là trước dùng cường lực công kích đánh trúng đối phương liền sẽ kết thúc hình thức "Sơ kích thắng bại hình thức" .
+
+Beta thời kì lúc, các người chơi liền cơ hồ không người nào nguyện ý lựa chọn quá mức đơn giản liền phân ra thắng bại sơ kích thắng bại hình thức cùng với sẽ cho người thấy không cách nào tận hứng nửa tổn hại thắng bại hình thức tiến hành quyết đấu, nhưng tại chính thức vận động về sau, hoàn toàn thắng bại hình thức phản mà trở thành chân chính cấm kỵ, không có bất kỳ cái gì một vị người chơi chọn dùng loại mô thức này tới tiến hành quyết đấu.
+
+Cho nên, coi như thật có cái gì không cách nào giải quyết phân tranh, các người chơi cũng chỉ chọn nửa tổn hại thắng bại hình thức hoặc là sơ kích thắng bại hình thức tới quyết đấu.
+
+Có thể còn lại hai loại hình thức bên trong  đồng dạng không là hoàn toàn không có tử vong nguy hiểm.
+
+Tỉ như nửa tổn hại thắng bại hình thức quyết đấu, tại quyết đấu song phương trong đó một phương HP thấp hơn 50% lúc liền sẽ kết thúc, tại trong vòng, làm biểu thị quyết đấu kết quả xem cửa sổ xuất hiện về sau, người chơi tiếp tục phát động công kích liền sẽ bị hệ thống bảo hộ ngăn cản lại tới mà vô hiệu hóa, tại ngoài vòng tròn, mức thương tổn thì sẽ tiếp tục thêm tính, nhưng cái này cấu thành hành vi phạm tội, sẽ trở thành chanh tên người chơi.
+
+Này nghe tựa hồ coi như an toàn, nhưng nếu một tên người chơi có 1000 HP, tại còn lại 510 lúc, nhận đủ để tạo thành 600 tổn thương công kích, cái kia HP ngay lập tức sẽ hàng là 0.
+
+Mà liền xem như quyết đấu, một khi HP biến thành 0, người chơi như cũ sẽ chết đi.
+
+Trái lại người công kích, bởi vì là tại quyết đấu hình thức hạ triển khai công kích, dù cho giết chết người chơi, cái kia cũng sẽ không biến thành chanh tên.
+
+Cái này hình thức liền bị chanh tên người chơi thậm chí chanh tên công hội lợi dụng qua, từ đó hại chết không ít người chơi, một lần nhường lòng người bàng hoàng.
+
+Từ trên tổng hợp lại, nửa tổn hại thắng bại hình thức đồng dạng đã bị liệt là cấm kỵ, không có người chơi lại mù quáng lựa chọn.
+
+Cứ như vậy cũng chỉ còn lại có cuối cùng một loại mô thức.
+
+"Sơ kích thắng bại hình thức."
+
+Tại tầng thứ 24 đường lớn khu bên trong một cái không người trên quảng trường, cầm trong tay Thập tự lá chắn, người khoác đỏ tươi trường bào Heathcliff liền nhìn xem đối diện Rama, bao hàm từ tính thanh âm vang lên lấy.
+
+"Làm một phương Hp trị còn lại một nửa, cũng hoặc là là cho cho cường lực lúc công kích coi như phân ra thắng bại, như thế không có vấn đề a?"
+
+Nghe được Heathcliff, đứng tại hắn đối diện Rama đùa lấy bay ở bên cạnh mình thải điệp cùng hoa điệp, còn chưa làm ra trả lời, một bên để xem chiến danh nghĩa ở đây Asuna liền dẫn đầu lên tiếng.
+
+"Thế nhưng là, đoàn trưởng, sơ kích thắng bại hình thức đồng dạng là có phong hiểm tồn tại a?"
+
+Chính như Asuna nói, cho dù là sơ kích thắng bại hình thức, cái kia cũng vẫn là có phong hiểm.
+
+Tỉ như, quyết đấu hai bên không sử dụng đủ để bị phán đoán là "Cường lực" công kích suy yếu lẫn nhau Hp trị, mãi đến đối phương Hp trị cách một nửa chỉ còn lại có một tia thời điểm, tái phát động đủ để mang đi hắn còn sót lại hết thảy HP cường lực công kích, cái kia đồng dạng sẽ tạo thành nửa tổn hại thắng bại hình thức một dạng tử vong nguy hiểm.
+
+Chỉ là. . .
+
+"Cái kia nhất định phải hai bên đều có giết chết ý nghĩ của đối phương, cố ý khống chế chính mình, không sử dụng cường lực công kích mới có thể làm đến, chỉ có một người có giết chết ý nghĩ của đối phương dưới tình huống, vậy chẳng những đến khống chế chính mình, vẫn phải có đầy đủ kỹ thuật đến xem phá cùng tránh đi đối thủ cường lực công kích, độ khó kia là phi thường lớn a?"
+
+Heathcliff mặt không đổi sắc nói.
+
+"Cho nên, nghĩ tại sơ kích thắng bại hình thức hạ hoàn thành giết người hành vi vô cùng khó khăn, mà lại đây đã là phương pháp an toàn nhất, không được cũng chỉ có thể cự tuyệt quyết đấu."
+
+Nói xong, Heathcliff đem tầm mắt quăng đến Rama thân bên trên.
+
+Cái kia đại khái liền là "Ngươi muốn làm như thế sao" ý tứ a?
+
+Rama không có trả lời.
+
+"Bắt đầu đi."
+
+Dùng một câu như vậy lời nói, Rama nói cho tất cả mọi người, lựa chọn của mình.
+
+". . ."
+
+Asuna không nói thêm nữa, chỉ là chăm chú nhìn chằm chằm trong sân, căn bản không biết đang suy nghĩ gì.
+
+Mà Heathcliff thì là bỗng nhiên cười một tiếng, nhìn xem Rama, cũng nhìn xem hắn bên người bay múa hai cái Thải Hồng Hoa Điệp, ngón tay dùng trôi chảy động tác gọi ra chủ tuyển đơn, lại tiến hành thao túng.
+
+Một giây sau, Rama xuất hiện trước mặt xem cửa sổ.
+
+"Người chơi "heathliff" hướng ngài đưa ra 1 vs 1 quyết đấu yêu cầu, có tiếp nhận hay không?"
+
+Nhìn xem cái này xem cửa sổ, Rama không chút do dự điểm xuống "Yes" ấn phím, cũng tại bắn ra tới "Hoàn toàn thắng bại hình thức" "Nửa tổn hại thắng bại hình thức" "Sơ kích thắng bại hình thức" ba cái tuyển hạng bên trong tuyển chọn cái cuối cùng "Sơ kích thắng bại hình thức" .
+
+Đinh
+
+Một cái to lớn xem cửa sổ lập tức tại Rama cùng Heathcliff hai người ở giữa xuất hiện, bắn ra gắn liền với thời gian 60 giây đếm ngược.
+
+Liền trong nháy mắt này. . .
+
+Sặc
+
+Tiếng vang lanh lảnh bên trong, Rama rút ra bên hông mình đeo một tay kiếm.
+
+Xùy
+
+Một bên khác, Heathcliff lại là chậm rãi theo chính mình trang bị ở trên tay Thập tự lá chắn bên trong rút ra vũ khí tới.
+
+Đó là một thanh so Rama trong tưởng tượng còn dài nhỏ kiếm.
+
+Chỉ bất quá, cái kia hẳn không phải là Rapier, mà là giống như Rama một tay kiếm.
+
+"Một tay kiếm cùng Thập tự lá chắn sao?"
+
+Rama đè thấp thân thể.
+
+Mặc dù nhìn giống như là phi thường chính quy một tay kiếm sử sẽ có phân phối, có thể Rama lại mơ hồ cảm thấy, này tựa hồ cũng không có đơn giản như vậy.
+
+Cô
+
+Ô
+
+Thải điệp cùng hoa điệp liền phảng phất có thể phát giác được Rama trong lòng trịnh trọng một dạng, một bên phát ra tiếng kêu, một bên đồng dạng tiến vào tác chiến trạng thái.
+
+Nhìn xem giằng co với nhau hai nam nhân, một bên, Asuna trầm mặc như trước không nói, có thể tay nhưng lại không biết lúc nào nắm lấy bên hông Rapier chuôi kiếm, còn đang không ngừng dùng sức.
+
+Cứ như vậy, đếm ngược một mực tại tiến hành.
+
+10. . .
+
+9. . .
+
+8. . .
+
+7. . .
+
+6. . .
+
+5. . .
+
+4. . .
+
+3. . .
+
+2. . .
+
+1. . .
+
+duel
+
+Làm như thế một cái xem cửa sổ thay thế đếm ngược, xuất hiện tại Rama cùng Heathcliff ở giữa lúc, hai người đồng thời đạp lên mặt đất, liền xông ra ngoài.
+
+Hai cái công hội hội trưởng quyết đấu tại này chính thức triển khai..

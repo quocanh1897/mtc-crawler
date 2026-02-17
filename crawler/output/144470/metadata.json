@@ -1,0 +1,102 @@
+{
+  "id": 144470,
+  "name": "Kính Chủ",
+  "slug": "kinh-chu",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 3,
+  "link": "https://metruyencv.com/truyen/kinh-chu",
+  "note": "",
+  "status_name": "Tạm dừng",
+  "first_chapter": 23482437,
+  "latest_chapter": 25939622,
+  "latest_index": 268,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/kinh-chu/default.jpg?1755066049",
+    "600": "https://static.cdnno.com/poster/kinh-chu/600.jpg?1755066049",
+    "300": "https://static.cdnno.com/poster/kinh-chu/300.jpg?1755066049",
+    "150": "https://static.cdnno.com/poster/kinh-chu/150.jpg?1755066049"
+  },
+  "synopsis": "Converter lời bình: Tác này viết giang hồ khoái chí ân cừu cực hay, bố cục của tác rất tốt, bộ nào tác viết cũng là siêu phẩm võ hiệp cực hay!\n\n\tVũ triều tám trăm năm, Lục Bạch tại đống xương trắng bên trong 'Khởi tử hoàn sinh', ngực khảm vào một chiếc gương cổ, từ đó bước vào giả dối quỷ quyệt, tà ma bộc phát thế giới.\n\n\tGiang hồ, triều đình, võ đạo, tu tiên... Một kiếm chiếu đêm, một tay che trời!",
+  "vote_count": 306,
+  "review_score": "5.000",
+  "review_count": 3,
+  "comment_count": 63,
+  "chapter_count": 268,
+  "view_count": 0,
+  "word_count": 481703,
+  "created_at": "2025-07-02T00:54:34.000000Z",
+  "updated_at": "2026-02-16T13:38:22.000000Z",
+  "new_chap_at": "2025-12-12T13:02:26.000000Z",
+  "published_at": "2025-07-02T00:54:33.000000Z",
+  "published": 1,
+  "user_id": 1000076,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Kính Chủ",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 597,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000076,
+    "name": "Shin Đzai",
+    "avatar": [
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/200.jpg?1750327701",
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/100.jpg?1750327701",
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/50.jpg?1750327701"
+    ],
+    "level": 4,
+    "exp": 3360,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1115,
+    "name": "Tuyết Mãn Cung Đao",
+    "avatar": null,
+    "local_name": "雪满弓刀",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 5,
+      "name": "Nhẹ Nhàng",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 14,
+      "name": "Cao Võ Thế Giới",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 61,
+      "name": "Phàm Nhân",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

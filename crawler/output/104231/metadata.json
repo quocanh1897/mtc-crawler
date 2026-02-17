@@ -1,0 +1,96 @@
+{
+  "id": 104231,
+  "name": "Đại Chu Tiên Lại",
+  "slug": "dai-chu-tien-lai",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/dai-chu-tien-lai",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 12760980,
+  "latest_chapter": 13887968,
+  "latest_index": 665,
+  "high_quality": 1,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/dai-chu-tien-lai/default.jpg?1591757003",
+    "600": "https://static.cdnno.com/poster/dai-chu-tien-lai/600.jpg?1591757003",
+    "300": "https://static.cdnno.com/poster/dai-chu-tien-lai/300.jpg?1591757003",
+    "150": "https://static.cdnno.com/poster/dai-chu-tien-lai/150.jpg?1591757003"
+  },
+  "synopsis": "Xuyên qua thế giới tiên hiệp yêu mị mọc lan tràn, quần ma loạn vũ, Lý Mộ bắt đầu thật chỉ muốn sống tạm, nhưng hắn trong lúc vô tình cứu được tiểu hồ ly bỗng nhiên miệng nói tiếng người, nói muốn lấy thân báo đáp. . .\n\n\tĐây là một cố sự về thanh niên hiện đại xuyên qua thế giới tiên hiệp, trảm yêu trừ ma, giúp đỡ chính nghĩa.",
+  "vote_count": 5235,
+  "review_score": "4.639",
+  "review_count": 42,
+  "comment_count": 1615,
+  "chapter_count": 665,
+  "view_count": 0,
+  "word_count": 1665022,
+  "created_at": "2020-06-10T00:57:43.000000Z",
+  "updated_at": "2026-02-17T15:28:49.000000Z",
+  "new_chap_at": "2021-08-07T09:55:14.000000Z",
+  "published_at": "2020-06-10T00:57:37.000000Z",
+  "published": 1,
+  "user_id": 1000015,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Đại Chu Tiên Lại",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1662,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000015,
+    "name": "DarkHero",
+    "avatar": [
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/200.jpg?1592316927",
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/100.jpg?1592316927",
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/50.jpg?1592316927"
+    ],
+    "level": 4,
+    "exp": 3484,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 389,
+    "name": "Vinh Tiểu Vinh",
+    "avatar": null,
+    "local_name": "荣小荣",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 5,
+      "name": "Nhẹ Nhàng",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 22,
+      "name": "Huyễn Tưởng Tu Tiên",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

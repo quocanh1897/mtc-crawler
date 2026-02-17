@@ -1,0 +1,96 @@
+{
+  "id": 148311,
+  "name": "Cựu Nhật Chi Lục",
+  "slug": "cuu-nhat-chi-luc",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/cuu-nhat-chi-luc",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 24965816,
+  "latest_chapter": 26059040,
+  "latest_index": 1158,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/cuu-nhat-chi-luc/default.jpg?1759454925",
+    "600": "https://static.cdnno.com/poster/cuu-nhat-chi-luc/600.jpg?1759454925",
+    "300": "https://static.cdnno.com/poster/cuu-nhat-chi-luc/300.jpg?1759454925",
+    "150": "https://static.cdnno.com/poster/cuu-nhat-chi-luc/150.jpg?1759454925"
+  },
+  "synopsis": "Đế vương một lòng chỉ cầu trường sinh tiêu dao, yêu ma hóa người điều khiển giang sơn xã tắc. Thế giới này thu hoạch được quyền lực biện pháp nhanh nhất, chính là bắt lấy các quyền quý trên cổ  dây cương. Mà các quyền quý sợ nhất  lực lượng, chính là những cái kia giấu ở trong hắc ám yêu, những cái kia khó lòng phòng bị ma.",
+  "vote_count": 8,
+  "review_score": "5.000",
+  "review_count": 1,
+  "comment_count": 7,
+  "chapter_count": 1158,
+  "view_count": 0,
+  "word_count": 2106269,
+  "created_at": "2025-10-03T01:27:04.000000Z",
+  "updated_at": "2026-02-17T16:37:07.000000Z",
+  "new_chap_at": "2026-02-17T16:37:00.000000Z",
+  "published_at": "2025-10-05T20:52:53.000000Z",
+  "published": 1,
+  "user_id": 1195685,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Cựu Nhật Chi Lục",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 147,
+  "chapter_per_week": 70,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1195685,
+    "name": "Duy Tân DTU",
+    "avatar": [
+      "https://static.cdnno.com/user/5136ed5c50dc1afba4f5cc296a28b6dd/200.jpg?1748763046",
+      "https://static.cdnno.com/user/5136ed5c50dc1afba4f5cc296a28b6dd/100.jpg?1748763046",
+      "https://static.cdnno.com/user/5136ed5c50dc1afba4f5cc296a28b6dd/50.jpg?1748763046"
+    ],
+    "level": 1,
+    "exp": 20,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 496,
+    "name": "Hùng Lang Cẩu",
+    "avatar": null,
+    "local_name": "熊狼狗",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 97,
+      "name": "Sau Màn",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

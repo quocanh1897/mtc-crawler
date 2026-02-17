@@ -1,0 +1,76 @@
+{
+  "id": 101390,
+  "name": "Đô Thị Tối Cường Nghịch Thiên Chúa Tể",
+  "slug": "do-thi-toi-cuong-nghich-thien-chua-te",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/do-thi-toi-cuong-nghich-thien-chua-te",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11483205,
+  "latest_chapter": 11483814,
+  "latest_index": 610,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/do-thi-toi-cuong-nghich-thien-chua-te/default.jpg?1585206126",
+    "600": "https://static.cdnno.com/poster/do-thi-toi-cuong-nghich-thien-chua-te/600.jpg?1585206126",
+    "300": "https://static.cdnno.com/poster/do-thi-toi-cuong-nghich-thien-chua-te/300.jpg?1585206126",
+    "150": "https://static.cdnno.com/poster/do-thi-toi-cuong-nghich-thien-chua-te/150.jpg?1585206126"
+  },
+  "synopsis": ".\t(Hỏa bạo vô địch văn) Băng sơn tổng giám đốc, quốc dân nữ thần, hoàng thất công chúa? Nhìn ta để ý đến các ngươi sao?\n\nĐệ nhất binh vương, Tiên Đế chuyển thế, tối cường Kiếm Thần, hệ thống cường giả? Ta vô địch, các ngươi tùy ý!\n\nDiệp Khuynh Thiên: \"Như thế gian không vô địch chi pháp, ta liền làm cái kia vô địch chi nhân!\"\n\nNghịch thiên còn có ngoại lệ, nghịch ta tuyệt không sinh cơ!",
+  "vote_count": 6,
+  "review_score": "4.529",
+  "review_count": 1,
+  "comment_count": 8,
+  "chapter_count": 610,
+  "view_count": 0,
+  "word_count": 1629960,
+  "created_at": "2020-03-26T07:02:06.000000Z",
+  "updated_at": "2026-02-16T13:43:22.000000Z",
+  "new_chap_at": "2019-01-26T10:00:03.000000Z",
+  "published_at": "2020-03-26T07:02:06.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Đô Thị Tối Cường Nghịch Thiên Chúa Tể",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 123,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1188,
+    "name": "Sớm Rượu Vãn Trà",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,95 @@
+{
+  "id": 100267,
+  "name": "Ta Đem Trái Đất Làm Thành Võng Du",
+  "slug": "ta-dem-trai-dat-lam-thanh-vong-du",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/ta-dem-trai-dat-lam-thanh-vong-du",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 10280728,
+  "latest_chapter": 26285304,
+  "latest_index": 1070,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-dem-trai-dat-lam-thanh-vong-du/default.jpg?1717623786",
+    "600": "https://static.cdnno.com/poster/ta-dem-trai-dat-lam-thanh-vong-du/600.jpg?1717623786",
+    "300": "https://static.cdnno.com/poster/ta-dem-trai-dat-lam-thanh-vong-du/300.jpg?1717623786",
+    "150": "https://static.cdnno.com/poster/ta-dem-trai-dat-lam-thanh-vong-du/150.jpg?1717623786"
+  },
+  "synopsis": "\"Hoan nghênh kích hoạt cải tạo Trái Đất du hí hệ thống!\"\n\n\"Mời tuyển trạch một cái thành thị đường phố bắt đầu đem Trái Đất cải tạo thành sân chơi!\"\n\n\"Mời tuyển trạch quái vật giáng lâm chủng loại!\"\n\nLàm một danh xuyên việt giả, Sở Hạo phát hiện mình trên người xuất hiện một cái cải tạo Trái Đất trò chơi hệ thống, có thể mang toàn bộ Trái Đất cải tạo thành sân chơi, còn có thể cải tạo bất kỳ quái vật!\n\nĐến tận đây, hết thảy người địa cầu nhớ kỹ ngày nào đó xuất hiện, bọn họ trong đầu đồng thời xuất hiện một cái tà ác sợ hãi thanh âm!\n\n\"Ta là Trái Đất cải tạo giả, Trái Đất đã bị ta cải tạo thành sân chơi, tương hội tại sau năm phút tiến nhập du hí mới bắt đầu. . . Như vậy, xin chuẩn bị kỹ lưỡng nghênh tiếp ta là các ngươi cải tạo quái vật a !!\"\n\nTừ đây Zombie, cương thi Hoàng Cân Quân, võ hiệp, Tiên Hiệp, Huyền Huyễn, kỳ huyễn các loại(chờ) một series sân chơi cảnh hòa quái vật xuất hiện ở hiện thực bên trong. . . \n\nNgười chơi liều mạng cường hóa tự thân, ta ngồi tại chỗ sao chép là được.",
+  "vote_count": 20,
+  "review_score": "4.841",
+  "review_count": 5,
+  "comment_count": 46,
+  "chapter_count": 1067,
+  "view_count": 0,
+  "word_count": 1761296,
+  "created_at": "2020-03-26T06:51:54.000000Z",
+  "updated_at": "2026-02-16T13:51:57.000000Z",
+  "new_chap_at": "2026-02-10T14:09:00.000000Z",
+  "published_at": "2020-03-26T06:51:54.000000Z",
+  "published": 1,
+  "user_id": 1000010,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Đem Trái Đất Làm Thành Võng Du",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 654,
+  "chapter_per_week": 7,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000010,
+    "name": "Yurisa",
+    "avatar": [
+      "https://static.cdnno.com/user/3e267ff3c8b6621e5ad4d0f26142892b/200.jpg?1614187826",
+      "https://static.cdnno.com/user/3e267ff3c8b6621e5ad4d0f26142892b/100.jpg?1614187826",
+      "https://static.cdnno.com/user/3e267ff3c8b6621e5ad4d0f26142892b/50.jpg?1614187826"
+    ],
+    "level": 4,
+    "exp": 2123,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 250,
+    "name": "Dưới Gầm Giường Lão Vương",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 5,
+      "name": "Võng Du",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 5,
+      "name": "Nhẹ Nhàng",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 49,
+      "name": "Thám Hiểm Sinh Tồn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

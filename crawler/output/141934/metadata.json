@@ -1,0 +1,102 @@
+{
+  "id": 141934,
+  "name": "Cửu Dương Võ Thần",
+  "slug": "cuu-duong-vo-than",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/cuu-duong-vo-than",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 22568336,
+  "latest_chapter": 26848580,
+  "latest_index": 1592,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/cuu-duong-vo-than/default.jpg?1746609596",
+    "600": "https://static.cdnno.com/poster/cuu-duong-vo-than/600.jpg?1746609596",
+    "300": "https://static.cdnno.com/poster/cuu-duong-vo-than/300.jpg?1746609596",
+    "150": "https://static.cdnno.com/poster/cuu-duong-vo-than/150.jpg?1746609596"
+  },
+  "synopsis": "Võ đạo thế giới, thực lực vi tôn, hết thảy dùng nắm đấm nói chuyện!\n\n\tThiên Đế Diệp Vân Phi, trở lại máu nóng thời đại thiếu niên, nghịch thiên cải mệnh, quật khởi mạnh mẽ, bại tận vạn tộc thiên kiêu, ôm ấp mỹ nhân tuyệt thế, tiếu ngạo thiên hạ!\n\n\tBa ngàn đại tiểu thế giới, duy ngã độc tôn!",
+  "vote_count": 5,
+  "review_score": "0.000",
+  "review_count": 0,
+  "comment_count": 18,
+  "chapter_count": 1592,
+  "view_count": 0,
+  "word_count": 3002127,
+  "created_at": "2025-05-07T09:19:40.000000Z",
+  "updated_at": "2026-02-16T13:41:27.000000Z",
+  "new_chap_at": "2026-02-07T07:34:30.000000Z",
+  "published_at": "2025-05-07T09:19:40.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Cửu Dương Võ Thần",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 149,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 23460,
+    "name": "Ngã Cật Diện Bao",
+    "avatar": null,
+    "local_name": "我吃面包",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 62,
+      "name": "Vô Địch",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

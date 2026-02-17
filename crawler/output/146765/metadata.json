@@ -1,0 +1,102 @@
+{
+  "id": 146765,
+  "name": "Nghề Nghiệp Của Ta Quá Có Cá Tính",
+  "slug": "nghe-nghiep-cua-ta-qua-co-ca-tinh",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/nghe-nghiep-cua-ta-qua-co-ca-tinh",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 24335531,
+  "latest_chapter": 26848650,
+  "latest_index": 346,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/nghe-nghiep-cua-ta-qua-co-ca-tinh/default.jpg?1756107963",
+    "600": "https://static.cdnno.com/poster/nghe-nghiep-cua-ta-qua-co-ca-tinh/600.jpg?1756107963",
+    "300": "https://static.cdnno.com/poster/nghe-nghiep-cua-ta-qua-co-ca-tinh/300.jpg?1756107963",
+    "150": "https://static.cdnno.com/poster/nghe-nghiep-cua-ta-qua-co-ca-tinh/150.jpg?1756107963"
+  },
+  "synopsis": "Bị khói đen chôn sống thành thị, du đãng trong bóng đêm vĩ ngạn thân ảnh, trong mộng nói mớ, như sơn nhạc kim loại hài cốt, đây là một cái điên cuồng thế giới, danh sách các chức nghiệp giả gian nan cầu sinh.\n\n\tMay mắn, Tô Thần có bảng nghề nghiệp kề bên người, thu thập nghề nghiệp tin tức, hoàn thành điều kiện, liền có thể nhậm chức.\n\n\t【  Bàn Thạch Đấu Sĩ 】 tấn thăng 【  Huyết Nhục Hoàng Đế 】!\n\n\t【  Ảo Thuật sư 】 tấn thăng 【  Nguyên Tố Bạo Quân 】!\n\n\tĐường bằng phẳng đều ở dưới chân, cho nên hắn cẩn thận chặt chẽ, thận trọng từng bước, mãi đến...\n\n\t【  Huyết Nhục Hoàng Đế ghét bỏ ngươi lằng nhà lằng nhằng, không có chút nào dũng cảm tiến tới chi tâm, quyết định gia tăng nhậm chức độ khó 】\n\n\t【  Ám Dạ Hí Mệnh Sư thèm nhỏ dãi cùng ngươi, quyết định nhảy qua nhậm chức yêu cầu, nhường ngươi trực tiếp nhậm chức 】\n\n\t【 Lực Sĩ 】 ăn hết 【  Tật Phong Hành Giả 】, lột xác thành 【  Liệt Không Chiến Sĩ 】\n\n\tTô Thần trợn mắt hốc mồm, ta này nghề nghiệp, cũng quá có cá tính!",
+  "vote_count": 139,
+  "review_score": "4.833",
+  "review_count": 3,
+  "comment_count": 29,
+  "chapter_count": 346,
+  "view_count": 0,
+  "word_count": 1045208,
+  "created_at": "2025-08-25T07:45:44.000000Z",
+  "updated_at": "2026-02-17T09:18:24.000000Z",
+  "new_chap_at": "2026-02-07T07:39:51.000000Z",
+  "published_at": "2025-08-25T07:45:44.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Nghề Nghiệp Của Ta Quá Có Cá Tính",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 304,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 10820,
+    "name": "Đoàn Hựu Viên",
+    "avatar": null,
+    "local_name": "团又圆",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 12,
+      "name": "Dị Thế Đại Lục",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

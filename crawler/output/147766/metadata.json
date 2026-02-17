@@ -1,0 +1,90 @@
+{
+  "id": 147766,
+  "name": "Quy Khư Tiên Quốc",
+  "slug": "quy-khu-tien-quoc",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/quy-khu-tien-quoc",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 24750368,
+  "latest_chapter": 26753179,
+  "latest_index": 258,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/quy-khu-tien-quoc/default.jpg?1763993105",
+    "600": "https://static.cdnno.com/poster/quy-khu-tien-quoc/600.jpg?1763993105",
+    "300": "https://static.cdnno.com/poster/quy-khu-tien-quoc/300.jpg?1763993105",
+    "150": "https://static.cdnno.com/poster/quy-khu-tien-quoc/150.jpg?1763993105"
+  },
+  "synopsis": "Khi người tử vong một khắc này, sẽ hay không tiến vào Luân Hồi\n\n\tKhi  ảo tưởng bị chúng sinh khắc ghi, có thể hay không ảo tưởng thành thật\n\n\tKhi quyền quý cùng bình dân cùng chỗ, có thể hay không tiếp tục cao quý\n\n\tKhi vạn tộc vì sinh tồn mà chiến, có thể hay không sừng sững trường tồn\n\n\tQuy Khư\n\n\tCải tạo tất cả quy tắc, tại chỗ này, có thể nhìn thấy ảo tưởng chiếu vào hiện thực, Nhân Tộc chỉ là Quy Khư bên trong giãy dụa cầu sinh thú săn.\n\n\tQuy Khư đệ nhất quy tắc: Vạn vật tàn lụi\n\n\tQuy Khư thứ hai quy tắc: Dân dĩ thực vi thiên\n\n\t. . . .\n\nMà thiên phú, có phẩm giai.\n\n\tLấy Hắc Thiết, Thanh Đồng, Bạch Ngân, Hoàng Kim...",
+  "vote_count": 27,
+  "review_score": "0.000",
+  "review_count": 0,
+  "comment_count": 8,
+  "chapter_count": 258,
+  "view_count": 0,
+  "word_count": 645029,
+  "created_at": "2025-09-19T09:55:30.000000Z",
+  "updated_at": "2026-02-17T09:30:33.000000Z",
+  "new_chap_at": "2026-02-17T00:15:00.000000Z",
+  "published_at": "2025-09-19T09:55:30.000000Z",
+  "published": 1,
+  "user_id": 1000010,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Quy Khư Tiên Quốc",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 133,
+  "chapter_per_week": 21,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000010,
+    "name": "Yurisa",
+    "avatar": [
+      "https://static.cdnno.com/user/3e267ff3c8b6621e5ad4d0f26142892b/200.jpg?1614187826",
+      "https://static.cdnno.com/user/3e267ff3c8b6621e5ad4d0f26142892b/100.jpg?1614187826",
+      "https://static.cdnno.com/user/3e267ff3c8b6621e5ad4d0f26142892b/50.jpg?1614187826"
+    ],
+    "level": 4,
+    "exp": 2123,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 913,
+    "name": "Cô Độc Phiêu Lưu",
+    "avatar": null,
+    "local_name": "孤独漂流",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 21,
+      "name": "Tu Chân Văn Minh",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}

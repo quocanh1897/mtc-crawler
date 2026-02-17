@@ -1,0 +1,76 @@
+{
+  "id": 101379,
+  "name": "Thần Thoại Cấm Khu",
+  "slug": "than-thoai-cam-khu",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/than-thoai-cam-khu",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11472289,
+  "latest_chapter": 11473201,
+  "latest_index": 913,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/than-thoai-cam-khu/default.jpg?1585206120",
+    "600": "https://static.cdnno.com/poster/than-thoai-cam-khu/600.jpg?1585206120",
+    "300": "https://static.cdnno.com/poster/than-thoai-cam-khu/300.jpg?1585206120",
+    "150": "https://static.cdnno.com/poster/than-thoai-cam-khu/150.jpg?1585206120"
+  },
+  "synopsis": "Làm một cái ưu tú tiến hóa giả, chúng ta cần có, không phải rèn luyện, tu luyện, mà là trước tiên đem chén này canh gà hầm tốt.\n\n\"Ừm, nhiều thả điểm cây nấm, đây là nổi danh gà con hầm nấm, chúng ta làm chén này canh gà, liền có thể tiến hóa.\" Hà Phàm trịnh trọng nói.\n\n\"Ngươi xác định ngươi này đủ mọi màu sắc cây nấm có thể ăn? Ngươi không biết này cây nấm có độc, vẫn là kịch độc?\" Liễu Thanh Duyên vẻ mặt trắng bệch.\n\n\"Ừm. . . Cái kia chính là sống sót liền có thể tiến hóa, đến, ngươi trước cạn mời ta!\" Hà Phàm suy tư một lát, một mặt trịnh trọng nói: \"Ngươi trước tiến hóa.\"\n\n\". . . Cáo từ!\"\n\nNhìn xem hung thú bá chủ, Hà Phàm quơ dao phay: \"Nói đi, ngươi muốn được ăn thành mấy cấp bảo hộ động vật?\"",
+  "vote_count": 38,
+  "review_score": "4.383",
+  "review_count": 4,
+  "comment_count": 14,
+  "chapter_count": 913,
+  "view_count": 0,
+  "word_count": 2552468,
+  "created_at": "2020-03-26T07:02:00.000000Z",
+  "updated_at": "2026-02-16T13:43:01.000000Z",
+  "new_chap_at": "2018-10-04T04:00:00.000000Z",
+  "published_at": "2020-03-26T07:02:00.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Thần Thoại Cấm Khu",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 310,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 851,
+    "name": "Hà Xử Bất Nhiễm Trần",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

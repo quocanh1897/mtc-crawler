@@ -1,0 +1,84 @@
+{
+  "id": 104227,
+  "name": "Chiến Thần Vô Song Cửu Trọng Thiên",
+  "slug": "chien-than-vo-song-cuu-trong-thien",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/chien-than-vo-song-cuu-trong-thien",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 12761909,
+  "latest_chapter": 16858156,
+  "latest_index": 2558,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/chien-than-vo-song-cuu-trong-thien/default.jpg?1592278354",
+    "600": "https://static.cdnno.com/poster/chien-than-vo-song-cuu-trong-thien/600.jpg?1592278354",
+    "300": "https://static.cdnno.com/poster/chien-than-vo-song-cuu-trong-thien/300.jpg?1592278354",
+    "150": "https://static.cdnno.com/poster/chien-than-vo-song-cuu-trong-thien/150.jpg?1592278354"
+  },
+  "synopsis": "Sáu năm trước, Trần Cuồng bị vị hôn thê cướp đi đan dược ném vào vực sâu vạn trượng, lại đến kỳ duyên, mở ra một cái khác đoạn nhân sinh!\n\n\tTừng có đại giáo liên thủ với Thánh địa binh lâm thành hạ!\n\n\tTừng có thế gia kết minh, trăm vạn đại quân phô thiên cái địa!\n\n\tTừng có tà ma bố trí vạn cổ sát trận!\n\n\tTừng có Cổ lão đại tộc tuyên bố có muốn không tiếc hết thảy trấn sát!\n\n\tTrần Cuồng ngẩng đầu mà đứng: Cái nào đại giáo dám cản ta nói, phá vỡ chi chính là, cái nào thế gia ngăn con đường của ta, san bằng đúng đấy!\n\n\tNhiều ít túng hoành thiên địa cổ lão thế gia, nhưng phàm đối địch với Trần Cuồng, đều từng san bằng!\n\n\tNhiều ít sừng sững mấy cái thời đại không ngã đại tộc, dám can đảm đến phạm, nhất định huyết tẩy!\n\n\tBây giờ, Trần Cuồng trở về, lúc trước chịu khuất nhục, cần dùng máu tươi tới thanh tẩy, mới không phụ giết thần chi danh!",
+  "vote_count": 1850,
+  "review_score": "4.833",
+  "review_count": 7,
+  "comment_count": 135,
+  "chapter_count": 2555,
+  "view_count": 0,
+  "word_count": 4416608,
+  "created_at": "2020-06-09T11:02:39.000000Z",
+  "updated_at": "2026-02-16T13:36:16.000000Z",
+  "new_chap_at": "2023-10-05T01:48:37.000000Z",
+  "published_at": "2020-06-09T11:02:36.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Chiến Thần Vô Song Cửu Trọng Thiên",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 591,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1104,
+    "name": "Vũ Phong",
+    "avatar": null,
+    "local_name": "禹枫",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}

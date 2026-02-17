@@ -1,0 +1,77 @@
+{
+  "id": 101348,
+  "name": "Gien Tối Cường",
+  "slug": "gien-toi-cuong",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/gien-toi-cuong",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11451917,
+  "latest_chapter": 11452796,
+  "latest_index": 880,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/gien-toi-cuong/default.jpg?1585206104",
+    "600": "https://static.cdnno.com/poster/gien-toi-cuong/600.jpg?1585206104",
+    "300": "https://static.cdnno.com/poster/gien-toi-cuong/300.jpg?1585206104",
+    "150": "https://static.cdnno.com/poster/gien-toi-cuong/150.jpg?1585206104"
+  },
+  "synopsis": "Ngươi nghe qua gen thuật chế tác sao?  Từ khi Trần Phong tại trong ngàn tỉ gen chế tạo ra đầu kia hiếm thấy nhất gen biến dị thời khắc. Hắn biết! Thuộc về hắn thời đại, đến.  Tác giả định nghĩa nội dung:  Cảm xúc sục sôi, vô hạn huyễn tưởng, đón gió huy đánh ngàn cơn sóng, thiếu niên bất bại nhiệt huyết!",
+  "vote_count": 18,
+  "review_score": "4.100",
+  "review_count": 3,
+  "comment_count": 17,
+  "chapter_count": 880,
+  "view_count": 0,
+  "word_count": 2544860,
+  "created_at": "2020-03-26T07:01:44.000000Z",
+  "updated_at": "2026-02-16T13:42:18.000000Z",
+  "new_chap_at": "2018-07-05T16:00:21.000000Z",
+  "published_at": "2020-03-26T07:01:44.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Gien Tối Cường",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 288,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1166,
+    "name": "Linh Hạ Cửu Thập Độ",
+    "avatar": null,
+    "local_name": "零下九十度",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

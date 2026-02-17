@@ -1,0 +1,84 @@
+{
+  "id": 135671,
+  "name": "Hàng Long Thần Bổ",
+  "slug": "hang-long-than-bo",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/hang-long-than-bo",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 20325457,
+  "latest_chapter": 21836867,
+  "latest_index": 3362,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/hang-long-than-bo/default.jpg?1732804294",
+    "600": "https://static.cdnno.com/poster/hang-long-than-bo/600.jpg?1732804294",
+    "300": "https://static.cdnno.com/poster/hang-long-than-bo/300.jpg?1732804294",
+    "150": "https://static.cdnno.com/poster/hang-long-than-bo/150.jpg?1732804294"
+  },
+  "synopsis": "Theo cảnh mấy năm, hồn xuyên kỳ quái thế giới. Trong núi tinh quái đi, ban đêm âm hồn ác linh cương thi tầng tầng lớp lớp, yếu như sâu kiến, đương lập chí lớn, thân bị chèn ép, tất nặn bất khuất chi tâm. Trở lên đơn thuần lời vô ích. Liền một tiểu bổ khoái, nha môn làm công, chư vị gia mạnh khỏe.",
+  "vote_count": 38,
+  "review_score": "5.000",
+  "review_count": 1,
+  "comment_count": 16,
+  "chapter_count": 3061,
+  "view_count": 0,
+  "word_count": 5300425,
+  "created_at": "2024-11-28T14:31:27.000000Z",
+  "updated_at": "2026-02-17T14:05:00.000000Z",
+  "new_chap_at": "2025-07-25T13:17:00.000000Z",
+  "published_at": "2024-11-29T03:16:19.000000Z",
+  "published": 1,
+  "user_id": 1074961,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Hàng Long Thần Bổ",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 248,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1074961,
+    "name": "Why05you",
+    "avatar": [
+      "https://static.cdnno.com/user/9f51e7edd0c530fefba0651d2810a2ed/200.jpg?1607423150",
+      "https://static.cdnno.com/user/9f51e7edd0c530fefba0651d2810a2ed/100.jpg?1607423150",
+      "https://static.cdnno.com/user/9f51e7edd0c530fefba0651d2810a2ed/50.jpg?1607423150"
+    ],
+    "level": 0,
+    "exp": 6,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 16483,
+    "name": "Dạ Mâu Tàng Phong",
+    "avatar": null,
+    "local_name": "夜眸藏锋",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

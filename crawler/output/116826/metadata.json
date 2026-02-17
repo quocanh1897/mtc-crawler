@@ -1,0 +1,102 @@
+{
+  "id": 116826,
+  "name": "Yêu Nữ Dừng Tay",
+  "slug": "yeu-nu-dung-tay",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/yeu-nu-dung-tay",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 15878657,
+  "latest_chapter": 16785385,
+  "latest_index": 283,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/yeu-nu-dung-tay/default.jpg?1676938868",
+    "600": "https://static.cdnno.com/poster/yeu-nu-dung-tay/600.jpg?1676938868",
+    "300": "https://static.cdnno.com/poster/yeu-nu-dung-tay/300.jpg?1676938868",
+    "150": "https://static.cdnno.com/poster/yeu-nu-dung-tay/150.jpg?1676938868"
+  },
+  "synopsis": "\tXuyên qua tiên hiệp thế giới, trở thành Bạch Vân quan một tên Luyện Khí kỳ đệ tử.\n\n\tLý Ngọc vốn định an tâm tu tiên, vấn đạo trường sinh, thuận tiện trảm trảm yêu, trừ trừ ma. . .\n\n\tCó thể khuya khoắt, thần bí Ma giáo yêu nữ bỗng nhiên xông vào phòng của hắn bên trong, nói cho hắn biết kỳ thật hắn là Ma giáo nằm vùng. . .",
+  "vote_count": 1554,
+  "review_score": "4.982",
+  "review_count": 17,
+  "comment_count": 368,
+  "chapter_count": 283,
+  "view_count": 0,
+  "word_count": 811483,
+  "created_at": "2023-02-21T00:20:35.000000Z",
+  "updated_at": "2026-02-17T07:34:06.000000Z",
+  "new_chap_at": "2023-09-19T02:27:17.000000Z",
+  "published_at": "2023-02-21T00:20:35.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Yêu Nữ Dừng Tay",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 772,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 389,
+    "name": "Vinh Tiểu Vinh",
+    "avatar": null,
+    "local_name": "荣小荣",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

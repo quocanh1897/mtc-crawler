@@ -1,0 +1,84 @@
+{
+  "id": 106917,
+  "name": "Tiên Đế Bản Thân Tu Dưỡng",
+  "slug": "tien-de-ban-than-tu-duong",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/tien-de-ban-than-tu-duong",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13481332,
+  "latest_chapter": 13972329,
+  "latest_index": 266,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tien-de-ban-than-tu-duong/default.jpg?1616034647",
+    "600": "https://static.cdnno.com/poster/tien-de-ban-than-tu-duong/600.jpg?1616034647",
+    "300": "https://static.cdnno.com/poster/tien-de-ban-than-tu-duong/300.jpg?1616034647",
+    "150": "https://static.cdnno.com/poster/tien-de-ban-than-tu-duong/150.jpg?1616034647"
+  },
+  "synopsis": "【  Vũ Hóa tiên đan: Như tại ***, ***, *** chờ mười chín chỗ tiến hành cải tiến, dược hiệu có thể tăng lên gấp ba trở lên. 】\n\n\t【  Thanh Đế kiếm quyết: Nếu có thể cải tiến ***, *** chờ ba mươi bảy chỗ sơ hở, uy lực đem đột ngột tăng gấp năm lần. 】\n\n\t【  Sở Tiêu Luyện: Ngã xuống thiên tài, trên người có Kiếm Thánh tàn hồn sống nhờ, vừa bị từ hôn, hiện tại vô cùng khát vọng mạnh lên. —— điểm tính ngưỡng: 85 】\n\n\t. . .\n\n\tXuyên qua Tu Tiên giới, trở thành Ngạo Kiếm tiên môn truyền kỳ đại sư huynh.\n\n\tHàn Quang phát hiện mình có khả năng nhìn rõ vạn vật tin tức, thu hoạch được tín ngưỡng sau còn có thể phục chế người khác năng lực.\n\n\tThế là, một vị có được siêu cao nhan trị tao lời vương, tình cảm đại sư, phương tâm tên phóng hỏa, súp gà cho tâm hồn người chế tạo, cùng với. . .\n\n\tThần cấp trang bức phạm, sinh ra!",
+  "vote_count": 481,
+  "review_score": "4.625",
+  "review_count": 8,
+  "comment_count": 128,
+  "chapter_count": 266,
+  "view_count": 0,
+  "word_count": 789537,
+  "created_at": "2021-03-18T02:30:49.000000Z",
+  "updated_at": "2026-02-16T13:39:43.000000Z",
+  "new_chap_at": "2021-09-06T03:54:07.000000Z",
+  "published_at": "2021-03-18T02:30:47.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Tiên Đế Bản Thân Tu Dưỡng",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 476,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3176,
+    "name": "Vân Trung Điện",
+    "avatar": null,
+    "local_name": "云中殿",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "Vô Sỉ",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}

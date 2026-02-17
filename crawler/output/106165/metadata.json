@@ -1,0 +1,84 @@
+{
+  "id": 106165,
+  "name": "Khóa Lại Thiên Tài Liền Mạnh Lên",
+  "slug": "khoa-lai-thien-tai-lien-manh-len",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/khoa-lai-thien-tai-lien-manh-len",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13262225,
+  "latest_chapter": 13801583,
+  "latest_index": 188,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/khoa-lai-thien-tai-lien-manh-len/default.jpg?1609129493",
+    "600": "https://static.cdnno.com/poster/khoa-lai-thien-tai-lien-manh-len/600.jpg?1609129493",
+    "300": "https://static.cdnno.com/poster/khoa-lai-thien-tai-lien-manh-len/300.jpg?1609129493",
+    "150": "https://static.cdnno.com/poster/khoa-lai-thien-tai-lien-manh-len/150.jpg?1609129493"
+  },
+  "synopsis": "Ngươi cùng Đại Đường công chúa thưởng thức tử khí, đàm luận Thiên Đạo, thu hoạch được \"Tử Khí Đông Lai Công\" !\n\n\tNgươi cùng yêu tộc Thánh nữ dò xét bí cảnh, tìm kiếm truyền thừa, thu hoạch được \"Yêu Hoàng Bất Diệt Thể\" !\n\n\tNgươi cùng Ma tộc Ma Tử quyết chiến Nam Hải, cùng chung chí hướng, thu hoạch được \"Thần Ma Trấn Ngục Kình\" !\n\n\t. . .\n\n\t\"Đinh! Chúc mừng ngươi khóa lại Thần tộc thiên kiêu, đem thu hoạch được đồng đẳng với đối phương 150% tu hành cảm ngộ cùng tu hành tốc độ!\"\n\n\t\"Chúc ngài tu hành vui sướng!\"\n\n\tĐây là một cái. . . Khóa lại thiên tài liền có thể vô hạn mạnh lên chuyện xưa.\n\nLý Hồng Thiên sách mới, cùng tác: Chế Tạo Siêu Huyền Huyễn Thế Giới, Dị Thế Giới Mỹ Thực Gia...",
+  "vote_count": 506,
+  "review_score": "4.979",
+  "review_count": 8,
+  "comment_count": 182,
+  "chapter_count": 186,
+  "view_count": 0,
+  "word_count": 582107,
+  "created_at": "2020-12-24T02:15:46.000000Z",
+  "updated_at": "2026-02-16T13:40:59.000000Z",
+  "new_chap_at": "2021-07-08T11:02:16.000000Z",
+  "published_at": "2020-12-24T02:15:44.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Khóa Lại Thiên Tài Liền Mạnh Lên",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 430,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3105,
+    "name": "Lý Hồng Thiên",
+    "avatar": null,
+    "local_name": "李鸿天",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}

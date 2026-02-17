@@ -1,0 +1,77 @@
+{
+  "id": 101392,
+  "name": "Phục Thiên Kiếm Tôn",
+  "slug": "phuc-thien-kiem-ton",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/phuc-thien-kiem-ton",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11483815,
+  "latest_chapter": 11484065,
+  "latest_index": 251,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/phuc-thien-kiem-ton/default.jpg?1585206127",
+    "600": "https://static.cdnno.com/poster/phuc-thien-kiem-ton/600.jpg?1585206127",
+    "300": "https://static.cdnno.com/poster/phuc-thien-kiem-ton/300.jpg?1585206127",
+    "150": "https://static.cdnno.com/poster/phuc-thien-kiem-ton/150.jpg?1585206127"
+  },
+  "synopsis": "Từng tiêu dao vạn giới, vô địch tịch mịch, hoàn vũ xưng vương;\n\nVì tình mà thương, tiên lộ đoạn, hồn tiêu vong, sống chết cách xa nhau.\n\nTrùng sinh luân hồi, tà tôn trở về, mọi loại vinh quang đều có thể phế, ngạo kiếm thiên hạ làm y cuồng.\n\nVõ giả nhập môn lĩnh vực: Luyện Khí cảnh, Tiên Thiên cảnh.\nVõ đạo chân đan lĩnh vực: Tử Khí cảnh, Chân Nguyên cảnh, Thiên Nguyên cảnh, Hư Đan cảnh, Chân Đan cảnh, Huyền Đan cảnh; Thiên Đan cảnh cùng Hồn Đan cảnh.\n\n\nTàn Kiếm sách mới.",
+  "vote_count": 0,
+  "review_score": "4.429",
+  "review_count": 1,
+  "comment_count": 2,
+  "chapter_count": 251,
+  "view_count": 0,
+  "word_count": 720637,
+  "created_at": "2020-03-26T07:02:07.000000Z",
+  "updated_at": "2026-02-16T13:46:32.000000Z",
+  "new_chap_at": "2018-11-15T13:00:39.000000Z",
+  "published_at": "2020-03-26T07:02:07.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Phục Thiên Kiếm Tôn",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 18,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 633,
+    "name": "Tàn Kiếm",
+    "avatar": null,
+    "local_name": "残剑",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,102 @@
+{
+  "id": 121123,
+  "name": "Ta Có Thể Thấy Võ Học Ẩn Giấu Điều Kiện",
+  "slug": "ta-co-the-thay-vo-hoc-an-giau-dieu-kien",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ta-co-the-thay-vo-hoc-an-giau-dieu-kien",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 16874832,
+  "latest_chapter": 17407048,
+  "latest_index": 204,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-co-the-thay-vo-hoc-an-giau-dieu-kien/default.jpg?1696825256",
+    "600": "https://static.cdnno.com/poster/ta-co-the-thay-vo-hoc-an-giau-dieu-kien/600.jpg?1696825256",
+    "300": "https://static.cdnno.com/poster/ta-co-the-thay-vo-hoc-an-giau-dieu-kien/300.jpg?1696825256",
+    "150": "https://static.cdnno.com/poster/ta-co-the-thay-vo-hoc-an-giau-dieu-kien/150.jpg?1696825256"
+  },
+  "synopsis": "Lăng Phong xuyên qua thế giới khác, thu hoạch được có khả năng thấy võ học ẩn giấu điều kiện năng lực, chỉ cần thỏa mãn này chút ẩn giấu điều kiện, hắn là có thể bỏ qua tư chất, căn cốt, ngộ tính các phương diện hạn chế, đem nó nắm giữ!\n\n\t【  Phiếu Miểu Vấn Tiên Kiếm Quyết 】\n\n\t【  điều kiện nhập môn: Tập trung tinh thần, một lòng chỉ kiếm, huy kiếm mười vạn lần 】\n\n\t【  Bạch Vân Vô Tung Bộ 】\n\n\t【  điều kiện nhập môn: Ngày đi trăm dặm, dựa vào cường kiện gân cốt bí dược 】\n\n\t. . .\n\n\tNhiều năm trước tới nay, Lăng Phong nắm giữ vô số mạnh mẽ võ học, trèo lên đỉnh võ đạo đỉnh phong, quét ngang thiên hạ, trên trời có tiên nhân buông xuống, muốn quét sạch nhân gian, dưới mặt đất có Ma thú xuất thế, muốn tàn sát thương sinh. . .\n\n\tLăng Phong đấm ra một quyền, tiên nhân chết, Ma thú vong. . .",
+  "vote_count": 113,
+  "review_score": "4.000",
+  "review_count": 4,
+  "comment_count": 94,
+  "chapter_count": 204,
+  "view_count": 0,
+  "word_count": 480706,
+  "created_at": "2023-10-09T04:10:23.000000Z",
+  "updated_at": "2026-02-16T20:00:45.000000Z",
+  "new_chap_at": "2024-02-05T10:40:26.000000Z",
+  "published_at": "2023-10-09T04:10:23.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Có Thể Thấy Võ Học Ẩn Giấu Điều Kiện",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 470,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3690,
+    "name": "Lưu Phong Tiếu",
+    "avatar": null,
+    "local_name": "流风笑",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

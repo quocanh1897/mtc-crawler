@@ -1,0 +1,102 @@
+{
+  "id": 113039,
+  "name": "Vô Cùng Đơn Giản Luyện Cái Võ",
+  "slug": "vo-cung-don-gian-luyen-cai-vo",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/vo-cung-don-gian-luyen-cai-vo",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 14951672,
+  "latest_chapter": 15720140,
+  "latest_index": 358,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/vo-cung-don-gian-luyen-cai-vo/default.jpg?1656515741",
+    "600": "https://static.cdnno.com/poster/vo-cung-don-gian-luyen-cai-vo/600.jpg?1656515741",
+    "300": "https://static.cdnno.com/poster/vo-cung-don-gian-luyen-cai-vo/300.jpg?1656515741",
+    "150": "https://static.cdnno.com/poster/vo-cung-don-gian-luyen-cai-vo/150.jpg?1656515741"
+  },
+  "synopsis": "\t【  Cửu Dương Thần Công đơn giản hoá bên trong, đơn giản hoá thành công 】\n\n\t【  Cửu Dương Thần Công = phơi nắng 】\n\n\tNinh Tu nhìn xem phía ngoài mặt trời, rơi vào trầm tư.\n\n\tHắn đi đến mặt trời dưới đáy.\n\n\t【  chân khí +1 】 【  chân khí +1 】\n\n\t【  chúc mừng túc chủ tấn cấp Cửu phẩm võ giả 】\n\n\tNinh Tu lắc đầu, không khỏi cảm khái, \"Nguyên lai luyện võ thế mà đơn giản như vậy, không phải liền là phơi cái mặt trời sự tình nha.\"\n\n\tTừ nay về sau, Ninh Tu tại võ đạo chi lộ triệt để phi nước đại.\n\n\t【  Xích Sa Chưởng = xoa cát 】\n\n\t【  Dưỡng Khí Đan = cẩu kỷ 】\n\n\t【  Kim Chung Tráo = bị đánh 】\n\n\t【  Bách Bộ Sát Quyền = nhanh chóng hướng về quyền 】\n\n\t【  Long Tượng đại lực = chống đẩy 】\n\n\tMấy năm sau, Ninh Tu lực áp thiên hạ, được vinh dự võ đạo thần thoại, hồi ức trước kia, hắn lần nữa cảm khái, \"Ta chỉ là vô cùng đơn giản luyện cái võ, làm sao lại vô địch thiên hạ đây?\"\n\n",
+  "vote_count": 541,
+  "review_score": "4.690",
+  "review_count": 21,
+  "comment_count": 306,
+  "chapter_count": 358,
+  "view_count": 0,
+  "word_count": 1017449,
+  "created_at": "2022-06-29T15:15:23.000000Z",
+  "updated_at": "2026-02-16T13:59:49.000000Z",
+  "new_chap_at": "2023-01-09T16:15:07.000000Z",
+  "published_at": "2022-06-29T15:15:23.000000Z",
+  "published": 1,
+  "user_id": 1000076,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Vô Cùng Đơn Giản Luyện Cái Võ",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1477,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000076,
+    "name": "Shin Đzai",
+    "avatar": [
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/200.jpg?1750327701",
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/100.jpg?1750327701",
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/50.jpg?1750327701"
+    ],
+    "level": 4,
+    "exp": 3360,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3690,
+    "name": "Lưu Phong Tiếu",
+    "avatar": null,
+    "local_name": "流风笑",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "Vô Sỉ",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

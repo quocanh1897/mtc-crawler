@@ -1,0 +1,84 @@
+{
+  "id": 107063,
+  "name": "Ta Tại Trấn Dạ Ti Mở Ra Địa Ngục Chi Môn",
+  "slug": "ta-tai-tran-dem-ti-mo-ra-dia-nguc-chi-mon",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ta-tai-tran-dem-ti-mo-ra-dia-nguc-chi-mon",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13517060,
+  "latest_chapter": 13755009,
+  "latest_index": 143,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-tai-tran-dem-ti-mo-ra-dia-nguc-chi-mon/default.jpg?1618982057",
+    "600": "https://static.cdnno.com/poster/ta-tai-tran-dem-ti-mo-ra-dia-nguc-chi-mon/600.jpg?1618982057",
+    "300": "https://static.cdnno.com/poster/ta-tai-tran-dem-ti-mo-ra-dia-nguc-chi-mon/300.jpg?1618982057",
+    "150": "https://static.cdnno.com/poster/ta-tai-tran-dem-ti-mo-ra-dia-nguc-chi-mon/150.jpg?1618982057"
+  },
+  "synopsis": "Đoàn Ngọc xuyên việt rồi, vậy mà trở thành Đại Vũ đế quốc một nhà thanh lâu nam Hoa khôi.\n\n\tTruyền thuyết thế giới này có Địa Hạ Tu La Tộc, có một ngày sẽ thẳng hướng mặt đất diệt đi thế giới.\n\n\tNhưng cái này cùng ta Đoàn Hoa Khôi có quan hệ gì?\n\n\tĐoàn Ngọc hàng đầu mục tiêu liền là tìm một cái phú bà hoàn lương.",
+  "vote_count": 162,
+  "review_score": "4.945",
+  "review_count": 6,
+  "comment_count": 77,
+  "chapter_count": 143,
+  "view_count": 0,
+  "word_count": 422883,
+  "created_at": "2021-04-01T04:30:31.000000Z",
+  "updated_at": "2026-02-16T13:43:28.000000Z",
+  "new_chap_at": "2021-06-24T23:35:11.000000Z",
+  "published_at": "2021-04-01T04:30:28.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Tại Trấn Dạ Ti Mở Ra Địa Ngục Chi Môn",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 181,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 400,
+    "name": "Cao Điểm Trầm Mặc",
+    "avatar": null,
+    "local_name": "沉默的糕点",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}

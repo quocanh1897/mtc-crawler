@@ -1,0 +1,77 @@
+{
+  "id": 101361,
+  "name": "Quán Quân Chi Tâm",
+  "slug": "quan-quan-chi-tam",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/quan-quan-chi-tam",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11461902,
+  "latest_chapter": 11463054,
+  "latest_index": 1153,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/quan-quan-chi-tam/default.jpg?1585206111",
+    "600": "https://static.cdnno.com/poster/quan-quan-chi-tam/600.jpg?1585206111",
+    "300": "https://static.cdnno.com/poster/quan-quan-chi-tam/300.jpg?1585206111",
+    "150": "https://static.cdnno.com/poster/quan-quan-chi-tam/150.jpg?1585206111"
+  },
+  "synopsis": "\"Chu tiên sinh, chúng ta chú ý tới ngài khi còn bé đã từng đọc lướt qua qua bóng rổ, bóng bàn, cầu lông, cờ vây, cờ cá ngựa, cờ ca rô, Trung Quốc cờ tướng, cờ vua, thư pháp hội họa, đàn ghi-ta âm nhạc. .. Các loại nhiều phương diện lĩnh vực, cái kia đây có phải hay không mang ý nghĩa coi như ngài lúc trước không tuyển chọn bóng đá làm ngài nghề nghiệp, ngài tại cái khác lĩnh vực cũng giống vậy có thể lấy được bây giờ thành công?\"\n\n\"Cái này sao... Chỉ có tại quả bóng bên trên, ta mới có xa không chỉ ba phút nhiệt tình.\"\n\n\"Cho nên trước đó chúng ta liệt kê những cái kia cũng chỉ là ngài ba phút nhiệt tình sản phẩm?\"\n\n\"Những cái kia cũng chỉ là sở thích của ta.\"\n\n\"Cái kia quả bóng đâu này? Quả bóng không là của ngài yêu thích sao?\"\n\n\"Không, quả bóng là yêu!\"\n\nTác giả định nghĩa nội dung: Kỹ thuật lưu, Nhiệt huyết.",
+  "vote_count": 1,
+  "review_score": "4.698",
+  "review_count": 2,
+  "comment_count": 8,
+  "chapter_count": 1153,
+  "view_count": 0,
+  "word_count": 4516156,
+  "created_at": "2020-03-26T07:01:51.000000Z",
+  "updated_at": "2026-02-16T13:44:18.000000Z",
+  "new_chap_at": "2017-11-28T18:00:29.000000Z",
+  "published_at": "2020-03-26T07:01:51.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Quán Quân Chi Tâm",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 28,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 121,
+    "name": "Lâm Hải Thính Đào",
+    "avatar": null,
+    "local_name": "林海听涛",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 9,
+      "name": "Cạnh Kỹ",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

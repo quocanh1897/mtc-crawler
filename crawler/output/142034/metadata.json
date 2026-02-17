@@ -1,0 +1,96 @@
+{
+  "id": 142034,
+  "name": "Từ Thăng Cấp Kiến Trúc Bắt Đầu Trường Sinh",
+  "slug": "tu-thang-cap-kien-truc-bat-dau-truong-sinh",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/tu-thang-cap-kien-truc-bat-dau-truong-sinh",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 22606322,
+  "latest_chapter": 26889882,
+  "latest_index": 1060,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tu-thang-cap-kien-truc-bat-dau-truong-sinh/default.jpg?1749811394",
+    "600": "https://static.cdnno.com/poster/tu-thang-cap-kien-truc-bat-dau-truong-sinh/600.jpg?1749811394",
+    "300": "https://static.cdnno.com/poster/tu-thang-cap-kien-truc-bat-dau-truong-sinh/300.jpg?1749811394",
+    "150": "https://static.cdnno.com/poster/tu-thang-cap-kien-truc-bat-dau-truong-sinh/150.jpg?1749811394"
+  },
+  "synopsis": "【 Làm ruộng lưu 】【 Phàm nhân lưu 】【 Không đè đẳng cấp 】\n\nKế Duyên xuyên qua tu tiên thế giới, mặc dù may mắn đã thành một cái tu tiên giả, nhưng cũng là rơi xuống cái cho tu tiên tông môn làm người đánh cá mệnh.\n\nLiền cái này bắt đầu, hắn nguyên cho là mình chắc là chỉ có thể đi đường làm thiếu niên nghèo, trung niên nghèo, lão niên nghèo con đường này.\n\nCũng không có từng muốn, lại ngoài ý muốn thức tỉnh một khối kiến trúc thăng cấp mặt ngoài.\n\n【 Ao cá lv1: Cá bột tốc độ sinh trưởng +20%, Bán Linh Ngư có tỷ lệ nhất định tiến hóa thành Linh Ngư 】\n\n【 Động phủ lv1: Bức tường tự lành, cơ sở tránh bụi kết giới, ban đêm nồng độ linh khí +20%】\n\n【 Lồng gà lv1: Linh trứng một ngày một sinh, ẩn chứa vi lượng linh khí, có thể Tích Cốc 】\n\n【 Chuồng heo lv1: Linh đồn bảy ngày tăng cơ trăm cân, huyết nhục chứa tôi thể dược tính, đồng thời có thể gia tốc vết thương khép lại 】\n\n【 Linh điền lv1: Thu hoạch chu kỳ -30%, sản xuất ẩn chứa yếu ớt mộc linh khí 】\n\n【......】\n\nTừ cơ sở nhất 【 Ao cá 】 đến tu tiên giới 【 Phòng luyện đan 】【 Phòng luyện khí 】, chỉ cần là kế duyên kiến trúc, toàn bộ có thể thăng cấp.\n\n“Tu tiên tu tiên, tu không phải chém chém giết giết, mà là trường sinh cửu thị.”\n\nMột số năm sau, làm thiên kiêu thất bại, thánh địa mục nát, đại năng vẫn lạc, chỉ có “Kế Thiên Tôn ” Thân hóa bất hủ, vạn cổ trường thanh.",
+  "vote_count": 4313,
+  "review_score": "4.982",
+  "review_count": 39,
+  "comment_count": 409,
+  "chapter_count": 1059,
+  "view_count": 0,
+  "word_count": 2355424,
+  "created_at": "2025-05-09T14:48:24.000000Z",
+  "updated_at": "2026-02-17T16:30:16.000000Z",
+  "new_chap_at": "2026-02-17T13:11:56.000000Z",
+  "published_at": "2025-05-10T01:26:30.000000Z",
+  "published": 1,
+  "user_id": 1018647,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Từ Thăng Cấp Kiến Trúc Bắt Đầu Trường Sinh",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 4048,
+  "chapter_per_week": 10,
+  "ready_for_sale": 0,
+  "discount_price": 1860,
+  "discount": 0,
+  "creator": {
+    "id": 1018647,
+    "name": "Kuross",
+    "avatar": [
+      "https://static.cdnno.com/user/47cfa36819f70b6733a49851d44d4142/200.jpg?1598191827",
+      "https://static.cdnno.com/user/47cfa36819f70b6733a49851d44d4142/100.jpg?1598191827",
+      "https://static.cdnno.com/user/47cfa36819f70b6733a49851d44d4142/50.jpg?1598191827"
+    ],
+    "level": 3,
+    "exp": 602,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 23504,
+    "name": "Mãn Thuyền Khinh Mộng",
+    "avatar": null,
+    "local_name": "满船轻梦",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 91,
+      "name": "Điền Viên",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

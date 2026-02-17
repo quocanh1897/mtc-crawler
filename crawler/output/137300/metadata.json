@@ -1,0 +1,96 @@
+{
+  "id": 137300,
+  "name": "Minh Nhật Chi Kiếp",
+  "slug": "minh-nhat-chi-kiep",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/minh-nhat-chi-kiep",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 20848372,
+  "latest_chapter": 21431963,
+  "latest_index": 1173,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/minh-nhat-chi-kiep/default.jpg?1736481968",
+    "600": "https://static.cdnno.com/poster/minh-nhat-chi-kiep/600.jpg?1736481968",
+    "300": "https://static.cdnno.com/poster/minh-nhat-chi-kiep/300.jpg?1736481968",
+    "150": "https://static.cdnno.com/poster/minh-nhat-chi-kiep/150.jpg?1736481968"
+  },
+  "synopsis": "Lưu tinh vạch phá trường không, đồng dạng phá vỡ thế giới  bình tĩnh. \nSiêu phàm  lực lượng giáng lâm nhân gian, là ai trong bóng đêm rình mò, là ai tại bên tai ta thì thầm. \nLàm gào thét vỡ nát thương khung, làm lực lượng san bằng vực sâu, khi tất cả  sinh tử đều bị chúa tể...... Bọn hắn xưng hô ta là —— thần.",
+  "vote_count": 60,
+  "review_score": "4.750",
+  "review_count": 2,
+  "comment_count": 32,
+  "chapter_count": 1173,
+  "view_count": 0,
+  "word_count": 2187371,
+  "created_at": "2025-01-10T04:05:22.000000Z",
+  "updated_at": "2026-02-16T13:41:45.000000Z",
+  "new_chap_at": "2025-02-19T09:13:53.000000Z",
+  "published_at": "2025-01-10T09:21:57.000000Z",
+  "published": 1,
+  "user_id": 1283968,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Minh Nhật Chi Kiếp",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 253,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1283968,
+    "name": "chí tôn quý bửu",
+    "avatar": [
+      "https://static.cdnno.com/user/2d2cc145259ac65142ca6e31213c7a4c/200.jpg?1754543934",
+      "https://static.cdnno.com/user/2d2cc145259ac65142ca6e31213c7a4c/100.jpg?1754543934",
+      "https://static.cdnno.com/user/2d2cc145259ac65142ca6e31213c7a4c/50.jpg?1754543934"
+    ],
+    "level": 1,
+    "exp": 55,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 496,
+    "name": "Hùng Lang Cẩu",
+    "avatar": null,
+    "local_name": "熊狼狗",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 6,
+      "name": "Đô Thị",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 17,
+      "name": "Hắc Ám Huyễn Tưởng",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

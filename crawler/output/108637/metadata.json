@@ -1,0 +1,83 @@
+{
+  "id": 108637,
+  "name": "Ta Tại Võ Đạo Thư Viện Cẩu Thả Đến Vô Địch",
+  "slug": "ta-tai-vo-dao-thu-vien-cau-tha-den-vo-dich",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ta-tai-vo-dao-thu-vien-cau-tha-den-vo-dich",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13890819,
+  "latest_chapter": 14790866,
+  "latest_index": 791,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-tai-vo-dao-thu-vien-cau-tha-den-vo-dich/default.jpg?1628415679",
+    "600": "https://static.cdnno.com/poster/ta-tai-vo-dao-thu-vien-cau-tha-den-vo-dich/600.jpg?1628415679",
+    "300": "https://static.cdnno.com/poster/ta-tai-vo-dao-thu-vien-cau-tha-den-vo-dich/300.jpg?1628415679",
+    "150": "https://static.cdnno.com/poster/ta-tai-vo-dao-thu-vien-cau-tha-den-vo-dich/150.jpg?1628415679"
+  },
+  "synopsis": "Xuyên qua thế giới song song, Linh Võ thức tỉnh, Diệp Tiêu thành võ đạo thư viện một tên nhân viên quản lý, thức tỉnh Kim Thư thần hồn.\n\n\tThấy công pháp liền có thể thu vào thần hồn, tự mình tu luyện, luyện tới đại viên mãn, còn có thể hợp thành càng phẩm chất cao công pháp.\n\n\tThất môn cơ sở đao pháp hợp thành Chí Tôn cấp công pháp Thiên Địa Phách Đao. . .\n\n\tCửu môn cơ sở kiếm pháp hợp thành Diệt Thế cấp công pháp Trảm Thiên Nhất Kiếm. . .\n\n\tMười môn cơ sở quyền pháp hợp thành Siêu Thần cấp công pháp Đại Tịch Diệt Quyền. . .\n\n\tCăn cứ không phải vô địch không xuống núi nguyên tắc, Diệp Tiêu điệu thấp tu luyện, ổn định phát dục.\n\n\tMấy năm sau, Tinh Thú buông xuống, nhân tộc hạo kiếp đến, ngàn tỉ lê dân quỳ xuống đất khẩn cầu thần linh buông xuống.\n\n\tMột đạo kiếm mang phóng lên tận trời, hắn theo hào quang bên trong đi tới.\n\n\t\"Ta. . . Có thể xưng thần hay không?\"\n\nCảnh giới: Võ Giả, Tông Sư, Đại Tông Sư, Thần Tông...",
+  "vote_count": 392,
+  "review_score": "4.352",
+  "review_count": 9,
+  "comment_count": 206,
+  "chapter_count": 790,
+  "view_count": 0,
+  "word_count": 1958449,
+  "created_at": "2021-08-08T09:41:21.000000Z",
+  "updated_at": "2026-02-16T13:36:12.000000Z",
+  "new_chap_at": "2022-05-18T01:55:03.000000Z",
+  "published_at": "2021-08-08T09:41:19.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Tại Võ Đạo Thư Viện Cẩu Thả Đến Vô Địch",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1296,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 5098,
+    "name": "Mộc Dịch Sinh Hỏa",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": 101347,
+  "name": "Vạn Giới Thiên Tôn",
+  "slug": "van-gioi-thien-ton",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/van-gioi-thien-ton",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11450336,
+  "latest_chapter": 11451916,
+  "latest_index": 1582,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/van-gioi-thien-ton/default.jpg?1585206104",
+    "600": "https://static.cdnno.com/poster/van-gioi-thien-ton/600.jpg?1585206104",
+    "300": "https://static.cdnno.com/poster/van-gioi-thien-ton/300.jpg?1585206104",
+    "150": "https://static.cdnno.com/poster/van-gioi-thien-ton/150.jpg?1585206104"
+  },
+  "synopsis": "Thiên là vật gì? \n\nCao cao tại thượng, uy nghiêm khó lường, là pháp tắc, là giới luật, là vô tình, là lãnh khốc. \n\nThiên ý, sao vậy? \n\nNhìn xuống chúng sinh, lo liệu mưa gió, tước đoạt thưởng phạt, tùy tính mà làm. Cho nên, Thiên ý không lường được, thương thiên không thể gần. Thuận theo mà làm, chưa hẳn đến lợi; làm trái phản nghịch, phúc họa khó định. \n\nThiên, giam cầm vạn vật như giếng sâu, hồng trần chúng sinh như bùn nhão. \n\nNhưng có một cái rất đơn thuần, lại kiên định cực kỳ ếch con ngồi giếng, cẩn thận thủ hộ lấy trong lòng nó một điểm nho nhỏ ánh sáng, mang theo nhất định phải cắn một miếng thịt thiên nga tín niệm, từng bước một từ hồng trần bùn nhão bên trong giãy dụa mà ra, từng bước một đi ra sâu không đáy ô uế giếng sâu. \n\nHắn mở ra miệng rộng hướng trong lòng mình thiên nga cắn lên thời điểm, không cẩn thận đem một phương này thương thiên cũng một ngụm nuốt vào! \n\nSở Thiên nói, nợ tiền, phải trả tiền; thiếu mệnh, muốn đền mạng. \n\nĐây chính là Sở Thiên nhận định đơn giản nhất, lớn nhất kiên định đạo lý. \n\nĐạo lý kia, So Thiên Đại!!!!! \n\nTác giả định nghĩa nội dung: Thiết huyết.\n\nCảnh giới:\n\nThiên tu hệ thống: An Thân, Lập Mệnh, Khuy Thiên, Đăng Thiên....\n\nLinh tu hệ thống: Tụ Linh cảnh, Ngưng Hồn cảnh, Tự Nhiên Pháp, Diễn Thiên Tướng...",
+  "vote_count": 2,
+  "review_score": "4.737",
+  "review_count": 2,
+  "comment_count": 7,
+  "chapter_count": 1581,
+  "view_count": 0,
+  "word_count": 4562864,
+  "created_at": "2020-03-26T07:01:44.000000Z",
+  "updated_at": "2026-02-16T13:43:51.000000Z",
+  "new_chap_at": "2018-08-05T16:00:17.000000Z",
+  "published_at": "2020-03-26T07:01:44.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Vạn Giới Thiên Tôn",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 177,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1165,
+    "name": "Huyết Hồng",
+    "avatar": null,
+    "local_name": "血红",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

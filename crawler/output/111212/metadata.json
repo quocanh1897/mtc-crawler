@@ -1,0 +1,101 @@
+{
+  "id": 111212,
+  "name": "Sủng Thú Máy Mô Phỏng",
+  "slug": "sung-thu-may-mo-phong",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/sung-thu-may-mo-phong",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 14480712,
+  "latest_chapter": 14996832,
+  "latest_index": 241,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/sung-thu-may-mo-phong/default.jpg?1645492992",
+    "600": "https://static.cdnno.com/poster/sung-thu-may-mo-phong/600.jpg?1645492992",
+    "300": "https://static.cdnno.com/poster/sung-thu-may-mo-phong/300.jpg?1645492992",
+    "150": "https://static.cdnno.com/poster/sung-thu-may-mo-phong/150.jpg?1645492992"
+  },
+  "synopsis": "\tVương Dã xuyên qua đến Ngự Thú thế giới, cùng một đầu thường thường không có gì lạ Tiểu Thanh Tước ký kết sủng thú khế ước, lại thức tỉnh thiên phú sủng thú máy mô phỏng.\n\n\tCó khả năng thiết lập tiến hóa cuối cùng sủng thú tiến hành mô phỏng.\n\n\t【0 tuổi, Tiểu Thanh Tước xuất sinh, tại vách núi huấn luyện bay lượn, tao ngộ cường lưu rơi xuống sườn núi, vết thương chồng chất. 】\n\n\t【1 tuổi, Tiểu Thanh Tước đi qua không ngừng nỗ lực, học được đơn giản bay lượn. 】\n\n\t【2 tuổi, Tiểu Thanh Tước thấy một cái thần bí chim muông giữa không trung nhảy múa, có chút hiểu được. 】\n\n\t【5 tuổi, Tiểu Thanh Tước bay lượn càng thuần thục, lĩnh ngộ kỹ năng: Thiên Không Chi Vũ. 】\n\n\t【5 tuổi rưỡi, Tiểu Thanh Tước cảm giác mình hết sức dũng, nghĩ phải học được bơi lội, xông vào trong vách núi dưới U Tuyền, chết đuối. Thu hoạch được đặc tính thành tựu: Dũng không thể đỡ. 】\n\n\tMô phỏng sau khi kết thúc , có thể thu hoạch được kỹ năng thuần thục, gen đặc tính, trưởng thành lịch trình trong đó một loại.\n\n\tMô phỏng đến nhất định số lần về sau, có xác suất tiến hóa thành vì cuối cùng thiết lập sủng thú!\n\n\tThế là, Vương Dã nhìn thoáng qua bên người đang ở mổ thóc ăn Tiểu Thanh Tước, không nói hai lời, thiết lập tiến hóa cuối cùng sủng thú:\n\n\tThần Hoàng Thiên Nữ Thú!\n\n\tTiểu Thanh Tước: \"? ? ?\"\n\n",
+  "vote_count": 1934,
+  "review_score": "4.528",
+  "review_count": 18,
+  "comment_count": 420,
+  "chapter_count": 241,
+  "view_count": 0,
+  "word_count": 547464,
+  "created_at": "2022-02-20T00:46:02.000000Z",
+  "updated_at": "2026-02-16T13:38:57.000000Z",
+  "new_chap_at": "2022-07-10T01:52:33.000000Z",
+  "published_at": "2022-02-20T00:46:02.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Sủng Thú Máy Mô Phỏng",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 819,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 444,
+    "name": "Hạ Thụ Cầm",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 12,
+      "name": "Dị Thế Đại Lục",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

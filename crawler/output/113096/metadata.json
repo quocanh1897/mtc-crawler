@@ -1,0 +1,102 @@
+{
+  "id": 113096,
+  "name": "Khi Thượng Đế Lại Bắt Đầu Lại Từ Đầu Tiến Hóa",
+  "slug": "khi-thuong-de-lai-bat-dau-lai-tu-dau-tien-hoa",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/khi-thuong-de-lai-bat-dau-lai-tu-dau-tien-hoa",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 14959162,
+  "latest_chapter": 16141697,
+  "latest_index": 418,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/khi-thuong-de-lai-bat-dau-lai-tu-dau-tien-hoa/default.jpg?1656653762",
+    "600": "https://static.cdnno.com/poster/khi-thuong-de-lai-bat-dau-lai-tu-dau-tien-hoa/600.jpg?1656653762",
+    "300": "https://static.cdnno.com/poster/khi-thuong-de-lai-bat-dau-lai-tu-dau-tien-hoa/300.jpg?1656653762",
+    "150": "https://static.cdnno.com/poster/khi-thuong-de-lai-bat-dau-lai-tu-dau-tien-hoa/150.jpg?1656653762"
+  },
+  "synopsis": "\tVài thập niên trước, các nơi trên thế giới xuất hiện rất nhiều quỷ dị cửa lớn, một loại bị nhân loại xưng là Ma Linh sinh vật cũng đồng thời buông xuống, cho thế giới loài người mang đến chưa từng có hạo kiếp, mãi đến Ma Trang cùng Ma Trang Sư xuất hiện, mới làm cho nhân loại có cơ hội thở dốc.\n\n\tMột lần vô tình, thế giới xếp hàng thứ nhất Ma Trang Sư từ bỏ thân phận, trở thành một tên người mới thí luyện giả lại bắt đầu lại từ đầu, tiến vào thần bí khó lường cửa lớn chi bên trong tham gia những cái kia không thể tưởng tượng thí luyện.\n\n\t\"Đây cũng là người mới?\" Thí Luyện giả nhóm uất ức.\n\n\tĐã xong quyển tiểu thuyết 《 Kiếm Trang 》 300 vạn chữ 《 Thần Phẩm Đạo Thánh 》 160 vạn chữ 《 Siêu Cấp Thần Cơ Nhân 》7 300 ngàn chữ (manga thay mới bên trong) 《 Ta Chỉ Muốn An Tĩnh Chơi Game 》(manga tiểu thuyết thay mới bên trong).",
+  "vote_count": 316,
+  "review_score": "5.000",
+  "review_count": 8,
+  "comment_count": 117,
+  "chapter_count": 418,
+  "view_count": 0,
+  "word_count": 1600742,
+  "created_at": "2022-07-01T05:35:22.000000Z",
+  "updated_at": "2026-02-16T16:36:16.000000Z",
+  "new_chap_at": "2023-04-23T04:30:28.000000Z",
+  "published_at": "2022-07-01T05:35:22.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Khi Thượng Đế Lại Bắt Đầu Lại Từ Đầu Tiến Hóa",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 568,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1195,
+    "name": "Thập Nhị Dực Hắc Ám Sí Thiên Sử",
+    "avatar": null,
+    "local_name": "十二翼黑暗炽天使",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 12,
+      "name": "Dị Thế Đại Lục",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 62,
+      "name": "Vô Địch",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": 144146,
+  "name": "Công Pháp Của Ta Đều Quá Có Chủ Kiến",
+  "slug": "cong-phap-cua-ta-deu-qua-co-chu-kien",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/cong-phap-cua-ta-deu-qua-co-chu-kien",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 23360129,
+  "latest_chapter": 25013931,
+  "latest_index": 246,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/cong-phap-cua-ta-deu-qua-co-chu-kien/default.jpg?1750758599",
+    "600": "https://static.cdnno.com/poster/cong-phap-cua-ta-deu-qua-co-chu-kien/600.jpg?1750758599",
+    "300": "https://static.cdnno.com/poster/cong-phap-cua-ta-deu-qua-co-chu-kien/300.jpg?1750758599",
+    "150": "https://static.cdnno.com/poster/cong-phap-cua-ta-deu-qua-co-chu-kien/150.jpg?1750758599"
+  },
+  "synopsis": "Làm một tên tiềm phục tại chính đạo tông môn Ma giáo nằm vùng kiêm ma đầu đoạt xá thân thể, Khương Ly am hiểu sâu cẩu thả một trong nói, nơm nớp lo sợ cẩu thả ba năm.\n\n\tMãi đến...\n\n\tBàn tay vàng tới.\n\n\tNỗi lòng lo lắng cuối cùng chết rồi.\n\n\t【  keng, công pháp của ngươi 《 Huyền Hoàng Luyện Tâm Quyết 》 không nỡ nhân gian sinh linh đồ thán, quyết định giết khắp thiên hạ có tội người, tái tạo thế giới mới. 】\n\n\t【  keng, công pháp của ngươi 《 Trảm Long Kiếm 》 cho rằng trước mắt cóc là long thú, kích khởi loài rồng khắc tinh kỹ năng, tổn thương +1000%. 】\n\n\t【  keng, công pháp của ngươi 《 Hoàng Cực Kinh Thế Công 》 nhìn xem Tiên giới cao cao tại thượng Tiên Đế, trong lòng dâng lên một hồi xúc động, vương hầu tướng lĩnh, chẳng phải trời sinh? 】\n\n\tKhương Ly: Không không không, các ngươi đạp mã không cần loạn giảng a!",
+  "vote_count": 73,
+  "review_score": "5.000",
+  "review_count": 2,
+  "comment_count": 24,
+  "chapter_count": 246,
+  "view_count": 0,
+  "word_count": 581775,
+  "created_at": "2025-06-24T09:49:52.000000Z",
+  "updated_at": "2026-02-16T13:45:02.000000Z",
+  "new_chap_at": "2025-10-09T02:36:41.000000Z",
+  "published_at": "2025-06-24T09:49:52.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Công Pháp Của Ta Đều Quá Có Chủ Kiến",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 135,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 16821,
+    "name": "Thập Nguyệt Bất Cật Qua",
+    "avatar": null,
+    "local_name": "十月不吃瓜",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

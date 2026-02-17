@@ -1,0 +1,102 @@
+{
+  "id": 126356,
+  "name": "Ta Tại Siêu Phàm Thế Giới Hỏa Pháo Tẩy Địa",
+  "slug": "ta-tai-sieu-pham-the-gioi-hoa-phao-tay-dia",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ta-tai-sieu-pham-the-gioi-hoa-phao-tay-dia",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 18001092,
+  "latest_chapter": 18424377,
+  "latest_index": 383,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-tai-sieu-pham-the-gioi-hoa-phao-tay-dia/default.jpg?1714384402",
+    "600": "https://static.cdnno.com/poster/ta-tai-sieu-pham-the-gioi-hoa-phao-tay-dia/600.jpg?1714384402",
+    "300": "https://static.cdnno.com/poster/ta-tai-sieu-pham-the-gioi-hoa-phao-tay-dia/300.jpg?1714384402",
+    "150": "https://static.cdnno.com/poster/ta-tai-sieu-pham-the-gioi-hoa-phao-tay-dia/150.jpg?1714384402"
+  },
+  "synopsis": "Trần Miểu xuyên qua đến một cái siêu phàm thế giới, ở thế giới này mỗi người đều có chính mình chức nghiệp, “Học sinh” “Cách đấu gia” “Ăn trộm” vân vân.\n\nSuy nghĩ cặn kẽ sau, hắn kích hoạt “Thương Thủ” chức nghiệp.\n\nTừ nay về sau!\n\nỞ dị tộc trương dương vũ trảo khởi xướng xâm lấn, lúc những người khác khổ luyện thân thể tố chất học tập kỹ năng.\n\nTrần Miểu yên lặng đi trước bí cảnh thu thập các kiểu tài liệu, chế tạo “Thompson súng tự động” “Lạc Hoa súng ngắm” “Luyện Ngục Gatling” “Ma Trận Thiên Nhãn pháo” các loại chức nghiệp chuyên chúc vũ khí.\n\n...\n\nMột ngày nào đó, mọi người đột nhiên phát hiện thành thị trên bảng xếp hạng chiến lực không biết khi nào xuất hiện một cái cực kỳ xa lạ siêu phàm chức nghiệp.\n\nMà ở trong đám người.\n\nỞ trần khoác màu đen tây trang áo khoác mang theo kính râm Trần Miểu trong miệng ngậm xì gà, đôi tay cầm hai khẩu Luyện ngục Gatling, nhìn phía trước mặt một đám bọn đạo chích, khóe miệng hơi hơi giương lên.\n\n“Đừng chờ ta đem họng súng nhét vào trong miệng ngươi, mới nói ngươi sai rồi.”",
+  "vote_count": 17,
+  "review_score": "4.357",
+  "review_count": 7,
+  "comment_count": 58,
+  "chapter_count": 383,
+  "view_count": 0,
+  "word_count": 863963,
+  "created_at": "2024-04-29T09:53:04.000000Z",
+  "updated_at": "2026-02-12T12:17:43.000000Z",
+  "new_chap_at": "2024-06-11T05:06:28.000000Z",
+  "published_at": "2024-04-29T09:53:04.000000Z",
+  "published": 1,
+  "user_id": 1231986,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Tại Siêu Phàm Thế Giới Hỏa Pháo Tẩy Địa",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 420,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1231986,
+    "name": "Cầm Tâm",
+    "avatar": [
+      "https://static.cdnno.com/user/91aaaef21e8da885a02f2ac9d3b3dda3/200.jpg?1647436717",
+      "https://static.cdnno.com/user/91aaaef21e8da885a02f2ac9d3b3dda3/100.jpg?1647436717",
+      "https://static.cdnno.com/user/91aaaef21e8da885a02f2ac9d3b3dda3/50.jpg?1647436717"
+    ],
+    "level": 1,
+    "exp": 38,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 11904,
+    "name": "Trung Thế Kỷ Đích Thố Tử",
+    "avatar": null,
+    "local_name": "中世纪的兔子",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 4,
+      "name": "Khoa Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 41,
+      "name": "Thế Giới Tương Lai",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

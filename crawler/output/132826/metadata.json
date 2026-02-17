@@ -1,0 +1,102 @@
+{
+  "id": 132826,
+  "name": "Vũ Trụ Võng Du, Ta Có Thể Chỉ Định Rơi Xuống",
+  "slug": "vu-tru-vong-du-ta-co-the-chi-dinh-roi-xuong",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/vu-tru-vong-du-ta-co-the-chi-dinh-roi-xuong",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 19523853,
+  "latest_chapter": 19891146,
+  "latest_index": 862,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/vu-tru-vong-du-ta-co-the-chi-dinh-roi-xuong/default.jpg?1727071074",
+    "600": "https://static.cdnno.com/poster/vu-tru-vong-du-ta-co-the-chi-dinh-roi-xuong/600.jpg?1727071074",
+    "300": "https://static.cdnno.com/poster/vu-tru-vong-du-ta-co-the-chi-dinh-roi-xuong/300.jpg?1727071074",
+    "150": "https://static.cdnno.com/poster/vu-tru-vong-du-ta-co-the-chi-dinh-roi-xuong/150.jpg?1727071074"
+  },
+  "synopsis": "Vũ trụ võng du giáng lâm, võng du bên trong thu hoạch có thể mang về hiện thực, quái vật cũng tương tự sẽ xuất hiện tại trong hiện thực. \n\nTất cả mọi người đứng tại thời đại Crossroads, trong lòng đều rất hoảng, trừ Lục Không......\n\nBởi vì hắn có thể chỉ định quái vật rơi xuống vật phẩm. Mặc kệ là quái vật hay là bảo rương, hắn luôn có thể thu hoạch được hi hữu nhất đồ vật!",
+  "vote_count": 276,
+  "review_score": "5.000",
+  "review_count": 7,
+  "comment_count": 122,
+  "chapter_count": 863,
+  "view_count": 0,
+  "word_count": 1637459,
+  "created_at": "2024-09-23T05:55:30.000000Z",
+  "updated_at": "2026-02-17T15:37:36.000000Z",
+  "new_chap_at": "2024-11-03T04:30:00.000000Z",
+  "published_at": "2024-09-23T07:28:10.000000Z",
+  "published": 1,
+  "user_id": 1038286,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Vũ Trụ Võng Du, Ta Có Thể Chỉ Định Rơi Xuống",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1019,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1038286,
+    "name": "Dang Duy",
+    "avatar": [
+      "https://static.cdnno.com/user/106af09362e2e5675549370978551f0c/200.jpg?1741748373",
+      "https://static.cdnno.com/user/106af09362e2e5675549370978551f0c/100.jpg?1741748373",
+      "https://static.cdnno.com/user/106af09362e2e5675549370978551f0c/50.jpg?1741748373"
+    ],
+    "level": 2,
+    "exp": 232,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 15240,
+    "name": "Tam Thiên Cật Thập Đốn",
+    "avatar": null,
+    "local_name": "三天吃十吨",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 5,
+      "name": "Võng Du",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 4,
+      "name": "Thiết Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 12,
+      "name": "Dị Thế Đại Lục",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

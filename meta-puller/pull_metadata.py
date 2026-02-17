@@ -8,6 +8,7 @@ Scans each book directory, hits the API for full details, and saves:
 
 Usage:
     python3 pull_metadata.py                   # all books missing metadata
+    python3 pull_metadata.py --list            # list books missing metadata
     python3 pull_metadata.py --force            # re-pull everything
     python3 pull_metadata.py --ids 147360 116007  # specific books only
     python3 pull_metadata.py --dry-run          # show what would be fetched
@@ -21,6 +22,7 @@ import sys
 import time
 
 import httpx
+from rich.progress import Progress, BarColumn, TextColumn, TimeElapsedColumn, TimeRemainingColumn, MofNCompleteColumn
 
 # ── Config (shared with crawler) ────────────────────────────────────────────
 
@@ -139,7 +141,7 @@ def needs_pull(book_id: int, force: bool) -> bool:
     return not os.path.exists(meta_path)
 
 
-def pull_one(client: httpx.Client, book_id: int) -> bool:
+def pull_one(client: httpx.Client, book_id: int, log=print) -> bool:
     """Pull metadata + cover for a single book. Returns True on success."""
     book_dir = os.path.join(OUTPUT_DIR, str(book_id))
     meta_path = os.path.join(book_dir, "metadata.json")
@@ -147,35 +149,26 @@ def pull_one(client: httpx.Client, book_id: int) -> bool:
 
     book = fetch_book_metadata(client, book_id)
     if not book:
-        print(f"    FAILED: no API data")
+        log(f"  [red]FAILED[/red] {book_id}: no API data")
         return False
 
     # Save full metadata
     with open(meta_path, "w", encoding="utf-8") as f:
         json.dump(book, f, indent=2, ensure_ascii=False)
-    print(f"    metadata.json saved ({len(book)} fields)")
 
     # Download cover image
     poster = book.get("poster")
     if poster and isinstance(poster, dict):
-        if download_cover(client, poster, cover_path):
-            size_kb = os.path.getsize(cover_path) / 1024
-            print(f"    cover.jpg saved ({size_kb:.0f} KB)")
-        else:
-            print(f"    cover.jpg FAILED")
+        if not download_cover(client, poster, cover_path):
+            log(f"  [yellow]WARNING[/yellow] {book_id}: cover download failed")
     elif poster and isinstance(poster, str):
-        # poster might be a direct URL string
         try:
             r = client.get(poster, follow_redirects=True, timeout=30)
             if r.status_code == 200 and len(r.content) > 100:
                 with open(cover_path, "wb") as f:
                     f.write(r.content)
-                size_kb = os.path.getsize(cover_path) / 1024
-                print(f"    cover.jpg saved ({size_kb:.0f} KB)")
         except Exception as e:
-            print(f"    cover.jpg FAILED: {e}")
-    else:
-        print(f"    no poster URL in API response")
+            log(f"  [yellow]WARNING[/yellow] {book_id}: cover failed: {e}")
 
     return True
 
@@ -187,6 +180,8 @@ def main():
         description="Pull metadata + cover images for crawled books")
     parser.add_argument("--ids", type=int, nargs="+",
                         help="Specific book IDs to pull (default: all)")
+    parser.add_argument("--list", action="store_true",
+                        help="List books missing metadata.json and exit")
     parser.add_argument("--force", action="store_true",
                         help="Re-pull even if metadata.json exists")
     parser.add_argument("--dry-run", action="store_true",
@@ -211,6 +206,20 @@ def main():
     print(f"Need metadata pull:  {len(pending)}")
     print()
 
+    if args.list:
+        if not pending:
+            print("All books have metadata.json.")
+        else:
+            print("Books missing metadata.json:")
+            for bid in pending:
+                book_json = os.path.join(OUTPUT_DIR, str(bid), "book.json")
+                name = "?"
+                if os.path.exists(book_json):
+                    with open(book_json) as f:
+                        name = json.load(f).get("book_name", "?")
+                print(f"  {bid}: {name}")
+        return
+
     if not pending:
         print("Nothing to do.")
         return
@@ -229,21 +238,34 @@ def main():
     succeeded = 0
     failed = 0
 
-    with httpx.Client(headers=HEADERS, timeout=30) as client:
+    progress = Progress(
+        TextColumn("[bold blue]{task.description}"),
+        BarColumn(bar_width=30),
+        MofNCompleteColumn(),
+        TextColumn("•"),
+        TimeElapsedColumn(),
+        TextColumn("•"),
+        TimeRemainingColumn(),
+    )
+
+    with progress, httpx.Client(headers=HEADERS, timeout=30) as client:
+        task = progress.add_task("Pulling metadata", total=len(pending))
+
         for i, bid in enumerate(pending, 1):
-            # Load local name for display
             book_json = os.path.join(OUTPUT_DIR, str(bid), "book.json")
             name = "?"
             if os.path.exists(book_json):
                 with open(book_json) as f:
                     name = json.load(f).get("book_name", "?")
 
-            print(f"[{i}/{len(pending)}] {bid}: {name}")
+            progress.update(task, description=f"{bid}: {name}")
 
-            if pull_one(client, bid):
+            if pull_one(client, bid, log=progress.console.print):
                 succeeded += 1
             else:
                 failed += 1
+
+            progress.advance(task)
 
             if i < len(pending):
                 time.sleep(args.delay)

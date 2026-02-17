@@ -1,0 +1,102 @@
+{
+  "id": 112446,
+  "name": "Ta Có Nhất Kiếm",
+  "slug": "ta-co-nhat-kiem",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ta-co-nhat-kiem",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 14798103,
+  "latest_chapter": 17980166,
+  "latest_index": 1721,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-co-nhat-kiem/default.jpg?1653005683",
+    "600": "https://static.cdnno.com/poster/ta-co-nhat-kiem/600.jpg?1653005683",
+    "300": "https://static.cdnno.com/poster/ta-co-nhat-kiem/300.jpg?1653005683",
+    "150": "https://static.cdnno.com/poster/ta-co-nhat-kiem/150.jpg?1653005683"
+  },
+  "synopsis": "Ta có nhất kiếm, ra khỏi vỏ tức vô địch!\n\nCảnh giới: Củu Trọng,Tiên Thiên, Thần Anh, Chân Pháp, Vạn Pháp, Thông U, Thần Phách, Ngự Không cảnh, Phá Không cảnh, Diệt Không cảnh, là Địa Pháp cảnh, Thiên Pháp cảnh, Tiểu Kiếp cảnh, Đại Kiếp cảnh, Pháp Kiếp cảnh...",
+  "vote_count": 20031,
+  "review_score": "4.127",
+  "review_count": 115,
+  "comment_count": 14117,
+  "chapter_count": 1720,
+  "view_count": 0,
+  "word_count": 4515427,
+  "created_at": "2022-05-20T00:13:19.000000Z",
+  "updated_at": "2026-02-17T04:12:19.000000Z",
+  "new_chap_at": "2024-04-27T01:25:01.000000Z",
+  "published_at": "2022-05-20T00:13:19.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Có Nhất Kiếm",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 3030,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 683,
+    "name": "Thanh Phong Loan",
+    "avatar": null,
+    "local_name": "青鸾峰上",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 62,
+      "name": "Vô Địch",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

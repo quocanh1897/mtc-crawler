@@ -1,0 +1,76 @@
+{
+  "id": 101337,
+  "name": "Minh Mạt Kỹ Sư",
+  "slug": "minh-mat-ky-su",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/minh-mat-ky-su",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11444493,
+  "latest_chapter": 11445635,
+  "latest_index": 1143,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/minh-mat-ky-su/default.jpg?1585206099",
+    "600": "https://static.cdnno.com/poster/minh-mat-ky-su/600.jpg?1585206099",
+    "300": "https://static.cdnno.com/poster/minh-mat-ky-su/300.jpg?1585206099",
+    "150": "https://static.cdnno.com/poster/minh-mat-ky-su/150.jpg?1585206099"
+  },
+  "synopsis": "Thế kỷ hai mươi mốt c&ocirc;ng nghiệp thiết kế sư L&yacute; Thực xuy&ecirc;n vi&ecirc;̣t đến Minh mạt.\n\nKh&ocirc;ng c&oacute; tiền? L&agrave;m c&aacute;i phi toa m&aacute;y dệt vải, lập tức kiếm được đầy bồn đầy b&aacute;t (*đầy t&uacute;i).\n\nKh&ocirc;ng quen Minh mạt k&eacute;m cỏi vệ sinh? Ph&aacute;t minh c&aacute;i x&agrave; ph&ograve;ng kem đ&aacute;nh răng tới để cho Minh triều tẩy được rực rỡ hẳn l&ecirc;n\n\nKhởi nghĩa n&ocirc;ng d&acirc;n? Loạn thế nh&acirc;n mạng ti tiện như ch&oacute;? Xi-măng b&ecirc; t&ocirc;ng lăng l&acirc;u đ&agrave;i bảo hộ ng&agrave;i sinh mệnh an to&agrave;n!\n\nM&atilde;n Thanh xu&ocirc;i nam sanh linh đồ th&aacute;n? Tại ta n&ograve;ng s&uacute;ng c&oacute; khương tuyến ph&iacute;a trước, c&aacute;i n&agrave;o d&aacute;m n&oacute;i một c&aacute;i chữ kh&ocirc;ng?\n\nTa đại ph&aacute;o tầm bắn ở trong! To&agrave;n bộ đều ta người H&aacute;n thổ địa!",
+  "vote_count": 12,
+  "review_score": "4.244",
+  "review_count": 1,
+  "comment_count": 16,
+  "chapter_count": 1143,
+  "view_count": 0,
+  "word_count": 3329520,
+  "created_at": "2020-03-26T07:01:39.000000Z",
+  "updated_at": "2026-02-16T13:42:08.000000Z",
+  "new_chap_at": "2017-11-28T19:00:52.000000Z",
+  "published_at": "2020-03-26T07:01:38.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Minh Mạt Kỹ Sư",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 83,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1157,
+    "name": "Mét Nhưỡng",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 8,
+      "name": "Dã Sử",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

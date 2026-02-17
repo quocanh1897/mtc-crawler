@@ -1,0 +1,76 @@
+{
+  "id": 101353,
+  "name": "Hồn Chiến Thánh Đế",
+  "slug": "hon-chien-thanh-de",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/hon-chien-thanh-de",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11456035,
+  "latest_chapter": 11456547,
+  "latest_index": 513,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/hon-chien-thanh-de/default.jpg?1585206107",
+    "600": "https://static.cdnno.com/poster/hon-chien-thanh-de/600.jpg?1585206107",
+    "300": "https://static.cdnno.com/poster/hon-chien-thanh-de/300.jpg?1585206107",
+    "150": "https://static.cdnno.com/poster/hon-chien-thanh-de/150.jpg?1585206107"
+  },
+  "synopsis": "Đại Ương Hoa Cung cung chủ Đế cấp Ch&uacute; Hồn sư, Đế cấp Luyện Kh&iacute; sư, Đế cấp Ph&ugrave; Văn sư, Đan Đế Tề Duệ bị y&ecirc;u nhất nữ nh&acirc;n c&ugrave;ng huynh đệ tốt nhất s&aacute;t hại.\n\nMười năm sau, giữ lại ho&agrave;n chỉnh k&yacute; ức Tề Duệ mượn thi tr&ugrave;ng sinh, từ đ&acirc;y tu v&ocirc; thượng thần c&ocirc;ng, r&egrave;n đ&uacute;c tuyệt thế V&otilde; Hồn, th&agrave;nh tựu Hồn V&otilde; Th&aacute;nh Đế!",
+  "vote_count": 0,
+  "review_score": "4.536",
+  "review_count": 1,
+  "comment_count": 1,
+  "chapter_count": 513,
+  "view_count": 0,
+  "word_count": 1380406,
+  "created_at": "2020-03-26T07:01:47.000000Z",
+  "updated_at": "2026-02-16T13:45:21.000000Z",
+  "new_chap_at": "2018-05-26T07:00:52.000000Z",
+  "published_at": "2020-03-26T07:01:47.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Hồn Chiến Thánh Đế",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 29,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1168,
+    "name": "Tĩnh Chỉ Đích Yên Hỏa",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

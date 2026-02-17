@@ -1,0 +1,77 @@
+{
+  "id": 101387,
+  "name": "Tối Cường Hệ Thống Đế Hoàng",
+  "slug": "toi-cuong-he-thong-de-hoang",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/toi-cuong-he-thong-de-hoang",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11481313,
+  "latest_chapter": 13705869,
+  "latest_index": 3210,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/toi-cuong-he-thong-de-hoang/default.jpg?1585206124",
+    "600": "https://static.cdnno.com/poster/toi-cuong-he-thong-de-hoang/600.jpg?1585206124",
+    "300": "https://static.cdnno.com/poster/toi-cuong-he-thong-de-hoang/300.jpg?1585206124",
+    "150": "https://static.cdnno.com/poster/toi-cuong-he-thong-de-hoang/150.jpg?1585206124"
+  },
+  "synopsis": "【 【  văn học mạng chi vương huyền huyễn \"BOSS lưu\" yêu cầu viết bài 】 dự thi tác phẩm 】\n\nĐinh! Hồng bao mở ra thành công! Thu hoạch được thần khí một thanh! Đinh! Thu hoạch được rút thưởng luân bàn, bắt đầu rút thưởng!\n\nTây Môn Hạo, mang theo dị giới hồng bao hệ thống xuyên qua đến Thiên Kình đại lục, Khánh quốc Đại hoàng tử thân bên trên, bắt đầu bật hack hoàng quyền chi lộ!\n\nCông pháp, phù lục, đan dược, thần tiên? Yêu quái? Hết thảy đến trẫm trong chén tới!\n\nVương gia? Công chúa? Quân vương? Môn phái đại năng? Hết thảy thần phục tại trẫm dưới chân! Trẫm thế nhưng là mạnh nhất hồng bao hoàng đế!\n\nHạo gia mở hồng bao bật hack! Thiên Kình chinh phục tại dưới chân! Liền hỏi một câu: Còn có ai? ! ! !\n\nCảnh giới:  Thoát thai, Ngưng Khí, Đoán Thần, luyện hồn, quy nhất, hóa hư, khai vân, trúc tinh, độ kiếp. . .\n\nTruyện mới của lão Hiệp Xả Đản, vẫn phong cách vô sỉ, vô địch lưu lại thêm tí hài tí sắc quen thuộc.\n\n✯ Cvt by KOL",
+  "vote_count": 1426,
+  "review_score": "4.646",
+  "review_count": 57,
+  "comment_count": 297,
+  "chapter_count": 3210,
+  "view_count": 0,
+  "word_count": 7672219,
+  "created_at": "2020-03-26T07:02:04.000000Z",
+  "updated_at": "2026-02-16T13:35:38.000000Z",
+  "new_chap_at": "2021-06-08T08:17:52.000000Z",
+  "published_at": "2020-03-26T07:02:04.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Tối Cường Hệ Thống Đế Hoàng",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2385,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1186,
+    "name": "Hiệp Xả Đản",
+    "avatar": null,
+    "local_name": "侠扯蛋",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

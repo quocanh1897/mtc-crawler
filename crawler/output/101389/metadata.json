@@ -1,0 +1,76 @@
+{
+  "id": 101389,
+  "name": "Tạo Mộng Thiên Sư",
+  "slug": "tao-mong-thien-su",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/tao-mong-thien-su",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11482441,
+  "latest_chapter": 12285698,
+  "latest_index": 816,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tao-mong-thien-su/default.jpg?1585206125",
+    "600": "https://static.cdnno.com/poster/tao-mong-thien-su/600.jpg?1585206125",
+    "300": "https://static.cdnno.com/poster/tao-mong-thien-su/300.jpg?1585206125",
+    "150": "https://static.cdnno.com/poster/tao-mong-thien-su/150.jpg?1585206125"
+  },
+  "synopsis": "Đại mộng kỷ thiên thu, mộng xuân không dấu vết.\n\nToàn dân nằm mơ thời đại, mọi người dựa vào trải nghiệm khác biệt mộng cảnh tới tu hành.\n\nMột cái tạo ác mộng thiếu niên, tay cầm một tấm ác mộng tu hành thẻ...\n\nTừ đó...\n\nHắn như Ma vương quật khởi, như liệt nhật sáng chói!\n\nHắn muốn làm cho tất cả mọi người đều tại trong ác mộng... Mặt đỏ tim run!\n\nLý Hồng Thiên sách mới, cùng tác với Dị Thế Giới Mỹ Thực Gia",
+  "vote_count": 2,
+  "review_score": "4.421",
+  "review_count": 1,
+  "comment_count": 5,
+  "chapter_count": 816,
+  "view_count": 0,
+  "word_count": 4387166,
+  "created_at": "2020-03-26T07:02:05.000000Z",
+  "updated_at": "2026-02-16T13:44:53.000000Z",
+  "new_chap_at": "2019-07-08T06:00:13.000000Z",
+  "published_at": "2020-03-26T07:02:05.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Tạo Mộng Thiên Sư",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 163,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 970,
+    "name": "L Hồng Thiên",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

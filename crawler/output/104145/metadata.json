@@ -1,0 +1,83 @@
+{
+  "id": 104145,
+  "name": "Hoàng Huynh Vạn Tuế",
+  "slug": "hoang-huynh-van-tue",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/hoang-huynh-van-tue",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 12724386,
+  "latest_chapter": 13284478,
+  "latest_index": 446,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/hoang-huynh-van-tue/default.jpg?1590367749",
+    "600": "https://static.cdnno.com/poster/hoang-huynh-van-tue/600.jpg?1590367749",
+    "300": "https://static.cdnno.com/poster/hoang-huynh-van-tue/300.jpg?1590367749",
+    "150": "https://static.cdnno.com/poster/hoang-huynh-van-tue/150.jpg?1590367749"
+  },
+  "synopsis": "【  vô địch văn 】\n\n\t\"Hạ Cực, ngươi thân là hoàng tử, lại cùng yêu nữ tư thông, làm bẩn ta hoàng gia mặt mũi, phải bị tội gì!\"\n\n\t\"Ta nguyện tại Tàng Kinh các, cấm túc ba năm.\"\n\n\t\"Chuẩn.\"\n\n\t\"Bệ hạ, hoàng gia trong Tàng Kinh Các có thể là có không ít thần công dị thuật. . .\"\n\n\t\"Đều dời, chỉ lưu Phật Kinh, cho cái kia nghịch tử! !\"\n\n\tThế là, mười lăm tuổi hoàng tử nhìn hai năm Phật Kinh.\n\n\tNgài lật qua 《 Bàn Nhược Tâm Kinh 》, đã rút ra kỹ năng châu \"Bất động Minh Vương thân (tầng thứ chín) \"\n\n\tNgài lật qua 《 kinh Kim Cang 》, đã rút ra kỹ năng châu \"Cửu Dương tâm kinh (tầng thứ chín) \"\n\n\tNgài lật qua 《 Địa Tàng kinh 》, rút ra kỹ năng châu \"Thập Bát Trấn Ngục Kính (tầng thứ chín) \"\n\n\tNgài lại lật qua 《 Pháp Hoa Nghĩa Sơ 》, 《 Liên Hoa kinh 》, 《 A Tu Di Kinh 》, 《 Hiện Tại Như Lai Kinh 》. . .",
+  "vote_count": 214,
+  "review_score": "4.833",
+  "review_count": 12,
+  "comment_count": 102,
+  "chapter_count": 445,
+  "view_count": 0,
+  "word_count": 1379190,
+  "created_at": "2020-05-25T00:49:14.000000Z",
+  "updated_at": "2026-02-16T13:39:49.000000Z",
+  "new_chap_at": "2021-01-02T10:15:21.000000Z",
+  "published_at": "2020-05-25T00:49:09.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Hoàng Huynh Vạn Tuế",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 355,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 473,
+    "name": "Tiễn Thủy II",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}
