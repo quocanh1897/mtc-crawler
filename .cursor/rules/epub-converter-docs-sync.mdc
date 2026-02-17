@@ -15,6 +15,7 @@ When modifying any file in `epub-converter/`, always update **all** related docs
 | CLI flags in `convert.py`         | Docstring in `convert.py`, CLI Flags table in `CONTEXT.md`, examples in `docker-compose.yml` comments |
 | Dependencies (imports)            | `requirements.txt`, Dependencies table in `CONTEXT.md`       |
 | Volume mount paths                | `docker-compose.yml`, path detection in `convert.py`, Volume Mounts table in `CONTEXT.md` |
+| Output path or structure          | Output Structure section in `CONTEXT.md`, docstring in `convert.py` |
 | EPUB structure (cover, TOC, etc.) | EPUB Structure section in `CONTEXT.md`                       |
 | AUDIT.md section format           | AUDIT.md Integration section in `CONTEXT.md`                 |
 | Files added or removed            | Files table in `CONTEXT.md`, `COPY` line in `Dockerfile`     |

@@ -2,7 +2,8 @@
 Core EPUB building logic.
 
 Reads chapter .txt files, metadata.json, and cover.jpg from a book directory
-and produces a valid EPUB 3.0 file.
+and produces a valid EPUB 3.0 file.  The caller controls the output path;
+non-txt files are copied separately by convert.py.
 """
 from __future__ import annotations
 
@@ -154,7 +155,8 @@ def build_epub(
 
     Args:
         book_dir: Path to the book directory (e.g. crawler/output/100358/)
-        output_path: Where to save the .epub file. Defaults to book_dir/{name}.epub
+        output_path: Where to save the .epub file. If None, saves to
+                     book_dir/{name}.epub as a fallback.
         progress_callback: Optional callable(current, total) for progress updates
 
     Returns:

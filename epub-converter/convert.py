@@ -3,12 +3,14 @@
 Convert crawled books to EPUB format.
 
 Reads chapter .txt files, metadata.json, and cover.jpg from crawler/output/
-and produces valid EPUB 3.0 files.  If metadata.json is missing for a book,
-automatically invokes the meta-puller to fetch it first.
+and produces EPUB 3.0 files in epub-converter/epub-output/{book_id}/.
+Non-txt source files (metadata.json, cover.jpg, book.json) are copied alongside.
+If metadata.json is missing for a book, automatically invokes the meta-puller.
 
 Usage:
     python3 convert.py                          # convert all eligible books
     python3 convert.py --ids 100358 128390      # specific books only
+    python3 convert.py --status completed       # only completed books
     python3 convert.py --list                   # list eligible books
     python3 convert.py --dry-run                # show what would be converted
     python3 convert.py --force                  # reconvert even if .epub exists
@@ -19,6 +21,7 @@ from __future__ import annotations
 import argparse
 import os
 import re
+import shutil
 import subprocess
 import sys
 from datetime import datetime
@@ -39,6 +42,16 @@ from rich.table import Table
 
 from epub_builder import build_epub, discover_chapters, load_metadata, validate_cover
 
+# ── Status mapping ───────────────────────────────────────────────────────────
+# metadata.json "status" field: 1=ongoing, 2=completed, 3=paused
+STATUS_MAP = {
+    1: "ongoing",
+    2: "completed",
+    3: "paused",
+}
+STATUS_NAMES = list(STATUS_MAP.values())  # for argparse choices
+STATUS_REVERSE = {v: k for k, v in STATUS_MAP.items()}
+
 # ── Paths ────────────────────────────────────────────────────────────────────
 
 SCRIPT_DIR = Path(__file__).resolve().parent
@@ -50,12 +63,14 @@ if Path("/data/crawler").is_dir():
     OUTPUT_DIR = CRAWLER_DIR / "output"
     AUDIT_PATH = CRAWLER_DIR / "AUDIT.md"
     META_PULLER = Path("/data/meta-puller/pull_metadata.py")
+    EPUB_OUTPUT_DIR = Path("/data/epub-output")
 else:
     REPO_ROOT = SCRIPT_DIR.parent
     CRAWLER_DIR = REPO_ROOT / "crawler"
     OUTPUT_DIR = CRAWLER_DIR / "output"
     AUDIT_PATH = CRAWLER_DIR / "AUDIT.md"
     META_PULLER = REPO_ROOT / "meta-puller" / "pull_metadata.py"
+    EPUB_OUTPUT_DIR = SCRIPT_DIR
 
 console = Console()
 
@@ -73,12 +88,35 @@ def get_book_dirs() -> list[Path]:
     return dirs
 
 
+def get_epub_output_dir(book_id: int) -> Path:
+    """Return the epub-output directory for a book: epub-converter/epub-output/{book_id}/"""
+    return EPUB_OUTPUT_DIR / "epub-output" / str(book_id)
+
+
 def book_has_epub(book_dir: Path) -> Path | None:
-    """Return the .epub path if one already exists, else None."""
-    for f in book_dir.iterdir():
+    """Return the .epub path if one already exists in the epub-output dir, else None."""
+    book_id = int(book_dir.name)
+    out_dir = get_epub_output_dir(book_id)
+    if not out_dir.is_dir():
+        return None
+    for f in out_dir.iterdir():
         if f.is_file() and f.suffix == ".epub":
             return f
     return None
+
+
+def copy_non_txt_files(book_dir: Path, dest_dir: Path):
+    """Copy all non-.txt files from book_dir to dest_dir."""
+    dest_dir.mkdir(parents=True, exist_ok=True)
+    for f in book_dir.iterdir():
+        if not f.is_file():
+            continue
+        if f.suffix == ".txt":
+            continue
+        if f.suffix == ".epub":
+            continue
+        dest_file = dest_dir / f.name
+        shutil.copy2(f, dest_file)
 
 
 def book_has_chapters(book_dir: Path) -> int:
@@ -296,6 +334,16 @@ def convert_books(
                 meta = load_metadata(book_dir)
                 book_name = meta.get("name", f"Book {book_id}")
 
+            # Prepare epub-output directory
+            epub_out = get_epub_output_dir(book_id)
+            epub_out.mkdir(parents=True, exist_ok=True)
+
+            # Determine EPUB file path
+            safe_name = re.sub(r'[<>:"/\\|?*]', "", book_name).strip()
+            if not safe_name:
+                safe_name = f"book_{book_id}"
+            epub_file = epub_out / f"{safe_name}.epub"
+
             # Chapter-level progress
             ch_task = chapters_progress.add_task(
                 f"Chapters ({book_name[:30]})", total=num_chapters
@@ -307,8 +355,12 @@ def convert_books(
             try:
                 epub_path = build_epub(
                     book_dir,
+                    output_path=epub_file,
                     progress_callback=on_chapter,
                 )
+                # Copy non-txt files (metadata.json, cover.jpg, book.json, etc.)
+                copy_non_txt_files(book_dir, epub_out)
+
                 results.append({
                     "book_id": book_id,
                     "name": book_name,
@@ -386,6 +438,10 @@ def main():
         help="Reconvert even if .epub already exists",
     )
     parser.add_argument(
+        "--status", choices=STATUS_NAMES,
+        help="Only convert books with this status (ongoing, completed, paused)",
+    )
+    parser.add_argument(
         "--no-audit", action="store_true",
         help="Skip updating AUDIT.md",
     )
@@ -419,6 +475,7 @@ def main():
         has_cov = book_has_cover(d)
         meta = load_metadata(d)
         name = meta.get("name", f"Book {d.name}")
+        book_status = STATUS_MAP.get(meta.get("status"), "unknown")
         eligible.append({
             "dir": d,
             "id": int(d.name),
@@ -427,7 +484,14 @@ def main():
             "has_epub": has_epub,
             "has_meta": has_meta,
             "has_cover": has_cov,
+            "book_status": book_status,
         })
+
+    # Filter by --status if provided
+    if args.status:
+        before = len(eligible)
+        eligible = [e for e in eligible if e["book_status"] == args.status]
+        console.print(f"Status filter:     [bold]{args.status}[/bold] ({len(eligible)}/{before} matched)")
 
     # Filter: need chapters, and either --force or no existing EPUB
     if not args.force:
@@ -451,16 +515,26 @@ def main():
         table.add_column("ID", width=8, justify="right")
         table.add_column("Name", ratio=3)
         table.add_column("Chaps", width=7, justify="right")
+        table.add_column("Status", width=10, justify="center")
         table.add_column("Meta", width=5, justify="center")
         table.add_column("Cover", width=6, justify="center")
         table.add_column("EPUB", width=5, justify="center")
         for e in sorted(eligible, key=lambda x: x["chapters"], reverse=True):
+            st = e["book_status"]
+            if st == "completed":
+                status_fmt = "[green]completed[/green]"
+            elif st == "ongoing":
+                status_fmt = "[yellow]ongoing[/yellow]"
+            elif st == "paused":
+                status_fmt = "[red]paused[/red]"
+            else:
+                status_fmt = "[dim]unknown[/dim]"
             meta_icon = "[green]Y[/green]" if e["has_meta"] else "[red]N[/red]"
             cover_icon = "[green]Y[/green]" if e["has_cover"] else "[red]N[/red]"
             epub_icon = "[green]Y[/green]" if e["has_epub"] else "[dim]-[/dim]"
             table.add_row(
                 str(e["id"]), e["name"][:50], str(e["chapters"]),
-                meta_icon, cover_icon, epub_icon,
+                status_fmt, meta_icon, cover_icon, epub_icon,
             )
         console.print(table)
         return
@@ -471,8 +545,9 @@ def main():
         for e in to_convert:
             meta_s = "meta:Y" if e["has_meta"] else "[yellow]meta:N (will pull)[/yellow]"
             cover_s = "cover:Y" if e["has_cover"] else "[dim]cover:N[/dim]"
+            st = e["book_status"]
             console.print(
-                f"  {e['id']:>7d}  {e['chapters']:>5d} chaps  {meta_s}  {cover_s}  {e['name'][:50]}"
+                f"  {e['id']:>7d}  {e['chapters']:>5d} chaps  [{st}]  {meta_s}  {cover_s}  {e['name'][:50]}"
             )
         return
 
