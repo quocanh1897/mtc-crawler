@@ -1,6 +1,7 @@
 # Parallel Book Download with 2 Emulators
 
 ## Overview
+
 Run **2 separate Android emulators**, each with its own app instance in the foreground, to double download throughput. Single-emulator parallel downloads don't work — Android throttles background app downloads after ~60s.
 
 ## Architecture
@@ -27,39 +28,44 @@ Run **2 separate Android emulators**, each with its own app instance in the fore
 
 ## Files
 
-| File | Purpose |
-|------|---------|
-| `~/.android/avd/Medium_Phone_2.avd/` | Second AVD config (cloned from Medium_Phone) |
-| `~/.android/avd/Medium_Phone_2.ini` | AVD pointer file |
-| `crawler/grab_book.py` | `--device` arg + `set_device()` for multi-emulator |
-| `crawler/batch_grab.py` | `--device` arg passthrough |
-| `crawler/parallel_grab.py` | 2-emulator parallel coordinator |
-| `crawler/start_emulators.sh` | Launch both emulators + mitmproxy |
+| File                                 | Purpose                                            |
+| ------------------------------------ | -------------------------------------------------- |
+| `~/.android/avd/Medium_Phone_2.avd/` | Second AVD config (cloned from Medium_Phone)       |
+| `~/.android/avd/Medium_Phone_2.ini`  | AVD pointer file                                   |
+| `crawler/grab_book.py`               | `--device` arg + `set_device()` for multi-emulator |
+| `crawler/batch_grab.py`              | `--device` arg passthrough                         |
+| `crawler/parallel_grab.py`           | 2-emulator parallel coordinator                    |
+| `crawler/start_emulators.sh`         | Launch both emulators + mitmproxy                  |
 
 ## Setup
 
 ### 1. Start both emulators
+
 ```bash
 cd crawler/
 ./start_emulators.sh
 ```
 
 This launches:
+
 - `Medium_Phone_API_36.1` on port 5554
 - `Medium_Phone_2` on port 5556
 - `mitmproxy` on port 8083 (shared by both)
 
 ### 2. Copy auth to second emulator
+
 ```bash
 python3 parallel_grab.py --setup
 ```
 
 This copies:
+
 - SharedPreferences (auth token) from emu1 → emu2
 - BaseBook table (bookmarks) from emu1 → emu2
 - Installs APK on emu2 if needed
 
 ### 3. Verify
+
 Open the app on emulator-5556 and check that bookmarks are visible.
 
 ## Usage
