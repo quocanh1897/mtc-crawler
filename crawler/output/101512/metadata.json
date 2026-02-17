@@ -1,0 +1,95 @@
+{
+  "id": 101512,
+  "name": "Thứ Tộc Vô Danh",
+  "slug": "thu-toc-vo-danh",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/thu-toc-vo-danh",
+  "note": "✨CẦU HOA✨ CẦU ĐÁNH GIÁ✨CẦU BUFF KẸO✨",
+  "status_name": "Hoàn thành",
+  "first_chapter": 12543237,
+  "latest_chapter": 13207076,
+  "latest_index": 736,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/thu-toc-vo-danh/default.jpg?1588335420",
+    "600": "https://static.cdnno.com/poster/thu-toc-vo-danh/600.jpg?1588335420",
+    "300": "https://static.cdnno.com/poster/thu-toc-vo-danh/300.jpg?1588335420",
+    "150": "https://static.cdnno.com/poster/thu-toc-vo-danh/150.jpg?1588335420"
+  },
+  "synopsis": "Mỗi cái thời đại chắc chắn sẽ có mấy cái như vậy nhân vật thiên tài giống như sao chổi đồng dạng loá mắt, những cái kia danh lưu thiên cổ, cố nhiên không thiếu kỳ tài ngút trời, nhưng những cái kia bị dìm ngập tại trong dòng sông lịch sử nhân tài, lại có bao nhiêu?\n\nTrần Mặc giấc mơ ban đầu, chỉ là hi vọng có thể phát dương gia tộc mình, để chính mình cái này thứ tộc thành là chân chính sĩ tộc, vượt trên chủ gia, để bọn hắn trở thành thứ tộc, chỉ là hắn chưa hề nghĩ tới, mình có thể đi xa như vậy, có đôi khi hắn sẽ suy nghĩ, nếu là kia từ nơi sâu xa 'Thần minh' không có chọn trúng mình, mình phải chăng còn sẽ có thành tựu ngày hôm nay?\n\nĐây là một cái ngây thơ thiếu niên thu hoạch được hệ thống, từng bước một từ một giới xuống dốc thứ tộc tại trong loạn thế dần dần trưởng thành cố sự\n\nP/s: Main là dân bản địa, cha chết, nhà nghèo ko có gì cả , tác giả miêu ta main trưởng thành dần dần\n-Giỏi về công tâm kế, mưu trước sau đó động.\nTính cách : thận trọng quyết đoán, mưu sau đó động, loạn thế kiêu hùng...\nTruyện tam quốc, thời gian trước khi loạn khăn vàng\nDanh tướng đã thu : Điển Vi, Mãn Sủng, Cao Thuận,Dương Tu,Từ Hoảng, Từ Thứ, Từ Vinh,Hoa Hùng,Giả Hủ, Lỗ Túc, Trương Tú...\nCvt: nhiều năm đọc truyện  thì mình đánh giá đây là 1 trong những bộ chặt chẽ, lôi cuốn, hấp dẫn và đáng để đọc nhất về thể loại lịch sử tam quốc. (xây thế lực tranh giành địa bàn chứ ko phải xuyên việt thu gái balbla)\n\nUpdate bản đồ thành trì tam quốc : https://bom.to/viueKZ\nbản đồ các châu : https://bom.to/bnaDWzD\n\n✨CẦU HOA✨ CẦU ĐÁNH GIÁ✨CẦU BUFF KẸO✨",
+  "vote_count": 1112,
+  "review_score": "4.911",
+  "review_count": 43,
+  "comment_count": 276,
+  "chapter_count": 736,
+  "view_count": 0,
+  "word_count": 2120089,
+  "created_at": "2020-03-26T07:03:08.000000Z",
+  "updated_at": "2026-02-16T13:13:44.000000Z",
+  "new_chap_at": "2020-11-30T08:48:35.000000Z",
+  "published_at": "2020-03-26T07:03:08.000000Z",
+  "published": 1,
+  "user_id": 1000046,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Thứ Tộc Vô Danh",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 940,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000046,
+    "name": "Huyền Linh",
+    "avatar": [
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/200.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/100.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/50.jpg?1615709578"
+    ],
+    "level": 4,
+    "exp": 2395,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1261,
+    "name": "Vương Bất Quá Bá",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 8,
+      "name": "Dã Sử",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 33,
+      "name": "Lịch Sử Quân Sự",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 80,
+      "name": "Xây Dựng Thế Lực",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

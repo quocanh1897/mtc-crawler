@@ -1,0 +1,101 @@
+{
+  "id": 109501,
+  "name": "Thành Thần Từ Làm Ruộng Bắt Đầu",
+  "slug": "thanh-than-tu-lam-ruong-bat-dau",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/thanh-than-tu-lam-ruong-bat-dau",
+  "note": "✨CẦU HOA✨ CẦU ĐÁNH GIÁ✨CẦU NÉM GẠCH VÀO MẶT✨",
+  "status_name": "Hoàn thành",
+  "first_chapter": 14081367,
+  "latest_chapter": 14326941,
+  "latest_index": 702,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/thanh-than-tu-lam-ruong-bat-dau/default.jpg?1634145940",
+    "600": "https://static.cdnno.com/poster/thanh-than-tu-lam-ruong-bat-dau/600.jpg?1634145940",
+    "300": "https://static.cdnno.com/poster/thanh-than-tu-lam-ruong-bat-dau/300.jpg?1634145940",
+    "150": "https://static.cdnno.com/poster/thanh-than-tu-lam-ruong-bat-dau/150.jpg?1634145940"
+  },
+  "synopsis": "Ở cái thế giới này, tín ngưỡng chi lực, là vạn năng quyền hành.\n\n\tNgoài ý muốn đạt được ngụy Thần khí Odin, có thể thu thập chuyển hóa tín ngưỡng chi lực, thế là thân là một cái tiểu lãnh chúa Odin nam tước, bắt đầu cẩn trọng làm ruộng con đường...\n\n\tTây huyễn lãnh chúa làm ruộng lưu, thiên thường ngày\n\np/s:full\ntag : lãnh chúa, đấu khí, ma pháp, làm ruộng,xây thế lực,hậu cung",
+  "vote_count": 634,
+  "review_score": "4.744",
+  "review_count": 13,
+  "comment_count": 245,
+  "chapter_count": 702,
+  "view_count": 0,
+  "word_count": 1771207,
+  "created_at": "2021-10-13T17:25:41.000000Z",
+  "updated_at": "2026-02-16T13:12:07.000000Z",
+  "new_chap_at": "2021-12-31T13:42:53.000000Z",
+  "published_at": "2021-10-13T17:25:40.000000Z",
+  "published": 1,
+  "user_id": 1000046,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Thành Thần Từ Làm Ruộng Bắt Đầu",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1017,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000046,
+    "name": "Huyền Linh",
+    "avatar": [
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/200.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/100.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/50.jpg?1615709578"
+    ],
+    "level": 4,
+    "exp": 2395,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 5395,
+    "name": "Thang Viên Cẩu",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 20,
+      "name": "Kỳ Ảo",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 15,
+      "name": "Tây Phương Kỳ Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 80,
+      "name": "Xây Dựng Thế Lực",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

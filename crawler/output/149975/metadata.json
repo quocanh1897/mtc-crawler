@@ -1,0 +1,96 @@
+{
+  "id": 149975,
+  "name": "Ta Tại Tu Hành Thế Giới Làm Cổ Thần",
+  "slug": "dao-tam-gioi",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/dao-tam-gioi",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 25488720,
+  "latest_chapter": 26889113,
+  "latest_index": 244,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/dao-tam-gioi/default.jpg?1764143510",
+    "600": "https://static.cdnno.com/poster/dao-tam-gioi/600.jpg?1764143510",
+    "300": "https://static.cdnno.com/poster/dao-tam-gioi/300.jpg?1764143510",
+    "150": "https://static.cdnno.com/poster/dao-tam-gioi/150.jpg?1764143510"
+  },
+  "synopsis": "Rất nhiều năm về sau, Hứa Nguyên đem hồi tưởng lại hắn vừa xuyên qua đến cái thế giới này, bị phi kiếm đính tại cầu lớn bên trên buổi tối hôm đó.\n\n\tKhi đó hắn coi là đó là cái Tu Hành Thế Giới, mà chính mình cùng cái khác người xuyên việt đồng dạng, thu được kim thủ chỉ.\n\n\tHắn cũng không biết, trên thế giới không có cái gì kim thủ chỉ.\n\n\tHắn lấy được, là Cổ Thần năng lực. . .\n\nTên truyện cũ: Đạo Tam Giới (Trộm Tam Giới - 盗三界)",
+  "vote_count": 919,
+  "review_score": "5.000",
+  "review_count": 3,
+  "comment_count": 134,
+  "chapter_count": 244,
+  "view_count": 0,
+  "word_count": 618472,
+  "created_at": "2025-11-12T06:52:37.000000Z",
+  "updated_at": "2026-02-17T06:16:01.000000Z",
+  "new_chap_at": "2026-02-17T05:50:40.000000Z",
+  "published_at": "2025-11-12T06:52:37.000000Z",
+  "published": 1,
+  "user_id": 1000044,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Tại Tu Hành Thế Giới Làm Cổ Thần",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 571,
+  "chapter_per_week": 17,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000044,
+    "name": "HadesLoki",
+    "avatar": [
+      "https://static.cdnno.com/user/072ab14696657b46a86febd461e999f0/200.jpg?1718619913",
+      "https://static.cdnno.com/user/072ab14696657b46a86febd461e999f0/100.jpg?1718619913",
+      "https://static.cdnno.com/user/072ab14696657b46a86febd461e999f0/50.jpg?1718619913"
+    ],
+    "level": 4,
+    "exp": 2080,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1210,
+    "name": "Yên Hỏa Thành Thành",
+    "avatar": null,
+    "local_name": "烟火成城",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 12,
+      "name": "Dị Thế Đại Lục",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

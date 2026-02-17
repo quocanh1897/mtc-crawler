@@ -1,0 +1,102 @@
+{
+  "id": 112034,
+  "name": "Thỉnh Công Tử Trảm Yêu",
+  "slug": "thinh-cong-tu-tram-yeu",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/thinh-cong-tu-tram-yeu",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 14676655,
+  "latest_chapter": 16811852,
+  "latest_index": 909,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/thinh-cong-tu-tram-yeu/default.jpg?1650164550",
+    "600": "https://static.cdnno.com/poster/thinh-cong-tu-tram-yeu/600.jpg?1650164550",
+    "300": "https://static.cdnno.com/poster/thinh-cong-tu-tram-yeu/300.jpg?1650164550",
+    "150": "https://static.cdnno.com/poster/thinh-cong-tu-tram-yeu/150.jpg?1650164550"
+  },
+  "synopsis": "Lồng lộng nhân gian, cửu thiên thập địa.\n\n\tThế gian phồn hoa, vui sướng tu tiên.\n\n\tLàm Sở Lương mở mắt ra phát hiện mình trở thành một tên phái Thục Sơn đệ tử, cũng người mang một tôn kỳ dị bảo tháp... Từ đó liền bước lên một đầu chưa từng thiết tưởng con đường.\n\n\tTam thập lục phong thần yên khởi, bát thiên lý ngoại trảm long hoàn!\n\n\t...\n\n\t\"Thỉnh công tử chém yêu!\"\n\nCảnh giới: Đoán Thể, Ngưng Khí, Thần Ý, Kim Đan, Ngũ Hành, Pháp Thể, Vấn Đạo, Thiên Nguyên, Thông Huyền.",
+  "vote_count": 441,
+  "review_score": "4.940",
+  "review_count": 10,
+  "comment_count": 246,
+  "chapter_count": 909,
+  "view_count": 0,
+  "word_count": 2165081,
+  "created_at": "2022-04-17T03:02:01.000000Z",
+  "updated_at": "2026-02-16T13:36:35.000000Z",
+  "new_chap_at": "2023-09-25T01:47:32.000000Z",
+  "published_at": "2022-04-17T03:02:01.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Thỉnh Công Tử Trảm Yêu",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1594,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3814,
+    "name": "Bùi Bất Liễu",
+    "avatar": null,
+    "local_name": "裴不了",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 4,
+      "name": "Thiết Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 62,
+      "name": "Vô Địch",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

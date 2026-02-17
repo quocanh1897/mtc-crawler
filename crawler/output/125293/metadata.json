@@ -1,0 +1,102 @@
+{
+  "id": 125293,
+  "name": "Thôn Phệ Tinh Không 2 Khởi Nguyên Đại Lục",
+  "slug": "thon-phe-tinh-khong-2-khoi-nguyen-dai-luc",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/thon-phe-tinh-khong-2-khoi-nguyen-dai-luc",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 17762134,
+  "latest_chapter": 24308976,
+  "latest_index": 454,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/thon-phe-tinh-khong-2-khoi-nguyen-dai-luc/default.jpg?1717245083",
+    "600": "https://static.cdnno.com/poster/thon-phe-tinh-khong-2-khoi-nguyen-dai-luc/600.jpg?1717245083",
+    "300": "https://static.cdnno.com/poster/thon-phe-tinh-khong-2-khoi-nguyen-dai-luc/300.jpg?1717245083",
+    "150": "https://static.cdnno.com/poster/thon-phe-tinh-khong-2-khoi-nguyen-dai-luc/150.jpg?1717245083"
+  },
+  "synopsis": "La Phong mang theo Giới Thú Ma La Tát xông qua luân hồi, đi tới Khởi Nguyên đại lục...",
+  "vote_count": 5003,
+  "review_score": "4.787",
+  "review_count": 29,
+  "comment_count": 2340,
+  "chapter_count": 454,
+  "view_count": 0,
+  "word_count": 1264065,
+  "created_at": "2024-04-03T02:01:48.000000Z",
+  "updated_at": "2026-02-16T13:37:24.000000Z",
+  "new_chap_at": "2025-08-23T14:16:42.000000Z",
+  "published_at": "2024-04-03T02:01:48.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Thôn Phệ Tinh Không 2 Khởi Nguyên Đại Lục",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2126,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 379,
+    "name": "Ngã Cật Tây Hồng Thị",
+    "avatar": null,
+    "local_name": "我吃西红柿",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 4,
+      "name": "Khoa Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 98,
+      "name": "Thiên Tài",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    },
+    {
+      "id": 14,
+      "name": "Cao Võ Thế Giới",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

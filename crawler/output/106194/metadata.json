@@ -1,0 +1,101 @@
+{
+  "id": 106194,
+  "name": "Bát Long Quy Nguyên Truyện",
+  "slug": "yeu-than-luc",
+  "kind": 2,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://vtruyen.com/truyen/yeu-than-luc",
+  "note": "Thông báo:\n Truyện vào TOP 10 tặng hoa tháng sẽ bạo chương vào ngày chủ nhật. \nNếu vào TOP 3 hoa tháng sẽ đăng ngày hai chương như trước đây.",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13542483,
+  "latest_chapter": 17136656,
+  "latest_index": 1131,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/yeu-than-luc/default.jpg?1662124396",
+    "600": "https://static.cdnno.com/poster/yeu-than-luc/600.jpg?1662124396",
+    "300": "https://static.cdnno.com/poster/yeu-than-luc/300.jpg?1662124396",
+    "150": "https://static.cdnno.com/poster/yeu-than-luc/150.jpg?1662124396"
+  },
+  "synopsis": "Yêu Thần Thế Giới!\n\nMột thế giới rộng lớn vô biên!\n\nThế lực cường đại nơi đâu cũng có!\n\nYêu Thần Thế Giới xuất hiện một truyền thuyết! Thế gian này tồn tại tám miếng thần ngọc.\n\nTám miếng Thần Ngọc này còn được gọi là Bát Long Thần Ngọc!\n\nTương truyền! Chỉ cần có thể nắm trong tay  tám miếng Thần Ngọc liền có thể thống được Yêu Thần Thế Giới, siêu thoát thiên địa.\n\nMấy trăm vạn năm qua, vì tranh đoạt tám miếng Thần Ngọc, Yêu Thần Thế Giới tranh đấu loạn lạc không ngừng. \n\nTu luyện giả lầm than vô số.\n\nThế nhưng đến hiện tại vẫn là không có người nào có thể nắm được tám miếng Thần Ngọc trong tay. \n\nTrần Vân Thanh vốn là một người bình thường tại Địa Cầu! Hắn đến thế giới này chỉ vì muốn trở thành cường giả, quay trở lại Địa Cầu làm những chuyện vẫn còn đang dang dở. \n\nNhưng số phận lại kéo hắn đi vào cuộc tranh đoạt Bát Long Thần Ngọc. \n\nCũng từ đây xảy ra nhiều chuyện mà hắn cũng không thể nào tưởng tượng ra được.\n\nCảnh giới : Yêu Giả - Yêu Sĩ - Yêu Sư - Yêu Tông - Yêu Vương - Yêu Hoàng - Yêu Tôn-Yêu Đế - Yêu Thánh - Yêu Thần.\n\n***\n\nP/s: Truyện sẽ  miễn phí từ 01-678 chương. \n\n\n***\n\nP/S: Tất cả nhân vật cùng sự kiện bên trong truyện phần lớn là do tác giả tưởng tượng ra, nếu như có giống nhau với đời thực, đó chỉ là do trùng hợp ngẫu nhiên, không nên liên tưởng.\n\n***\n\nP/s: Nếu mọi người thấy hay thì giúp mình Đề Cử Hoa mỗi ngày, thả Cảm Xúc cuối mỗi chương, Tặng Quà và Đánh Giá giúp mình nhé. Cảm ơn các bạn rất nhiều!",
+  "vote_count": 12943,
+  "review_score": "4.898",
+  "review_count": 31,
+  "comment_count": 1479,
+  "chapter_count": 1131,
+  "view_count": 0,
+  "word_count": 2210961,
+  "created_at": "2020-12-28T14:24:24.000000Z",
+  "updated_at": "2026-02-16T13:53:22.000000Z",
+  "new_chap_at": "2023-12-07T04:24:00.000000Z",
+  "published_at": "2021-04-08T01:18:17.000000Z",
+  "published": 1,
+  "user_id": 1000073,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Bát Long Quy Nguyên Truyện",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1057,
+  "chapter_per_week": 0,
+  "ready_for_sale": 1,
+  "discount_price": 95270,
+  "discount": 30,
+  "creator": {
+    "id": 1000073,
+    "name": "Hắc Tâm Lão Ma",
+    "avatar": [
+      "https://static.cdnno.com/user/04caa2b3afef825dc0f0b1e4ab261e1f/200.jpg?1612846355",
+      "https://static.cdnno.com/user/04caa2b3afef825dc0f0b1e4ab261e1f/100.jpg?1612846355",
+      "https://static.cdnno.com/user/04caa2b3afef825dc0f0b1e4ab261e1f/50.jpg?1612846355"
+    ],
+    "level": 4,
+    "exp": 9298,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3167,
+    "name": "",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 12,
+      "name": "Dị Thế Đại Lục",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 4,
+      "name": "Thiết Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 66,
+      "name": "Trọng Sinh",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

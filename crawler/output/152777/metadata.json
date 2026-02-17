@@ -1,0 +1,90 @@
+{
+  "id": 152777,
+  "name": "Máy Mô Phỏng Nhân Sinh Của Ta Kiến Nghị Ta Mở Lại",
+  "slug": "may-mo-phong-nhan-sinh-cua-ta-kien-nghi-ta-mo",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/may-mo-phong-nhan-sinh-cua-ta-kien-nghi-ta-mo",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 26663695,
+  "latest_chapter": 26779700,
+  "latest_index": 491,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/may-mo-phong-nhan-sinh-cua-ta-kien-nghi-ta-mo/default.jpg?1769064243",
+    "600": "https://static.cdnno.com/poster/may-mo-phong-nhan-sinh-cua-ta-kien-nghi-ta-mo/600.jpg?1769064243",
+    "300": "https://static.cdnno.com/poster/may-mo-phong-nhan-sinh-cua-ta-kien-nghi-ta-mo/300.jpg?1769064243",
+    "150": "https://static.cdnno.com/poster/may-mo-phong-nhan-sinh-cua-ta-kien-nghi-ta-mo/150.jpg?1769064243"
+  },
+  "synopsis": "Từ sau khi Phương Ảnh xuyên qua đến thế giới tồn tại dị năng này, liền trải qua cuộc sống hạnh phúc, bình thường nhưng lại an bình. Hắn mặc dù không có dị năng ma pháp, lại có được người nhà cùng thanh mai trúc mã khiến người hâm mộ ——\n\nPhụ thân thường xuyên đi công tác, nhưng mỗi lần trở về đều sẽ mang lễ vật cho người nhà;\n\nMẫu thân là bà chủ toàn chức, tính tình rất tốt, tính cách ôn nhu, lạc quan sáng sủa;\n\nTỷ tỷ là văn viên chính phủ, tích cực nghiêm túc lại lén lút mua \"Hàng cấm\" cho đệ đệ muội muội;\n\nMuội muội hướng nội thẹn thùng, lại luôn ưa thích dính lấy hắn, ánh mắt đều ở trên người hắn;\n\nThanh mai trúc mã từ nhỏ cùng nhau lớn lên, giống như giả tiểu tử, coi hắn là hảo huynh đệ mà đối đãi;\n\nThậm chí còn có lớp trưởng hoàn mỹ, nụ cười ôn hòa, gia cảnh giàu có, người gặp người thích cùng hắn chia sẻ bí mật, đối với hắn vừa gặp đã cảm mến.\n\nBất luận nhìn thế nào, ngoại trừ không có dị năng, hắn cũng có thể xem như là người thắng nhân sinh a ——\n\nMãi đến buổi sáng hôm đó, hắn thức tỉnh máy mô phỏng nhân sinh, đồng thời đưa ra nhân sinh kiến nghị:\n\n【 Chơi lại đi, hết cứu rồi 】.\n\nQuyển sách còn có tên: 《 Tuyệt cảnh phùng sinh trong hằng ngày bình tĩnh 》, 《 Luận làm thế nào ở trong vòng vây bệnh kiều đánh ra hoàn mỹ nhân sinh 》, 《 Máy mô phỏng cứu ta! 》, 《 Hoàn mỹ nhân sinh thật tồn tại sao? 》, 《 Máy mô phỏng chỉ biết mô phỏng nhân sinh người khác 》, 《 Máy mô phỏng tử vong 》.",
+  "vote_count": 198,
+  "review_score": "5.000",
+  "review_count": 4,
+  "comment_count": 46,
+  "chapter_count": 491,
+  "view_count": 0,
+  "word_count": 956899,
+  "created_at": "2026-01-20T12:42:23.000000Z",
+  "updated_at": "2026-02-15T19:47:34.000000Z",
+  "new_chap_at": "2026-02-10T13:00:00.000000Z",
+  "published_at": "2026-01-20T13:55:28.000000Z",
+  "published": 1,
+  "user_id": 1581197,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Máy Mô Phỏng Nhân Sinh Của Ta Kiến Nghị Ta Mở Lại",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 230,
+  "chapter_per_week": 31,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1581197,
+    "name": "Klein Tiên Sinh",
+    "avatar": [
+      "https://static.cdnno.com/user/c1efb8cecaabd8e1566282f24be3630b/200.jpg?1759154734",
+      "https://static.cdnno.com/user/c1efb8cecaabd8e1566282f24be3630b/100.jpg?1759154734",
+      "https://static.cdnno.com/user/c1efb8cecaabd8e1566282f24be3630b/50.jpg?1759154734"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 12986,
+    "name": "Tửu 16",
+    "avatar": null,
+    "local_name": "酒16",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 6,
+      "name": "Đô Thị",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 28,
+      "name": "Đô Thị Dị Năng",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": 101401,
+  "name": "Siêu Thần Cảm Ứng",
+  "slug": "sieu-than-cam-ung",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/sieu-than-cam-ung",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 12289126,
+  "latest_chapter": 12289413,
+  "latest_index": 288,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/sieu-than-cam-ung/default.jpg?1585206131",
+    "600": "https://static.cdnno.com/poster/sieu-than-cam-ung/600.jpg?1585206131",
+    "300": "https://static.cdnno.com/poster/sieu-than-cam-ung/300.jpg?1585206131",
+    "150": "https://static.cdnno.com/poster/sieu-than-cam-ung/150.jpg?1585206131"
+  },
+  "synopsis": "Linh khí thức tỉnh thời đại, dị giới người loạn xuyên, Giang Lâm thức tỉnh năng lực đặc thù, siêu cường năng lực cảm ứng, theo linh khí bên trong đánh cắp tin tức.\n\nCảm ứng được võ giả luyện võ còn sót lại, Đại Thương Thiên Thủ, Giang Lâm yên lặng học tập.\n\nCảm ứng được linh dược. . . Trường Sinh thụ sắp thành thục, Giang Lâm nhìn xem Thông Thiên thần thụ, suy nghĩ lấy có phải hay không chuyển về nhà.\n\nCảm ứng được. . . Dị giới người đang tại nói chuyện:\n\n\"Môi cá nhám người Địa Cầu a, ta thiết lập khảo nghiệm, hướng dẫn liền bày ở nơi này, các ngươi đều không bản sự cầm tới.\"\n\n\"Quá ngu, xuẩn ta đều nhìn không được, này loại đơn giản trận pháp, người Địa Cầu thế mà hiểu không ra.\"\n\n\"Ngươi tốt, ngươi trận pháp đã bị giây phá. . .\"\n\n- Cảnh giới:\n   Luyện Thể, Chân Khí, Chân Nguyên, Tiên Thiên, Tông Sư, Đại Tông Sư...\n\nHà Xử Bất Nhiễm Trần sách mới, cùng tác với: Thần Thoại Cấm Khu, Thần Ma Cung Ứng Thương.",
+  "vote_count": 0,
+  "review_score": "4.875",
+  "review_count": 1,
+  "comment_count": 1,
+  "chapter_count": 288,
+  "view_count": 0,
+  "word_count": 793060,
+  "created_at": "2020-03-26T07:02:11.000000Z",
+  "updated_at": "2026-02-16T13:47:12.000000Z",
+  "new_chap_at": "2019-03-03T12:00:53.000000Z",
+  "published_at": "2020-03-26T07:02:11.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Siêu Thần Cảm Ứng",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 54,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 851,
+    "name": "Hà Xử Bất Nhiễm Trần",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,84 @@
+{
+  "id": 108293,
+  "name": "Đại Ngụy Đọc Sách Người",
+  "slug": "dai-nguy-doc-sach-nguoi",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/dai-nguy-doc-sach-nguoi",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13824688,
+  "latest_chapter": 14525952,
+  "latest_index": 536,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/dai-nguy-doc-sach-nguoi/default.jpg?1626428516",
+    "600": "https://static.cdnno.com/poster/dai-nguy-doc-sach-nguoi/600.jpg?1626428516",
+    "300": "https://static.cdnno.com/poster/dai-nguy-doc-sach-nguoi/300.jpg?1626428516",
+    "150": "https://static.cdnno.com/poster/dai-nguy-doc-sach-nguoi/150.jpg?1626428516"
+  },
+  "synopsis": "Vũ Xương nguyên niên.\n\n\tĐại Ngụy vương triều, trải qua bảy lần bắc phạt mà bại, quốc khố trống rỗng, dân chúng lầm than, lại gặp tiên đế băng hà.\n\n\tSau đó, nữ đế đăng cơ, nhật nguyệt giữa trời.\n\n\tLúc này, thiên hạ yêu ma hoành ra, làm hại nhân gian.\n\n\tĐại Ngụy phiên vương xuẩn xuẩn dục động, triều đình phun trào bất an, dị tộc phiên bang nhìn chằm chằm.\n\n\tCũng liền tại Đại Ngụy giang sơn tràn ngập nguy hiểm thời điểm, học sinh khối văn Hứa Thanh Tiêu xuyên qua mà tới, lại phát hiện chỉ còn lại có mười hai canh giờ tuổi thọ.\n\n\tVì cầu tự vệ, tu hành 'Dị thuật', ngưng tụ ma chủng, thu hoạch siêu phàm lực lượng!\n\n\tVì áp chế ma chủng, Hứa Thanh Tiêu tu hành mạnh nhất hệ thống nho đạo, nhưng chưa từng nghĩ, mượn nhờ thi từ văn chương, từng bước một chứng đạo văn thánh.\n\n\t\"Ngô chính là Hứa Thanh Tiêu, Đại Ngụy đọc sách người.\"\n\n\t\"Đọc là xuân thu!\"\n\n\t—— ——\n\n\t【 vạn đặt trước nhiệt huyết nho đạo chi tác  】\n\n\t【 vô địch xuyên qua trí đấu sảng văn  】\n\n\t【 chương 83 nổ tung cất cánh  】\n\n\t【 ngày càng hai vạn ổn định tác phẩm  】\n\n♥♥♥ ỦNG HỘ ĐỂ TA CÓ ĐỘNG LỰC CV NHÉ! ♥♥♥\n\nCác bạn ủng hộ bằng 4 phương thức:\n1. Đánh giá chất lượng truyện và bản convert.\n2. Bấm đề cử, tặng hoa ❁.\n3. Ấn nút Tặng kẹo 🍬 cuối chương.\n4. Ấn Nút like\nChân thành cảm ơn!",
+  "vote_count": 3707,
+  "review_score": "4.703",
+  "review_count": 51,
+  "comment_count": 1478,
+  "chapter_count": 536,
+  "view_count": 0,
+  "word_count": 2020965,
+  "created_at": "2021-07-16T09:41:59.000000Z",
+  "updated_at": "2026-02-16T13:53:25.000000Z",
+  "new_chap_at": "2022-03-04T17:56:16.000000Z",
+  "published_at": "2021-07-16T09:41:56.000000Z",
+  "published": 1,
+  "user_id": 1000066,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Đại Ngụy Đọc Sách Người",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1367,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000066,
+    "name": "Tiểu Miên Hoa",
+    "avatar": [
+      "https://static.cdnno.com/user/7b38d321f82e6bf1b807a35c21637422/200.jpg?1675595815",
+      "https://static.cdnno.com/user/7b38d321f82e6bf1b807a35c21637422/100.jpg?1675595815",
+      "https://static.cdnno.com/user/7b38d321f82e6bf1b807a35c21637422/50.jpg?1675595815"
+    ],
+    "level": 4,
+    "exp": 4862,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 4984,
+    "name": "Thất Nguyệt Vị Thì",
+    "avatar": null,
+    "local_name": "七月未時",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}

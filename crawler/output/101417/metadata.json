@@ -1,0 +1,76 @@
+{
+  "id": 101417,
+  "name": "Vô Thượng Đế Tôn",
+  "slug": "dan-vo-than-ton",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/dan-vo-than-ton",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 12293841,
+  "latest_chapter": 15148792,
+  "latest_index": 1824,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/dan-vo-than-ton/default.jpg?1585206139",
+    "600": "https://static.cdnno.com/poster/dan-vo-than-ton/600.jpg?1585206139",
+    "300": "https://static.cdnno.com/poster/dan-vo-than-ton/300.jpg?1585206139",
+    "150": "https://static.cdnno.com/poster/dan-vo-than-ton/150.jpg?1585206139"
+  },
+  "synopsis": "Thương Khung đại lục, võ giả tu đạo cung, Đạo cung nuôi mệnh hồn. Thiếu niên Diệp Tinh Hà, kỳ tài ngút trời, thức tỉnh cửu phẩm mệnh hồn: Long Văn Tử Kim Đỉnh! Thành trẻ tuổi nhất Luyện Đan sư. Lại bị Kỳ huynh ghen ghét, đoạt hắn mệnh hồn, biến thành phế nhân! Lại ngoài ý muốn thức tỉnh đạo thứ chín Thần cấp mệnh hồn! Từ đó nghịch thiên quật khởi, thành tựu một đời đan võ chí tôn!",
+  "vote_count": 57,
+  "review_score": "4.560",
+  "review_count": 7,
+  "comment_count": 34,
+  "chapter_count": 1824,
+  "view_count": 0,
+  "word_count": 3499482,
+  "created_at": "2020-03-26T07:02:19.000000Z",
+  "updated_at": "2026-02-16T13:37:07.000000Z",
+  "new_chap_at": "2022-08-17T07:06:20.000000Z",
+  "published_at": "2020-03-26T07:02:19.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Vô Thượng Đế Tôn",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 469,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1197,
+    "name": "Lạc Thành Đông",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

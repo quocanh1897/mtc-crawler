@@ -1,0 +1,76 @@
+{
+  "id": 101409,
+  "name": "Dáng Dấp Quá Hung Làm Sao Bây Giờ",
+  "slug": "dang-dap-qua-hung-lam-sao-bay-gio",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/dang-dap-qua-hung-lam-sao-bay-gio",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11491343,
+  "latest_chapter": 11491773,
+  "latest_index": 431,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/dang-dap-qua-hung-lam-sao-bay-gio/default.jpg?1585206135",
+    "600": "https://static.cdnno.com/poster/dang-dap-qua-hung-lam-sao-bay-gio/600.jpg?1585206135",
+    "300": "https://static.cdnno.com/poster/dang-dap-qua-hung-lam-sao-bay-gio/300.jpg?1585206135",
+    "150": "https://static.cdnno.com/poster/dang-dap-qua-hung-lam-sao-bay-gio/150.jpg?1585206135"
+  },
+  "synopsis": "\"Mặc dù trưởng lớp của ta Teruhashi Kokomi luôn luôn quấn lấy ta muốn cho ta phát ra a rống quái thanh, học tỷ của ta Busujima Saeko cho là ta là Kiếm đạo thiên tài, sát vách trường học Bouya luôn luôn nghĩ lôi kéo ta đi cùng  Suzuran trường cấp 3 Serizawa Tamao đánh một chầu, muội muội của ta Kasugano Sora cũng hết sức đáng yêu, thế nhưng. . . .\"\n\n\"Ta thật chỉ là cái bình thường học sinh cấp ba a!\" Aoki Tsukasa sờ lấy đầu trọc sinh không thể luyến.\n\n\"Không, ngươi không phải.\" Các bạn học chững chạc đàng hoàng, cũng hướng Aoki Tsukasa quăng tới e ngại ánh mắt.\n\n\"Ta thật chỉ muốn xem xong quyển sách này mà thôi.\" Nhìn xem trên bàn sách giáo khoa, Aoki Tsukasa một mặt khát vọng.\n\n\"Không, ngươi không nghĩ.\" Hệ thống chững chạc đàng hoàng, cũng hướng Aoki Tsukasa phát ra nhiệm vụ mới.",
+  "vote_count": 6,
+  "review_score": "4.588",
+  "review_count": 2,
+  "comment_count": 8,
+  "chapter_count": 431,
+  "view_count": 0,
+  "word_count": 1369282,
+  "created_at": "2020-03-26T07:02:15.000000Z",
+  "updated_at": "2026-02-16T13:45:34.000000Z",
+  "new_chap_at": "2019-08-05T04:00:56.000000Z",
+  "published_at": "2020-03-26T07:02:15.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Dáng Dấp Quá Hung Làm Sao Bây Giờ",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 92,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1194,
+    "name": "Thiên Minh Hựu Nhất Thôn",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 7,
+      "name": "Đồng Nhân",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,101 @@
+{
+  "id": 113085,
+  "name": "Rút Trừ Tạp Chất, Con Rệp Biến Chân Long",
+  "slug": "rut-tru-tap-chat-con-rep-bien-chan-long",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/rut-tru-tap-chat-con-rep-bien-chan-long",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 14957456,
+  "latest_chapter": 15949394,
+  "latest_index": 1121,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/rut-tru-tap-chat-con-rep-bien-chan-long/default.jpg?1656610747",
+    "600": "https://static.cdnno.com/poster/rut-tru-tap-chat-con-rep-bien-chan-long/600.jpg?1656610747",
+    "300": "https://static.cdnno.com/poster/rut-tru-tap-chat-con-rep-bien-chan-long/300.jpg?1656610747",
+    "150": "https://static.cdnno.com/poster/rut-tru-tap-chat-con-rep-bien-chan-long/150.jpg?1656610747"
+  },
+  "synopsis": "\tLâm Phong xuyên qua đến Thần Phong Đại Lục, trở thành Đại Hạ hoàng tử. Tại một lần mang binh đánh giặc bên trong, Lâm Phong đan điền bị phế, tu vi mất hết. Đại Hạ quân chủ phế bỏ Lâm Phong Thái tử chi vị, đem hắn biếm đến cằn cỗi Thanh Phong thành. Rốt cục, Lâm Phong kích hoạt tạp chất rút trừ hệ thống. Rút trừ tự thân tạp chất, biến thành hoàn mỹ Thánh thể. Rút trừ gà rừng tạp chất, biến thành Bất Tử Phượng Hoàng. Rút trừ con rệp tạp chất, biến thành Ngũ Trảo Kim Long. Làm vạn tộc đại chiến mở ra về sau, Đại Hạ hoàng triều đứng trước diệt triều nguy cơ, Đại Hạ quân chủ: Con a, van cầu ngươi trở về làm cái Thái tử đi, thực sự không được phụ hoàng có thể xách trước thoái vị.\n\n",
+  "vote_count": 36,
+  "review_score": "3.426",
+  "review_count": 9,
+  "comment_count": 181,
+  "chapter_count": 1121,
+  "view_count": 0,
+  "word_count": 1933577,
+  "created_at": "2022-06-30T17:38:52.000000Z",
+  "updated_at": "2026-02-16T13:13:08.000000Z",
+  "new_chap_at": "2023-03-09T13:58:06.000000Z",
+  "published_at": "2022-06-30T17:38:52.000000Z",
+  "published": 1,
+  "user_id": 1000046,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Rút Trừ Tạp Chất, Con Rệp Biến Chân Long",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 979,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000046,
+    "name": "Huyền Linh",
+    "avatar": [
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/200.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/100.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/50.jpg?1615709578"
+    ],
+    "level": 4,
+    "exp": 2395,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 6801,
+    "name": "Quế Viên Ca Ca",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

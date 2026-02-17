@@ -1,0 +1,102 @@
+{
+  "id": 128953,
+  "name": "Toàn Dân Đại Hàng Hải: Ta Bắt Đầu Một Đầu Tàu Ma",
+  "slug": "toan-dan-dai-hang-hai-ta-bat-dau-mot-dau-tau-ma",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/toan-dan-dai-hang-hai-ta-bat-dau-mot-dau-tau-ma",
+  "note": "Giới thiệu truyện hay:\n\n + Lãnh Chúa Cầu Sinh: Thiên Phú Hợp Thành",
+  "status_name": "Hoàn thành",
+  "first_chapter": 18600528,
+  "latest_chapter": 26886722,
+  "latest_index": 1224,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/toan-dan-dai-hang-hai-ta-bat-dau-mot-dau-tau-ma/default.jpg?1722503392",
+    "600": "https://static.cdnno.com/poster/toan-dan-dai-hang-hai-ta-bat-dau-mot-dau-tau-ma/600.jpg?1722503392",
+    "300": "https://static.cdnno.com/poster/toan-dan-dai-hang-hai-ta-bat-dau-mot-dau-tau-ma/300.jpg?1722503392",
+    "150": "https://static.cdnno.com/poster/toan-dan-dai-hang-hai-ta-bat-dau-mot-dau-tau-ma/150.jpg?1722503392"
+  },
+  "synopsis": "【 Hàng hải 】【 Cầu sinh 】【 Tai nạn 】【 Chế tạo thuyền 】【 Thiên phú 】【 Cthulhu 】【 Đơn nữ chính 】\nToàn dân xuyên qua, Dương Dật xem như người chơi, bị thúc ép gia nhập vào toàn dân hàng hải cầu sinh trò chơi.\nMột chút may mắn nắm giữ đặc thù thuyền.\nTỉ như võ trang tận răng 【 Sắt thép hùng tâm hào 】.\nTỉ như đạp gió rẽ sóng, căn bản không thấy được cái bóng 【 Tật phong hào 】.\nTỉ như nắm giữ cực lớn mũi sừng, thẳng tiến không lùi 【 Đầu sắt hào 】.\nNhưng Dương Dật, thuyền của hắn gọi 【 Mộng yểm hào 】, là một chiếc tàu ma.....\nChứa Cthulhu nguyên tố, nhân vật chính không trải qua quá thoải mái, không sảng văn.\n\nVật phẩm đẳng cấp: Phổ thông, Lương phẩm, Tinh phẩm, Trân phẩm, Cực phẩm, Anh hùng, Đại sư.....",
+  "vote_count": 4311,
+  "review_score": "4.969",
+  "review_count": 75,
+  "comment_count": 949,
+  "chapter_count": 1222,
+  "view_count": 0,
+  "word_count": 2099386,
+  "created_at": "2024-06-27T06:40:58.000000Z",
+  "updated_at": "2026-02-17T05:02:48.000000Z",
+  "new_chap_at": "2026-02-16T02:59:49.000000Z",
+  "published_at": "2024-06-29T11:54:12.000000Z",
+  "published": 1,
+  "user_id": 1025157,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Toàn Dân Đại Hàng Hải: Ta Bắt Đầu Một Đầu Tàu Ma",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 3470,
+  "chapter_per_week": 2,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1025157,
+    "name": "1 5 0 8",
+    "avatar": [
+      "https://static.cdnno.com/user/7d29eb964e5f45c46783c68b33f0a3fc/200.jpg?1758889136",
+      "https://static.cdnno.com/user/7d29eb964e5f45c46783c68b33f0a3fc/100.jpg?1758889136",
+      "https://static.cdnno.com/user/7d29eb964e5f45c46783c68b33f0a3fc/50.jpg?1758889136"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 15259,
+    "name": "Tân Mãi Đào Tử",
+    "avatar": null,
+    "local_name": "新买的桃子",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 49,
+      "name": "Thám Hiểm Sinh Tồn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 92,
+      "name": "Toàn Dân",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    },
+    {
+      "id": 4,
+      "name": "Thiết Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}

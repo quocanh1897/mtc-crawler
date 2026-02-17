@@ -1,0 +1,102 @@
+{
+  "id": 112582,
+  "name": "Hồn Chủ",
+  "slug": "hon-chu",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/hon-chu",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 14834621,
+  "latest_chapter": 15418542,
+  "latest_index": 358,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/hon-chu/default.jpg?1653877563",
+    "600": "https://static.cdnno.com/poster/hon-chu/600.jpg?1653877563",
+    "300": "https://static.cdnno.com/poster/hon-chu/300.jpg?1653877563",
+    "150": "https://static.cdnno.com/poster/hon-chu/150.jpg?1653877563"
+  },
+  "synopsis": "\tTrùng sinh đến cấp ba thời kỳ Dương Đại còn không tới kịp cao hứng liền bị vội vã tiến vào 【  Thâm Vực 】 bên trong.\n\n\tĐây là một cái tiên thần tái hiện, yêu ma ăn lục phàm nhân thế giới!\n\n\tThần Thoại thức tỉnh, động thực vật hóa thành yêu ma, dị giới quỷ quái xâm lấn, thân là Địa Cầu chúa tể nhân loại địa vị tràn ngập nguy hiểm, mà lúc này thần bí 【  Thâm Vực 】 dùng game giả lập phương thức buông xuống Địa Cầu, mang cho nhân loại hi vọng.\n\n\tDương Đại tiến vào Thâm Vực thu hoạch được chưởng khống hồn phách năng lực, căn cứ hèn mọn phát dục lý niệm, hắn muốn làm một vị ngự hồn triệu hoán sư, chuẩn bị trước tổ xây một nhánh hồn phách đại quân, lại thăm dò Thâm Vực.\n\n\tThiên tư vô song, tung hoành vương triều tuyệt đại thiên kiêu!\n\n\tBừa bãi tàn phá nhân gian, yêu uy thao thiên cái thế Yêu Vương!\n\n\tMột tay che trời, hoành ép chính đạo Ma đạo tổ sư!\n\n\tLàm Dương Đại hồn phách đại quân xuất hiện càng ngày càng nhiều lệnh lưỡng giới chúng sinh khiếp sợ khủng bố tên về sau, hắn cũng thu được uy chấn lưỡng giới tôn xưng.\n\n\tHồn Chủ!\n\n**Cảnh giới:  Tụ Khí, Tâm Toàn, Linh Chiếu, Không Vô, Luyện Hồn, Đạp Hư, Thiên Nguyên ( Nhập Tịch - Âm Dương - Càn Khôn )\n",
+  "vote_count": 7108,
+  "review_score": "4.927",
+  "review_count": 57,
+  "comment_count": 2273,
+  "chapter_count": 358,
+  "view_count": 0,
+  "word_count": 689370,
+  "created_at": "2022-05-30T02:25:35.000000Z",
+  "updated_at": "2026-02-16T13:36:20.000000Z",
+  "new_chap_at": "2022-10-24T01:38:05.000000Z",
+  "published_at": "2022-05-30T02:25:35.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Hồn Chủ",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1818,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 665,
+    "name": "Nhâm Ngã Tiếu",
+    "avatar": null,
+    "local_name": "任我笑",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 23,
+      "name": "Hiện Đại Tu Chân",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

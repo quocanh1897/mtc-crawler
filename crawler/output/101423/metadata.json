@@ -1,0 +1,76 @@
+{
+  "id": 101423,
+  "name": "Nghịch Võ Chi Tôn",
+  "slug": "nghich-vo-chi-ton",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/nghich-vo-chi-ton",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 12295440,
+  "latest_chapter": 12539379,
+  "latest_index": 267,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/nghich-vo-chi-ton/default.jpg?1585206142",
+    "600": "https://static.cdnno.com/poster/nghich-vo-chi-ton/600.jpg?1585206142",
+    "300": "https://static.cdnno.com/poster/nghich-vo-chi-ton/300.jpg?1585206142",
+    "150": "https://static.cdnno.com/poster/nghich-vo-chi-ton/150.jpg?1585206142"
+  },
+  "synopsis": "Thiên Vũ đại lục, cường giả như rừng, vạn tộc cùng tồn tại, đây là một cái lấy võ vi tôn thế giới...\n\nMột đời đan thần, bởi vì bỏ mình, linh hồn trùng sinh tại một tên phế vật thiếu niên trên thân, bằng vào trí nhớ của kiếp trước cùng siêu phàm đan đạo thiên phú, lại nhìn hắn như thế nào nghịch thế mà lên, làm cái kia vạn cổ vô thượng đệ nhất nhân!\n\n-Cảnh giới: Luyện thể, Ngưng Mạch, Hóa Linh, Quy Khư, trảm đạo, Thánh cảnh.\n\nNgã Yêu Tuyển Thái Bạch sách mới, cùng tác Nghịch Vũ Đan Tôn.\n\n✯ Cvt by KOL.",
+  "vote_count": 1,
+  "review_score": "4.500",
+  "review_count": 1,
+  "comment_count": 1,
+  "chapter_count": 267,
+  "view_count": 0,
+  "word_count": 740884,
+  "created_at": "2020-03-26T07:02:22.000000Z",
+  "updated_at": "2026-02-16T13:46:09.000000Z",
+  "new_chap_at": "2020-03-10T02:00:39.000000Z",
+  "published_at": "2020-03-26T07:02:22.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Nghịch Võ Chi Tôn",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 24,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1199,
+    "name": "Ngã Yêu Tuyển Thái Bạch",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,102 @@
+{
+  "id": 113603,
+  "name": "Ta Thật Không Yếu A",
+  "slug": "ta-that-khong-yeu-a",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ta-that-khong-yeu-a",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 15086047,
+  "latest_chapter": 16028958,
+  "latest_index": 352,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-that-khong-yeu-a/default.jpg?1659406764",
+    "600": "https://static.cdnno.com/poster/ta-that-khong-yeu-a/600.jpg?1659406764",
+    "300": "https://static.cdnno.com/poster/ta-that-khong-yeu-a/300.jpg?1659406764",
+    "150": "https://static.cdnno.com/poster/ta-that-khong-yeu-a/150.jpg?1659406764"
+  },
+  "synopsis": "\tTrần Triệt mang theo quá tải hack xuyên qua quỷ dị tu tiên thế giới.\n\n\tMỗi lần tiến vào quá tải trạng thái, thân thể của hắn đều sẽ xuất hiện một chút khó chịu.\n\n\tCông pháp tốc độ tu luyện tăng lên, suy yếu ho khan.\n\n\tQuyền pháp lĩnh ngộ tốc độ tăng lên, cánh tay sưng đỏ.\n\n\tThần thông tốc độ tu luyện tăng lên, đầu đau muốn nứt.\n\n\t...\n\n\tNgười mang hack, mặt ngoài ốm đau bệnh tật Trần Triệt lựa chọn điệu thấp tu luyện.\n\n\tMãi đến Đạo Tông nguyên niên, tân đế đăng cơ, bắt đầu chỉnh đốn triều cương, tru diệt gian thần...\n\n\tLúc này biến cố phát sinh!\n\n\tCái gì?\n\n\tTa cái kia chưa từng thấy qua cha lại là đại gian thần?\n\n\tCòn liên lụy ta muốn bị diệt cửu tộc?\n\n\tQuên đi! Không giả!\n\n\tTa xem ai có thể giết ta!\n\n",
+  "vote_count": 747,
+  "review_score": "4.740",
+  "review_count": 32,
+  "comment_count": 462,
+  "chapter_count": 352,
+  "view_count": 0,
+  "word_count": 803178,
+  "created_at": "2022-08-02T02:18:53.000000Z",
+  "updated_at": "2026-02-16T13:37:10.000000Z",
+  "new_chap_at": "2023-03-28T05:26:40.000000Z",
+  "published_at": "2022-08-02T02:18:53.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Thật Không Yếu A",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1154,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 4674,
+    "name": "Vũ Tam Mao",
+    "avatar": null,
+    "local_name": "武三毛",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

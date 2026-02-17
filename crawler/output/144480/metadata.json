@@ -1,0 +1,90 @@
+{
+  "id": 144480,
+  "name": "Vào Đông Tái Hiện",
+  "slug": "mua-dong-tro-ve",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/mua-dong-tro-ve",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 23498221,
+  "latest_chapter": 26884804,
+  "latest_index": 615,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/mua-dong-tro-ve/default.jpg?1767377919",
+    "600": "https://static.cdnno.com/poster/mua-dong-tro-ve/600.jpg?1767377919",
+    "300": "https://static.cdnno.com/poster/mua-dong-tro-ve/300.jpg?1767377919",
+    "150": "https://static.cdnno.com/poster/mua-dong-tro-ve/150.jpg?1767377919"
+  },
+  "synopsis": "Trương Thuật Đồng từng có hai người nữ đồng học:\n\nMột người là đại tiểu thư kiêu ngạo nhà có tiền;\n\nMột người là thiếu nữ thanh lãnh làm người coi miếu trong núi.\n\nCác nàng một người bị giết chết ở 8 năm trước, một người chết ở 8 năm sau.\n\nTrương Thuật Đồng còn có một cái bí mật không thể cho ai biết:\nHắn có thể trở lại quá khứ.\n\n...\n\nVốn dĩ rất không dễ dàng cứu trở về các nàng, các nàng như thế nào tự đánh nhau?\n\n...\n\nThâm sơn, hồ lớn, thần miếu, bóng tối dưới nước, vụ án liên hoàn hung sát 8 năm trước, còn có cơ thể dần dần băng lãnh của nữ hài;\n\nĐây là một câu chuyện thanh xuân có chút ấm áp, có chút kinh dị, có chút lãng mạn, phát sinh giữa một đám thiếu nam thiếu nữ trên đảo nhỏ vào mùa đông.\n\n...\n\n( Yêu nhau + Xuyên qua thời không + Sân trường + Huyền nghi )\n\nQuyển sách từng dùng tên 《 Trở về: Từ cứu vớt thiếu nữ mất tích bắt đầu 》",
+  "vote_count": 1544,
+  "review_score": "5.000",
+  "review_count": 23,
+  "comment_count": 331,
+  "chapter_count": 594,
+  "view_count": 0,
+  "word_count": 1174492,
+  "created_at": "2025-07-02T03:11:08.000000Z",
+  "updated_at": "2026-02-17T06:30:20.000000Z",
+  "new_chap_at": "2026-02-17T02:18:00.000000Z",
+  "published_at": "2025-07-05T06:03:56.000000Z",
+  "published": 1,
+  "user_id": 1581197,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Vào Đông Tái Hiện",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1060,
+  "chapter_per_week": 11,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1581197,
+    "name": "Klein Tiên Sinh",
+    "avatar": [
+      "https://static.cdnno.com/user/c1efb8cecaabd8e1566282f24be3630b/200.jpg?1759154734",
+      "https://static.cdnno.com/user/c1efb8cecaabd8e1566282f24be3630b/100.jpg?1759154734",
+      "https://static.cdnno.com/user/c1efb8cecaabd8e1566282f24be3630b/50.jpg?1759154734"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 24754,
+    "name": "Tuyết Lê Đôn Trà",
+    "avatar": null,
+    "local_name": "雪梨炖茶",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 6,
+      "name": "Đô Thị",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 29,
+      "name": "Thanh Xuân Vườn Trường",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

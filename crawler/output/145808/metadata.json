@@ -1,0 +1,96 @@
+{
+  "id": 145808,
+  "name": "Cướp Cái Cơ Duyên Thế Nào Còn Mang Vạn Lần Trả Về?",
+  "slug": "cuop-cai-co-duyen-the-nao-con-mang-van-lan-tra-ve",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/cuop-cai-co-duyen-the-nao-con-mang-van-lan-tra-ve",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 23994462,
+  "latest_chapter": 26859043,
+  "latest_index": 549,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/cuop-cai-co-duyen-the-nao-con-mang-van-lan-tra-ve/default.jpg?1769656115",
+    "600": "https://static.cdnno.com/poster/cuop-cai-co-duyen-the-nao-con-mang-van-lan-tra-ve/600.jpg?1769656115",
+    "300": "https://static.cdnno.com/poster/cuop-cai-co-duyen-the-nao-con-mang-van-lan-tra-ve/300.jpg?1769656115",
+    "150": "https://static.cdnno.com/poster/cuop-cai-co-duyen-the-nao-con-mang-van-lan-tra-ve/150.jpg?1769656115"
+  },
+  "synopsis": "Chu Thần xuyên việt trở thành Vấn Tiên tông ngoại môn đệ tử, từng là ngoại môn đệ nhất thiên tài, lại tại tiến nhập nội môn trước tao ngộ thiên mệnh chi tử khiêu chiến thất bại, nhận hết khuất nhục đạo tâm hủy hết, từ đó tu vi trì trệ không tiến, trở thành tông môn lớn nhất chê cười. \n\nLúc này xuyên việt mà đến Chu Thần chợt phát hiện chính mình giác tỉnh ngón tay vàng , có thể xem xét mỗi người gần đây cơ duyên, cái gì?\n\n Cướp đoạt người khác cơ duyên, hệ thống còn có vạn lần trả về? \n\nNgươi là khí vận chi tử? Gần đây sắp đến đến Địa cấp công pháp?Đóng gói mang đi! \n\nHệ thống: Vạn lần trả về Đế cấp công pháp! \n\nNgươi là đại năng chuyển thế? Gần đây sắp luyện hóa thiên địa linh tinh? Đóng gói mang đi! \n\nHệ thống: Vạn lần trở lại thiên địa linh tủy! \n\nNgươi là tương lai Đế Tôn? Gần đây sắp thu hoạch được thánh phẩm linh khí? Đóng gói mang đi! \n\nHệ thống: Vạn lần trả về Tiên Thiên đế khí! \n\nNgươi là Cổ tộc thánh nữ? Gần đây sắp bị nhân vật chính cứu vãn, thuần phục Kim Đế Thiên La Viêm sau lấy thân báo đáp? Đóng gói mang đi! \n\nHệ thống: Vạn lần trả về hoàn chỉnh nữ đế huyết mạch + Kim Đế Chí Tôn Viêm!",
+  "vote_count": 270,
+  "review_score": "5.000",
+  "review_count": 2,
+  "comment_count": 34,
+  "chapter_count": 549,
+  "view_count": 0,
+  "word_count": 954274,
+  "created_at": "2025-08-02T01:34:24.000000Z",
+  "updated_at": "2026-02-16T14:38:15.000000Z",
+  "new_chap_at": "2026-02-08T08:20:46.000000Z",
+  "published_at": "2025-08-02T01:34:24.000000Z",
+  "published": 1,
+  "user_id": 1000020,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Cướp Cái Cơ Duyên Thế Nào Còn Mang Vạn Lần Trả Về?",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 632,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000020,
+    "name": "Vô Ưu",
+    "avatar": [
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/200.jpg?1635993328",
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/100.jpg?1635993328",
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/50.jpg?1635993328"
+    ],
+    "level": 3,
+    "exp": 1649,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 25465,
+    "name": "Thu Hào",
+    "avatar": null,
+    "local_name": "秋嚎",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

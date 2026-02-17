@@ -1,0 +1,102 @@
+{
+  "id": 119986,
+  "name": "Ai Bảo Ngươi Năng Lực Như Thế Dùng?",
+  "slug": "ai-bao-nguoi-nang-luc-nhu-the-dung",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ai-bao-nguoi-nang-luc-nhu-the-dung",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 16620802,
+  "latest_chapter": 17662334,
+  "latest_index": 842,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ai-bao-nguoi-nang-luc-nhu-the-dung/default.jpg?1691777892",
+    "600": "https://static.cdnno.com/poster/ai-bao-nguoi-nang-luc-nhu-the-dung/600.jpg?1691777892",
+    "300": "https://static.cdnno.com/poster/ai-bao-nguoi-nang-luc-nhu-the-dung/300.jpg?1691777892",
+    "150": "https://static.cdnno.com/poster/ai-bao-nguoi-nang-luc-nhu-the-dung/150.jpg?1691777892"
+  },
+  "synopsis": "Toàn dân thức tỉnh thế giới bên trong, chư giới hội tụ thành bí cảnh, các Giác Tỉnh giả cho rằng bọn họ là Chư Thiên Vạn Giới trung tâm, thẳng đến bí cảnh xâm lấn, vương triều những năm cuối, thế giới đổ sụp các loại sự kiện lớn cho bọn hắn một cái vang dội bạt tai mạnh.\n\n\t. . .\n\n\t\"Ta phải tìm tới là ai đem ta một ngàn vạn biến thành một ngàn!\" Vương Lâm Trì bị ép phấn đấu sau nói như vậy.",
+  "vote_count": 427,
+  "review_score": "4.500",
+  "review_count": 11,
+  "comment_count": 331,
+  "chapter_count": 842,
+  "view_count": 0,
+  "word_count": 1830654,
+  "created_at": "2023-08-11T18:17:53.000000Z",
+  "updated_at": "2026-02-16T22:30:50.000000Z",
+  "new_chap_at": "2024-03-21T15:35:31.000000Z",
+  "published_at": "2023-08-11T18:17:53.000000Z",
+  "published": 1,
+  "user_id": 1000046,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ai Bảo Ngươi Năng Lực Như Thế Dùng?",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1021,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000046,
+    "name": "Huyền Linh",
+    "avatar": [
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/200.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/100.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/50.jpg?1615709578"
+    ],
+    "level": 4,
+    "exp": 2395,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 6499,
+    "name": "Thái Bạch Thủy Quân",
+    "avatar": null,
+    "local_name": "太白水君",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

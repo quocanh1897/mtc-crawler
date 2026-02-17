@@ -1,0 +1,76 @@
+{
+  "id": 101422,
+  "name": "Võ Đạo Độc Tôn",
+  "slug": "vo-dao-doc-ton",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/vo-dao-doc-ton",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 12295069,
+  "latest_chapter": 13283828,
+  "latest_index": 1056,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/vo-dao-doc-ton/default.jpg?1585206142",
+    "600": "https://static.cdnno.com/poster/vo-dao-doc-ton/600.jpg?1585206142",
+    "300": "https://static.cdnno.com/poster/vo-dao-doc-ton/300.jpg?1585206142",
+    "150": "https://static.cdnno.com/poster/vo-dao-doc-ton/150.jpg?1585206142"
+  },
+  "synopsis": "Thiên Nguyên đại lục, có Đại Năng Lực Giả có thể di sơn đảo hải, đá tinh đạp nguyệt, một quyền đánh vỡ trời xanh, một cước đập tan đại địa!\n\nDiệp Minh, một giới phàm lưu, con thứ xuất thân, vì báo huyết cừu, không ngừng vươn lên.\n\nDưới cơ duyên, thu hoạch được \"Thần Linh bảo y\", dùng \"Trúc Cơ thần đan\", tu được \"Thông Thiên kinh đồ\" .\n\nTâm thành chí dựng thẳng, dũng mãnh tinh tiến, dù ai cản con đường tu võ, giết không tha!\n\nBất Hủ hoàng triều, Vạn Cổ đại giáo, Hồng Hoang cự yêu, Kình Thiên ma thần, đối mặt này đầy trời Thần Ma, hắn không sợ hãi, mệnh ta tại ta không tại Thiên!\n\n- Cảnh giới: Võ Đồ, Võ Sĩ, Võ Sư, Đại Võ Sư, Võ Tông, Võ Quân...",
+  "vote_count": 48,
+  "review_score": "4.311",
+  "review_count": 3,
+  "comment_count": 107,
+  "chapter_count": 1056,
+  "view_count": 0,
+  "word_count": 3369387,
+  "created_at": "2020-03-26T07:02:22.000000Z",
+  "updated_at": "2026-02-16T13:36:51.000000Z",
+  "new_chap_at": "2021-01-02T03:15:06.000000Z",
+  "published_at": "2020-03-26T07:02:22.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Võ Đạo Độc Tôn",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 643,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 33,
+    "name": "Bắc Minh Tiểu Yêu",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

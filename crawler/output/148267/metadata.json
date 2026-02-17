@@ -1,0 +1,96 @@
+{
+  "id": 148267,
+  "name": "Bức Ta Vì Coby Gánh Tội Thay? Mưu Phản Hải Quân Thành Tứ Hoàng",
+  "slug": "buc-ta-lam-coby-ganh-toi-thay-muu-phan-hai-quan-thanh-tu-hoang",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/buc-ta-lam-coby-ganh-toi-thay-muu-phan-hai-quan-thanh-tu-hoang",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 24915911,
+  "latest_chapter": 26876987,
+  "latest_index": 312,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/buc-ta-lam-coby-ganh-toi-thay-muu-phan-hai-quan-thanh-tu-hoang/default.jpg?1759377065",
+    "600": "https://static.cdnno.com/poster/buc-ta-lam-coby-ganh-toi-thay-muu-phan-hai-quan-thanh-tu-hoang/600.jpg?1759377065",
+    "300": "https://static.cdnno.com/poster/buc-ta-lam-coby-ganh-toi-thay-muu-phan-hai-quan-thanh-tu-hoang/300.jpg?1759377065",
+    "150": "https://static.cdnno.com/poster/buc-ta-lam-coby-ganh-toi-thay-muu-phan-hai-quan-thanh-tu-hoang/150.jpg?1759377065"
+  },
+  "synopsis": "\"Leno, đây là mệnh lệnh! Coby là hải quân tương lai hi vọng, hắn tuyệt không thể có vết nhơ!\"\n\n\tGarp ý vị thâm trường nhìn xem Leno, \"Thân là sư huynh, ngươi nhường một chút hắn, gánh xuống trách nhiệm này a!\"\n\n\tNói xong, độc lưu Leno lại tối tăm Impel Down bên trong.\n\n\t\"Ta tại hải quân 6 năm! Lập xuống công lao không bằng một cái 2 tháng gia hỏa?\"\n\n\tTrong lòng Leno chính nghĩa phá toái không còn một mảnh, cái gì cẩu thí chính nghĩa!\n\n\tTuyệt cảnh không cam lòng bên trong, hắn thức tỉnh hắn kim thủ chỉ.\n\n\tRời khỏi Impel Down Leno, một đường theo hải quân trung tướng, tứ hoàng, Vua Hải Tặc, đi lên thế giới chi chủ vị trí.\n\n\tGarp, ngươi nhìn kỹ!\n\n\tNgươi chính tay bức phản con rơi, như thế nào dùng hải tặc chi tư:\n\n\tĐem ngươi tôn thờ hải quân hi vọng nghiền nát thành bùn!\n\n\tMuốn trở thành Vua Hải Tặc tôn tử, đích thân chết tại trước mặt của ngươi!\n\n\tThủ vững cả đời chính nghĩa bị đạp tại lòng bàn chân!",
+  "vote_count": 48,
+  "review_score": "0.000",
+  "review_count": 0,
+  "comment_count": 35,
+  "chapter_count": 312,
+  "view_count": 0,
+  "word_count": 525645,
+  "created_at": "2025-10-02T03:50:36.000000Z",
+  "updated_at": "2026-02-16T13:50:33.000000Z",
+  "new_chap_at": "2026-02-12T15:13:00.000000Z",
+  "published_at": "2025-10-02T03:50:36.000000Z",
+  "published": 1,
+  "user_id": 1000080,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Bức Ta Vì Coby Gánh Tội Thay? Mưu Phản Hải Quân Thành Tứ Hoàng",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 141,
+  "chapter_per_week": 6,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000080,
+    "name": "Sakamata",
+    "avatar": [
+      "https://static.cdnno.com/user/8fc9d212f9f412f19ae669d54e1341a0/200.jpg?1711307097",
+      "https://static.cdnno.com/user/8fc9d212f9f412f19ae669d54e1341a0/100.jpg?1711307097",
+      "https://static.cdnno.com/user/8fc9d212f9f412f19ae669d54e1341a0/50.jpg?1711307097"
+    ],
+    "level": 2,
+    "exp": 147,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 26856,
+    "name": "Hương Thái Trà",
+    "avatar": null,
+    "local_name": "香菜茶",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 7,
+      "name": "Đồng Nhân",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 101,
+      "name": "Diễn Sinh Đồng Nhân",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}
