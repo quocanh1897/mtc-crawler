@@ -1,0 +1,90 @@
+{
+  "id": 148038,
+  "name": "Hogwarts Học Tập Bảng",
+  "slug": "hogwarts-hoc-tap-bang",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/hogwarts-hoc-tap-bang",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 24911425,
+  "latest_chapter": 26885606,
+  "latest_index": 487,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/hogwarts-hoc-tap-bang/default.jpg?1761981748",
+    "600": "https://static.cdnno.com/poster/hogwarts-hoc-tap-bang/600.jpg?1761981748",
+    "300": "https://static.cdnno.com/poster/hogwarts-hoc-tap-bang/300.jpg?1761981748",
+    "150": "https://static.cdnno.com/poster/hogwarts-hoc-tap-bang/150.jpg?1761981748"
+  },
+  "synopsis": "Mở hai mắt ra, Sean đã trở thành Holise cô nhi viện một viên, mặc dù bắt đầu có chút không ổn, nhưng chưa hề nghĩ tới thế giới ma pháp chính hướng hắn mở ra cửa chính.\n\n\tCàng làm cho người ta vui sướng chính là, quê quán đặc sản tùy theo mà tới.\n\n\t\"Ta Sean đi đến hôm nay toàn bằng cố gắng của mình! Độ thuần thục bảng, thêm điểm!\"\n\n\tTừ vừa học được huỳnh quang chú 【  Ma Chú Tân Thủ 】, đến nắm giữ tất cả ma chú 【  Bạch Ma Vương 】;\n\n\tTừ có thể biến hình diêm 【  Biến Hình Thuật học đồ 】, đến đủ để chuyển biến vật chất thuộc tính 【  ma pháp truyền thuyết 】;\n\n\tTừ miễn cưỡng chế biến tốt mụn ghẻ dược thủy 【  ma dược Tiểu Bạch 】, đến khai sáng cả một cái ma dược hệ thống 【  nồi nấu quặng chi chủ 】.\n\n\tHắn tại ma pháp trên thành tích nhiều như đầy sao: Biến hình, ma dược, ma chú, hắc ma pháp, tiên đoán, thần kỳ động vật, luyện kim, thiên văn. . .\n\n\tCuộc đời của hắn cũng bị rất nhiều người khen ngợi: Dumbledore, Grindelwald, Newt Scamander. . .\n\n\tA, để chúng ta tới phỏng vấn một cái sắp chết Voldemort tiên sinh đi, hắn tựa hồ có lời gì muốn nói.\n\n\tBị một cước đá chết Hắc Ma Vương:\n\n\t\"Không ai nói cho ta, Hogwarts lại còn cất giấu một vị Bạch Ma Vương!\"\n\n\tQuyển sách lại tên: « nào đó Can Đế Hogwarts », « lá gan ra cái ma pháp truyền kỳ », « Hogwarts: Thật có lỗi, ta chỉ muốn học tập »",
+  "vote_count": 1143,
+  "review_score": "5.000",
+  "review_count": 11,
+  "comment_count": 101,
+  "chapter_count": 487,
+  "view_count": 0,
+  "word_count": 801560,
+  "created_at": "2025-09-26T19:16:41.000000Z",
+  "updated_at": "2026-02-17T00:16:29.000000Z",
+  "new_chap_at": "2026-02-15T11:15:26.000000Z",
+  "published_at": "2025-09-26T19:16:41.000000Z",
+  "published": 1,
+  "user_id": 1000065,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Hogwarts Học Tập Bảng",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 690,
+  "chapter_per_week": 10,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000065,
+    "name": "KiếmTiềnMuaSữa",
+    "avatar": [
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/200.jpg?1769515356",
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/100.jpg?1769515356",
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/50.jpg?1769515356"
+    ],
+    "level": 2,
+    "exp": 456,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 26723,
+    "name": "Lâm Hi Ngộ Lộc",
+    "avatar": null,
+    "local_name": "林曦遇鹿",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 22,
+      "name": "Light Novel",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "Vô Sỉ",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 99,
+      "name": "Nguyên Sinh Huyễn Tưởng",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

@@ -8,8 +8,6 @@ venv/
 # APKs and binaries (decompiled APKs, keystores, patched builds)
 apk/
 
-# Crawler output (large extracted text files)
-crawler/output/
 
 # Temp databases
 *.db

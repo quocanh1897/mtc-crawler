@@ -1,0 +1,102 @@
+{
+  "id": 111571,
+  "name": "Nhân Vật Phản Diện Boss: Từ Đông Phương Bất Bại Bắt Đầu",
+  "slug": "nhan-vat-phan-dien-boss-tu-dong-phuong-bat-bai-bat-dau",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/nhan-vat-phan-dien-boss-tu-dong-phuong-bat-bai-bat-dau",
+  "note": "✨CẦU HOA✨ CẦU ĐÁNH GIÁ✨CẦU NÉM GẠCH VÀO MẶT✨",
+  "status_name": "Hoàn thành",
+  "first_chapter": 14551507,
+  "latest_chapter": 15812260,
+  "latest_index": 1010,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/nhan-vat-phan-dien-boss-tu-dong-phuong-bat-bai-bat-dau/default.jpg?1649314238",
+    "600": "https://static.cdnno.com/poster/nhan-vat-phan-dien-boss-tu-dong-phuong-bat-bai-bat-dau/600.jpg?1649314238",
+    "300": "https://static.cdnno.com/poster/nhan-vat-phan-dien-boss-tu-dong-phuong-bat-bai-bat-dau/300.jpg?1649314238",
+    "150": "https://static.cdnno.com/poster/nhan-vat-phan-dien-boss-tu-dong-phuong-bat-bai-bat-dau/150.jpg?1649314238"
+  },
+  "synopsis": "✨ Vinh danh Minh Chủ : Diệp Lam Tuyết ✨ \n===================================\n\n\tXuyên qua đến Đông Phương Bất Bại trên thân, còn đã thức tỉnh cái nhân vật phản diện đại Boss hệ thống.\n\n\tTrong trí nhớ, thế giới này lại còn có tiên nhân?\n\n\tVậy được rồi!\n\n\tChờ trước tiên đem Quỳ Hoa luyện...\n\n\tChân chính chung cực nhân vật phản diện Boss liền là: Chỉ cần ngươi dám hiện thế, thiên địa vì ngươi mà biến sắc, vạn vật vì ngươi khom lưng, chúng sinh vì ngươi mà chinh chiến!\n\np/s: có độc, cẩn thận khi nhập",
+  "vote_count": 5256,
+  "review_score": "4.869",
+  "review_count": 51,
+  "comment_count": 1288,
+  "chapter_count": 1010,
+  "view_count": 0,
+  "word_count": 2069915,
+  "created_at": "2022-03-11T17:46:13.000000Z",
+  "updated_at": "2026-02-16T13:54:14.000000Z",
+  "new_chap_at": "2023-02-04T17:45:22.000000Z",
+  "published_at": "2022-03-11T17:46:13.000000Z",
+  "published": 1,
+  "user_id": 1000046,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Nhân Vật Phản Diện Boss: Từ Đông Phương Bất Bại Bắt Đầu",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1571,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000046,
+    "name": "Huyền Linh",
+    "avatar": [
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/200.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/100.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/50.jpg?1615709578"
+    ],
+    "level": 4,
+    "exp": 2395,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 6135,
+    "name": "Tây Hồ Long Đằng",
+    "avatar": null,
+    "local_name": "西湖龙腾",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 12,
+      "name": "Kiếm Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "Vô Sỉ",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 14,
+      "name": "Cao Võ Thế Giới",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 87,
+      "name": "Góc Nhìn Nữ",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

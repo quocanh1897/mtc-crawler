@@ -1,0 +1,102 @@
+{
+  "id": 117899,
+  "name": "Trường Sinh Từ Thợ Săn Bắt Đầu",
+  "slug": "truong-sinh-tu-tho-san-bat-dau",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/truong-sinh-tu-tho-san-bat-dau",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 16139696,
+  "latest_chapter": 17125084,
+  "latest_index": 643,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/truong-sinh-tu-tho-san-bat-dau/default.jpg?1682171670",
+    "600": "https://static.cdnno.com/poster/truong-sinh-tu-tho-san-bat-dau/600.jpg?1682171670",
+    "300": "https://static.cdnno.com/poster/truong-sinh-tu-tho-san-bat-dau/300.jpg?1682171670",
+    "150": "https://static.cdnno.com/poster/truong-sinh-tu-tho-san-bat-dau/150.jpg?1682171670"
+  },
+  "synopsis": "\tLý Nguyên xuyên qua đến thế giới Võ đạo nơi yêu quỷ ngủ đông, thành một tên thợ săn bình thường.\n\n\tHắn vốn là gian nan cầu sinh, tại có nương tử về sau, mới phát hiện bàn tay vàng khoan thai tới chậm.\n\n\tTinh đấu lệch vị trí, thế sự xoay vần, núi sông dễ biến mà ta không thay đổi.\n-------------\nTruyện loại  cẩu đạo + võ hiệp pha chút huyền huyễn.\n\nhack của main:  chỉ cần có tri thức, lập đi lập lại luyện tập thành cơ sở sẽ cố định thành kỹ năng sau đó có thể + điểm nâng tới viên mãn, \n\nCông pháp muốn nâng tiếp phải đốn ngộ hoặc đột phá giai đoạn kế tiếp sau đó mới + điểm tiếp được.\n\ncảnh giới phân 9 phẩm, 9-7 phẩm còn là phàm nhân--- từ 6 phẩm tuổi thọ kéo dài, thần thông hiện.....",
+  "vote_count": 2904,
+  "review_score": "4.813",
+  "review_count": 40,
+  "comment_count": 1444,
+  "chapter_count": 643,
+  "view_count": 0,
+  "word_count": 1770314,
+  "created_at": "2023-04-22T13:53:30.000000Z",
+  "updated_at": "2026-02-16T13:53:34.000000Z",
+  "new_chap_at": "2023-12-02T10:48:19.000000Z",
+  "published_at": "2023-04-22T13:53:30.000000Z",
+  "published": 1,
+  "user_id": 1000062,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Trường Sinh Từ Thợ Săn Bắt Đầu",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2592,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000062,
+    "name": "Inoha",
+    "avatar": [
+      "https://static.cdnno.com/user/c4a42410c3616e9520ee5fe71f39a377/200.jpg?1744105895",
+      "https://static.cdnno.com/user/c4a42410c3616e9520ee5fe71f39a377/100.jpg?1744105895",
+      "https://static.cdnno.com/user/c4a42410c3616e9520ee5fe71f39a377/50.jpg?1744105895"
+    ],
+    "level": 4,
+    "exp": 3641,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 8972,
+    "name": "Thị Đào Hoa Tô Nha",
+    "avatar": null,
+    "local_name": "是桃花酥呀",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

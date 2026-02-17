@@ -1,0 +1,102 @@
+{
+  "id": 120677,
+  "name": "Nhẫn Giáo Giáo Sư, Ta Giáo Thư Liền Có Thể Mạnh Lên",
+  "slug": "nhan-giao-giao-su-ta-giao-thu-lien-co-the-manh-len",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/nhan-giao-giao-su-ta-giao-thu-lien-co-the-manh-len",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 16779916,
+  "latest_chapter": 21587644,
+  "latest_index": 822,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/nhan-giao-giao-su-ta-giao-thu-lien-co-the-manh-len/default.jpg?1694953660",
+    "600": "https://static.cdnno.com/poster/nhan-giao-giao-su-ta-giao-thu-lien-co-the-manh-len/600.jpg?1694953660",
+    "300": "https://static.cdnno.com/poster/nhan-giao-giao-su-ta-giao-thu-lien-co-the-manh-len/300.jpg?1694953660",
+    "150": "https://static.cdnno.com/poster/nhan-giao-giao-su-ta-giao-thu-lien-co-the-manh-len/150.jpg?1694953660"
+  },
+  "synopsis": "Moyu vượt qua đến Hỏa Ảnh Thế Giới, trở thành Konoha Nhẫn Giáo phổ thông Trung Nhẫn lão sư, vẫn là căn tổ chức thành viên.\n\n\tMay mắn giác tỉnh Giáo Sư hệ thống, dạy học liền có thể mạnh lên.\n\n\tVì không trở thành Danzo vật tiêu hao, Moyu nỗ lực dạy học tăng cường thực lực.\n\n\t\"Lần thứ nhất hoàn thành bình xét cấp bậc vì A dạy học, lấy được được thưởng —— Hỏa thuộc tính Chakra tính chất biến hóa tinh thông.\"\n\n\t\"Tại ngươi chỉ dạy dưới đệ tử nỗ lực tu luyện, tống hợp thực lực có cải thiện lớn, lấy được được thưởng —— Tiên Nhân Thể!\"\n\n\tTừ đó Nhẫn Giới liền thêm một cái một lòng chỉ muốn cho học sinh mạnh đại lão sư.\n\n\tShisui không có bị Danzo đoạt đi con mắt, hắn thành công để Uchiha tránh cho diệt tộc chi họa.\n\n\tMaito Gai gặp được Nhẫn Đao Thất Nhân Chúng thời điểm không còn là bất lực nhìn lấy Maito Dai mở ra Tử môn chém giết.\n\n\tObito chiến thắng Uchiha Madara âm mưu, không có hắc hóa thành bệnh tâm thần, vẫn là cái kia nhiệt tâm giúp người muốn trở thành hỏa ảnh nhiệt tâm thiếu niên.\n\n\t(PS: Có Cao Định hai vạn 178 vạn chữ tinh phẩm hỏa ảnh sách cũ, phẩm chất cam đoan)",
+  "vote_count": 5451,
+  "review_score": "4.907",
+  "review_count": 32,
+  "comment_count": 505,
+  "chapter_count": 820,
+  "view_count": 0,
+  "word_count": 2388266,
+  "created_at": "2023-09-17T12:26:02.000000Z",
+  "updated_at": "2026-02-16T07:17:47.000000Z",
+  "new_chap_at": "2025-02-28T09:25:31.000000Z",
+  "published_at": "2023-09-17T12:26:02.000000Z",
+  "published": 1,
+  "user_id": 1000081,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Nhẫn Giáo Giáo Sư, Ta Giáo Thư Liền Có Thể Mạnh Lên",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2063,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000081,
+    "name": "CloseToTheSun",
+    "avatar": [
+      "https://static.cdnno.com/user/97f983f51a6afc6a2ae4b768b664a87b/200.jpg?1622857047",
+      "https://static.cdnno.com/user/97f983f51a6afc6a2ae4b768b664a87b/100.jpg?1622857047",
+      "https://static.cdnno.com/user/97f983f51a6afc6a2ae4b768b664a87b/50.jpg?1622857047"
+    ],
+    "level": 3,
+    "exp": 1372,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 10282,
+    "name": "Kết Tử Bất Hoàng",
+    "avatar": null,
+    "local_name": "桔子不黄",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 7,
+      "name": "Đồng Nhân",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 53,
+      "name": "Hào Môn Thế Gia",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

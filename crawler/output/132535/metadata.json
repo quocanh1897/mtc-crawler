@@ -1,0 +1,96 @@
+{
+  "id": 132535,
+  "name": "Pháp Sư Chi Thượng",
+  "slug": "phap-su-chi-thuong",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/phap-su-chi-thuong",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 19448336,
+  "latest_chapter": 26878751,
+  "latest_index": 762,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/phap-su-chi-thuong/default.jpg?1730180888",
+    "600": "https://static.cdnno.com/poster/phap-su-chi-thuong/600.jpg?1730180888",
+    "300": "https://static.cdnno.com/poster/phap-su-chi-thuong/300.jpg?1730180888",
+    "150": "https://static.cdnno.com/poster/phap-su-chi-thuong/150.jpg?1730180888"
+  },
+  "synopsis": "Như thế nào pháp sư? \n\nKhông gì làm không được tức là pháp sư. \n\nChân chính pháp sư có thể dùng pháp thuật giải quyết vấn đề gì, \n\nNếu như ngay sau đó không giải quyết được, \n\nVậy liền sáng tạo một cái có thể giải quyết pháp thuật.......\n\n“Lực phá hoại chỉ là pháp thuật sản phẩm phụ, pháp thuật cường đại, ở chỗ sức sáng tạo.”\n\n“Tri thức chính là lực lượng!”\n\n“Pháp sư phía trên, lại là cái gì?”\n\n*Tiền tệ hệ thống:\n1 Kim tệ = 30 Ngân tệ\n1 Ngân tệ = 12 Đồng tệ\n(Tùy từng quốc gia thì Kim tệ có sức mua riêng )\n\nQuyển 1: Khoáng Dã Chi Tức (Chương 1 -> Chương 209)\n\nQuyển 2: Khúc Ca Mùa Đông (Chương 210 -> Chương 433)\n\nQuyển 3: Song Sinh Chi Hoa (Chương 435-> Hiện tại)\n\n*CẦU TẶNG KHOAI, ĐÁNH DẤU, ĐỀ CỬ, ĐÁNH GIÁ A!!!",
+  "vote_count": 2156,
+  "review_score": "4.894",
+  "review_count": 33,
+  "comment_count": 270,
+  "chapter_count": 762,
+  "view_count": 0,
+  "word_count": 1978898,
+  "created_at": "2024-09-16T13:37:02.000000Z",
+  "updated_at": "2026-02-16T18:23:42.000000Z",
+  "new_chap_at": "2026-02-13T04:34:22.000000Z",
+  "published_at": "2024-09-17T02:10:37.000000Z",
+  "published": 1,
+  "user_id": 1018647,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Pháp Sư Chi Thượng",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2857,
+  "chapter_per_week": 4,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1018647,
+    "name": "Kuross",
+    "avatar": [
+      "https://static.cdnno.com/user/47cfa36819f70b6733a49851d44d4142/200.jpg?1598191827",
+      "https://static.cdnno.com/user/47cfa36819f70b6733a49851d44d4142/100.jpg?1598191827",
+      "https://static.cdnno.com/user/47cfa36819f70b6733a49851d44d4142/50.jpg?1598191827"
+    ],
+    "level": 3,
+    "exp": 602,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 4724,
+    "name": "Bạo Tẩu Xoa Thiêu Bao",
+    "avatar": null,
+    "local_name": "暴走叉烧包",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 20,
+      "name": "Kỳ Ảo",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 15,
+      "name": "Tây Phương Kỳ Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 80,
+      "name": "Xây Dựng Thế Lực",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

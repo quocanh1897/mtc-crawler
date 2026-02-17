@@ -1,0 +1,96 @@
+{
+  "id": 149799,
+  "name": "Lão Bà Của Ta Là Đông Tấn Đệ Nhất Nữ Ma Đầu",
+  "slug": "lao-ba-cua-ta-la-dong-tan-de-nhat-nu-ma-dau",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/lao-ba-cua-ta-la-dong-tan-de-nhat-nu-ma-dau",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 25441978,
+  "latest_chapter": 26882739,
+  "latest_index": 437,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/lao-ba-cua-ta-la-dong-tan-de-nhat-nu-ma-dau/default.jpg?1762654880",
+    "600": "https://static.cdnno.com/poster/lao-ba-cua-ta-la-dong-tan-de-nhat-nu-ma-dau/600.jpg?1762654880",
+    "300": "https://static.cdnno.com/poster/lao-ba-cua-ta-la-dong-tan-de-nhat-nu-ma-dau/300.jpg?1762654880",
+    "150": "https://static.cdnno.com/poster/lao-ba-cua-ta-la-dong-tan-de-nhat-nu-ma-dau/150.jpg?1762654880"
+  },
+  "synopsis": "Tư Mã thị vương, lẫn nhau vung đao.\n\nPhương bắc man tử, thịt người ăn đến no bụng.\n\nThế gia sợ vỡ mật, đều hướng phương nam trốn.\n\nBách tính đói điên rồi tâm, hài tử trong nồi chịu.\n\nTrên chiến trường anh hùng liều mạng, trong cung điện quý tộc đập lấy thuốc.\n\nGiết chết cha, đệ giết huynh, nữ làm nô, nam làm thiếp......\n\nCái này hoang đường thời đại, toàn ở làm loạn.\n\nĐường Vũ: “Ta chỉ muốn tự vệ, đồ cái tiêu dao tự tại.”\n\nGia tộc quyền thế: “Hậu sinh...\n\nHắc hắc...\n\nDung mạo ngươi mười phần xinh đẹp...”\n\nThôi, cái này hoang đường loạn thế trốn tránh không xong, chỉ có thể giơ đao, chỉ có thể hóa thân liệt hỏa, đem hết thảy đốt cháy",
+  "vote_count": 79,
+  "review_score": "5.000",
+  "review_count": 3,
+  "comment_count": 41,
+  "chapter_count": 437,
+  "view_count": 0,
+  "word_count": 870571,
+  "created_at": "2025-11-09T02:21:08.000000Z",
+  "updated_at": "2026-02-16T16:50:05.000000Z",
+  "new_chap_at": "2026-02-16T13:00:00.000000Z",
+  "published_at": "2025-11-09T06:31:18.000000Z",
+  "published": 1,
+  "user_id": 1137854,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Lão Bà Của Ta Là Đông Tấn Đệ Nhất Nữ Ma Đầu",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 290,
+  "chapter_per_week": 12,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1137854,
+    "name": "Như Hoa cô nương",
+    "avatar": [
+      "https://static.cdnno.com/user/32adf46312bdfe0b4aae4609f62e4165/200.jpg?1643774234",
+      "https://static.cdnno.com/user/32adf46312bdfe0b4aae4609f62e4165/100.jpg?1643774234",
+      "https://static.cdnno.com/user/32adf46312bdfe0b4aae4609f62e4165/50.jpg?1643774234"
+    ],
+    "level": 2,
+    "exp": 208,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 27681,
+    "name": "Tuấn Tiếu Thiếu Niên",
+    "avatar": null,
+    "local_name": "俊俏少年",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 8,
+      "name": "Dã Sử",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 13,
+      "name": "Vương Triều Tranh Bá",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

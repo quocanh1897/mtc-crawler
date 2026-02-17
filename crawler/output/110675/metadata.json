@@ -1,0 +1,101 @@
+{
+  "id": 110675,
+  "name": "Dị Nhân Đại Náo Tu Tiên Giới",
+  "slug": "di-nhan-dai-nao-tu-tien-gioi",
+  "kind": 2,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://vtruyen.com/truyen/di-nhan-dai-nao-tu-tien-gioi",
+  "note": "Mọi người an tâm đọc, đảm bảo hoàn thành, không bao giờ ngừng giữa chừng.",
+  "status_name": "Hoàn thành",
+  "first_chapter": 14393436,
+  "latest_chapter": 19757817,
+  "latest_index": 669,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/di-nhan-dai-nao-tu-tien-gioi/default.jpg?1651464552",
+    "600": "https://static.cdnno.com/poster/di-nhan-dai-nao-tu-tien-gioi/600.jpg?1651464552",
+    "300": "https://static.cdnno.com/poster/di-nhan-dai-nao-tu-tien-gioi/300.jpg?1651464552",
+    "150": "https://static.cdnno.com/poster/di-nhan-dai-nao-tu-tien-gioi/150.jpg?1651464552"
+  },
+  "synopsis": "Tiên nhân trường sinh chiếm hết tài nguyên, coi chúng sinh như sâu kiến.\n\nPhàm nhân sống chờ ban ân.\n\nTa muốn lật đổ tu tiên giới, đẩy ngã những kẻ cao cao tại thượng, biến chúng trở thành phàm nhân. Đưa tu tiên giới vào thời đại mạc pháp.",
+  "vote_count": 6995,
+  "review_score": "4.858",
+  "review_count": 60,
+  "comment_count": 1368,
+  "chapter_count": 669,
+  "view_count": 0,
+  "word_count": 1347314,
+  "created_at": "2022-01-08T16:51:32.000000Z",
+  "updated_at": "2026-02-16T13:53:58.000000Z",
+  "new_chap_at": "2024-10-11T10:12:54.000000Z",
+  "published_at": "2022-01-23T08:50:27.000000Z",
+  "published": 1,
+  "user_id": 1000069,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Dị Nhân Đại Náo Tu Tiên Giới",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 936,
+  "chapter_per_week": 0,
+  "ready_for_sale": 1,
+  "discount_price": 47790,
+  "discount": 40,
+  "creator": {
+    "id": 1000069,
+    "name": "Lừa con",
+    "avatar": [
+      "https://static.cdnno.com/user/69b2d203dc2a5b2d0f25bcf231f3f1f3/200.jpg?1597124004",
+      "https://static.cdnno.com/user/69b2d203dc2a5b2d0f25bcf231f3f1f3/100.jpg?1597124004",
+      "https://static.cdnno.com/user/69b2d203dc2a5b2d0f25bcf231f3f1f3/50.jpg?1597124004"
+    ],
+    "level": 3,
+    "exp": 1186,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3167,
+    "name": "",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 10,
+      "name": "Giảo Hoạt",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 25,
+      "name": "Cổ Điển Tiên Hiệp",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 85,
+      "name": "Xuyên Không",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

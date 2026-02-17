@@ -1,0 +1,90 @@
+{
+  "id": 107648,
+  "name": "Ta Trạch Trăm Năm Đi Ra Ngoài Đã Vô Địch",
+  "slug": "ta-trach-tram-nam-di-ra-ngoai-da-vo-dich",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ta-trach-tram-nam-di-ra-ngoai-da-vo-dich",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13661148,
+  "latest_chapter": 14744586,
+  "latest_index": 558,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-trach-tram-nam-di-ra-ngoai-da-vo-dich/default.jpg?1621995233",
+    "600": "https://static.cdnno.com/poster/ta-trach-tram-nam-di-ra-ngoai-da-vo-dich/600.jpg?1621995233",
+    "300": "https://static.cdnno.com/poster/ta-trach-tram-nam-di-ra-ngoai-da-vo-dich/300.jpg?1621995233",
+    "150": "https://static.cdnno.com/poster/ta-trach-tram-nam-di-ra-ngoai-da-vo-dich/150.jpg?1621995233"
+  },
+  "synopsis": "Vượt qua thành huyền huyễn thế giới cường đại thế gia thiếu gia, chỉ vì tại yến hội bên trong hắt hơi một cái, liền bị khiển trách lời nói và việc làm không hợp, phạt ra tổ trạch, đến một hẻo lánh tiểu viện ở lại.\n\n\tSở Huyền không có chút nào để ý, chỉ cần có một nơi trạch lấy là được rồi, có càng trạch càng mạnh hệ thống, chỉ cần trạch lấy liền có thể mạnh lên.\n\n\tTrạch một ngày, ban thưởng Kim Cương Bất Hoại Thần Công. . .\n\n\tTrạch một tháng, ban thưởng Bất Động Như Sơn Công. . .\n\n\tTrạch một năm, ban thưởng Ngọc Hư Tiên Kinh + trăm năm tu vi. . .\n\n\tTrạch 10 năm, ban thưởng Hỗn Độn Bất Diệt Thể + Hỗn Độn Chung. . .\n\n\t. . .\n\n\tSở Huyền biểu thị, ai cũng đừng nghĩ để cho ta đi ra ngoài, ta thì ưa thích trạch lấy!",
+  "vote_count": 2577,
+  "review_score": "4.660",
+  "review_count": 75,
+  "comment_count": 1405,
+  "chapter_count": 558,
+  "view_count": 0,
+  "word_count": 1346628,
+  "created_at": "2021-05-26T02:13:56.000000Z",
+  "updated_at": "2026-02-16T23:35:59.000000Z",
+  "new_chap_at": "2022-05-06T01:18:29.000000Z",
+  "published_at": "2021-05-26T02:13:53.000000Z",
+  "published": 1,
+  "user_id": 1000020,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Trạch Trăm Năm Đi Ra Ngoài Đã Vô Địch",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 3538,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000020,
+    "name": "Vô Ưu",
+    "avatar": [
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/200.jpg?1635993328",
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/100.jpg?1635993328",
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/50.jpg?1635993328"
+    ],
+    "level": 3,
+    "exp": 1649,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 4739,
+    "name": "Bán Đạo Thanh Phong",
+    "avatar": null,
+    "local_name": "半道清风",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 62,
+      "name": "Vô Địch",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

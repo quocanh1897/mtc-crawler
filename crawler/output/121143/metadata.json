@@ -1,0 +1,102 @@
+{
+  "id": 121143,
+  "name": "Đạo Gia Muốn Phi Thăng",
+  "slug": "dao-gia-muon-phi-thang",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/dao-gia-muon-phi-thang",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 16878312,
+  "latest_chapter": 26870583,
+  "latest_index": 936,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/dao-gia-muon-phi-thang/default.jpg?1696891841",
+    "600": "https://static.cdnno.com/poster/dao-gia-muon-phi-thang/600.jpg?1696891841",
+    "300": "https://static.cdnno.com/poster/dao-gia-muon-phi-thang/300.jpg?1696891841",
+    "150": "https://static.cdnno.com/poster/dao-gia-muon-phi-thang/150.jpg?1696891841"
+  },
+  "synopsis": "\t\"Đệ tử Lê Uyên, bái cầu trời xanh thụ lục!\"\n\n\t. . .\n\n\t. . .\n\n\tĐã có hoàn thành tác phẩm, « chư thiên hình chiếu » « đại đạo kỷ »\n",
+  "vote_count": 640,
+  "review_score": "4.769",
+  "review_count": 13,
+  "comment_count": 219,
+  "chapter_count": 936,
+  "view_count": 0,
+  "word_count": 2421688,
+  "created_at": "2023-10-09T22:50:08.000000Z",
+  "updated_at": "2026-02-17T00:16:30.000000Z",
+  "new_chap_at": "2026-02-10T03:08:09.000000Z",
+  "published_at": "2023-10-09T22:50:08.000000Z",
+  "published": 1,
+  "user_id": 1231986,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Đạo Gia Muốn Phi Thăng",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1065,
+  "chapter_per_week": 1,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1231986,
+    "name": "Cầm Tâm",
+    "avatar": [
+      "https://static.cdnno.com/user/91aaaef21e8da885a02f2ac9d3b3dda3/200.jpg?1647436717",
+      "https://static.cdnno.com/user/91aaaef21e8da885a02f2ac9d3b3dda3/100.jpg?1647436717",
+      "https://static.cdnno.com/user/91aaaef21e8da885a02f2ac9d3b3dda3/50.jpg?1647436717"
+    ],
+    "level": 1,
+    "exp": 38,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 2345,
+    "name": "Bùi Đồ Cẩu",
+    "avatar": null,
+    "local_name": "裴屠狗",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

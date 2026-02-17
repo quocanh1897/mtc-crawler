@@ -1,0 +1,96 @@
+{
+  "id": 135253,
+  "name": "Tọa Khán Tiên Khuynh",
+  "slug": "ngoi-xem-tien-nghieng",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ngoi-xem-tien-nghieng",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 20219866,
+  "latest_chapter": 25919131,
+  "latest_index": 835,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ngoi-xem-tien-nghieng/default.jpg?1754548063",
+    "600": "https://static.cdnno.com/poster/ngoi-xem-tien-nghieng/600.jpg?1754548063",
+    "300": "https://static.cdnno.com/poster/ngoi-xem-tien-nghieng/300.jpg?1754548063",
+    "150": "https://static.cdnno.com/poster/ngoi-xem-tien-nghieng/150.jpg?1754548063"
+  },
+  "synopsis": "Ta là sinh viên, ta lạc đường, người ở đây cũng gọi ta quý thiếu gia, còn khuyên ta nén bi thương thuận tiện.\n\n\tKhông chờ ta kịp phản ứng, bị chọn vào Tiên Môn Huyện lệnh thiên kim liền tới cùng ta từ hôn.\n\n\tA, thật là có ý tứ mở đầu.\n\n\tTa bắt đầu giải cái này kỳ quái thế giới, thấy được tiên đạo hưng thịnh, vương triều hưng thịnh bên dưới người chết đói ngàn dặm, cuộc sống bấp bênh.\n\n\tNhững thứ này người tu tiên ăn hết rồi mồ hôi nước mắt nhân dân, còn luyện không thiên địa linh mạch, cuối cùng cười lớn một tiếng phi thăng mà đi, cùng những thứ kia quyển khoản chạy tham quan có gì khác biệt ?\n\n\tTa ngay từ đầu là thực sự chưa từng nghĩ muốn cuốn vào cuộc phân tranh này, chỉ là len lén đã làm một ít đủ khả năng.\n\n\tQuý ưu tại quần sơn đỉnh, ngồi xem Vạn Lý Trường Không bên dưới tiên đạo sụp đổ lúc, cảm giác sâu sắc vô tội.",
+  "vote_count": 477,
+  "review_score": "5.000",
+  "review_count": 9,
+  "comment_count": 164,
+  "chapter_count": 831,
+  "view_count": 0,
+  "word_count": 1801920,
+  "created_at": "2024-11-20T17:02:18.000000Z",
+  "updated_at": "2026-02-15T19:43:19.000000Z",
+  "new_chap_at": "2025-12-11T07:47:09.000000Z",
+  "published_at": "2024-11-20T17:02:18.000000Z",
+  "published": 1,
+  "user_id": 1222631,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Tọa Khán Tiên Khuynh",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 652,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1222631,
+    "name": "Thích Ăn Kem",
+    "avatar": [
+      "https://static.cdnno.com/user/1ab2f25fa9a32808a72bc9891776dde3/200.jpg?1714718248",
+      "https://static.cdnno.com/user/1ab2f25fa9a32808a72bc9891776dde3/100.jpg?1714718248",
+      "https://static.cdnno.com/user/1ab2f25fa9a32808a72bc9891776dde3/50.jpg?1714718248"
+    ],
+    "level": 4,
+    "exp": 2965,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 9764,
+    "name": "Thác Na Nhi Liễu",
+    "avatar": null,
+    "local_name": "错哪儿了",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 22,
+      "name": "Huyễn Tưởng Tu Tiên",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}

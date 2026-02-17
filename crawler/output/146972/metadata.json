@@ -1,0 +1,90 @@
+{
+  "id": 146972,
+  "name": "Thi Quái Tu Hành Bút Ký",
+  "slug": "thi-quai-tu-hanh-but-ky",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/thi-quai-tu-hanh-but-ky",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 24471406,
+  "latest_chapter": 26885670,
+  "latest_index": 339,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/thi-quai-tu-hanh-but-ky/default.jpg?1767406594",
+    "600": "https://static.cdnno.com/poster/thi-quai-tu-hanh-but-ky/600.jpg?1767406594",
+    "300": "https://static.cdnno.com/poster/thi-quai-tu-hanh-but-ky/300.jpg?1767406594",
+    "150": "https://static.cdnno.com/poster/thi-quai-tu-hanh-but-ky/150.jpg?1767406594"
+  },
+  "synopsis": "Năm đó ta từ lòng đất tỉnh lại, đại địa là bị, tịch mịch là ngủ.\n\n\tMột số năm sau,\n\n\t...\n\n\tTrong núi bầy yêu đến gặp gỡ, ngồi một mình ban công độ thanh tiêu.",
+  "vote_count": 711,
+  "review_score": "5.000",
+  "review_count": 8,
+  "comment_count": 61,
+  "chapter_count": 339,
+  "view_count": 0,
+  "word_count": 646078,
+  "created_at": "2025-08-29T17:53:41.000000Z",
+  "updated_at": "2026-02-17T02:01:07.000000Z",
+  "new_chap_at": "2026-02-15T11:42:42.000000Z",
+  "published_at": "2025-08-29T17:53:41.000000Z",
+  "published": 1,
+  "user_id": 1000065,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Thi Quái Tu Hành Bút Ký",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 456,
+  "chapter_per_week": 6,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000065,
+    "name": "KiếmTiềnMuaSữa",
+    "avatar": [
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/200.jpg?1769515356",
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/100.jpg?1769515356",
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/50.jpg?1769515356"
+    ],
+    "level": 2,
+    "exp": 456,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 26169,
+    "name": "Thành Thượng Quân",
+    "avatar": null,
+    "local_name": "城上君",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 7,
+      "name": "Lãnh Khốc",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 25,
+      "name": "Cổ Điển Tiên Hiệp",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": 151522,
+  "name": "Hầu Phủ Con Thứ Sinh Hoạt",
+  "slug": "hau-phu-con-thu-sinh-hoat",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/hau-phu-con-thu-sinh-hoat",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 26090392,
+  "latest_chapter": 26864583,
+  "latest_index": 302,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/hau-phu-con-thu-sinh-hoat/default.jpg?1767698630",
+    "600": "https://static.cdnno.com/poster/hau-phu-con-thu-sinh-hoat/600.jpg?1767698630",
+    "300": "https://static.cdnno.com/poster/hau-phu-con-thu-sinh-hoat/300.jpg?1767698630",
+    "150": "https://static.cdnno.com/poster/hau-phu-con-thu-sinh-hoat/150.jpg?1767698630"
+  },
+  "synopsis": "Phong Nghiễn Sơ vừa xuyên qua, trước hết nghe gặp “ba ba ba”  tiếng vang, sau đó mới cảm nhận được trên mông truyền đến một trận đau đớn, mất mặt! Lại bị lột quần bị đánh! Ngay sau đó nghe thấy mấy cái gào khóc thanh âm, bên cạnh còn có ba đứa hài tử cùng một chỗ bị đánh, ân, xem ra là gây họa , bị đánh cũng không chỉ hắn một cái, mất mặt tâm tình hơi khá hơn một chút. \n\nNam chính xuyên qua thành hầu phủ con thứ, vốn cho là là cái nhóc đáng thương, không nghĩ tới cái này hầu phủ sinh hoạt cũng không tệ lắm, cũng không ai khó xử, vốn là muốn nằm tại cái này phú quý trong ổ yên vui  sống hết đời, nhưng mà làm sao tính được số trời, người có sớm tối họa phúc, vì sinh tồn, hắn chỉ có thể nỗ lực bính bác, một lần nữa xông ra một mảnh bầu trời!",
+  "vote_count": 935,
+  "review_score": "4.895",
+  "review_count": 19,
+  "comment_count": 125,
+  "chapter_count": 302,
+  "view_count": 0,
+  "word_count": 499765,
+  "created_at": "2025-12-18T15:13:54.000000Z",
+  "updated_at": "2026-02-16T23:59:35.000000Z",
+  "new_chap_at": "2026-02-16T14:08:00.000000Z",
+  "published_at": "2025-12-21T11:54:20.000000Z",
+  "published": 1,
+  "user_id": 1534667,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Hầu Phủ Con Thứ Sinh Hoạt",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 916,
+  "chapter_per_week": 14,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1534667,
+    "name": "Khưu Oánh Oánh",
+    "avatar": [
+      "https://static.cdnno.com/user/ebf28a241af98f135133f966e993d886/200.jpg?1762765974",
+      "https://static.cdnno.com/user/ebf28a241af98f135133f966e993d886/100.jpg?1762765974",
+      "https://static.cdnno.com/user/ebf28a241af98f135133f966e993d886/50.jpg?1762765974"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 28665,
+    "name": "Bì Tiểu Bạch",
+    "avatar": null,
+    "local_name": "皮小白",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 8,
+      "name": "Dã Sử",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 35,
+      "name": "Lịch Sử Quan Trường",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

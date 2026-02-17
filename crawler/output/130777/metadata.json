@@ -1,0 +1,96 @@
+{
+  "id": 130777,
+  "name": "Nho Nhỏ Khu Ma Nhân, Từ Võ Quán Đi Ra  Trừ Tà Sư",
+  "slug": "nho-nho-khu-ma-nhan-tu-vo-quan-di-ra-tru-ta-su",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/nho-nho-khu-ma-nhan-tu-vo-quan-di-ra-tru-ta-su",
+  "note": "Chúc anh em một ngày đọc truyện quên hết mệt mỏi. Những bộ truyện cũ này chất lượng chưa thật sự tốt, một phần do mình lúc mới làm chưa có nhiều kinh nghiệm, một phần mình lấy lấp hố từ người khác làm, nên không kiểm soát được chất lượng. Thật lòng xin lỗi anh em.\nMình có bán khoai ở phần nạp khoai của web. Nếu anh em nào có nhu cầu thì mua ủng hộ mình nha (tên acc: Note Book). Rất biết ơn anh em",
+  "status_name": "Hoàn thành",
+  "first_chapter": 18977112,
+  "latest_chapter": 21525488,
+  "latest_index": 3416,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/nho-nho-khu-ma-nhan-tu-vo-quan-di-ra-tru-ta-su/default.jpg?1722764228",
+    "600": "https://static.cdnno.com/poster/nho-nho-khu-ma-nhan-tu-vo-quan-di-ra-tru-ta-su/600.jpg?1722764228",
+    "300": "https://static.cdnno.com/poster/nho-nho-khu-ma-nhan-tu-vo-quan-di-ra-tru-ta-su/300.jpg?1722764228",
+    "150": "https://static.cdnno.com/poster/nho-nho-khu-ma-nhan-tu-vo-quan-di-ra-tru-ta-su/150.jpg?1722764228"
+  },
+  "synopsis": "Mặt trời xuống núi, trong thành đóng cửa! Tà linh giương mắt, tinh quái tàn phá bừa bãi! Vệ Bộ Doanh Đăng Thành, trừ tà sư cầm kiếm. Võ quán một học đồ, đứng ngạo nghễ quần ma bên trong, làm thủ nhất tịnh đất.",
+  "vote_count": 680,
+  "review_score": "4.900",
+  "review_count": 11,
+  "comment_count": 276,
+  "chapter_count": 3416,
+  "view_count": 0,
+  "word_count": 4423717,
+  "created_at": "2024-08-04T09:36:31.000000Z",
+  "updated_at": "2026-02-16T16:22:49.000000Z",
+  "new_chap_at": "2025-06-26T13:40:00.000000Z",
+  "published_at": "2024-08-05T01:45:46.000000Z",
+  "published": 1,
+  "user_id": 1084973,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Nho Nhỏ Khu Ma Nhân, Từ Võ Quán Đi Ra  Trừ Tà Sư",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2746,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1084973,
+    "name": "Note Book",
+    "avatar": [
+      "https://static.cdnno.com/user/66c10b39a8f74c217e1e60c10b8403d0/200.jpg?1767845034",
+      "https://static.cdnno.com/user/66c10b39a8f74c217e1e60c10b8403d0/100.jpg?1767845034",
+      "https://static.cdnno.com/user/66c10b39a8f74c217e1e60c10b8403d0/50.jpg?1767845034"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 16483,
+    "name": "Dạ Mâu Tàng Phong",
+    "avatar": null,
+    "local_name": "夜眸藏锋",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

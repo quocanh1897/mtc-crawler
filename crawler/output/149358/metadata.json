@@ -1,0 +1,96 @@
+{
+  "id": 149358,
+  "name": "Võng Du Tử Vong Võ Hiệp",
+  "slug": "vong-du-chi-tu-vong-vo-hiep",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/vong-du-chi-tu-vong-vo-hiep",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 25312339,
+  "latest_chapter": 26886838,
+  "latest_index": 982,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/vong-du-chi-tu-vong-vo-hiep/default.jpg?1766629316",
+    "600": "https://static.cdnno.com/poster/vong-du-chi-tu-vong-vo-hiep/600.jpg?1766629316",
+    "300": "https://static.cdnno.com/poster/vong-du-chi-tu-vong-vo-hiep/300.jpg?1766629316",
+    "150": "https://static.cdnno.com/poster/vong-du-chi-tu-vong-vo-hiep/150.jpg?1766629316"
+  },
+  "synopsis": "Nghèo rớt mùng tơi kiện thân chủ blog Tô Vong Xuyên, đụng phải trò chơi phòng làm việc lương cao chiêu mộ cày tiền phụ hồ, vào chức về sau phát hiện không thích hợp, khí lực của mình có vẻ giống như biến lớn. . .",
+  "vote_count": 3707,
+  "review_score": "5.000",
+  "review_count": 32,
+  "comment_count": 378,
+  "chapter_count": 982,
+  "view_count": 0,
+  "word_count": 1683083,
+  "created_at": "2025-10-29T17:53:30.000000Z",
+  "updated_at": "2026-02-17T02:12:04.000000Z",
+  "new_chap_at": "2026-02-17T02:00:00.000000Z",
+  "published_at": "2025-10-30T01:51:24.000000Z",
+  "published": 1,
+  "user_id": 1611419,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Võng Du Tử Vong Võ Hiệp",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2361,
+  "chapter_per_week": 3,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1611419,
+    "name": "Cửu Thế",
+    "avatar": [
+      "https://static.cdnno.com/user/fc8cf472617fb7ca986b217b2052b152/200.jpg?1749909094",
+      "https://static.cdnno.com/user/fc8cf472617fb7ca986b217b2052b152/100.jpg?1749909094",
+      "https://static.cdnno.com/user/fc8cf472617fb7ca986b217b2052b152/50.jpg?1749909094"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 16483,
+    "name": "Dạ Mâu Tàng Phong",
+    "avatar": null,
+    "local_name": "夜眸藏锋",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 5,
+      "name": "Võng Du",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 4,
+      "name": "Thiết Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 28,
+      "name": "Đô Thị Dị Năng",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

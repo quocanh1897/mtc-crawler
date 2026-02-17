@@ -1,0 +1,96 @@
+{
+  "id": 152042,
+  "name": "Cẩu Tại Lưỡng Giới Tu Tiên",
+  "slug": "cau-tai-luong-gioi-tu-tien",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/cau-tai-luong-gioi-tu-tien",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 26318320,
+  "latest_chapter": 26886703,
+  "latest_index": 148,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/cau-tai-luong-gioi-tu-tien/default.jpg?1770101600",
+    "600": "https://static.cdnno.com/poster/cau-tai-luong-gioi-tu-tien/600.jpg?1770101600",
+    "300": "https://static.cdnno.com/poster/cau-tai-luong-gioi-tu-tien/300.jpg?1770101600",
+    "150": "https://static.cdnno.com/poster/cau-tai-luong-gioi-tu-tien/150.jpg?1770101600"
+  },
+  "synopsis": "Tuổi tác chi phong hung, linh phân chi vận chuyển, âm dương chi diễn biến —— này tất cả giá trị tuổi không quan trọng chi tích mà thôi...\n\n\tĐây là một thiếu niên xuyên qua lưỡng giới tu tiên, tìm tòi biến thành [ trị tuế (giá trị tuổi) ] chuyện xưa...",
+  "vote_count": 98,
+  "review_score": "5.000",
+  "review_count": 2,
+  "comment_count": 44,
+  "chapter_count": 140,
+  "view_count": 0,
+  "word_count": 357938,
+  "created_at": "2026-01-01T06:06:34.000000Z",
+  "updated_at": "2026-02-17T01:30:53.000000Z",
+  "new_chap_at": "2026-02-16T02:35:16.000000Z",
+  "published_at": "2026-01-01T06:06:34.000000Z",
+  "published": 1,
+  "user_id": 1025157,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Cẩu Tại Lưỡng Giới Tu Tiên",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 196,
+  "chapter_per_week": 24,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1025157,
+    "name": "1 5 0 8",
+    "avatar": [
+      "https://static.cdnno.com/user/7d29eb964e5f45c46783c68b33f0a3fc/200.jpg?1758889136",
+      "https://static.cdnno.com/user/7d29eb964e5f45c46783c68b33f0a3fc/100.jpg?1758889136",
+      "https://static.cdnno.com/user/7d29eb964e5f45c46783c68b33f0a3fc/50.jpg?1758889136"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 914,
+    "name": "Văn Sao Công",
+    "avatar": null,
+    "local_name": "文抄公",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 12,
+      "name": "Dị Thế Đại Lục",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 60,
+      "name": "Tùy Thân",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

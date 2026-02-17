@@ -1,0 +1,96 @@
+{
+  "id": 107123,
+  "name": "Vạn Tướng Chi Vương",
+  "slug": "van-tuong-chi-vuong",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/van-tuong-chi-vuong",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13538959,
+  "latest_chapter": 25523576,
+  "latest_index": 1853,
+  "high_quality": 1,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/van-tuong-chi-vuong/default.jpg?1631786834",
+    "600": "https://static.cdnno.com/poster/van-tuong-chi-vuong/600.jpg?1631786834",
+    "300": "https://static.cdnno.com/poster/van-tuong-chi-vuong/300.jpg?1631786834",
+    "150": "https://static.cdnno.com/poster/van-tuong-chi-vuong/150.jpg?1631786834"
+  },
+  "synopsis": "Giữa thiên địa, có vạn tướng. Mà ta Lý Lạc, cuối cùng rồi sẽ trở thành Vạn Tướng Chi Vương này.",
+  "vote_count": 12181,
+  "review_score": "4.524",
+  "review_count": 63,
+  "comment_count": 10525,
+  "chapter_count": 1850,
+  "view_count": 0,
+  "word_count": 4052126,
+  "created_at": "2021-04-07T02:40:37.000000Z",
+  "updated_at": "2026-02-15T19:44:43.000000Z",
+  "new_chap_at": "2025-11-14T12:53:02.000000Z",
+  "published_at": "2021-04-07T02:40:31.000000Z",
+  "published": 1,
+  "user_id": 1000015,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Vạn Tướng Chi Vương",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 5355,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000015,
+    "name": "DarkHero",
+    "avatar": [
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/200.jpg?1592316927",
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/100.jpg?1592316927",
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/50.jpg?1592316927"
+    ],
+    "level": 4,
+    "exp": 3484,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 353,
+    "name": "Thiên Tàm Thổ Đậu",
+    "avatar": null,
+    "local_name": "天蚕土豆",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 62,
+      "name": "Vô Địch",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

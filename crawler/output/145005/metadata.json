@@ -1,0 +1,102 @@
+{
+  "id": 145005,
+  "name": "Danh Sách Đường Cái Cầu Sinh: Ta Tại Tận Thế Thăng Cấp Vật Tư",
+  "slug": "danh-sach-duong-cai-cau-sinh-ta-tai-tan-the-thang-cap-vat-tu",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/danh-sach-duong-cai-cau-sinh-ta-tai-tan-the-thang-cap-vat-tu",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 23680902,
+  "latest_chapter": 26880562,
+  "latest_index": 986,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/danh-sach-duong-cai-cau-sinh-ta-tai-tan-the-thang-cap-vat-tu/default.jpg?1762398659",
+    "600": "https://static.cdnno.com/poster/danh-sach-duong-cai-cau-sinh-ta-tai-tan-the-thang-cap-vat-tu/600.jpg?1762398659",
+    "300": "https://static.cdnno.com/poster/danh-sach-duong-cai-cau-sinh-ta-tai-tan-the-thang-cap-vat-tu/300.jpg?1762398659",
+    "150": "https://static.cdnno.com/poster/danh-sach-duong-cai-cau-sinh-ta-tai-tan-the-thang-cap-vat-tu/150.jpg?1762398659"
+  },
+  "synopsis": "【 Đề tài mới lạ + Không phải vô não sảng văn + Không phải vô địch + Danh sách ma dược + Quỷ dị + Đường cái cầu sinh + Thăng cấp vật tư + Tâm ngoan thủ lạt 】\n\nQuỷ dị buông xuống, thành thị trở thành nhân loại cấm khu.\n\nMọi người chỉ có thể dựa vào danh sách siêu phàm không ngừng di chuyển, định cư cách sống đã biến thành di chuyển cách sống.\n\nTại di chuyển trong quá trình, Trần Dã đã thức tỉnh hệ thống tăng cấp.\n\nRỉ sét xe đạp trong tay hắn lột xác thành chiến xa bọc thép.\n\nCũ nát lều vải tiến hóa thành pháo đài di động.\n\nKhi người khác vì nửa khối lương khô liều mạng lúc, phòng của hắn xe đã chuyên chở tự động nước sạch hệ thống cùng vi hình sinh thái nông trường.\n\nNhưng chân chính nguy cơ đến từ mê vụ chỗ sâu —— Những cái kia giết không chết quỷ dị đuổi theo di chuyển vết bánh xe.\n\nQuỷ dị không cách nào giết chết, trừ phi danh sách siêu phàm.\n\nVượt qua trăm loại không thể tưởng tượng nổi danh sách siêu phàm.\n\nSiêu trăm loại kỳ dị kỳ vật......",
+  "vote_count": 5153,
+  "review_score": "4.992",
+  "review_count": 60,
+  "comment_count": 1060,
+  "chapter_count": 964,
+  "view_count": 0,
+  "word_count": 1708285,
+  "created_at": "2025-07-13T09:35:54.000000Z",
+  "updated_at": "2026-02-17T01:37:32.000000Z",
+  "new_chap_at": "2026-02-16T02:30:00.000000Z",
+  "published_at": "2025-07-13T09:47:34.000000Z",
+  "published": 1,
+  "user_id": 1611419,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Danh Sách Đường Cái Cầu Sinh: Ta Tại Tận Thế Thăng Cấp Vật Tư",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 3432,
+  "chapter_per_week": 20,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1611419,
+    "name": "Cửu Thế",
+    "avatar": [
+      "https://static.cdnno.com/user/fc8cf472617fb7ca986b217b2052b152/200.jpg?1749909094",
+      "https://static.cdnno.com/user/fc8cf472617fb7ca986b217b2052b152/100.jpg?1749909094",
+      "https://static.cdnno.com/user/fc8cf472617fb7ca986b217b2052b152/50.jpg?1749909094"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 11221,
+    "name": "Sơn Hải Hô Khiếu",
+    "avatar": null,
+    "local_name": "山海呼啸",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 4,
+      "name": "Khoa Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 44,
+      "name": "Mạt Thế Nguy Cơ",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    },
+    {
+      "id": 7,
+      "name": "Lãnh Khốc",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}

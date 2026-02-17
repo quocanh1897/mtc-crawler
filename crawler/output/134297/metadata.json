@@ -1,0 +1,90 @@
+{
+  "id": 134297,
+  "name": "Cái Này Thích Khách Quang Minh Lỗi Lạc",
+  "slug": "cai-nay-thich-khach-quang-minh-loi-lac",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 3,
+  "link": "https://metruyencv.com/truyen/cai-nay-thich-khach-quang-minh-loi-lac",
+  "note": "",
+  "status_name": "Tạm dừng",
+  "first_chapter": 19980230,
+  "latest_chapter": 25400119,
+  "latest_index": 773,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/cai-nay-thich-khach-quang-minh-loi-lac/default.jpg?1731985304",
+    "600": "https://static.cdnno.com/poster/cai-nay-thich-khach-quang-minh-loi-lac/600.jpg?1731985304",
+    "300": "https://static.cdnno.com/poster/cai-nay-thich-khach-quang-minh-loi-lac/300.jpg?1731985304",
+    "150": "https://static.cdnno.com/poster/cai-nay-thich-khach-quang-minh-loi-lac/150.jpg?1731985304"
+  },
+  "synopsis": "Ta gọi Dư Chuẩn, là cái thích khách, thiên phú là 【  quang minh chính đại ], chỉ cần quang minh chính đại tiến hành ám sát, liền có thể thu hoạch được 100% nhất kích tất sát hiệu quả.\n\n\tTa tự giới thiệu kết thúc, cho nên ngươi chuẩn bị xong chưa?\n\n\tTa, muốn bắt đầu giết ngươi.",
+  "vote_count": 120,
+  "review_score": "5.000",
+  "review_count": 5,
+  "comment_count": 102,
+  "chapter_count": 771,
+  "view_count": 0,
+  "word_count": 1515679,
+  "created_at": "2024-10-29T19:59:23.000000Z",
+  "updated_at": "2026-02-15T19:45:04.000000Z",
+  "new_chap_at": "2025-11-06T01:09:00.000000Z",
+  "published_at": "2024-10-29T19:59:23.000000Z",
+  "published": 1,
+  "user_id": 1000065,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Cái Này Thích Khách Quang Minh Lỗi Lạc",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 856,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000065,
+    "name": "KiếmTiềnMuaSữa",
+    "avatar": [
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/200.jpg?1769515356",
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/100.jpg?1769515356",
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/50.jpg?1769515356"
+    ],
+    "level": 2,
+    "exp": 456,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 18851,
+    "name": "Nhật Vạn Thất Bại",
+    "avatar": null,
+    "local_name": "日万失败",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 5,
+      "name": "Võng Du",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "Vô Sỉ",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 37,
+      "name": "Du Hí Dị Giới",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

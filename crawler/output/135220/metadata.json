@@ -1,0 +1,102 @@
+{
+  "id": 135220,
+  "name": "Xuyên Qua Tu Tiên Giới, Nhưng Là Steve Thánh Thể",
+  "slug": "xuyen-qua-tu-tien-gioi-nhung-ma-steve-thanh-the",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/xuyen-qua-tu-tien-gioi-nhung-ma-steve-thanh-the",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 20203620,
+  "latest_chapter": 25511184,
+  "latest_index": 963,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/xuyen-qua-tu-tien-gioi-nhung-ma-steve-thanh-the/default.jpg?1759562688",
+    "600": "https://static.cdnno.com/poster/xuyen-qua-tu-tien-gioi-nhung-ma-steve-thanh-the/600.jpg?1759562688",
+    "300": "https://static.cdnno.com/poster/xuyen-qua-tu-tien-gioi-nhung-ma-steve-thanh-the/300.jpg?1759562688",
+    "150": "https://static.cdnno.com/poster/xuyen-qua-tu-tien-gioi-nhung-ma-steve-thanh-the/150.jpg?1759562688"
+  },
+  "synopsis": "Mô tổ: Đất cày bảo hộ, sử thi phụ ma, nhiều hơn hợp thành, phân giải đại sư, tự động thu can, tốt hơn quái vật anime [ làm ruộng ], [ nhật thường ], [ tiền kỳ chậm tiết tấu ], [ nhiều nữ chính ], [ lệch nguyên bản MC] \n\nKhông hiểu xuyên qua tu tiên giới  Lý Huyền Tịch, tự mang nam nương Thánh thể...... \n\nNgạch, Steve Thánh thể! Có được Steve hết thảy đặc tính!",
+  "vote_count": 625,
+  "review_score": "5.000",
+  "review_count": 11,
+  "comment_count": 147,
+  "chapter_count": 936,
+  "view_count": 0,
+  "word_count": 1716400,
+  "created_at": "2024-11-19T18:06:01.000000Z",
+  "updated_at": "2026-02-15T19:44:52.000000Z",
+  "new_chap_at": "2025-11-14T01:52:00.000000Z",
+  "published_at": "2024-11-20T00:20:48.000000Z",
+  "published": 1,
+  "user_id": 1335009,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Xuyên Qua Tu Tiên Giới, Nhưng Là Steve Thánh Thể",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1055,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1335009,
+    "name": "ggggff",
+    "avatar": [
+      "https://static.cdnno.com/user/7a857405ee9a67c403abceb89ec7ab48/200.jpg?1763080169",
+      "https://static.cdnno.com/user/7a857405ee9a67c403abceb89ec7ab48/100.jpg?1763080169",
+      "https://static.cdnno.com/user/7a857405ee9a67c403abceb89ec7ab48/50.jpg?1763080169"
+    ],
+    "level": 1,
+    "exp": 20,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 19408,
+    "name": "Thị Cửu Thái",
+    "avatar": null,
+    "local_name": "是久菜",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 60,
+      "name": "Tùy Thân",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

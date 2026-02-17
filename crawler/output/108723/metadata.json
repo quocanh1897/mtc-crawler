@@ -1,0 +1,102 @@
+{
+  "id": 108723,
+  "name": "Vạn Tộc Chiến Trường: Ta Có Một Cái Vô Hạn Hợp Thành Lan!",
+  "slug": "van-toc-chien-truong-ta-co-mot-cai-vo-han-hop-thanh-lan",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/van-toc-chien-truong-ta-co-mot-cai-vo-han-hop-thanh-lan",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 13908498,
+  "latest_chapter": 26800901,
+  "latest_index": 861,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/van-toc-chien-truong-ta-co-mot-cai-vo-han-hop-thanh-lan/default.jpg?1751736545",
+    "600": "https://static.cdnno.com/poster/van-toc-chien-truong-ta-co-mot-cai-vo-han-hop-thanh-lan/600.jpg?1751736545",
+    "300": "https://static.cdnno.com/poster/van-toc-chien-truong-ta-co-mot-cai-vo-han-hop-thanh-lan/300.jpg?1751736545",
+    "150": "https://static.cdnno.com/poster/van-toc-chien-truong-ta-co-mot-cai-vo-han-hop-thanh-lan/150.jpg?1751736545"
+  },
+  "synopsis": "« B.faloo mạng tiểu thuyết độc nhất vô nhị ký hợp đồng tiểu thuyết: Vạn tộc chiến trường: Ta có một cái vô hạn hợp thành lan! »\n\n\tVô số chủng tộc sinh mệnh xuyên việt đến vạn tộc chiến trường.\n\n\tLý Việt cũng là một thành viên trong đó.\n\n\tNhưng hắn vẫn có một vô hạn hợp thành lan.\n\n       « Goblin»+ « Goblin»= « Goblin chiến sĩ »\n\n       « Goblin chiến sĩ »+ « Goblin chiến sĩ »= « Goblin dũng sĩ »\n\n      ....\n\n\t« Truyền Kỳ trang bị »+ « Truyền Kỳ trang bị »= « Bán Thần khí »\n\n\t« Hấp Huyết Quỷ »+ « Hấp Huyết Quỷ »= « Hấp Huyết Quỷ Bá Tước »\n\n\t« Hắc Long »+ « Hắc Long »= « Hắc Long Vương »\n\n\t« Lục Dực Thiên Sứ »+ « Lục Dực Thiên Sứ »= « Thập Nhị Dực Thiên Sứ »\n\n\t« Tinh Linh Nữ Thần »+ « Tinh Linh Nữ Thần »= « Tinh Linh Chủ Thần »",
+  "vote_count": 2255,
+  "review_score": "4.917",
+  "review_count": 42,
+  "comment_count": 614,
+  "chapter_count": 861,
+  "view_count": 0,
+  "word_count": 1399660,
+  "created_at": "2021-08-14T07:57:54.000000Z",
+  "updated_at": "2026-02-16T11:51:08.000000Z",
+  "new_chap_at": "2026-02-10T12:33:00.000000Z",
+  "published_at": "2021-08-14T07:57:52.000000Z",
+  "published": 1,
+  "user_id": 1000010,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Vạn Tộc Chiến Trường: Ta Có Một Cái Vô Hạn Hợp Thành Lan!",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2040,
+  "chapter_per_week": 7,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000010,
+    "name": "Yurisa",
+    "avatar": [
+      "https://static.cdnno.com/user/3e267ff3c8b6621e5ad4d0f26142892b/200.jpg?1614187826",
+      "https://static.cdnno.com/user/3e267ff3c8b6621e5ad4d0f26142892b/100.jpg?1614187826",
+      "https://static.cdnno.com/user/3e267ff3c8b6621e5ad4d0f26142892b/50.jpg?1614187826"
+    ],
+    "level": 4,
+    "exp": 2123,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 5136,
+    "name": "Đông Thiên Đích Hà Diệp",
+    "avatar": null,
+    "local_name": "东天的荷叶",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 5,
+      "name": "Võng Du",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 5,
+      "name": "Nhẹ Nhàng",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 43,
+      "name": "Tiến Hóa Biến Dị",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 80,
+      "name": "Xây Dựng Thế Lực",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

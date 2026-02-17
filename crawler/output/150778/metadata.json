@@ -1,0 +1,96 @@
+{
+  "id": 150778,
+  "name": "Ai Nói Ta Làm Thẻ Bài Ma Pháp Có Vấn Đề?",
+  "slug": "ai-noi-ta-lam-the-bai-ma-phap-co-van-de",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/ai-noi-ta-lam-the-bai-ma-phap-co-van-de",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 25758020,
+  "latest_chapter": 26888436,
+  "latest_index": 481,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ai-noi-ta-lam-the-bai-ma-phap-co-van-de/default.jpg?1764524309",
+    "600": "https://static.cdnno.com/poster/ai-noi-ta-lam-the-bai-ma-phap-co-van-de/600.jpg?1764524309",
+    "300": "https://static.cdnno.com/poster/ai-noi-ta-lam-the-bai-ma-phap-co-van-de/300.jpg?1764524309",
+    "150": "https://static.cdnno.com/poster/ai-noi-ta-lam-the-bai-ma-phap-co-van-de/150.jpg?1764524309"
+  },
+  "synopsis": "Cố Tân xuyên việt rồi, mộng tưởng là trở thành một cái truyền kỳ tính ma pháp thẻ bài thợ chế tạo, cho nên hắn mở một nhà Lam tinh thẻ bài cửa hàng.\n\n\t\"Cố Tân lão bản, cái này trương sân bãi thẻ ma pháp [ Quang chi Kim Tự tháp  ] , nó có cái gì hiệu quả?\"\n\n\t\"Đối hắc ám sinh vật đặc công, đối Quang hệ ma pháp có tăng thêm? Ngô, không thích hợp ta a. . .\"\n\n\t\"Chờ một chút, ngươi nói có thể tại [ Quang chi Kim Tự tháp  ]  bên trong biến thành quang triệu hoán [ Quang chi cự nhân  ]  là có ý gì?\"",
+  "vote_count": 594,
+  "review_score": "5.000",
+  "review_count": 4,
+  "comment_count": 58,
+  "chapter_count": 481,
+  "view_count": 0,
+  "word_count": 758318,
+  "created_at": "2025-11-30T17:38:18.000000Z",
+  "updated_at": "2026-02-17T01:08:18.000000Z",
+  "new_chap_at": "2026-02-16T14:23:07.000000Z",
+  "published_at": "2025-12-01T12:42:47.000000Z",
+  "published": 1,
+  "user_id": 1189500,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ai Nói Ta Làm Thẻ Bài Ma Pháp Có Vấn Đề?",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 340,
+  "chapter_per_week": 19,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1189500,
+    "name": "RyuYamada",
+    "avatar": [
+      "https://static.cdnno.com/user/default/200.jpg",
+      "https://static.cdnno.com/user/default/100.jpg",
+      "https://static.cdnno.com/user/default/50.jpg"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 16094,
+    "name": "Ngã Chân Bất Hội Phi",
+    "avatar": null,
+    "local_name": "我真不会飞",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 20,
+      "name": "Kỳ Ảo",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 10,
+      "name": "Giảo Hoạt",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 12,
+      "name": "Dị Thế Đại Lục",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

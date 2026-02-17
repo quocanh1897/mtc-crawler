@@ -1,0 +1,77 @@
+{
+  "id": 106686,
+  "name": "Đỉnh Cấp Khí Vận, Lặng Lẽ Tu Luyện Ngàn Năm",
+  "slug": "dinh-cap-khi-van-lang-le-tu-luyen-ngan-nam",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/dinh-cap-khi-van-lang-le-tu-luyen-ngan-nam",
+  "note": "27/4 Qidian chống trộm, k có TXT",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13416391,
+  "latest_chapter": 14865824,
+  "latest_index": 1193,
+  "high_quality": 1,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/dinh-cap-khi-van-lang-le-tu-luyen-ngan-nam/default.jpg?1614159439",
+    "600": "https://static.cdnno.com/poster/dinh-cap-khi-van-lang-le-tu-luyen-ngan-nam/600.jpg?1614159439",
+    "300": "https://static.cdnno.com/poster/dinh-cap-khi-van-lang-le-tu-luyen-ngan-nam/300.jpg?1614159439",
+    "150": "https://static.cdnno.com/poster/dinh-cap-khi-van-lang-le-tu-luyen-ngan-nam/150.jpg?1614159439"
+  },
+  "synopsis": "Chuyển thế đi vào tu tiên thế giới, Hàn Tuyệt phát hiện chính mình mang theo trò chơi thuộc tính, vậy mà có thể đổ xúc xắc đổi mới linh căn tư chất cùng Tiên Thiên khí vận.\n\n\tKết quả là, hắn bỏ ra mười một năm lắc Tiên Thiên khí vận.\n\n\t« tuyệt thế vô song: Tiên tư, mị lực đỉnh cấp »\n\n\t« Thiên Mệnh Kiếm Si: Kiếm Đạo tư chất đỉnh cấp, Kiếm Đạo ngộ tính đỉnh cấp »\n\n\t« thân pháp tuyệt trần: Thân pháp tư chất đỉnh cấp »\n\n\t« Tiên Đế hậu duệ: Thu hoạch được một bộ tuyệt thế công pháp tu tiên, 1000 khối linh thạch thượng phẩm »\n\n\tHàn Tuyệt vì trường sinh, quyết định lặng lẽ tu luyện, không ra đầu ngọn gió.\n\n\tNgàn năm sau, tu chân giới một đời đổi một đời.\n\n\tKhi Tiên giới thanh lý thế gian lúc, Hàn Tuyệt không thể không ra tay.\n\n\tHắn lúc này mới phát hiện, giống như Tiên Thần bất quá cũng như vậy!",
+  "vote_count": 115875,
+  "review_score": "4.893",
+  "review_count": 1094,
+  "comment_count": 60462,
+  "chapter_count": 1193,
+  "view_count": 0,
+  "word_count": 2093757,
+  "created_at": "2021-02-24T09:37:23.000000Z",
+  "updated_at": "2026-02-16T23:30:56.000000Z",
+  "new_chap_at": "2022-06-07T02:03:03.000000Z",
+  "published_at": "2021-02-24T09:37:19.000000Z",
+  "published": 1,
+  "user_id": 1000015,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Đỉnh Cấp Khí Vận, Lặng Lẽ Tu Luyện Ngàn Năm",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 16967,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000015,
+    "name": "DarkHero",
+    "avatar": [
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/200.jpg?1592316927",
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/100.jpg?1592316927",
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/50.jpg?1592316927"
+    ],
+    "level": 4,
+    "exp": 3484,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 665,
+    "name": "Nhâm Ngã Tiếu",
+    "avatar": null,
+    "local_name": "任我笑",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

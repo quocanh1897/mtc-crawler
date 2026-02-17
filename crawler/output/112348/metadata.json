@@ -1,0 +1,101 @@
+{
+  "id": 112348,
+  "name": "Ở Dc Làm Tâm Linh Đạo Sư Tháng Ngày",
+  "slug": "o-dc-lam-tam-linh-dao-su-thang-ngay",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/o-dc-lam-tam-linh-dao-su-thang-ngay",
+  "note": "Cầu đề cử, hoa, like, đánh giá, kẹo....",
+  "status_name": "Còn tiếp",
+  "first_chapter": 14768822,
+  "latest_chapter": 26793319,
+  "latest_index": 4406,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/o-dc-lam-tam-linh-dao-su-thang-ngay/default.jpg?1652284261",
+    "600": "https://static.cdnno.com/poster/o-dc-lam-tam-linh-dao-su-thang-ngay/600.jpg?1652284261",
+    "300": "https://static.cdnno.com/poster/o-dc-lam-tam-linh-dao-su-thang-ngay/300.jpg?1652284261",
+    "150": "https://static.cdnno.com/poster/o-dc-lam-tam-linh-dao-su-thang-ngay/150.jpg?1652284261"
+  },
+  "synopsis": "Xuyên qua, Schiller thành Batman lão sư, Gotham đại học tâm lý học giáo sư.\n\n\tVừa tới ngày thứ nhất, Bruce Wayne liền tiến vào phòng khám tâm lý.\n\n\tSchiller đành phải mở ra DC tán gẫu hệ thống, phát điều thứ nhất thiếp mời: Batman hỏi ta ý nghĩa của cuộc sống, nên làm sao trả lời? Trên mạng chờ rất gấp.\n\n\tSchiller · Andel · Rodriguez , cấp thế giới phạm tội tâm lý học đại sư, Gotham đại học nổi danh nhất tâm lý học giáo sư, hắn học sinh vừa có super heros, cũng có siêu cấp tội phạm, nhưng hắn cũng không thuộc về vào trong đó bất luận cái nào, Batman thích gọi hắn là \"Giáo sư\", Joker đem hắn gọi làm \"Bình tĩnh nhất người điên\", Scarecrow gọi hắn \"Arkham cá lọt lưới\", Nick Fury cho rằng hắn là \"Thoát tội gia\" .\n\n\tLàm Batman lão sư, nhện nhỏ cha đỡ đầu, Iron Man bác sĩ tâm lý, Schiller DC lữ trình, từ bắt đầu chỉ đạo Batman bắt đầu.\n\n\tTổng hợp DC (bao hàm điện ảnh vũ trụ), DC Marvel cùng cái khác manga, không ngược chủ, vai phụ không hàng trí.\n\n\t(đừng để ý tên sách! Không phải phòng làm việc văn! Không phải group chat! Hệ thống không có gì cảm giác tồn tại! Đang chuẩn bị đổi tên! Thật sự chính đang sửa lại! )\n",
+  "vote_count": 6443,
+  "review_score": "4.915",
+  "review_count": 39,
+  "comment_count": 1293,
+  "chapter_count": 4404,
+  "view_count": 0,
+  "word_count": 12010181,
+  "created_at": "2022-05-11T15:50:38.000000Z",
+  "updated_at": "2026-02-16T15:46:52.000000Z",
+  "new_chap_at": "2026-02-02T01:46:55.000000Z",
+  "published_at": "2022-05-11T15:50:38.000000Z",
+  "published": 1,
+  "user_id": 1000055,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ở Dc Làm Tâm Linh Đạo Sư Tháng Ngày",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1665,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000055,
+    "name": "HacTamX",
+    "avatar": [
+      "https://static.cdnno.com/user/0f05d6c47d0e4d8f6e62170086e4ed29/200.jpg?1661843328",
+      "https://static.cdnno.com/user/0f05d6c47d0e4d8f6e62170086e4ed29/100.jpg?1661843328",
+      "https://static.cdnno.com/user/0f05d6c47d0e4d8f6e62170086e4ed29/50.jpg?1661843328"
+    ],
+    "level": 4,
+    "exp": 4136,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 6470,
+    "name": "Ngộ Mục Thiêu Thằng",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 7,
+      "name": "Đồng Nhân",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 28,
+      "name": "Đô Thị Dị Năng",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

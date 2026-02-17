@@ -1,0 +1,265 @@
+Chương 797: Khảo thí trước
+
+Chương 797: Khảo thí trước
+
+Ngày mùng 5 tháng 2, thứ năm buổi sáng tiết thứ ba giờ học, lớp số học.
+
+Cao Hà Soái vang vọng giọng vang lên: "Chúng ta nhìn một chút cuối cùng một đạo đề, ta trường cao đẳng ngành toán học kế hoạch tại thứ bảy cùng chủ nhật đều cử hành một lần chủ đề không đồng lòng lý khảo sát hoạt động, phân biệt từ Lý lão sư cùng Trương lão sư phụ trách, đã biết toàn hệ tổng cộng có n vị đệ tử. ."
+
+" (I) yêu cầu toàn hệ đệ tử giáp nhận được Lý lão sư hoặc Trương lão sư phát ra hoạt động thông báo tin tức xác suất;
+
+(Ⅱ) yêu cầu dùng P(X=m) lấy được cực đại nhất số chẵn m."
+
+Cao Hà Soái đọc xong đề mục, dừng một chút, lợi dụng phép quy nạp cho liệt ra đệ nhất tiểu vấn quá trình cùng câu trả lời.
+
+Đến phiên đệ nhị hỏi, hắn đem câu trả lời vội vã đọc một lần, sau đó phấn viết ném một cái.
+
+Buông lỏng tuyên bố: "Được rồi, này trương bài thi kể xong."
+
+Các bạn học nghe một mặt mộng bức, Du Văn nhấc tay: "Cao lão sư, trước ngươi mỗi đạo đề đều giảng, tại sao đạo đề này đột nhiên không nói 7 ?"
+
+Cao Hà Soái nhìn một chút Du Văn: "Đây là tỉnh chúng ta 13 năm lý khoa số học áp trục đề, ta nói các ngươi cũng nghe không hiểu."
+
+Du Văn bị nghẹn một hồi: "Luôn có người có thể nghe hiểu chứ ?"
+
+Cao Hà Soái nhìn về phía Tiết Nguyên Đồng, Khương Ninh, còn có Trần Khiêm, hắn nói: "Có thể nghe hiểu người, không cần ta giảng."
+
+"Ta thành tâm khuyên đại gia, thi vào trường cao đẳng đụng phải ngươi không hiểu được đề mục, cũng đừng nhìn, đi tính cái khác đề mục, đem ngươi có thể cầm đến phân bắt vào tay, không muốn mơ tưởng xa vời!"
+
+Cao Hà Soái giáo dục mấy câu sau, bưng ly trà rời đi 8 ban phòng học.
+
+Du Văn tại chỗ ngồi tố cáo: "Thật là quá đáng! Cao mập mạp một điểm tinh thần trách nhiệm không có! Á Nam, ngươi nói đúng chứ ?
+
+Giang Á Nam cảm thấy Cao lão sư nói rất tốt, thế nhưng ngoài mặt, nàng vẫn là đồng ý tiểu tỷ muội.
+
+Cao Hà Soái sau khi đi, phòng học lại trở nên lộn xộn một mảnh.
+
+Hàng thứ nhất Đoạn Thế Cương, không có tự cam đọa lạc, vì phòng ngừa thê thảm vận mệnh, Đoạn Thế Cương gần đây học tập phi thường cố gắng, hắn lấy lớp mười một thân thể, nghịch tập trung học đệ nhất cấp số học kiến thức.
+
+Gặp phải sẽ không, hắn thỉnh cầu đồng học, đương nhiên, hắn không có khả năng thỉnh giáo Ngô Tiểu Khải, bởi vì Ngô Tiểu Khải so với hắn còn rác rưởi.
+
+Đoạn Thế Cương bưng trung học đệ nhất cấp luyện tập sách, xoay người hỏi Sài Uy: "A Uy, ngươi xem đạo đề này, tại sao ta tính câu trả lời, cùng chân chính câu trả lời không giống chứ ?
+
+( như a 3=a, thì a= ? )
+
+Đoạn Thế Cương đáp án dĩ nhiên là: a=a 3.
+
+Sài Uy mặc dù âm trầm, nhưng cũng không phải là hoàn toàn người ngại chó chán ghét, vẫn có thể cùng người nói chuyện phiếm, đối mặt hướng hắn nhờ vả Đoạn Thế Cương, Sài Uy không có khiến hắn biến, chung quy Cương Ca thoạt nhìn Man có thực lực.
+
+Sài Uy: "Sai lầm rồi, đáp án dĩ nhiên là a= 0 hoặc a=± 1."
+
+Đoạn Thế Cương buồn rầu: "Làm sao có thể tương đương với cái này, trước mặt không đều là giống nhau sao?"
+
+Sài Uy theo dõi hắn, nói: "Ngươi thích Chu Tĩnh Lan, tương đương với Chu Tĩnh Lan thích ngươi sao?"
+
+Đoạn Thế Cương hùng hùng hổ hổ quay người lại.
+
+Tứ đại liền chỗ ngồi đưa.
+
+Trần Tư Vũ tại khấu thủ chỉ tiến hành tính toán: "Căn cứ trường học chúng ta an bài, ngày mai kỳ thi cuối, kéo dài hai ngày, sau đó nghỉ đông rồi, trời ạ, coi như thi xong, khoảng cách hết năm còn có 10 ngày đây!"
+
+"Hơn nữa năm sau kỳ nghỉ, há chẳng phải là thả 20 ngày giả ?" Trần Tư Vũ khó tin, này không thoải mái nàng và tỷ tỷ bay trên trời sao?
+
+Tiết Nguyên Đồng đang chơi xe tăng tại tuyến đối chiến trò chơi, nàng cùng người đấu phi thường kích thích, không quên hô ứng: "Là gào, ta có thể ngủ 20 ngày đại giác, quá đã!"
+
+Đối mặt tức thì nghênh đón nghỉ đông, Trần Tư Vũ dị thường phấn chấn, đương nhiên, nàng chưa quên, muốn vượt qua một cái tốt đẹp nghỉ đông, cần phải được đến thành tích tốt, như vậy sang năm mới có thể tiếp tục cùng Bạch Vũ Hạ ngồi chung một chỗ.
+
+Chung quy lớp này bên trong, có vô số người tham Bạch Vũ Hạ đây!
+
+Nàng phải bảo vệ tốt tốt nhất Hạ Hạ!
+
+Trần Tư Vũ móc ra mới vừa rồi Cao lão sư không muốn giảng giải số học đề, lão sư không muốn cho nàng giảng, nàng kia tìm Khương Ninh nhờ giúp đỡ!"Đồng Đồng, chúng ta có thể đổi chỗ ngồi sao? Ta muốn tìm Khương Ninh giảng đề mục." Đồng Đồng cách ở Trần Tư Vũ cùng Khương Ninh gặp gỡ.
+
+Tiết Nguyên Đồng đánh trò chơi: "Chẳng lẽ ta không thể giảng sao?"
+
+Trần Tư Vũ làm khó: "Nhưng là, ngươi tại chơi game."
+
+"Không sao, ngươi nói đi, kia đề ?" Tiết Nguyên Đồng trượng nghĩa để điện thoại di động xuống.
+
+Vì vậy tiếp xuống tới Tiết Nguyên Đồng bắt đầu cho Tư Vũ giảng đề mục.
+
+Lần này Đồng Đồng đem Tư Vũ trở thành học sinh tiểu học, từng cái trình tự mở ra giảng giải, vậy mà phá lệ tỉ mỉ, hoàn toàn bất đồng với bình thường qua loa lấy lệ.
+
+Trần Tư Vũ thấp khuôn mặt, mê mệt tại thử lại phép tính bên trong, dần dần đem đệ nhất tiểu vấn cho hiểu rõ, nàng vui mừng phải chết.
+
+Kinh hỉ sau khi, nàng ngẩng đầu cảm tạ Đồng Đồng.
+
+Kết quả phát hiện, Đồng Đồng mở ra xe tăng, đủ loại né tránh, cùng địch nhân đấu kịch liệt, sau đó còn ý nghĩ đặc biệt rõ ràng giảng giải cho nàng đề quá trình.
+
+Trần Tư Vũ ngẩn người, đột nhiên có chút lý giải, tại sao thành tích của nàng tốt như vậy.
+
+Đoạn Thế Cương đi qua một tiết giờ học độ sâu số học học tập, cảm giác đại hoạch thành công, đi lên đường tới, cảm giác thu được kiến thức lực lượng, hắn ngắn ngủi thu được nhiệt tình học tập buff. Nhưng hắn có cái không tốt địa phương, đọc điểm sách, bắt đầu xem thường người khác, Đoạn Thế Cương xem thường bất học vô thuật ngồi cùng bàn: "Tiểu Khải a, ngươi mỗi ngày không học tập, về sau có thể làm sao bây giờ a!"
+
+Ngô Tiểu Khải thần tình kinh ngạc, cảm thấy hắn rất kỳ quái.
+
+Đoạn Thế Cương lắc lư đến hàng sau, niềm tin của hắn tràn đầy: "Các anh em, về sau thi đại học, ta là học máy tính, vẫn là học chứng khoán đây?
+
+Tào Côn nói: "Máy tính đi, hiện tại di động Internet phát đạt như vậy."
+
+Ném rác rưởi Tống Thịnh, mắt ti hí nhìn hắn: "Ngươi chính là học cái khí tu loại này làm đến nơi đến chốn tương đối khá, ngươi không phải còn có thể độ lại quỷ hỏa sao? Này không chuyên nghiệp đối khẩu ?"
+
+Đoạn Thế Cương tức giận: "Đặc biệt, lão tử bằng cái gì mỗi ngày theo xăng giao thiệp với ?"
+
+Tống Thịnh: "Ha ha, vậy ngươi cố gắng một chút, thi một 211, học cái máy móc tự động hóa.
+
+Đoạn Thế Cương với hắn tranh luận, luận các ngành các nghề.
+
+Tống Thịnh lười cùng hắn nói nhiều, ném câu: "Bình thường gia đình hài tử bất luận như thế chọn, cuối cùng đều là hỏng bét."
+
+Tiếng nói rơi xuống, Tống Thịnh lại bổ đao: "Ngô Tiểu Khải ba mẹ mới vừa cho người ta tại Thân Thành mua một bộ phòng, chính ngươi suy nghĩ thật kỹ, phấn đấu cả đời, có thể mua một bộ sao?" 5
+
+Đoạn Thế Cương gặp qua xã hội chân thực bộ dáng, hắn là bị nhà máy khuyên lui trở lại một lần nữa nhập học, nghe được câu này, trong lòng phá lệ vô lực.
+
+Quách Khôn Nam đứng ra, không cam lòng nói: "Có cái gì thật hâm mộ, vậy không qua ba mẹ hắn hiện tại cho thôi!"
+
+Tống Thịnh: "Xác thực, sau này ba mẹ hắn còn có thể cho càng nhiều."
+
+Thảo
+
+Quách Khôn Nam gặp đòn nghiêm trọng, trái tim khó chịu: "."
+
+Tân Hữu Linh gặp các bạn học uất ức, nàng lên tiếng an ủi: "Vui vẻ là có quốc giá trị, mỗi người vui vẻ không giống nhau, một đời người có thể ăn bao nhiêu thứ, có thể được. ."
+
+Tống Thịnh nhìn Tân Hữu Linh, cắt đứt nàng mà nói: "Tiểu đội trưởng, ngươi là vật chất lo âu qua sao?"
+
+Tân Hữu Linh sợ run lên, nói, "Không có."
+
+Nhà nàng mặc dù không tính đại phú đại quý, nhưng ở tại nội thành tốt nhất mấy cái tiểu khu một trong, từ nhỏ muốn cái gì, trên căn bản tất cả đều có, điện thoại di động mới nhất khoản, máy vi tính mới nhất khoản, giầy, quần áo không thiếu, chưa từng là vật chất phát sầu qua.
+
+Nàng tiểu học năm thứ ba từng cùng cha mẹ ầm ĩ, bỏ nhà ra đi, đương thời trên người chỉ có đáng thương 5000 khối tiền mừng tuổi.
+
+Làm thỏa mãn vật chất vui vẻ sau, cho nên Tân Hữu Linh mới có thể như vậy theo đuổi tinh thần đầy đủ sung túc, khi nàng vung tay lên, cả lớp nghe lệnh, toàn bộ đứng ở nàng một phe này cảm giác thỏa mãn, là không ai sánh bằng!
+
+Tống Thịnh nhìn thấu tiểu đội trưởng nội hàm, giống như tiểu đội trưởng loại này người, vĩnh viễn sẽ không lý giải bình thường học sinh trung học đệ nhị cấp vùi lấp trong vật chất bất đắc dĩ, cái loại này muốn đổi một đài không tạp điện thoại di động, muốn mua một đôi danh bài giầy, muốn ăn bản mặt nhiều hơn một viên trứng mặn một cái nước sốt tràng khao khát.
+
+Tống Thịnh lắc đầu một cái: Chúng sinh đều ngu muội, duy ta một người thanh tỉnh!
+
+Hắn như thi nhân bình thường rời đi hàng sau.
+
+Ghim tâm vương Tống Thịnh sau khi đi, hàng sau không khí ngột ngạt rồi rất nhiều, Đoạn Thế Cương: "Đi không thông đường, sẽ dùng số điểm tới đánh vỡ!"
+
+Hắn trong chớp nhoáng này, khôi phục đã từng Tráng Chí Lăng vân phong phạm, đúng vậy, còn có một năm rưỡi, hắn đem sửa lại nhân sinh!
+
+Đoạn Thế Cương tìm tới lớp học số một, toàn trường số một, thậm chí còn toàn thành phố đệ nhất Tiết Nguyên Đồng.
+
+Hắn thỉnh giáo: "Tiết Nguyên Đồng, ta muốn hỏi ngươi một cái vấn đề, ta số học thành tích lâu dài không đạt tiêu chuẩn, cho nên ngươi biết rõ làm sao có thể kiểm tra 140 phân sao?"
+
+Tiết Nguyên Đồng nghiêng đầu, nghiêm túc nói: "Bớt làm hai đạo lựa chọn nha."
+
+Đoạn Thế Cương cô đơn đi
+
+Hắn hăm hở, thoáng cái bị đánh nát.
+
+Sau giờ ngọ.
+
+Đông Đông nãi nãi cưỡi xe xe chạy bằng bình điện, trở lại phòng triệt.
+
+Nhìn thấy Đông Đông tại tuyết địa đống người tuyết, Đông Đông nãi gào lên: "Cháu ta a, cuối cùng không sót ngươi kia phá bánh xe rồi!"
+
+Là Đông Đông không sót sao? Là buổi trưa không có khách tới nhà nông vui vẻ ăn cơm.
+
+Đông Đông nhìn thấy hắn bà nội, cũng không chào hỏi, liền ngồi chồm hỗm dưới đất đống người tuyết.
+
+Lúc này, Tiền lão sư buồn rười rượi cười một tiếng, hắn tiến tới Đông Đông nãi trước mặt.
+
+"Ngươi một cái lấm la lấm lét, đi đi sang một bên!" Đông Đông nãi nhìn thấy hắn như vậy, cảm thấy buồn nôn!
+
+Tiền lão sư khóe miệng giật một cái, nếu như không là vì mượn đao giết người, hắn tuyệt đối quay đầu bước đi!
+
+Cố nhịn xuống buồn nôn, Tiền lão sư nói: "Ngươi đoán Đông Đông tại sao thích kéo bánh xe, ngươi đoán một chút hắn là bị người nào uy hiếp ?
+
+Đông Đông nãi xác thực cảm thấy có kỳ lạ, nàng cho Đông Đông gọi qua, ngay mặt hỏi dò.
+
+Nhân cơ hội này, Tiền lão sư ẩn sâu công và danh, chuẩn bị chờ đợi một hồi trò hay.
+
+Ai ngờ, sau một khắc.
+
+Đối mặt nãi nãi hỏi dò, Đông Đông lớn tiếng trả lời: "Ta là tự nguyện, ta là tự nguyện!"
+
+Tiền lão sư trố mắt nghẹn họng, cái quỷ gì, tối hôm qua Khương Ninh cho Đông Đông đánh thảm như vậy, Đông Đông quả nhiên không dám tố cáo ?
+
+Hắn bị lật đổ nhận thức rồi.
+
+Đông Đông nãi cái gì tin tức không được, đi ngang qua Tiền lão sư gia, còn hướng hắn nhổ ngụm thủy.
+
+Tiền lão sư xoa một chút khuôn mặt, hận đến nghiến răng nghiến lợi rất nhanh, phòng triệt phía tây, một chiếc thái Hôi Sắc xe chạy bằng bình điện quăng ra một đạo hoa lệ đường vòng cung, Khương Ninh cùng Tiết Nguyên Đồng trở lại!
+
+Đông Đông thấy vậy, sợ hãi chạy đến Khương Ninh trước mặt, cách ba mét khoảng cách, vâng vâng vâng dạ đòi nợ: "Ngày hôm qua ta lao động phí ngươi nhanh còn cho ta, một chuyến 1 mao tiền!"
+
+Ngày hôm qua hắn kéo 16 chuyến, kiếm lời 80 khối, theo lý mà nói, nên có 1 khối 6 phân chia.
+
+Khương Ninh cười ha ha, quả nhiên, đánh cho một trận sau, Đông Đông bắt đầu thức sự vụ.
+
+Khương Ninh ngồi ở xe chạy bằng bình điện lên, đếm mười miếng 1 mao tiền xu, hắn hướng Đông Đông ném một cái, nện ở trên mặt hắn.
+
+Đông Đông bị đánh một cái, tại chỗ giận dữ, lại không dám phát tác, vội vàng cúi đầu nhặt tiền.
+
+Khương Ninh chậm rãi, một mao một mao đập hắn, đáng ghét cực kỳ.
+
+Đông Đông bị đập rất nhiều xuống, hắn không có ý kiến, Tiền lão sư nhìn không được, lên tiếng: "Ngươi có bản lãnh ném một khối a!"
+
+Khương Ninh quả thật đổi thành một khối tiền xu, chỉ chốc lát sau đập ra hai ba chục khối.
+
+Tiền lão sư nín một hồi, không có lên tiếng, chỉ hận đập không phải hắn.
+
+Buổi chiều, nam sinh nhà trọ.
+
+Bàng Kiều, ha ha, nàng phối theo ta như nhau ?" Triệu Hiểu Phong giễu cợt một tiếng, chợt hắn đốt lên một điếu thuốc, chậm rãi hút.
+
+Căn nguyên là bọn hắn luận tứ trung anh hùng lúc, Đoạn Thế Cương nhắc tới 8 ban Bàng Kiều.
+
+Triệu Hiểu Phong bây giờ là tứ trung học sinh kém giới nhân vật số 1, rất được Thiên ca thưởng thức, bình thường hút thuốc, tất cả đều là mềm mại Chung Hoa, phi thường có thực lực.
+
+Cát Hạo nịnh hót: "Đúng vậy, Bàng Kiều nhằm nhò gì, Triệu lão đại ra lệnh một tiếng!"
+
+Triệu Hiểu Phong bị chụp rất lanh lẹ.
+
+Cát Hạo đề nghị: "Hôm nay Triệu ca đến nhà trọ quan sát, ta bêu xấu, cho Triệu ca kêu lên mấy câu Mạch, chúng ta chụp cái video phát người nhanh nhẹn đi!"
+
+Triệu Hiểu Phong nghe một chút, cảm thấy không tệ nha.
+
+Cát Hạo vỗ vỗ tay, hô: "Một, hai ba!" Sau đó bắt đầu ca hát: "Mười năm nhung mã tâm cô đơn, thoái ẩn giang hồ về thâm sơn!"
+
+Mà Triệu Hiểu Phong thì ngồi ở mép giường, phun ra nuốt vào lấy khói mù, khói mù dần dần bao phủ hắn khuôn mặt, kèm theo sống động ca hát, hắn tựa như một cái vương giả.
+
+Chụp xong sau đó, Cát Hạo còn phá lệ thân thiết cho xứng hắc ám lãnh khốc lọc kính, Triệu Hiểu Phong nhìn sau rất là hài lòng, thưởng Cát Hạo năm mươi khối khổ cực phí.
+
+Cát Hạo trong lòng đắc ý, xác định video phi thường tuyệt vời sau đó, điểm kích phát hành người nhanh nhẹn, còn thân thiết bỏ thêm địa chỉ.
+
+Đoạn Thế Cương nhìn thấy một màn này, trong lòng phá lệ cảm giác khó chịu, đã từng, hưởng thụ hết thảy các thứ này, là hắn Cương Ca a!
+
+Đoạn Thế Cương ôm dùng mọi cách phức tạp tâm tình rời đi nam sinh nhà trọ, hắn tâm, thật cô đơn.
+
+. . . . .  ..
+
+Tự học buổi tối tiết khóa thứ nhất.
+
+Đây là bản học kỳ cái cuối cùng tự học buổi tối rồi, trong phòng học hiện lên không hiểu khí tức, vừa có kỳ thi cuối áp lực, lại có đối mặt kỳ nghỉ hưng phấn.
+
+Các bạn học dần dần rối loạn lên, Tân Hữu Linh quản lý, giống vậy buông lỏng thư giãn rất nhiều.
+
+Tựu tại lúc này, loa lớn bên trong truyền ra âm thanh: "
+
+Xế chiều hôm nay, ta giáo Triệu Hiểu Phong đồng học, tại nam sinh khu túc xá vực tự tiện hút thuốc, cũng quay chụp trong video truyền người nhanh nhẹn APP, tạo thành ảnh hưởng xấu, vì nghiêm túc giáo kỷ. . Cấp cho Triệu Hiểu Phong đồng học, lưu giáo quan sát xử phạt. ."
+
+Nhất thời, toàn trường một mảnh xôn xao!
+
+Trần Tư Vũ nghi ngờ: "Động sẽ có đần như vậy người, hút thuốc còn phát video ?"
+
+Loại hoàn cảnh này bên trong, Khương Ninh dùng gọt xong gỗ, đỡ lấy một cái mini lò bếp, hắn đem uống xong lon cô ca cắt xén mở, lưu lại bình đáy, coi là nồi nhỏ, đặt ở mộc chế cái giá lên.
+
+Tiếp đó, Khương Ninh đốt một cái cây nến, thả vào lon đáy, lại ngược một ít dầu.
+
+Ngọn lửa nhỏ thiêu đốt xuống, dầu rất nhanh nóng lên, Khương Ninh theo trong túi móc ra hắn tại Hổ Tê Sơn trồng trọt đậu phộng, lột ra sau, thả vào mini nồi nhỏ, bắt đầu nổ đậu phộng.
+
+Tay hắn cầm muỗng nhỏ, đẩy tới đẩy đi, đem đậu phộng đều đặn nổ chế, đồng thời linh lực bao trùm, phòng ngừa dầu bắn ra.
+
+Bên trái Đồng Đồng, bên phải Tư Vũ, trước mặt Giang Á Nam, toàn bộ thò đầu quan sát hắn nổ đậu phộng, mấy người thu được không nhỏ khiếp sợ.
+
+Còn có thể tại phòng học làm cái này ? Không muốn sống nữa!
+
+Theo đùng đùng nổ vang, đậu phộng mùi thơm truyền ra.
+
+Khương Ninh một viên một viên xốc lên vàng và giòn đậu phộng, thả vào trước mở ra lon cô ca trên da, hắn móc ra một bọc nhỏ muối, đều đặn tô tản.
+
+Đồng Đồng lặng lẽ nói với Tư Vũ: "Ta khẳng định là người thứ nhất.".

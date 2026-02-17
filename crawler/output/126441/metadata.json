@@ -1,0 +1,102 @@
+{
+  "id": 126441,
+  "name": "Thần Thoại Chi Hậu",
+  "slug": "than-thoai-chi-hau",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/than-thoai-chi-hau",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 18064460,
+  "latest_chapter": 25871405,
+  "latest_index": 1254,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/than-thoai-chi-hau/default.jpg?1717245008",
+    "600": "https://static.cdnno.com/poster/than-thoai-chi-hau/600.jpg?1717245008",
+    "300": "https://static.cdnno.com/poster/than-thoai-chi-hau/300.jpg?1717245008",
+    "150": "https://static.cdnno.com/poster/than-thoai-chi-hau/150.jpg?1717245008"
+  },
+  "synopsis": "Làm hết thảy cũng bắt đầu cải biến lúc, hết thảy phi nhân loại tồn tại đều sẽ cải biến chính mình hình dáng cùng sinh tồn phương thức đi thích ứng. Chỉ có nhân loại, bọn hắn vô pháp trong khoảng thời gian ngắn thông qua cải biến tự thân đi thích ứng loại biến hóa này, cuối cùng chỉ có thể hướng đi diệt vong.",
+  "vote_count": 588,
+  "review_score": "5.000",
+  "review_count": 10,
+  "comment_count": 209,
+  "chapter_count": 1252,
+  "view_count": 0,
+  "word_count": 3284240,
+  "created_at": "2024-05-01T01:02:25.000000Z",
+  "updated_at": "2026-02-15T19:43:34.000000Z",
+  "new_chap_at": "2025-12-08T09:42:33.000000Z",
+  "published_at": "2024-05-01T01:02:25.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Thần Thoại Chi Hậu",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 757,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 368,
+    "name": "Ta Là Lão Ngũ",
+    "avatar": null,
+    "local_name": "鹅是老五",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 61,
+      "name": "Phàm Nhân",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

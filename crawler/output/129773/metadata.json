@@ -1,0 +1,90 @@
+{
+  "id": 129773,
+  "name": "Đại Càn Võ Thánh!",
+  "slug": "vo-dao-truong-sinh-ta-tu-hanh-co-kinh-nghiem",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/vo-dao-truong-sinh-ta-tu-hanh-co-kinh-nghiem",
+  "note": "https://tiemtruyenchu.com/\n\nMình sẽ tạm hoạt động ở đây",
+  "status_name": "Còn tiếp",
+  "first_chapter": 18932754,
+  "latest_chapter": 26886825,
+  "latest_index": 1561,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/vo-dao-truong-sinh-ta-tu-hanh-co-kinh-nghiem/default.jpg?1725685044",
+    "600": "https://static.cdnno.com/poster/vo-dao-truong-sinh-ta-tu-hanh-co-kinh-nghiem/600.jpg?1725685044",
+    "300": "https://static.cdnno.com/poster/vo-dao-truong-sinh-ta-tu-hanh-co-kinh-nghiem/300.jpg?1725685044",
+    "150": "https://static.cdnno.com/poster/vo-dao-truong-sinh-ta-tu-hanh-co-kinh-nghiem/150.jpg?1725685044"
+  },
+  "synopsis": "Trần Bình An xuyên qua mấy năm, tại tiện nghi lão cha trước khi chết vận hành dưới, thành một tên không vào sách sai dịch dự bị.\n\n\tThế đạo gian nan, mệnh so giấy mỏng. Vốn định cứ như vậy cẩn hơi làm cẩn thận giữ khuôn phép sống hết đời hắn, lại đột nhiên phát hiện thuộc về riêng mình hắn tu hành phương thức.\n\n\tTừ đó, khí huyết như rồng, nội khí thành cương, càn khôn thanh khí, trời lâm hàng đỉnh!\n\n\t(giới thiệu vắn tắt bất lực, mời chư quân dời bước chính văn)\n\n\tĐã có cao đặt trước sáu ngàn hoàn thành tiểu thuyết « thử thử ta à chỉ là tiểu yêu quái » cảm thấy hứng thú đạo hữu có thể dời bước đọc ~",
+  "vote_count": 2860,
+  "review_score": "4.831",
+  "review_count": 30,
+  "comment_count": 586,
+  "chapter_count": 1561,
+  "view_count": 0,
+  "word_count": 3143632,
+  "created_at": "2024-07-15T08:33:46.000000Z",
+  "updated_at": "2026-02-16T04:56:18.000000Z",
+  "new_chap_at": "2026-02-16T04:56:05.000000Z",
+  "published_at": "2024-07-15T08:33:46.000000Z",
+  "published": 1,
+  "user_id": 1000065,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Đại Càn Võ Thánh!",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 3810,
+  "chapter_per_week": 14,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000065,
+    "name": "KiếmTiềnMuaSữa",
+    "avatar": [
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/200.jpg?1769515356",
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/100.jpg?1769515356",
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/50.jpg?1769515356"
+    ],
+    "level": 2,
+    "exp": 456,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 15793,
+    "name": "Hồ Thượng Minh Nguyệt Lượng",
+    "avatar": null,
+    "local_name": "湖上明月亮",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "Vô Sỉ",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

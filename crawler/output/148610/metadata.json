@@ -1,0 +1,102 @@
+{
+  "id": 148610,
+  "name": "Hủ Bại Thế Giới",
+  "slug": "hu-hu-the-gioi",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/hu-hu-the-gioi",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 25036264,
+  "latest_chapter": 26887889,
+  "latest_index": 261,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/hu-hu-the-gioi/default.jpg?1764729923",
+    "600": "https://static.cdnno.com/poster/hu-hu-the-gioi/600.jpg?1764729923",
+    "300": "https://static.cdnno.com/poster/hu-hu-the-gioi/300.jpg?1764729923",
+    "150": "https://static.cdnno.com/poster/hu-hu-the-gioi/150.jpg?1764729923"
+  },
+  "synopsis": "Thần bí, tuyệt vọng, thống khổ, mục nát, thế giới hướng đi sai đường, ta lại không biết đi con đường nào.\n\n\tĐi vào một cái đang ở hướng đi mạt lộ thế giới, mối nguy tứ phía, mịt mù không hi vọng, ta chỉ có thể dựa vào trên người thần bí huyết ấn, không ngừng thôi diễn tiến hóa các loại kỹ năng, nếm thử đi ra một đầu tuyệt vọng sinh lộ.",
+  "vote_count": 1835,
+  "review_score": "5.000",
+  "review_count": 17,
+  "comment_count": 571,
+  "chapter_count": 260,
+  "view_count": 0,
+  "word_count": 730128,
+  "created_at": "2025-10-10T10:21:47.000000Z",
+  "updated_at": "2026-02-16T16:48:19.000000Z",
+  "new_chap_at": "2026-02-16T09:48:18.000000Z",
+  "published_at": "2025-10-10T10:21:47.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Hủ Bại Thế Giới",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 769,
+  "chapter_per_week": 14,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 926,
+    "name": "Cổn Khai",
+    "avatar": null,
+    "local_name": "滚开",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

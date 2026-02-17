@@ -1,0 +1,77 @@
+{
+  "id": 105515,
+  "name": "Vô Địch Đại Lão Sắp Xuất Thế",
+  "slug": "vo-dich-dai-lao-sap-xuat-the",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/vo-dich-dai-lao-sap-xuat-the",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13086949,
+  "latest_chapter": 13602367,
+  "latest_index": 496,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/vo-dich-dai-lao-sap-xuat-the/default.jpg?1602229785",
+    "600": "https://static.cdnno.com/poster/vo-dich-dai-lao-sap-xuat-the/600.jpg?1602229785",
+    "300": "https://static.cdnno.com/poster/vo-dich-dai-lao-sap-xuat-the/300.jpg?1602229785",
+    "150": "https://static.cdnno.com/poster/vo-dich-dai-lao-sap-xuat-the/150.jpg?1602229785"
+  },
+  "synopsis": "Lộ Nhất Bình là vị tu sĩ Thượng Cổ, thấy tận mắt trong Chư Thần đại chiến, vô số cường đại Thần Linh vẫn lạc tình cảnh.\n\n\tTừ đó đằng sau, hắn liền trốn ở rừng sâu núi thẳm, ngày đêm tu luyện, thề không có cường đại đến đối kháng thiên địa đại kiếp thực lực lúc, liền không ra.\n\n\tMột thời đại lại một thời đại đi qua.\n\n\tBên cạnh hắn một đầu tiểu xà, trở thành Long tộc chi tổ.\n\n\tHắn thu dưỡng qua một tiểu nữ hài, thành vô địch Nữ Đế.\n\n\tHắn chỉ điểm qua một tên kiếm khách, thành tên vang vạn cổ Kiếm Thần.\n\n\tHắn tùy ý gieo xuống một gốc cây già, thành sử thượng mạnh nhất thần quốc thủ hộ chi thần.\n\n\tThương hải tang điền, tuế nguyệt biến thiên, cường giả này đến cường giả khác quật khởi, một đời lại một đời cường giả già đi cùng vẫn lạc.\n\n\tLộ Nhất Bình một mực tại trong núi sâu tu luyện hắn Trường Sinh Quyết, ngẫu nhiên, đánh một chút đàn, luyện một chút vẽ, luyện một chút kiếm pháp, lật xem một chút năm đó vẫn lạc vô số Thần Linh lưu lại các loại thần kỹ cùng đại đạo cảm ngộ.\n\n\tRốt cục, hắn đem Trường Sinh Quyết tu luyện đến tầng cuối cùng, cảm thấy mình thực lực có thể đối kháng thiên địa đại kiếp, lúc này mới tâm thần bất định bất an đi ra, nhìn một chút bên ngoài thế thế giới.\n\n....\nBộ cũ sập bàn, quay lại với Huyền Huyễn",
+  "vote_count": 4307,
+  "review_score": "4.493",
+  "review_count": 46,
+  "comment_count": 1476,
+  "chapter_count": 496,
+  "view_count": 0,
+  "word_count": 858838,
+  "created_at": "2020-10-09T07:49:47.000000Z",
+  "updated_at": "2026-02-16T23:40:06.000000Z",
+  "new_chap_at": "2021-05-06T00:35:42.000000Z",
+  "published_at": "2020-10-09T07:49:45.000000Z",
+  "published": 1,
+  "user_id": 1000015,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Vô Địch Đại Lão Sắp Xuất Thế",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2465,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000015,
+    "name": "DarkHero",
+    "avatar": [
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/200.jpg?1592316927",
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/100.jpg?1592316927",
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/50.jpg?1592316927"
+    ],
+    "level": 4,
+    "exp": 3484,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 355,
+    "name": "Thần Kiến",
+    "avatar": null,
+    "local_name": "神见",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

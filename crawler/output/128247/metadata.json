@@ -1,0 +1,96 @@
+{
+  "id": 128247,
+  "name": "Băng Phong Tận Thế: Ta Chế Tạo Hoàn Mỹ Lãnh Địa",
+  "slug": "toan-cau-giang-lam-mang-theo-tau-tau-tan-the-lam-ruong",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/toan-cau-giang-lam-mang-theo-tau-tau-tan-the-lam-ruong",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 18430934,
+  "latest_chapter": 26884184,
+  "latest_index": 2573,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/toan-cau-giang-lam-mang-theo-tau-tau-tan-the-lam-ruong/default.jpg?1718127569",
+    "600": "https://static.cdnno.com/poster/toan-cau-giang-lam-mang-theo-tau-tau-tan-the-lam-ruong/600.jpg?1718127569",
+    "300": "https://static.cdnno.com/poster/toan-cau-giang-lam-mang-theo-tau-tau-tan-the-lam-ruong/300.jpg?1718127569",
+    "150": "https://static.cdnno.com/poster/toan-cau-giang-lam-mang-theo-tau-tau-tan-the-lam-ruong/150.jpg?1718127569"
+  },
+  "synopsis": "\"« băng phong kỷ nguyên » phiên bản mới đổi mới đã hoàn thành, chính thức mở ra toàn dân Open Beta thời đại, một phút đồng hồ sau, Lam Tinh tất cả nhân loại sẽ vùi đầu vào bản trò chơi bên trong.\"\n\n\tBắt đầu một tòa đống lửa nhỏ, đây là các ngươi phạm vi hoạt động.\n\n\tCác ngươi cần không ngừng thu thập vật tư, thăng cấp đống lửa đẳng cấp.\n\n\tĐống lửa → lớn đống lửa → lò luyện → năng lượng tháp → siêu cấp năng lượng trạm\n\n\tThông qua giải tỏa càng nhiều kiến trúc, chiêu mộ các loại binh lực, tại cái này cực đoan ác liệt thế giới, phát triển thuộc về mình thế lực.\n\n\tTào Tinh vừa mới xuyên qua, ngoài ý muốn kích hoạt lên duy nhất ẩn tàng cấp độ SSS thiên phú: Vĩnh hằng chi lực.\n\n\tLúc này, hắn phát hiện bên cạnh mình đi theo cái xinh đẹp tẩu tẩu. . .\n\n\tNương tựa theo ẩn tàng thiên phú, hai người phối hợp với nhau, dần dần đem lãnh địa làm lớn làm mạnh!\n\n\tMà theo cước bộ của bọn hắn hướng ngoại giới thăm dò, cái này bao la thế giới, nhiều bí mật hơn nổi lên mặt nước. . .",
+  "vote_count": 2001,
+  "review_score": "5.000",
+  "review_count": 19,
+  "comment_count": 222,
+  "chapter_count": 2573,
+  "view_count": 0,
+  "word_count": 5613924,
+  "created_at": "2024-06-11T17:36:40.000000Z",
+  "updated_at": "2026-02-16T17:20:39.000000Z",
+  "new_chap_at": "2026-02-14T19:21:32.000000Z",
+  "published_at": "2024-06-11T17:36:40.000000Z",
+  "published": 1,
+  "user_id": 1000046,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Băng Phong Tận Thế: Ta Chế Tạo Hoàn Mỹ Lãnh Địa",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1912,
+  "chapter_per_week": 28,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000046,
+    "name": "Huyền Linh",
+    "avatar": [
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/200.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/100.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/50.jpg?1615709578"
+    ],
+    "level": 4,
+    "exp": 2395,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 14811,
+    "name": "Nhất Điều Tiểu Bạch Xà",
+    "avatar": null,
+    "local_name": "一条小白蛇",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 5,
+      "name": "Võng Du",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 37,
+      "name": "Du Hí Dị Giới",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

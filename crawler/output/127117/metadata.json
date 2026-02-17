@@ -1,0 +1,96 @@
+{
+  "id": 127117,
+  "name": "Thiên Khuynh Chi Hậu",
+  "slug": "thien-khuynh-chi-hau",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/thien-khuynh-chi-hau",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 18177706,
+  "latest_chapter": 24893798,
+  "latest_index": 1144,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/thien-khuynh-chi-hau/default.jpg?1718594076",
+    "600": "https://static.cdnno.com/poster/thien-khuynh-chi-hau/600.jpg?1718594076",
+    "300": "https://static.cdnno.com/poster/thien-khuynh-chi-hau/300.jpg?1718594076",
+    "150": "https://static.cdnno.com/poster/thien-khuynh-chi-hau/150.jpg?1718594076"
+  },
+  "synopsis": "Thế giới của chúng ta bị ô nhiễm.\n\n\tSinh vật siêu phàm xuất hiện, quỷ quái truyền thuyết, tu hành cùng tiến hóa, kỳ vật cùng thuật va chạm, vượt giới đại môn bị mở ra, có người tranh độ, có người thoát đi. . . Đây hết thảy bắt đầu đều tại họa trời đằng sau.",
+  "vote_count": 2157,
+  "review_score": "4.778",
+  "review_count": 18,
+  "comment_count": 974,
+  "chapter_count": 1144,
+  "view_count": 0,
+  "word_count": 2825288,
+  "created_at": "2024-05-16T08:15:52.000000Z",
+  "updated_at": "2026-02-16T06:26:18.000000Z",
+  "new_chap_at": "2025-09-30T23:00:00.000000Z",
+  "published_at": "2024-05-16T08:15:52.000000Z",
+  "published": 1,
+  "user_id": 1000015,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Thiên Khuynh Chi Hậu",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2623,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000015,
+    "name": "DarkHero",
+    "avatar": [
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/200.jpg?1592316927",
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/100.jpg?1592316927",
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/50.jpg?1592316927"
+    ],
+    "level": 4,
+    "exp": 3484,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 751,
+    "name": "Phật Tiền Hiến Hoa",
+    "avatar": null,
+    "local_name": "佛前献花",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 23,
+      "name": "Hiện Đại Tu Chân",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 7,
+      "name": "Lãnh Khốc",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 62,
+      "name": "Vô Địch",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

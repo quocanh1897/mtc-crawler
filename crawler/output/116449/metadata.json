@@ -1,0 +1,101 @@
+{
+  "id": 116449,
+  "name": "Xuyên Qua Trăm Năm: Từ Tiên Đế Bắt Đầu Nuôi Con Gái",
+  "slug": "xuyen-qua-tram-nam-tu-tien-de-bat-dau-nuoi-con-gai",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/xuyen-qua-tram-nam-tu-tien-de-bat-dau-nuoi-con-gai",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 15796795,
+  "latest_chapter": 20654132,
+  "latest_index": 1029,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/xuyen-qua-tram-nam-tu-tien-de-bat-dau-nuoi-con-gai/default.jpg?1675223197",
+    "600": "https://static.cdnno.com/poster/xuyen-qua-tram-nam-tu-tien-de-bat-dau-nuoi-con-gai/600.jpg?1675223197",
+    "300": "https://static.cdnno.com/poster/xuyen-qua-tram-nam-tu-tien-de-bat-dau-nuoi-con-gai/300.jpg?1675223197",
+    "150": "https://static.cdnno.com/poster/xuyen-qua-tram-nam-tu-tien-de-bat-dau-nuoi-con-gai/150.jpg?1675223197"
+  },
+  "synopsis": "【  đơn nữ chính + huyền huyễn + Nữ Đế + vú em + vô địch + thường ngày + hệ thống 】\n\nTa gọi Mạc Nhiễm, xuyên qua vạn giới trăm năm không được rời núi, tại trong một lần ngẫu nhiên gặp gỡ bất ngờ tuyệt mỹ Nữ Đế, mấy năm sau Nữ Đế mang cho ta trở về một cái không đơn giản nữ nhi bảo bối. \n\nThượng giới Tiên Vương chuyển thế trùng sinh, Thẩm Thanh Thanh! \n\nQua mấy năm về sau. . . \n\nThẩm Thất Thất đi vào Mạc Nhiễm nơi ở, nâng lên cái cằm của hắn, bá khí nói: \"Ngươi cùng ta về nhà, làm ta Đế hậu.\" \n\nHệ thống: 【  cùng lão bà về nhà tức thu hoạch được tự do 】 \n\nMạc Nhiễm: ? \n\n\"Ngươi không đồng ý?\" \n\n\"Không, ta nguyện ý.\"",
+  "vote_count": 181,
+  "review_score": "5.000",
+  "review_count": 7,
+  "comment_count": 167,
+  "chapter_count": 1026,
+  "view_count": 0,
+  "word_count": 1852142,
+  "created_at": "2023-02-01T03:46:08.000000Z",
+  "updated_at": "2026-02-16T15:42:08.000000Z",
+  "new_chap_at": "2024-12-24T09:37:06.000000Z",
+  "published_at": "2023-02-01T03:46:08.000000Z",
+  "published": 1,
+  "user_id": 1025157,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Xuyên Qua Trăm Năm: Từ Tiên Đế Bắt Đầu Nuôi Con Gái",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2056,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1025157,
+    "name": "1 5 0 8",
+    "avatar": [
+      "https://static.cdnno.com/user/7d29eb964e5f45c46783c68b33f0a3fc/200.jpg?1758889136",
+      "https://static.cdnno.com/user/7d29eb964e5f45c46783c68b33f0a3fc/100.jpg?1758889136",
+      "https://static.cdnno.com/user/7d29eb964e5f45c46783c68b33f0a3fc/50.jpg?1758889136"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 8296,
+    "name": "Nhất Định Yếu Gia Du",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "Vô Sỉ",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

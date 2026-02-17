@@ -1,0 +1,201 @@
+Chương 651:: Mạo hiểm ra tay 【  cầu đặt mua 】 【1 】
+
+Chương 651:: Mạo hiểm ra tay 【  cầu đặt mua 】 【1 】
+
+Lần này công lược cho thấy chính là phe tấn công chủ lực binh sĩ.
+
+(【  Nord Hoàng gia thị vệ 】
+
+【  tư chất: Truyền thuyết 】
+
+【  đẳng cấp: LV40 】
+
+【  thuộc tính: Tự động triển khai 】
+
+【  no đói  độ: 78 】
+
+【  độ trung thành: 100 】
+
+【  lực lượng: 192 】
+
+【  nhanh nhẹn: 33 】
+
+【  trí tuệ: 30 】
+
+【  mị lực: 45 】
+
+【  HP: 3215 】
+
+【  chém vào tổn thương: 29 1-294 】
+
+【  thuẫn phòng độ: 625 】
+
+【  đầu phòng hộ: 80 】
+
+【  thân trên phòng hộ: 110 】
+
+【  hạ thân phòng hộ: 65 】
+
+【  ma pháp chống cự: 80 】
+
+【  kỹ năng chủ động: Cầm thuẫn va chạm LV40(đối mục tiêu phát động cầm thuẫn va chạm, tạo thành lực lượng thuộc tính ×2. 0 bội số đánh ngất tổn thương, đồng thời đối với lực lượng giá trị nhỏ hơn phe mình đơn vị tạo thành xông ngược lại hiệu quả, thời gian cooldown một giờ)
+
+Phụ thuẫn mà chiến LV40(đem tấm chắn đeo tại sau lưng, hai tay cầm nắm đơn lưỡi đao búa, thu hoạch được ngoài định mức 50 điểm cơ sở chém vào tổn thương tăng thêm, tiếp tục thời gian 1 giờ, thời gian cooldown 2 giờ)
+
+Búa thuẫn thúc đẩy LV40(kích hoạt về sau đem đẩy về phía trước tiến, đồng thời sẽ liên tục không ngừng mà tiến hành chém vào, tốc độ di chuyển giảm xuống 35% gia tăng 35 điểm tính bền dẻo, mỗi một lần vung chặt đều có thể đối mục tiêu tạo thành 1.8 bội số chém vào tổn thương, tiếp tục 60 giây, thời gian cooldown 1 giờ)
+
+Ngâm độc búa kích LV40(kích hoạt cán búa độc tố bí văn, khiến cho tiếp xuống 5 lần búa kích bổ sung ngoài định mức 30 điểm độc tố tổn thương, tiếp tục 10 giây, nên tổn thương không cách nào điệp gia, cùng một mục tiêu liên tục thụ kích lúc, độc tố tiếp tục thời gian sẽ thiết lập lại)
+
+Hoàng gia thuẫn vệ (tiểu đội cấp Hoàng gia thị vệ kỹ năng, kích hoạt ra một đạo chiều dài tại độ cao 10 mét tại 3 mét thuẫn tường, nên thuẫn tường độ bền là tiểu đội bên trong tất cả Nord Hoàng gia thị vệ HP tổng cùng 55% có 125 điểm song kháng, có thể tiếp tục tồn tại 10 phút, thời gian cooldown 4 giờ) 】
+
+【  kỹ năng bị động: Búa thuẫn Tinh Nhuệ LV40(đồng thời cầm cán dài đơn lưỡi đao búa cùng hình vuông thuẫn rộng tác chiến, đề cao lực lượng thuộc tính 20 điểm, cũng có được mạnh hơn thuẫn phòng năng lực cùng phòng thủ năng lực phản kích)
+
+Kính dâng (Nord Hoàng gia thị vệ bỏ mình lúc sẽ khiến cho chung quanh 10 vị quân đội bạn thu hoạch được 200 điểm HP khôi phục cùng 20 điểm song kháng tăng lên, tiếp tục 30 giây, nên khôi phục không cách nào chữa trị thương thế, chỉ có thể khôi phục sinh mệnh lực, song kháng tăng lên hiệu quả không cách nào điệp gia, lặp lại sau sẽ đổi mới tiếp tục thời gian)
+
+Thuẫn thuật đại sư (cầm thuẫn tiếp nhận lúc công kích, có 15% đối công kích người tạo thành phản chấn hiệu quả, khiến cho mục tiêu công kích trì độn đồng thời có nhất định khái suất rơi xuống võ dụng cụ)
+
+Bất khuất (HP hạ thấp đến 50% trở xuống thời điểm sẽ tiến vào bất khuất trạng thái, giảm xuống cảm giác đau đớn biết 70% tăng lên 15% tốc độ đánh cùng tốc độ di chuyển, nên hiệu quả cách mỗi 2 giờ nhiều nhất chỉ có thể phát động một lần) 】
+
+(Nord vương quốc cấp sáu chiến sĩ tinh nhuệ một trong, bọn hắn cầm trong tay cán dài đơn lưỡi đao búa, người đeo hình vuông thuẫn rộng, có thể nhận chiến trường thúc đẩy cùng trận địa phòng thủ nhiệm vụ
+
+Làm búa thuẫn binh, bọn hắn liền là trên chiến trường huyết nhục cất giấu, cùng cấp bên trong, chỉ có Rodok vương quốc cấp sáu quân sĩ có thể chiến phòng phương diện thắng qua bọn hắn)
+
+Tông Thận nhanh chóng đảo qua Nord Hoàng gia thị vệ thuộc tính.
+
+"Hôm nay chuyện gì xảy ra?"
+
+"Cấp sáu chiến sĩ mở đại hội sao?"
+
+Đây là hắn sau khi xem xong phản ứng đầu tiên.
+
+Ngoại trừ những này cấp sáu chiến sĩ bên ngoài, song phương còn có cấp bảy người thi pháp cùng sử thi cấp lính đánh thuê.
+
+Bao quát Ragnar quốc vương bản thân cũng là một vị thực lực không thể khinh thường chiến sĩ.
+
+Bất quá Tông Thận lại không kịp tiếp tục xem xét những người khác thuộc tính.
+
+Bởi vì ngay tại cái này không đến ba phút bên trong, chiến trường tình thế lại phát sinh cải biến.
+
+Song phương chiến sĩ số thương vong lượng tăng thêm một bước...
+
+Nhất là Ragnar quốc vương một phương, những cái kia Phủ Chùy Chiến Vệ đặc tính thiên hướng về tiến công.
+
+Tại phòng thủ trong cuộc chiến chỉ có thể dựa vào giống như chó dại lấy máu trả máu thức đấu pháp để duy trì cục diện.
+
+Lúc này, tầng thứ nhất phòng thủ vòng đã bị đánh rớt hơn phân nửa.
+
+Ít nhất có gần hai cái tiểu đội Phủ Chùy Chiến Vệ đã ngã xuống, trở thành thi thể lạnh băng.
+
+Những cái kia Nord Hoàng gia thị vệ số lượng thật sự là nhiều lắm.
+
+Bọn hắn đầu đội Nord cận vệ nón trụ, màu đen áo khoác hạ là ngân sắc bí văn chiến giáp.
+
+Gần gấp mười số lượng chênh lệch khiến cho bọn hắn có thể không cần để ý thương vong, trực tiếp chen chúc mà lên.
+
+Các loại Thuẫn Kích Trùng Chàng cùng lưỡi búa chém vào thanh âm bên tai không dứt.
+
+Rìu bổ ra chiến giáp, tại trên người bọn họ lưu lại từng đạo sâu đủ thấy xương khe.
+
+Cấp sáu chiến sĩ đối cấp sáu chiến sĩ, song phương đều không thể có được cấp bậc ưu thế, trên bản chất cùng nhất giai chiến sĩ đối nhất giai chiến sĩ kết quả là không sai biệt lắm.
+
+Hoà mình về sau, liền biến thành máu thịt cháy khét đối chặt.
+
+Loại tràng diện này là Tông Thận rất ít gặp qua.
+
+Cho tới bây giờ, hắn đối mặt đối thủ đại bộ phận đều là so lãnh địa yếu hơn tồn tại.
+
+Nguyên tắc của hắn liền là nghiền ép liền tuyệt không khổ chiến.
+
+Bây giờ nhìn thấy trước mắt một màn này cây kim so với cọng râu, thế lực ngang nhau cao giai chiến sĩ đối chặt, để hắn không khỏi là sắp đến phòng thủ khiêu chiến mà lo lắng.
+
+Dựa theo tình huống như vậy, Ragnar quốc vương nhiều nhất chỉ có thể chống đỡ thêm mấy phút.
+
+Lúc này, đồng dạng được bảo hộ ở giữa vị kia cấp bảy Tự Nhiên hệ Ma đạo sư Chiamco rốt cục ấp ủ tốt ma pháp.
+
+Từ nham cơ tạo thành mặt đất kịch liệt lắc lư.
+
+Từng cây thô to dây leo trực tiếp xuyên thấu nham thạch hướng phía những cái kia Nord Hoàng gia thị vệ càn quét mà đi.
+
+Trọn vẹn bao trùm phương viên ba bốn khoảng trăm thước.
+
+Những cái kia dây leo như là từng cây thô to trường tiên bốn phía quét ngang.
+
+Đem tất cả Nord Hoàng gia thị vệ cho quất bay.
+
+Liền ngay cả tại bảy, tám trăm mét bên ngoài Tông Thận đều cảm nhận được mặt đất chấn động.
+
+Đẳng cấp cao người thi pháp trên chiến trường tác dụng là không thể nghi ngờ.
+
+Cùng cấp chiến sĩ cùng người thi pháp lớn nhất chênh lệch là tại ma pháp tác dụng phạm vi cùng hiệu suất bên trên.
+
+Chiến sĩ cơ bản dựa vào tự thân lực lượng phát động công kích.
+
+Mà pháp sư thi triển đẳng cấp cao ma pháp dẫn động chính là rời rạc ma pháp nguyên tố.
+
+Cũng chính bởi vì vậy, càng cao giai người thi pháp địa vị liền càng cao, số lượng cũng muốn tương đối thưa thớt.
+
+Kém xa cao giai chiến sĩ số lượng nhiều như vậy.
+
+Những này đẳng cấp cao người thi pháp thường thường có địa vị siêu nhiên.
+
+Chỉ cần đạt được đầy đủ bảo hộ, thậm chí có thể nghịch chuyển chiến trường thế cục.
+
+Tình huống lúc này liền là như thế.
+
+Vô số cây cứng cỏi dây leo bốn phía quét ngang, nghiêm trọng trở ngại những cái kia Nord Hoàng gia thị vệ thế công.
+
+Chỉ có hai vị sử thi cấp lính đánh thuê có thể không bị dây leo ảnh hưởng.
+
+Vị kia tên là Guerta to con quơ to lớn búa hai lưỡi, tương nghênh diện đánh tới dây leo trực tiếp thô bạo chém thành hai đoạn.
+
+Màu xanh lá chất lỏng vẩy ra, chém xuống dây leo phần sau đoạn vô lực rớt xuống trên mặt đất, nện lên đầy trời bụi bặm.
+
+Về phần cái kia tên là Lerthai gia hỏa, thì toàn dựa vào thân hình né tránh tránh đi dây leo đánh quét.
+
+Thân là sử thi cấp cường giả, bọn hắn tại đối mặt đẳng cấp cao ma pháp lúc tự nhiên sẽ càng thêm thong dong một chút.
+
+Dây leo thế công chỉ kéo dài một phút đồng hồ liền ngừng lại.
+
+Tất cả dây leo đều đã mất đi hoạt tính, ngã xuống đất nhanh chóng khô héo.
+
+Dưới mặt đất đã không còn mới dây leo mọc ra.
+
+Vòng vây bên trong, Chiamco già yếu khuôn mặt trở nên trắng bệch như tờ giấy.
+
+Hô
+
+"Bệ hạ, tất cả nguyên tố tự nhiên đều hao hết!"
+
+"Cho dù ta tiêu hao sinh mệnh lực cũng vô pháp tụ tập đến càng nhiều nguyên tố tự nhiên!"
+
+Tại không gian hỗn loạn tình huống dưới, thi pháp độ khó cũng đề cao mạnh.
+
+Nhất là hắn vừa rồi thi triển vẫn là tiêu chuẩn cấp bảy quần thể khống chế hình pháp thuật 【  cự đằng quét ngang 】.
+
+Những cái kia dây leo ngã xuống về sau, rất nhanh liền khô héo trở thành màu đen khô quắt bộ dáng.
+
+Đại địa biến đến phá toái không chịu nổi.
+
+Thông qua dưới chân khe hở có thể nhìn thấy tầng này nham cơ độ dày chừng bảy tám mét.
+
+Sửng sốt như thế, dây leo vẫn là chui ra.
+
+Nhìn xem sắc mặt tái nhợt Chiamco, Ragnar quốc vương cười khổ một tiếng.
+
+"Nhìn đến Sandina lần này là tỉ mỉ tính toán."
+
+"Thừa dịp Guthrie lão quốc vương hướng ta phát ra mời thời điểm bày ra sát cục."
+
+"Chúng ta lần này, khả năng không cách nào còn sống trở về. . ."
+
+Từ truyền tống trận sai lầm lại đến không gian hỗn loạn đưa đến trữ vật đạo cụ không cách nào mở ra.
+
+Ragnar quốc vương đều tưởng rằng Sandina vương hậu bố cục.
+
+Trên thực tế hắn bên trong ngoại trừ tỉ mỉ bố cục bên ngoài, còn có không cách nào khống chế ngoài ý muốn.
+
+Theo dây leo khô héo, những cái kia bị quét bay Nord Hoàng gia thị vệ lần nữa vây lại.
+
+Bọn hắn chỉ là bị đánh bay mà thôi, cũng không nhận được quá thương thế nghiêm trọng.
+
+Về phần hai vị kia sử thi cấp lính đánh thuê càng là chính cống đại lưu manh, toàn bộ hành trình đều không ý định động thủ..

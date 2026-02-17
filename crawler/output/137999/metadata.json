@@ -1,0 +1,102 @@
+{
+  "id": 137999,
+  "name": "Ta Dùng Vạn Cổ Luyện Trường Sinh",
+  "slug": "ta-tai-tu-tien-gioi-luyen-co-truong-sinh",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ta-tai-tu-tien-gioi-luyen-co-truong-sinh",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 21179917,
+  "latest_chapter": 22226605,
+  "latest_index": 109,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-tai-tu-tien-gioi-luyen-co-truong-sinh/default.jpg?1738632509",
+    "600": "https://static.cdnno.com/poster/ta-tai-tu-tien-gioi-luyen-co-truong-sinh/600.jpg?1738632509",
+    "300": "https://static.cdnno.com/poster/ta-tai-tu-tien-gioi-luyen-co-truong-sinh/300.jpg?1738632509",
+    "150": "https://static.cdnno.com/poster/ta-tai-tu-tien-gioi-luyen-co-truong-sinh/150.jpg?1738632509"
+  },
+  "synopsis": "Thiên hạ vì lô, thương sinh đều cổ!\n\n\tLý Lan vốn một giới bé nhỏ thiếu niên, lại bị bắt bỏ vào đảo hoang, vạn người tranh chấp tướng phệ, cuối cùng chỉ sống một người!\n\n\tKhi hắn theo Ác Linh đảo bên trên rời đi, sau lưng đã là núi thây biển máu, từ đó tay cầm 《 Cổ Tiên Kinh 》, luyện cổ cầu Đại Đạo, người mang \"Tuế Nguyệt Cổ\", kéo dài tuổi thọ nhìn trường sinh!\n\n\tCơ quan tính toán tường tận, ẩn núp nhẫn nại, vững chắc cẩn thận. . . Từng bước một, chứng cái kia vô thượng Chân Tiên!\n\n\tMọi người: Ta không hiểu, Tiên đạo gian nan, chỉ toàn lực tranh đoạt, liều mạng chém giết, mới có một chút hi vọng sống, vì sao Lý Lan này loại người hiền lành, người khiêm tốn, cũng có thể chứng đạo Chân Tiên?\n\n\tNào đó đại lão ánh mắt phức tạp: Có khả năng hay không, phàm là cản hắn đường người, đều đã chết, cho nên, các ngươi mới phát giác được hắn là người hiền lành? ?",
+  "vote_count": 63,
+  "review_score": "5.000",
+  "review_count": 2,
+  "comment_count": 15,
+  "chapter_count": 109,
+  "view_count": 0,
+  "word_count": 260434,
+  "created_at": "2025-02-04T01:27:39.000000Z",
+  "updated_at": "2026-02-16T13:46:36.000000Z",
+  "new_chap_at": "2025-04-13T00:52:48.000000Z",
+  "published_at": "2025-02-04T01:27:39.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Dùng Vạn Cổ Luyện Trường Sinh",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 138,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 9715,
+    "name": "Quy Tâm",
+    "avatar": null,
+    "local_name": "归心",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": 139981,
+  "name": "Marvel Cá Ướp Muối Người Krypton",
+  "slug": "marvel-ca-uop-muoi-nguoi-krypton",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/marvel-ca-uop-muoi-nguoi-krypton",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 21916578,
+  "latest_chapter": 26872147,
+  "latest_index": 825,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/marvel-ca-uop-muoi-nguoi-krypton/default.jpg?1742601978",
+    "600": "https://static.cdnno.com/poster/marvel-ca-uop-muoi-nguoi-krypton/600.jpg?1742601978",
+    "300": "https://static.cdnno.com/poster/marvel-ca-uop-muoi-nguoi-krypton/300.jpg?1742601978",
+    "150": "https://static.cdnno.com/poster/marvel-ca-uop-muoi-nguoi-krypton/150.jpg?1742601978"
+  },
+  "synopsis": "Ta từ vũ trụ, giáng lâm thế giới Marvel. Thập kỷ 90 người đột biến ngay tại bên người, nhưng xã hội vẫn như cũ an nhàn.\n\n\tTại không có ngoại trang đại não hiệp trợ phía dưới, ta nên như thế nào che giấu mình, sinh hoạt trong thế giới này.\n\n\tThành thần không phải ta nguyện vậy, kim tiền không phải ta chỗ theo đuổi vậy, nếu là cá ướp muối nghĩ đến xoay người, vậy còn gọi cá ướp muối sao.\n\n\tLại nhìn ta như thế nào trốn ở thế giới nơi hẻo lánh, ăn dưa xem kịch. Nếu như bị buộc đến tuyến đầu, vậy coi như làm tại trên ghế hạng nhất tiếp tục ăn dưa, làm cái đồ đần xem trò vui, mà không phải tên điên diễn kịch.",
+  "vote_count": 1267,
+  "review_score": "4.818",
+  "review_count": 22,
+  "comment_count": 164,
+  "chapter_count": 825,
+  "view_count": 0,
+  "word_count": 1465977,
+  "created_at": "2025-03-22T00:06:07.000000Z",
+  "updated_at": "2026-02-16T09:02:06.000000Z",
+  "new_chap_at": "2026-02-10T03:31:03.000000Z",
+  "published_at": "2025-03-22T00:06:07.000000Z",
+  "published": 1,
+  "user_id": 1000076,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Marvel Cá Ướp Muối Người Krypton",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1213,
+  "chapter_per_week": 1,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000076,
+    "name": "Shin Đzai",
+    "avatar": [
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/200.jpg?1750327701",
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/100.jpg?1750327701",
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/50.jpg?1750327701"
+    ],
+    "level": 4,
+    "exp": 3360,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 22497,
+    "name": "Ngạt Hoàn Lang",
+    "avatar": null,
+    "local_name": "歹丸郎",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 7,
+      "name": "Đồng Nhân",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 5,
+      "name": "Nhẹ Nhàng",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 101,
+      "name": "Diễn Sinh Đồng Nhân",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 79,
+      "name": "Cá Mặn",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

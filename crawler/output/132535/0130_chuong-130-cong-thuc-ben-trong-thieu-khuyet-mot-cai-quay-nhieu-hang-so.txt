@@ -1,0 +1,173 @@
+Chương 130: Công thức bên trong thiếu khuyết một cái quấy nhiễu hằng số 
+
+Chương 130: Công thức bên trong thiếu khuyết một cái quấy nhiễu hằng số 
+
+Ân? Giống như cũng không có trong truyền thuyết như vậy phức tạp a, nói cho cùng không phải liền là đơn giản công thức tính toán sao?
+
+Công thức này trình độ phức tạp nhiều lắm là cũng liền cấp 3 trình độ.Mà lại cách viết cũng quá không ngắn gọn .
+
+Đem trong bút ký ghi chép “Phù Văn lục đại cơ bản quy tắc” xem hết, đây là Cao Đức trong đầu toát ra ý niệm đầu tiên.
+
+“Cho nên muốn tận khả năng cam đoan ma pháp trận thành lập, hẳn là tận khả năng giảm nhỏ thực tế độ bền giá trị, hoặc là tăng lớn lý luận độ bền giá trị.”
+
+“Giảm nhỏ thực tế độ bền giá trị, tức tận lực giảm bớt hai cái hoàn toàn giống nhau Phù Văn kết nối tình huống phát sinh lấy giảm bớt quấy nhiễu đối số số lượng, cùng tận lực nhiều sử dụng năng lượng hơi thấp thứ cấp cơ sở Phù Văn đến gia tăng Phù Văn số.”
+
+“Gia tăng lớn nhất độ bền giá trị, tức gia tăng Phù Văn số lượng cùng Phù Văn đối số số lượng, hoặc là lựa chọn ma ngăn suất thấp đạo ma vật liệu.”
+
+“Nhưng ở gia tăng Phù Văn đối số số lượng đồng thời, cũng sẽ gia tăng quấy nhiễu đối số số lượng.”
+
+Đây là Cao Đức trong đầu lóe lên suy nghĩ thứ hai.
+
+Hắn vô ý thức bắt đầu lý giải suy luận công thức này.
+
+Lại qua một lần Phù Văn lục đại cơ bản quy tắc sau, phối hợp chính mình lý giải, Cao Đức đã đem bọn chúng một mực ghi tạc trong đầu.
+
+Hắn lúc này mới yên lòng tiếp tục hướng xuống xem.
+
+Sau đó khắc sâu vào tầm mắt đầu tiên là một tấm cực kỳ đơn giản ảnh nền:
+
+Đồ án chủ thể là một cái lớn hình sáu cạnh, lấy hình sáu cạnh sáu cái bên cạnh xảo diệu phân ra sáu cái chia đều khu vực;
+
+Trong mỗi khu vực đều bao hàm một cái đồ án, trong đó bốn cái là giống nhau hình sáu cạnh đồ án, hai cái là hình vuông đồ án;
+
+Sáu cái chia đều trong khu vực đồ án đều có một đầu bên cạnh cùng chính trung tâm hình sáu cạnh cùng nhau trùng hợp.
+
+Ngoài ra, mỗi cái trung tâm đồ án đều bị đánh dấu lên “0” cùng “1” hai cái số lượng.
+
+Mà tại ảnh nền phía dưới, lại có văn tự nói rõ:
+
+“Giả thiết một cái đơn giản ma pháp trận, do một cái hợp lại Phù Văn liền có thể cấu thành, nên hợp lại Phù Văn do 7 cái cơ sở Phù Văn tạo thành, trong đó 5 số không cấp cơ sở Phù Văn, 2 cái cấp một cơ sở Phù Văn.”
+
+“Căn cứ Phù Văn lục đại cơ bản quy tắc, phân biệt tính toán nó tại ma ngăn suất là 1% mithril trong tài liệu cùng tại ma ngăn suất là 45% đồng thau trong tài liệu có thể thành công hay không tạo dựng?”
+
+Còn có “sau tiết luyện tập đề”?
+
+Cao Đức ở trong lòng thầm nghĩ, đồng thời đã thuận tay từ trên bàn làm việc lấy ra một tấm trống không giấy viết bản thảo cùng một thanh bút lông chim, xoát xoát xoát viết.
+
+“Nên ma pháp trận bên trong mỗi cái Phù Văn nhiều nhất kết nối đồng cấp Phù Văn số là 4q=41.12, do quy tắc một nhưng phải, nên ma pháp trận có thể thành công tạo dựng.”
+
+“Khi đạo ma vật liệu là đồng thau lúc: R=0.45, do quy tắc sáu nhưng phải: Q=m*N*(1-R)=7*11*(1-0.45)=42.35.”
+
+“Q=E*n=20.56*2=41.12.”
+
+“Bởi vì Q=42.35q=41.12, cho nên nên ma pháp trận tại đồng thau đạo ma trong tài liệu y nguyên có thể thành công tạo dựng.”
+
+Tổng cộng tốn thời gian không cao hơn hai phút đồng hồ, Cao Đức liền đem kết quả tính toán đi ra.
+
+Đúng là tương đối cơ sở lại đơn giản đề kế toán mắt.
+
+Chỉ cần xem hiểu phù văn này lục đại cơ bản quy tắc, thay cái học sinh tiểu học đến, đều có thể nhanh chóng tính ra giải.
+
+Tính ra đáp án cũng không đáng giá ca ngợi, đáng giá ca ngợi nên là tổng kết ra cái này lục đại quy tắc người.
+
+Là bởi vì có cái này lục đại cơ bản quy tắc, một cái phức tạp vấn đề mới có thể thông qua một cái đơn giản công thức tính được ra.
+
+Không nghĩ tới ở thế giới này còn có cơ hội làm bài quen thuộc cơ bắp ký ức bị gọi lên, Cao Đức nội tâm có chút vui vẻ.
+
+Làm bài, vốn là một kiện để cho người ta cảm thấy không gì sánh được vui vẻ sự tình.
+
+“Làm sao luôn cảm giác giống như thiếu chút gì?”
+
+Cao Đức nhìn xem chính mình liệt ra tại bài thi trên giấy công thức, không tự giác sờ lên cái cằm, trong ánh mắt để lộ ra một loại khó nói lên lời hoang mang cùng bất an.
+
+Ánh mắt của hắn đảo qua bài thi trên giấy những cái kia căn cứ Phù Văn cơ bản quy tắc hàng ra công thức, mỗi một bước đột nhiên đều nghiêm ngặt tuân theo định lý.
+
+Nhưng hắn trong lòng phần kia cảm giác trống rỗng lại là vừa sinh ra liền vung đi không được, loại kia “thiếu chút gì” cảm giác ngoan cố tồn tại lấy.
+
+Loại cảm giác này, nhất định phải hình dung, thật giống như làm một đạo đề mục toán học lúc, rõ ràng đề làm bên trong tất cả điều kiện đều đã dùng tới, lại không để ý đến cái gì ẩn tàng mấu chốt manh mối, làm cho cả giải đề quá trình đều đi sai lệch.
+
+Hẳn là ảo giác đi Cao Đức vừa cẩn thận kiểm tra mấy lần, tại xác nhận chính mình giải đáp không có sơ hở sau, hắn rốt cục buông xuống bài thi giấy, không còn suy nghĩ, tiếp tục hướng xuống xem.
+
+“Căn cứ lục đại cơ bản quy tắc tiến hành công thức suy tính, nên giản dị ma pháp trận tại mithril cùng đồng thau trong tài liệu cũng có thể thành công tạo dựng.”
+
+“Tại thực tế trong quá trình, nên ma pháp trận tại đồng thau trong tài liệu tạo dựng lại là thất bại.Vì sao thất bại?”
+
+Bút ký cuối cùng, cứ như vậy hai câu nói.
+
+Mà đang vì sao thất bại câu hỏi dưới đáy, còn có một nhóm dùng nhỏ một vòng kiểu chữ viết phê bình chú giải.
+
+“Quy tắc vừa tới quy tắc năm, trải qua nhiều lần nhiều loại phương pháp nghiệm chứng, xác nhận chính xác, thất bại chi nhân, ứng là quy tắc sáu công thức có lỗi.”
+
+“Quy tắc sáu công thức đã bao hàm Phù Văn tổ hợp bên trong xuất hiện tất cả lượng biến đổi, tính toán chi pháp càng là trải qua nhiều lần suy luận, là tất cả tính toán pháp bên trong phù hợp nhất Phù Văn sắp xếp quy luật, sai sót suất thấp nhất, cái khác tính toán pháp sai sót suất kinh người, hiển nhiên không hợp lý.”
+
+“Vấn đề ở chỗ nào?”
+
+Nhìn xem sau cùng dấu chấm hỏi, Cao Đức nhíu mày, suy nghĩ đã không tự giác điều động.
+
+Vì sao thất bại?
+
+Rõ ràng tại đồng thau trong tài liệu lý luận độ bền giá trị cũng lớn hơn nên ma pháp trận thực tế độ bền giá trị.
+
+Dựa theo quy tắc, cũng đủ để duy trì ma pháp trận này tạo dựng vận chuyển.
+
+Sự thật lại không phải như vậy.
+
+Đó chính là phê bình chú giải lời nói công thức có lỗi.
+
+Cái kia công thức lại sai ở nơi nào đâu?
+
+Cao Đức lại nhìn mắt quy tắc sáu chỗ hàng ra công thức:
+
+Q=m*N*(1-R)q=E*n.
+
+Loại kia “phảng phất thiếu thứ gì” dị dạng cảm giác lại một lần nữa tại tâm đầu hiển hiện, giống như là một bàn tay vô hình, nhẹ nhàng khuấy động lấy tiếng lòng của hắn.
+
+Theo ánh mắt tại công thức bên trên lặp đi lặp lại du tẩu, Cao Đức càng phát ra xác định, công thức bên trong xác thực thiếu đi cái gì.
+
+Là công thức bản thân khả năng tồn tại kết cấu tính thiếu hụt, thiếu đi cái nào đó mấu chốt sửa đổi hạng gần như bản năng, Cao Đức cho ra một lời giải thích.
+
+Học toán học đồng thời thiện ở toán học người, trải qua lâu dài giải đề huấn luyện cùng kinh nghiệm tích lũy, được chứng kiến đủ nhiều công thức, sẽ hình thành một loại năng lực.
+
+Loại năng lực này bình thường được xưng là toán học trực giác.
+
+Toán học trực giác có thể giúp bọn hắn tới một mức độ nào đó “cảm giác” một cái công thức khả năng kết cấu cùng hình thức.
+
+Cái này khiến bọn hắn có thể căn cứ kinh nghiệm của dĩ vãng cùng đúng công thức lý giải, đúng vấn đề giải hoặc là công thức hình thái có một cái bước đầu suy đoán.
+
+Quá trình này có thể bao quát đúng hình thức phân biệt, tính đối xứng cảm giác cùng hàm số hành vi dự đoán các loại.
+
+Đương nhiên, toán học trực giác mặc dù là một cái trọng yếu công cụ, tại thăm dò cùng suy đoán giai đoạn phi thường hữu dụng, dẫn đạo các nhà số học đưa ra giả thiết cùng phỏng đoán, nhưng cũng không thể thay thế chứng minh.
+
+Chân chính công thức cùng kết luận, vẫn là phải thông qua nghiêm khắc logic suy luận cùng chứng minh đến nghiệm chứng.
+
+Đắm chìm tại công thức bên trong Cao Đức, đã y theo trực giác, vô ý thức tại thực tế độ bền giá trị “q=E*n” hậu phương lại bổ sung một cái “C”.
+
+Q=E*n*C.
+
+Sau đó, hắn thỏa mãn nhẹ gật đầu.
+
+Nhìn như vậy, liền thoải mái hơn.
+
+Cao Đức ánh mắt lần nữa dời về trong bút ký sau cùng một câu tra hỏi.
+
+Hắn nghĩ nghĩ, cuối cùng ở phía sau cho ra đáp án của mình.
+
+“Công thức bên trong thiếu khuyết một cái quấy nhiễu hằng số C.”
+
+Hằng số, là chỉ tại trong toán học có cố định không thay đổi đáng giá số.
+
+Nó sẽ không theo cái khác lượng biến đổi biến hóa mà biến hóa, là một cái cố định số, đồng thời có thể xuất hiện tại bất luận cái gì công thức bên trong.
+
+Hằng số vì công thức cung cấp tính ổn định cùng cố định tham khảo điểm, khiến cho công thức có thể chuẩn xác hơn miêu tả cùng dự đoán các loại hiện tượng cùng quá trình.
+
+Phàm là nhận qua cấp 3 giáo dục, đều có thể phát hiện, rất nhiều công thức, bất luận là vật lý hay là toán học  bọn chúng tạo thành, trừ lượng biến đổi bên ngoài, còn thường thường bao hàm một cái cố định không đổi hằng số giá trị.
+
+Rất nhiều quy luật tự nhiên, cũng đều là thông qua bao hàm hằng số công thức để miêu tả.
+
+Những này hằng số hạng phản ứng quy luật tự nhiên bên trong cơ bản thuộc tính hoặc là vật lý đặc tính.
+
+Tỉ như tốc độ ánh sáng c, lực vạn vật hấp dẫn hằng số G các loại.
+
+Nổi tiếng phương trình khối lượng - năng lượng E=mc, nếu như ném đi hằng số c, vậy liền chỉ còn “E=m”.
+
+Cũng là thấy thế nào làm sao không thích hợp một cái công thức, nhưng tựa hồ lại đã bao hàm hạch biến trong sự phản ứng tất cả lượng biến đổi.
+
+Liền cùng Phù Văn công thức sau cùng vấn đề một dạng.
+
+Lại nghĩ đến muốn, Cao Đức tại chính mình cho ra đáp án bên trong lại tăng thêm “khả năng” hai chữ.
+
+“Công thức bên trong khả năng thiếu khuyết một cái quấy nhiễu hằng số C.”
+
+Cái này nghiêm cẩn nhiều.
+
+(Tấu chương xong).

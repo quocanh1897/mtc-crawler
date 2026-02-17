@@ -1,0 +1,102 @@
+{
+  "id": 120394,
+  "name": "Ta Không Có Bệnh! Những Nhân Cách Khác Của Ta Cũng Là!",
+  "slug": "tro-tan-van-minh",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/tro-tan-van-minh",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 16706388,
+  "latest_chapter": 18240225,
+  "latest_index": 383,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tro-tan-van-minh/default.jpg?1714047427",
+    "600": "https://static.cdnno.com/poster/tro-tan-van-minh/600.jpg?1714047427",
+    "300": "https://static.cdnno.com/poster/tro-tan-van-minh/300.jpg?1714047427",
+    "150": "https://static.cdnno.com/poster/tro-tan-van-minh/150.jpg?1714047427"
+  },
+  "synopsis": "\"Đây là ngày thứ mười mà ta xuyên qua, thế giới biến đến càng ngày càng không bình thường. . .\"\n\n\t\"Ta không có bị lây nhiễm, nhưng không biết vì cái gì, ta kiểu gì cũng sẽ làm một ít bản thân chuyện mà không biết. . .\"\n\n\t\"Ta phát hiện ta sai, từ trước đến nay liền không có xuyên qua!\"\n\n\t\"Không biết từ lúc nào bắt đầu, ánh mắt của người chung quanh nhìn ta, đều tràn ngập sợ hãi thật sâu. . .\"\n\n\t\"Ta giống như đã minh bạch cái gì. . .\"\n\n\t\"Nguyên lai, hết thảy tất cả, đều là ta đang tự biên tự diễn!\"",
+  "vote_count": 552,
+  "review_score": "4.967",
+  "review_count": 6,
+  "comment_count": 162,
+  "chapter_count": 383,
+  "view_count": 0,
+  "word_count": 1215988,
+  "created_at": "2023-09-01T02:15:57.000000Z",
+  "updated_at": "2026-02-16T13:20:40.000000Z",
+  "new_chap_at": "2024-05-22T15:04:25.000000Z",
+  "published_at": "2023-09-01T02:15:56.000000Z",
+  "published": 1,
+  "user_id": 1013692,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Không Có Bệnh! Những Nhân Cách Khác Của Ta Cũng Là!",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 543,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1013692,
+    "name": "Htohtaza",
+    "avatar": [
+      "https://static.cdnno.com/user/af63c600a4cd2af7bded6cab8a8180ec/200.jpg?1709291278",
+      "https://static.cdnno.com/user/af63c600a4cd2af7bded6cab8a8180ec/100.jpg?1709291278",
+      "https://static.cdnno.com/user/af63c600a4cd2af7bded6cab8a8180ec/50.jpg?1709291278"
+    ],
+    "level": 2,
+    "exp": 185,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 4852,
+    "name": "Bạo Tạc Tiểu Nã Thiết",
+    "avatar": null,
+    "local_name": "爆炸小拿铁",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 4,
+      "name": "Khoa Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    },
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 98,
+      "name": "Thiên Tài",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 41,
+      "name": "Thế Giới Tương Lai",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

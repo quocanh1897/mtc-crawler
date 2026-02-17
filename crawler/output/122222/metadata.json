@@ -1,0 +1,101 @@
+{
+  "id": 122222,
+  "name": "Thượng Thương Chi Hạ: Tuyên Cổ Đệ Nhất Tiên",
+  "slug": "luc-nguyen-dao-to",
+  "kind": 2,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://vtruyen.com/truyen/luc-nguyen-dao-to",
+  "note": "Truyện ra chương đều, cầu cất giữ, cầu hoa, cầu mở khóa!",
+  "status_name": "Còn tiếp",
+  "first_chapter": 17123734,
+  "latest_chapter": 26810138,
+  "latest_index": 917,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/luc-nguyen-dao-to/default.jpg?1715164702",
+    "600": "https://static.cdnno.com/poster/luc-nguyen-dao-to/600.jpg?1715164702",
+    "300": "https://static.cdnno.com/poster/luc-nguyen-dao-to/300.jpg?1715164702",
+    "150": "https://static.cdnno.com/poster/luc-nguyen-dao-to/150.jpg?1715164702"
+  },
+  "synopsis": "Mười tỷ năm trước, Đế Chủ dùng một kiếm chẻ đôi Luân Hồi, cắt ngang Vạn Cổ, lại dùng niệm hoá Sơn Hải, hồn trấn Cổ Đạo, mới mang cho chư thiên vạn giới bách thế thái bình.\n\nMười tỷ năm sau, Bắc Đẩu Giới Vực, Thần Binh Giới, có một gã thư sinh tư chất tầm thường, bởi vì chút chấp niệm trong lòng mà đạp vào võ đạo huyết hải.",
+  "vote_count": 2955,
+  "review_score": "4.992",
+  "review_count": 20,
+  "comment_count": 597,
+  "chapter_count": 917,
+  "view_count": 0,
+  "word_count": 1803275,
+  "created_at": "2023-12-02T07:59:54.000000Z",
+  "updated_at": "2026-02-16T23:30:13.000000Z",
+  "new_chap_at": "2026-02-03T14:30:00.000000Z",
+  "published_at": "2023-12-07T11:57:11.000000Z",
+  "published": 1,
+  "user_id": 1080180,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Thượng Thương Chi Hạ: Tuyên Cổ Đệ Nhất Tiên",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2056,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 499200,
+  "discount": 0,
+  "creator": {
+    "id": 1080180,
+    "name": "Tam Nhật Thành Thiên",
+    "avatar": [
+      "https://static.cdnno.com/user/0d7b81d27a9b5b7e9383614352147260/200.jpg?1729770329",
+      "https://static.cdnno.com/user/0d7b81d27a9b5b7e9383614352147260/100.jpg?1729770329",
+      "https://static.cdnno.com/user/0d7b81d27a9b5b7e9383614352147260/50.jpg?1729770329"
+    ],
+    "level": 2,
+    "exp": 429,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3167,
+    "name": "",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 4,
+      "name": "Thiết Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    },
+    {
+      "id": 80,
+      "name": "Xây Dựng Thế Lực",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

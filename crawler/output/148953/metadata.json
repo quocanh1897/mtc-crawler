@@ -1,0 +1,96 @@
+{
+  "id": 148953,
+  "name": "Vạn Sinh Si Ma",
+  "slug": "van-sinh-si-ma",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/van-sinh-si-ma",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 25179891,
+  "latest_chapter": 26886697,
+  "latest_index": 330,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/van-sinh-si-ma/default.jpg?1764593161",
+    "600": "https://static.cdnno.com/poster/van-sinh-si-ma/600.jpg?1764593161",
+    "300": "https://static.cdnno.com/poster/van-sinh-si-ma/300.jpg?1764593161",
+    "150": "https://static.cdnno.com/poster/van-sinh-si-ma/150.jpg?1764593161"
+  },
+  "synopsis": "Cầm cái bát, lấp xong thổ, mấy cái một hai ba năm.\n\n\tChủng cái cáp mô biến xe lửa, chủng khỏa đậu tương non biến lão hổ.\n\n\tTrồng ra một thân hảo thủ nghệ thuật, cả đời hưởng phúc không bị khổ.\n\n\tVạn sinh ra được ba trăm sáu, từng cái từng cái đại lộ ai làm chủ?\n\n\tVị kia thợ mộc thật bản lãnh, chỉ mực trong nháy mắt phân âm dương, chuẩn mão hoàn khấu trấn bát hoang.\n\n\tVị này thợ rèn có thủ đoạn, thiết hỏa một lò minh càn khôn, búa rèn thiên kích nứt thần hôn.\n\n\tLại có thợ may dã tâm lớn, dây nhỏ hồi phong tài thế tượng, kim thêu một điểm định âm dương.\n\n\tCòn có đầu bếp tâm địa ác độc, thiết lò nhiên ngục nấu hồng trần, nhận gió bắt đầu thổi lôi cốt làm củi.\n\n\tVạn sinh châu, thiên nhân thiên diện, vạn sinh vạn biến.\n\n\tTrương Lai Phúc đứng ở biển người bên trong, dương dương đắc ý cười nói: \"Đến, đi theo ta hưởng phúc đi!\"",
+  "vote_count": 787,
+  "review_score": "5.000",
+  "review_count": 9,
+  "comment_count": 348,
+  "chapter_count": 328,
+  "view_count": 0,
+  "word_count": 725810,
+  "created_at": "2025-10-20T05:53:01.000000Z",
+  "updated_at": "2026-02-16T15:41:44.000000Z",
+  "new_chap_at": "2026-02-16T02:30:43.000000Z",
+  "published_at": "2025-10-20T05:53:01.000000Z",
+  "published": 1,
+  "user_id": 1025157,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Vạn Sinh Si Ma",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 468,
+  "chapter_per_week": 27,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1025157,
+    "name": "1 5 0 8",
+    "avatar": [
+      "https://static.cdnno.com/user/7d29eb964e5f45c46783c68b33f0a3fc/200.jpg?1758889136",
+      "https://static.cdnno.com/user/7d29eb964e5f45c46783c68b33f0a3fc/100.jpg?1758889136",
+      "https://static.cdnno.com/user/7d29eb964e5f45c46783c68b33f0a3fc/50.jpg?1758889136"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 11914,
+    "name": "Sa Lạp Cổ Tư",
+    "avatar": null,
+    "local_name": "沙拉古斯",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 98,
+      "name": "Thiên Tài",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

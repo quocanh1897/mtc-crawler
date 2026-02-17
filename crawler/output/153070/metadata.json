@@ -1,0 +1,96 @@
+{
+  "id": 153070,
+  "name": "Gia Tộc Tu Tiên: Ta Làm Trấn Tộc Linh Thú",
+  "slug": "gia-toc-tu-tien-ta-lam-tran-toc-linh-thu",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/gia-toc-tu-tien-ta-lam-tran-toc-linh-thu",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 26814778,
+  "latest_chapter": 26868672,
+  "latest_index": 818,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/gia-toc-tu-tien-ta-lam-tran-toc-linh-thu/default.jpg?1770171453",
+    "600": "https://static.cdnno.com/poster/gia-toc-tu-tien-ta-lam-tran-toc-linh-thu/600.jpg?1770171453",
+    "300": "https://static.cdnno.com/poster/gia-toc-tu-tien-ta-lam-tran-toc-linh-thu/300.jpg?1770171453",
+    "150": "https://static.cdnno.com/poster/gia-toc-tu-tien-ta-lam-tran-toc-linh-thu/150.jpg?1770171453"
+  },
+  "synopsis": "[ dị thú văn, không thay đổi người, không CP, gia tộc nhóm tượng văn ]\n\n\tTrọng sinh làm một đầu Hắc Thủy Huyền Xà, đặt tên là Mặc Huyền, thu được trấn tộc linh thú hệ thống, cùng Chu gia lão tổ kết duyên, trở thành Chu gia cung phụng linh thú, từ nay, có vinh cùng vinh, gia tộc từng bước lớn mạnh, Mặc Huyền cũng bởi vậy từng bước trở thành chí cường, ngự thú Chu gia danh hào cuối cùng vang vọng chư thiên vạn giới.\n\nPS: Reup, tác viết lại từ c776",
+  "vote_count": 24,
+  "review_score": "5.000",
+  "review_count": 1,
+  "comment_count": 10,
+  "chapter_count": 818,
+  "view_count": 0,
+  "word_count": 1481184,
+  "created_at": "2026-02-04T02:16:09.000000Z",
+  "updated_at": "2026-02-16T16:40:35.000000Z",
+  "new_chap_at": "2026-02-10T14:36:00.000000Z",
+  "published_at": "2026-02-04T02:16:09.000000Z",
+  "published": 1,
+  "user_id": 1000080,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Gia Tộc Tu Tiên: Ta Làm Trấn Tộc Linh Thú",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 90,
+  "chapter_per_week": 2,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000080,
+    "name": "Sakamata",
+    "avatar": [
+      "https://static.cdnno.com/user/8fc9d212f9f412f19ae669d54e1341a0/200.jpg?1711307097",
+      "https://static.cdnno.com/user/8fc9d212f9f412f19ae669d54e1341a0/100.jpg?1711307097",
+      "https://static.cdnno.com/user/8fc9d212f9f412f19ae669d54e1341a0/50.jpg?1711307097"
+    ],
+    "level": 2,
+    "exp": 147,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 8617,
+    "name": "Triều Bắc Hải",
+    "avatar": null,
+    "local_name": "朝北海",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 80,
+      "name": "Xây Dựng Thế Lực",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

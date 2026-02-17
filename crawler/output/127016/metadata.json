@@ -1,0 +1,96 @@
+{
+  "id": 127016,
+  "name": "Mỹ Thực Gia Tại Tu Tiên Giới",
+  "slug": "my-thuc-gia-tai-tu-tien-gioi",
+  "kind": 2,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://vtruyen.com/truyen/my-thuc-gia-tai-tu-tien-gioi",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 18138201,
+  "latest_chapter": 20636171,
+  "latest_index": 662,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/my-thuc-gia-tai-tu-tien-gioi/default.jpg?1715856549",
+    "600": "https://static.cdnno.com/poster/my-thuc-gia-tai-tu-tien-gioi/600.jpg?1715856549",
+    "300": "https://static.cdnno.com/poster/my-thuc-gia-tai-tu-tien-gioi/300.jpg?1715856549",
+    "150": "https://static.cdnno.com/poster/my-thuc-gia-tai-tu-tien-gioi/150.jpg?1715856549"
+  },
+  "synopsis": "Long chưa vượt Long Môn, Phượng chưa lên Ngô Đồng Thụ, thêm một chút Hành Lá, lại một chút Nấm Hương mùa hạ, tạo nên một món ngon mỹ vị vang danh Tu Tiên Giới.\n\nMinh Giới có Minh Hà.\n\nThánh Giới có Trúc Lâm.\n\nTiên Giới có Tinh Hà.\n\nYêu Giới có Hỏa Diệm Sơn.\n\nNhân Giới có Thanh Giang Lạc.\n\nThanh Giang Lạc một tiệm ăn nhỏ nằm tại Nhân Giới, nằm lênh đênh trên Thanh Giang Hà, dòng nước chảy xiết không có dừng lại.\n\nThiếu niên Ngô Đồng từ hiện đại xuyên không mà tới, hắn trong tay nắm giữ Thực Phổ Hệ Thống, nắm trong tay tất cả các món ngon của Ngũ Phương Giới.\n\nMột bát Canh Long Phụng, một nồi Giò Hầm Tam Muội, một đĩa Măng Tây Xào đã khiến cho khắp Tu Tiên Giới trở nên nhốn nháo một phen.",
+  "vote_count": 874,
+  "review_score": "4.864",
+  "review_count": 11,
+  "comment_count": 111,
+  "chapter_count": 662,
+  "view_count": 0,
+  "word_count": 1091061,
+  "created_at": "2024-05-13T12:50:36.000000Z",
+  "updated_at": "2026-02-16T07:18:00.000000Z",
+  "new_chap_at": "2024-12-22T14:47:27.000000Z",
+  "published_at": "2024-05-16T10:49:16.000000Z",
+  "published": 1,
+  "user_id": 1280543,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Mỹ Thực Gia Tại Tu Tiên Giới",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2053,
+  "chapter_per_week": 0,
+  "ready_for_sale": 1,
+  "discount_price": 302736,
+  "discount": 20,
+  "creator": {
+    "id": 1280543,
+    "name": "Ngoa Tiên",
+    "avatar": [
+      "https://static.cdnno.com/user/8199ddf87625100aa88495fdea4ea28c/200.jpg?1719221169",
+      "https://static.cdnno.com/user/8199ddf87625100aa88495fdea4ea28c/100.jpg?1719221169",
+      "https://static.cdnno.com/user/8199ddf87625100aa88495fdea4ea28c/50.jpg?1719221169"
+    ],
+    "level": 1,
+    "exp": 23,
+    "object_type": "User"
+  },
+  "author": null,
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 5,
+      "name": "Nhẹ Nhàng",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

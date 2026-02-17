@@ -1,0 +1,90 @@
+{
+  "id": 144812,
+  "name": "Cẩu Tại Võ Đạo Thế Giới Thành Thánh",
+  "slug": "cau-tai-vo-dao-the-gioi-thanh-thanh",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/cau-tai-vo-dao-the-gioi-thanh-thanh",
+  "note": "https://tiemtruyenchu.com/truyen/390\n\ntạm thời qua đây đọc hộ mình nhé . híc",
+  "status_name": "Còn tiếp",
+  "first_chapter": 23671918,
+  "latest_chapter": 26888321,
+  "latest_index": 1055,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/cau-tai-vo-dao-the-gioi-thanh-thanh/default.jpg?1754970048",
+    "600": "https://static.cdnno.com/poster/cau-tai-vo-dao-the-gioi-thanh-thanh/600.jpg?1754970048",
+    "300": "https://static.cdnno.com/poster/cau-tai-vo-dao-the-gioi-thanh-thanh/300.jpg?1754970048",
+    "150": "https://static.cdnno.com/poster/cau-tai-vo-dao-the-gioi-thanh-thanh/150.jpg?1754970048"
+  },
+  "synopsis": "Mệnh cách nơi tay, cẩu đạo cầu sinh!\n\n\tTrần Khánh xuyên việt rồi, lại xuyên thấu một cái võ đạo vi tôn, nhân mạng tiện như cỏ loạn thế. Bắt đầu chính là người câm vịnh nghèo khổ ngư dân, phụ thân bị bắt lao dịch bặt vô âm tín, cô nhi quả mẫu bị quan phủ thuế phú cho bang phái \"Long Vương hương hỏa\" tầng tầng bóc lột, giãy dụa tại chết đói biên giới.\n\n\tTrời không tuyệt đường người, trong đầu hắn treo lấy một đạo 【  mệnh cách: Ông trời đền bù cho người cần cù, tất có tạo thành 】!\n\n\tÝ vị này bất luận cái gì kỹ nghệ, đối với hắn mà nói không có tư chất ngưỡng cửa, không có bình cảnh cách trở, chỉ cần nỗ lực, tất có hồi báo!\n\n\nhttps://tiemtruyenchu.com/truyen/390  qua đây tạm nhá",
+  "vote_count": 17608,
+  "review_score": "4.928",
+  "review_count": 152,
+  "comment_count": 2445,
+  "chapter_count": 1055,
+  "view_count": 0,
+  "word_count": 2233187,
+  "created_at": "2025-07-08T15:32:40.000000Z",
+  "updated_at": "2026-02-17T01:45:05.000000Z",
+  "new_chap_at": "2026-02-16T11:23:40.000000Z",
+  "published_at": "2025-07-08T15:32:40.000000Z",
+  "published": 1,
+  "user_id": 1000065,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Cẩu Tại Võ Đạo Thế Giới Thành Thánh",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 6632,
+  "chapter_per_week": 25,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000065,
+    "name": "KiếmTiềnMuaSữa",
+    "avatar": [
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/200.jpg?1769515356",
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/100.jpg?1769515356",
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/50.jpg?1769515356"
+    ],
+    "level": 2,
+    "exp": 456,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 24942,
+    "name": "Tại Thủy Trung Đích Chỉ Lão Hổ",
+    "avatar": null,
+    "local_name": "在水中的纸老虎",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 5,
+      "name": "Nhẹ Nhàng",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

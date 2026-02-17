@@ -1,0 +1,96 @@
+{
+  "id": 151088,
+  "name": "Vô Hạn Trùng Quần, Bạo Binh Hoành Thôi Yêu Ma Loạn Thế",
+  "slug": "vo-han-trung-quan-bao-binh-hoanh-thoi-yeu-ma-loan-the",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/vo-han-trung-quan-bao-binh-hoanh-thoi-yeu-ma-loan-the",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 25901080,
+  "latest_chapter": 26881197,
+  "latest_index": 278,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/vo-han-trung-quan-bao-binh-hoanh-thoi-yeu-ma-loan-the/default.jpg?1770102189",
+    "600": "https://static.cdnno.com/poster/vo-han-trung-quan-bao-binh-hoanh-thoi-yeu-ma-loan-the/600.jpg?1770102189",
+    "300": "https://static.cdnno.com/poster/vo-han-trung-quan-bao-binh-hoanh-thoi-yeu-ma-loan-the/300.jpg?1770102189",
+    "150": "https://static.cdnno.com/poster/vo-han-trung-quan-bao-binh-hoanh-thoi-yeu-ma-loan-the/150.jpg?1770102189"
+  },
+  "synopsis": "Yêu ma loạn thế, tà túy hoành hành.\n\nCàng có Thần Ma, Tiên Thần ẩn hiện.\n\nĐây chính là thế giới mà Tần Vũ chuyển thế trùng sinh tới. May mắn thay, Tần Vũ đã nhận được truyền thừa của Trùng tộc, có thể vun trồng Trùng Sào, hấp thu gien ưu tú, thai nghén ra hàng tỷ vạn Trùng tộc.\n\nTấn Mãnh Trùng, Liệt Diễm Phi Long, Lôi Đình Mãnh Mã...\n\nThôn phệ! Biến dị! Tiến hóa!\n\n100 đầu Trùng tộc chiến sĩ, có thể diệt sát Khí Huyết cảnh đại yêu, hoành thôi một huyện chi địa.\n\n10.000 đầu Trùng tộc chiến sĩ, có thể diệt sát Khí Hải cảnh đại yêu, hoành thôi một phủ chi địa!\n\n100.000 đầu Trùng tộc, có thể diệt sát Nguyên Phủ cảnh đại năng, tung hoành một quận chi địa!\n\nNhư vậy!\n\nMột trăm triệu, một tỷ, mười tỷ, hàng tỷ vạn Trùng tộc chiến sĩ thì sao?\n\nCó thể diệt sát Thần Ma, có thể tung hoành chư thiên!\n\nPS: Trùng tộc, bạo binh lưu!",
+  "vote_count": 80,
+  "review_score": "5.000",
+  "review_count": 2,
+  "comment_count": 11,
+  "chapter_count": 278,
+  "view_count": 0,
+  "word_count": 610018,
+  "created_at": "2025-12-07T15:50:50.000000Z",
+  "updated_at": "2026-02-16T16:08:33.000000Z",
+  "new_chap_at": "2026-02-16T09:30:00.000000Z",
+  "published_at": "2025-12-07T15:50:50.000000Z",
+  "published": 1,
+  "user_id": 1025157,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Vô Hạn Trùng Quần, Bạo Binh Hoành Thôi Yêu Ma Loạn Thế",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 158,
+  "chapter_per_week": 17,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1025157,
+    "name": "1 5 0 8",
+    "avatar": [
+      "https://static.cdnno.com/user/7d29eb964e5f45c46783c68b33f0a3fc/200.jpg?1758889136",
+      "https://static.cdnno.com/user/7d29eb964e5f45c46783c68b33f0a3fc/100.jpg?1758889136",
+      "https://static.cdnno.com/user/7d29eb964e5f45c46783c68b33f0a3fc/50.jpg?1758889136"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 26518,
+    "name": "Lộ Thượng Đích Lão Ngưu",
+    "avatar": null,
+    "local_name": "路上的老牛",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 80,
+      "name": "Xây Dựng Thế Lực",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

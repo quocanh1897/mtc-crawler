@@ -1,0 +1,102 @@
+{
+  "id": 117132,
+  "name": "Thân Là Thiên Tài, Ta Lại Là Trong Nhà Yếu Nhất?",
+  "slug": "than-la-thien-tai-ta-lai-la-trong-nha-yeu-nhat",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/than-la-thien-tai-ta-lai-la-trong-nha-yeu-nhat",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 15952326,
+  "latest_chapter": 20706219,
+  "latest_index": 820,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/than-la-thien-tai-ta-lai-la-trong-nha-yeu-nhat/default.jpg?1713576843",
+    "600": "https://static.cdnno.com/poster/than-la-thien-tai-ta-lai-la-trong-nha-yeu-nhat/600.jpg?1713576843",
+    "300": "https://static.cdnno.com/poster/than-la-thien-tai-ta-lai-la-trong-nha-yeu-nhat/300.jpg?1713576843",
+    "150": "https://static.cdnno.com/poster/than-la-thien-tai-ta-lai-la-trong-nha-yeu-nhat/150.jpg?1713576843"
+  },
+  "synopsis": "Trần Tri An xuyên qua thành Đại Đường hoàn khố, bắt đầu tiến thiên lao, phát hiện đại ca có thể là ẩn thế đại lão, nhị ca là thiên mệnh chi tử, lão cha là mạnh nhất lão Lục, lão muội là Nữ Đế chuyển thế. . . \n\nBị xem như thiên tài thổi phồng vài chục năm Tiểu Hầu gia, lại là trong nhà yếu nhất cái kia. . . .",
+  "vote_count": 286,
+  "review_score": "4.456",
+  "review_count": 15,
+  "comment_count": 340,
+  "chapter_count": 817,
+  "view_count": 0,
+  "word_count": 1598777,
+  "created_at": "2023-03-10T05:31:16.000000Z",
+  "updated_at": "2026-02-16T09:05:35.000000Z",
+  "new_chap_at": "2024-12-29T12:33:58.000000Z",
+  "published_at": "2023-03-10T05:31:16.000000Z",
+  "published": 1,
+  "user_id": 1000076,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Thân Là Thiên Tài, Ta Lại Là Trong Nhà Yếu Nhất?",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2016,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000076,
+    "name": "Shin Đzai",
+    "avatar": [
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/200.jpg?1750327701",
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/100.jpg?1750327701",
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/50.jpg?1750327701"
+    ],
+    "level": 4,
+    "exp": 3360,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 8601,
+    "name": "Mại Thái Đích Thu Nhi",
+    "avatar": null,
+    "local_name": "卖菜的秋儿",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "Vô Sỉ",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 14,
+      "name": "Cao Võ Thế Giới",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 62,
+      "name": "Vô Địch",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

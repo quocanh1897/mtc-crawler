@@ -1,0 +1,96 @@
+{
+  "id": 135947,
+  "name": "Vô Tận Hàn Đông: Doanh Địa Của Ta Vô Hạn Thăng Cấp",
+  "slug": "vo-tan-han-dong-doanh-dia-cua-ta-vo-han-thang-cap",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/vo-tan-han-dong-doanh-dia-cua-ta-vo-han-thang-cap",
+  "note": "Mọi người ơi, nếu có lỗi vui lòng ấn báo cáo + lỗi cụ thể giúp mình nhé, hoặc cmt cũng được. Mình xin cảm ơn ~",
+  "status_name": "Còn tiếp",
+  "first_chapter": 20395217,
+  "latest_chapter": 26874059,
+  "latest_index": 1322,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/vo-tan-han-dong-doanh-dia-cua-ta-vo-han-thang-cap/default.jpg?1733279753",
+    "600": "https://static.cdnno.com/poster/vo-tan-han-dong-doanh-dia-cua-ta-vo-han-thang-cap/600.jpg?1733279753",
+    "300": "https://static.cdnno.com/poster/vo-tan-han-dong-doanh-dia-cua-ta-vo-han-thang-cap/300.jpg?1733279753",
+    "150": "https://static.cdnno.com/poster/vo-tan-han-dong-doanh-dia-cua-ta-vo-han-thang-cap/150.jpg?1733279753"
+  },
+  "synopsis": "Ngươi có phải hay không thường xuyên xoát đến một trò chơi, bắt đầu một đống lửa, bốn phía băng tuyết ngập trời, tài nguyên toàn bộ nhờ nhân lực vận chuyển, quái vật bất cứ lúc nào đến công kích...\n\n\tHạ Hồng tỉnh lại sau giấc ngủ, đã đến như thế một cái thế giới.\n\n\tBăng tuyết tàn phá bừa bãi, hàn thú chiếm lấy đại địa, văn minh thất lạc, sở hữu đã từng xuất hiện người cùng vật, đã bị không biết xâm nhập thành cường đại quái dị, nhân loại cũng biến thành tại trời đông giá rét trong bóng tối sống tạm hèn mọn chủng tộc, sắp bị diệt tới nơi.\n\n\tMay ra, Hạ Hồng mang theo một cái có thể vô hạn thăng cấp doanh địa hệ thống\n\n\t【  đống lửa nhỏ 】 — 【  lò luyện sắt 】 — 【  Liệt Dương đỉnh 】...\n\n\t【  cọc gỗ 】 — 【  sân luyện võ 】 — 【  võ đạo quán 】...\n\n\t【  hàng rào trúc xanh 】 — 【  tường đất đen 】 — 【  tường sắt 】...\n\n\t【  đá đánh dấu 】 — 【  bảng ghi chép 】 — 【  Anh Linh bi 】...\n\n\t... ...\n\n\tTheo Hạ Hồng trảm hàn thú, diệt quái dị, không ngừng tụ lại nhân loại, xua tan trời đông giá rét, khai thác lãnh thổ, cái thế giới này khăn che mặt bí ẩn, cũng dần dần bị toàn bộ để lộ",
+  "vote_count": 6665,
+  "review_score": "4.980",
+  "review_count": 55,
+  "comment_count": 528,
+  "chapter_count": 1319,
+  "view_count": 0,
+  "word_count": 2564414,
+  "created_at": "2024-12-04T02:34:26.000000Z",
+  "updated_at": "2026-02-16T15:41:16.000000Z",
+  "new_chap_at": "2026-02-10T12:00:39.000000Z",
+  "published_at": "2024-12-04T02:34:26.000000Z",
+  "published": 1,
+  "user_id": 1117846,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Vô Tận Hàn Đông: Doanh Địa Của Ta Vô Hạn Thăng Cấp",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 3824,
+  "chapter_per_week": 8,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1117846,
+    "name": "Trà Đạo Độc Tôn",
+    "avatar": [
+      "https://static.cdnno.com/user/7c7a8a178a5d7278411b4e2f7c1b7d1a/200.jpg?1755908066",
+      "https://static.cdnno.com/user/7c7a8a178a5d7278411b4e2f7c1b7d1a/100.jpg?1755908066",
+      "https://static.cdnno.com/user/7c7a8a178a5d7278411b4e2f7c1b7d1a/50.jpg?1755908066"
+    ],
+    "level": 2,
+    "exp": 471,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 19928,
+    "name": "Bán Hồ Sinh Khương Thủy",
+    "avatar": null,
+    "local_name": "半壶生姜水",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 12,
+      "name": "Dị Thế Đại Lục",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": 145471,
+  "name": "Đừng Quấy Rầy Tà Thuật Sư Làm Nghiên Cứu Khoa Học",
+  "slug": "dung-quay-ray-ta-thuat-su-lam-nghien-cuu-khoa-hoc",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/dung-quay-ray-ta-thuat-su-lam-nghien-cuu-khoa-hoc",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 23868422,
+  "latest_chapter": 26859697,
+  "latest_index": 330,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/dung-quay-ray-ta-thuat-su-lam-nghien-cuu-khoa-hoc/default.jpg?1768358287",
+    "600": "https://static.cdnno.com/poster/dung-quay-ray-ta-thuat-su-lam-nghien-cuu-khoa-hoc/600.jpg?1768358287",
+    "300": "https://static.cdnno.com/poster/dung-quay-ray-ta-thuat-su-lam-nghien-cuu-khoa-hoc/300.jpg?1768358287",
+    "150": "https://static.cdnno.com/poster/dung-quay-ray-ta-thuat-su-lam-nghien-cuu-khoa-hoc/150.jpg?1768358287"
+  },
+  "synopsis": "“Ta nghiên cứu phát minh cải tiến tất cả pháp thuật, cũng là từ đối với chân lý tìm tòi, đối với khoa học truy cầu, các ngươi không nên nói xấu ta như vậy một vị chất phác học giả.”\n\nĐầu kỷ nguyên năm thứ ba, trong lịch sử vĩ đại nhất thi pháp giả, vượt qua 1 vạn loại pháp thuật phát minh người, được xưng là máy chế tạo cấm thuật tà thuật sư Gash, tại đối mặt chủng tộc diệt tuyệt lên án lúc, trả lời như vậy.\n\n“Vô hạn khép lại thuật tại sao là để cho mục tiêu toàn thân mắc bệnh ung thư? Ngươi liền nói ung thư khối u có phải hay không tại vô hạn khép lại!”\n\n“Tuyệt đối phòng hộ thuật cách trở không khí dẫn đến ngạt thở? Thiên địa lương tâm a, không khí là rất nguy hiểm, đương nhiên muốn cách trở, ta có trọn vẹn chứng cứ chứng minh hô hấp qua không khí đều biết chết.”\n\n“Tiểu nam hài triệu hoán thuật phá hủy Ma Vương thành, sinh ra phóng xạ dẫn đến ba mươi năm không cách nào cư trú, cái này sao, ngạch...... Ta chính là diệt tuyệt ma tộc , như thế nào a! Ta nói ta vô tội, ai tán thành, ai phản đối!”\n\n————————",
+  "vote_count": 440,
+  "review_score": "4.929",
+  "review_count": 7,
+  "comment_count": 83,
+  "chapter_count": 330,
+  "view_count": 0,
+  "word_count": 884979,
+  "created_at": "2025-07-25T04:22:01.000000Z",
+  "updated_at": "2026-02-15T19:03:27.000000Z",
+  "new_chap_at": "2026-02-08T13:00:00.000000Z",
+  "published_at": "2025-07-25T13:03:56.000000Z",
+  "published": 1,
+  "user_id": 1018647,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Đừng Quấy Rầy Tà Thuật Sư Làm Nghiên Cứu Khoa Học",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 908,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1018647,
+    "name": "Kuross",
+    "avatar": [
+      "https://static.cdnno.com/user/47cfa36819f70b6733a49851d44d4142/200.jpg?1598191827",
+      "https://static.cdnno.com/user/47cfa36819f70b6733a49851d44d4142/100.jpg?1598191827",
+      "https://static.cdnno.com/user/47cfa36819f70b6733a49851d44d4142/50.jpg?1598191827"
+    ],
+    "level": 3,
+    "exp": 602,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 25293,
+    "name": "Nhất Mai Hữu Thú Thổ Đậu",
+    "avatar": null,
+    "local_name": "一枚有趣的土豆",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 15,
+      "name": "Tây Phương Kỳ Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

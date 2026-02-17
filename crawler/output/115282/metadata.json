@@ -1,0 +1,102 @@
+{
+  "id": 115282,
+  "name": "Bắt Đầu Trở Thành Thủ Tọa, Đánh Dấu Cực Đạo Đế Binh!",
+  "slug": "bat-dau-tro-thanh-thu-toa-danh-dau-cuc-dao-de-binh",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/bat-dau-tro-thanh-thu-toa-danh-dau-cuc-dao-de-binh",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 16391458,
+  "latest_chapter": 26888322,
+  "latest_index": 2382,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/bat-dau-tro-thanh-thu-toa-danh-dau-cuc-dao-de-binh/default.jpg?1687628576",
+    "600": "https://static.cdnno.com/poster/bat-dau-tro-thanh-thu-toa-danh-dau-cuc-dao-de-binh/600.jpg?1687628576",
+    "300": "https://static.cdnno.com/poster/bat-dau-tro-thanh-thu-toa-danh-dau-cuc-dao-de-binh/300.jpg?1687628576",
+    "150": "https://static.cdnno.com/poster/bat-dau-tro-thanh-thu-toa-danh-dau-cuc-dao-de-binh/150.jpg?1687628576"
+  },
+  "synopsis": "\t[ nhẹ nhõm + thường ngày + vô địch + không nữ chủ + bức cách tràn đầy ]\n\n\tBởi vì chết qua một lần, Hoa Vân Phi vẫn luôn đem sống sót đặt ở đệ nhất vị, cẩu thả tại Đạo Nguyên phong 100 năm, đánh dấu 100 năm.\n\n\t[ keng, đánh dấu 100 năm cả, chúc mừng kí chủ thu hoạch được Cực Đạo Đế binh —— Hỗn Độn chung ]\n\n\t. . .\n\n\tVạn năm sau, hắc ám huyết thời đại tiến đến, thiên địa đại loạn, Chí Tôn giáng lâm, Cực Đạo Đế binh đánh tan nát, 1 vị Chí Tôn đi tới Kháo Sơn Tông mượn đi 100 kiện Cực Đạo Đế binh, ngẩng đầu ưỡn ngực vọt tới vũ trụ không trung rống to: \"Ai dám cùng ngươi bản tôn một trận chiến?\"\n\n\t. . .\n\n\tThế nhân cái này mới biết được, Kháo Sơn Tông có bao nhiêu cẩu thả, một mực đang ẩn giấu thực lực!\n\n\t. . .\n\n",
+  "vote_count": 1465,
+  "review_score": "4.886",
+  "review_count": 22,
+  "comment_count": 721,
+  "chapter_count": 2382,
+  "view_count": 0,
+  "word_count": 4453435,
+  "created_at": "2022-11-14T16:26:08.000000Z",
+  "updated_at": "2026-02-16T16:14:32.000000Z",
+  "new_chap_at": "2026-02-16T11:31:28.000000Z",
+  "published_at": "2023-12-22T01:04:23.000000Z",
+  "published": 1,
+  "user_id": 1000065,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Bắt Đầu Trở Thành Thủ Tọa, Đánh Dấu Cực Đạo Đế Binh!",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 6483,
+  "chapter_per_week": 14,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000065,
+    "name": "KiếmTiềnMuaSữa",
+    "avatar": [
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/200.jpg?1769515356",
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/100.jpg?1769515356",
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/50.jpg?1769515356"
+    ],
+    "level": 2,
+    "exp": 456,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 7757,
+    "name": "Sách Đản Chuyên Gia",
+    "avatar": null,
+    "local_name": "拆蛋专家",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 94,
+      "name": "Chư Thiên Vạn Giới",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 88,
+      "name": "Ngôi Thứ Nhất",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

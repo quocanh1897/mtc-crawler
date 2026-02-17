@@ -1,0 +1,96 @@
+{
+  "id": 144968,
+  "name": "Bảng Thiên Phú Của Ta Có Thể Thêm Điểm",
+  "slug": "bang-thien-phu-cua-ta-co-the-them-diem",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/bang-thien-phu-cua-ta-co-the-them-diem",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 23665192,
+  "latest_chapter": 26868670,
+  "latest_index": 623,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/bang-thien-phu-cua-ta-co-the-them-diem/default.jpg?1752318332",
+    "600": "https://static.cdnno.com/poster/bang-thien-phu-cua-ta-co-the-them-diem/600.jpg?1752318332",
+    "300": "https://static.cdnno.com/poster/bang-thien-phu-cua-ta-co-the-them-diem/300.jpg?1752318332",
+    "150": "https://static.cdnno.com/poster/bang-thien-phu-cua-ta-co-the-them-diem/150.jpg?1752318332"
+  },
+  "synopsis": "[ linh năng khôi phục ] [ một nửa cứ hóa bảng ]\n\n\tThế giới tiến hóa, thiên địa dị biến, tên là Linh giới siêu phàm thế giới cùng Địa Cầu dung hợp lẫn nhau, linh năng giả xuất hiện tại thế giới sân khấu, bồi dưỡng thời đại mới.\n\n\t. . .\n\n\t\"Ài, ta phía dưới bảng thiên phú này thế nào có cái dấu cộng?\"\n\n\t\"Tới đều tới, không điểm một thoáng thử xem?\"\n\n\t[ thiên phú thứ hai thức tỉnh bên trong. . . ]\n\n\tNguyên lai đây chính là ta chân chính thiên phú ư?\n\n\tBảng! Thêm thiên phú!\n\n\t. . . .\n\n\t[ linh năng - tràn đầy ]: Linh năng đạt tới 100% lúc, thuộc tính cơ sở đạt được ngoài định mức tăng lên.\n\n\t[ linh năng - phá hạn ]: Linh năng hạn mức cao nhất đột phá 100%, đạt tới 200% cũng ngoài định mức tăng lên linh năng tốc độ khôi phục.\n\n\t[ ý chí kiên định ]: Ý chí của ngươi đạt được lượng lớn tăng lên.\n\n\t[ khỏe mạnh ]: Ngươi đối bệnh tật lực chống cự tăng lên, tự nhiên tốc độ khôi phục tăng lên trên diện rộng.\n\n\t. . . .\n\n\tTa, Diệp Minh Thu, không có bật hack, chỉ là thiên phú dị bẩm!",
+  "vote_count": 475,
+  "review_score": "5.000",
+  "review_count": 12,
+  "comment_count": 58,
+  "chapter_count": 622,
+  "view_count": 0,
+  "word_count": 1086581,
+  "created_at": "2025-07-12T11:05:25.000000Z",
+  "updated_at": "2026-02-17T01:43:28.000000Z",
+  "new_chap_at": "2026-02-10T14:51:00.000000Z",
+  "published_at": "2025-07-12T11:05:25.000000Z",
+  "published": 1,
+  "user_id": 1000080,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Bảng Thiên Phú Của Ta Có Thể Thêm Điểm",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 733,
+  "chapter_per_week": 5,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000080,
+    "name": "Sakamata",
+    "avatar": [
+      "https://static.cdnno.com/user/8fc9d212f9f412f19ae669d54e1341a0/200.jpg?1711307097",
+      "https://static.cdnno.com/user/8fc9d212f9f412f19ae669d54e1341a0/100.jpg?1711307097",
+      "https://static.cdnno.com/user/8fc9d212f9f412f19ae669d54e1341a0/50.jpg?1711307097"
+    ],
+    "level": 2,
+    "exp": 147,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 25029,
+    "name": "Đỗ Tử Cật Xanh Liễu",
+    "avatar": null,
+    "local_name": "肚子吃撑了",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 22,
+      "name": "Light Novel",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 99,
+      "name": "Nguyên Sinh Huyễn Tưởng",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

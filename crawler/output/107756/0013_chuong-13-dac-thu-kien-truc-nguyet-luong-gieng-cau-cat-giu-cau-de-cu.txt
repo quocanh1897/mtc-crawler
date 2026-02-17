@@ -1,0 +1,233 @@
+Chương 13: Đặc thù kiến trúc Nguyệt Lượng giếng 【  cầu cất giữ cầu đề cử ]
+
+Chương 13: Đặc thù kiến trúc Nguyệt Lượng giếng 【  cầu cất giữ cầu đề cử ]
+
+Tông Thận đem ánh mắt nhìn về phía Ám Dạ nữ thợ săn Luna.
+
+Đây là cả người tư thướt tha, hình dạng mỹ lệ tiêu chuẩn Tinh Linh tộc muội tử.
+
+Một đầu thác nước đồng dạng tóc tím bên trong, lộ ra một đôi mang tính tiêu chí Tinh Linh tai nhọn.
+
+Nhìn ngược lại là muốn so Lang kỵ binh Colby cảnh đẹp ý vui nhiều.
+
+Trên người nàng mặc một bộ bí ngân giáp nhẹ, nửa người dưới chỉ che khuất đùi, lộ ra mảng lớn mảng lớn tuyết trắng.
+
+Nữ thợ săn không có mũ giáp, nhưng lại có một cái màu bạc trắng, trăng lưỡi liềm đồ án đồ trang sức.
+
+Vũ khí của nàng chỉ có một loại, đó chính là nguyệt nhận.
+
+Đây là một loại viễn trình ném loại vũ khí.
+
+Tầm bắn hơi thua cùng cung nỏ, nhưng là sát thương lại không nhỏ.
+
+Nhìn có khác phong tình.
+
+Dưới hông báo đen hình thể muốn so Lang kỵ binh Thảo Nguyên lang hơi nhỏ hơn một chút.
+
+Nhưng lại càng thêm cường tráng, lông tóc ngắn hơn, cơ bắp cũng càng kinh khủng.
+
+Nhất là tứ chi, tất cả đều là nâng lên cơ bắp, rõ ràng, cái này rừng cây báo đen có cường đại lực bộc phát.
+
+Quan sát xong vẻ ngoài, Tông Thận bắt đầu xem xét lên thuộc tính tới.
+
+【  Ám Dạ nữ thợ săn: Luna ]
+
+【  tư chất: Ưu tú ]
+
+【  đẳng cấp: lv10 ]
+
+【  thuộc tính: (điểm kích nhưng triển khai) ]
+
+【  no đói  độ: 80/80 ]
+
+【  độ trung thành: 80 ]
+
+Tông Thận điểm kích, triển khai thuộc tính.
+
+【  Ám Dạ nữ thợ săn: Luna ]
+
+【  lực lượng: 18 ]
+
+【  nhanh nhẹn: 24 ]
+
+【  trí tuệ: 12 ]
+
+【  mị lực: 12 ]
+
+【  HP: 235 ]
+
+【  ném tổn thương: 57 ]
+
+【  đầu hộ giáp giá trị: 11 ]
+
+【  thân trên hộ giáp giá trị: 26 ]
+
+【  hạ thân hộ giáp giá trị: 14 ]
+
+【  ma pháp chống cự: 27 ]
+
+【  kỹ năng: Ẩn tàng (tại ban đêm lúc để nữ thợ săn đình chỉ công kích địch nhân, có thể dùng hắn ẩn độn) lính gác (đem một con cú mèo phái đi phụ cận trên một thân cây, bại lộ chung quanh khu vực, có thể trông thấy ẩn hình đơn vị. Tiếp tục 300 giây) nguyệt nhận (kỹ năng bị động, hầu gái thợ săn chiến nhận có thể bắn ra ngoài định mức 3 cái mục tiêu, mỗi lần bắn ra tổn thương giảm bớt 50%) ]
+
+【  trưởng thành báo đen: Moray ]
+
+【  đẳng cấp: lv10 ]
+
+【  chủng tộc: Dã thú ]
+
+【  cắn xé tổn thương: 39~43 ]
+
+【  HP: 535 ]
+
+【  hộ giáp giá trị: 27 ]
+
+【  tốc độ: 6 ]
+
+【  kỹ năng: Cắn xé (ngoài định mức tạo thành một lần cắn xé tổn thương) đánh giết (báo đen nhảy lên thật cao đem nhào về phía mục tiêu, xem đối phương hình thể tạo thành 0.1~3 giây cứng ngắc thời gian) ]
+
+【  Ám Dạ nữ thợ săn: Gia tốc (30 giây bên trong tăng lên 20% tốc độ di chuyển, CD20 phút đồng hồ) truy kích (Ám Dạ nữ thợ săn truy kích bị thương chạy tán loạn trạng thái địch nhân lúc, tổn thương gia tăng 10%) ]
+
+Không hổ là chiếm dụng 2 điểm thống ngự giá trị binh chủng.
+
+Cổ lão Ám Dạ Tinh linh tộc bên trong, thợ săn binh chủng bên trong trụ cột vững vàng.
+
+Có nhan lại có sức chiến đấu.
+
+Thuộc tính này cơ bản so Lang kỵ binh cao hơn trên một đoạn nhỏ, hơn nữa còn có ẩn tàng, lính gác các loại tiềm hành cùng quan sát kỹ năng.
+
+Thỏa thỏa rừng cây thợ săn.
+
+Tăng thêm nguyệt nhận bắn ra, càng làm cho công kích của nàng biến thành phạm vi nhỏ AOE tổn thương, quần thể năng lực tác chiến càng thêm cường hãn!
+
+Bất quá Lang kỵ binh cũng không tệ, xa gần gồm nhiều mặt, HP cao mang bắt lưới khống chế.
+
+Hai cái này chiến sĩ gia nhập, nguồn bổ sung dồi dào Tông Thận lãnh địa thực lực.
+
+"Luna, ngươi phụ trách đi theo ta!"
+
+Tông Thận hạ đạt mệnh lệnh thứ nhất.
+
+"Lấy mặt trăng mẫu thân Elune danh nghĩa!"
+
+"Chắc chắn thề sống chết bảo vệ lãnh chúa đại nhân!"
+
+Luna cưỡi báo đen, lần nữa đỡ ngực hành lễ nói.
+
+Tông Thận gật gật đầu, bắt đầu xem xét lên món đồ kế tiếp tới.
+
+【  xanh biếc giáp chân ]
+
+【  phẩm chất: Tinh lương (lục sắc) ]
+
+【  chân hộ giáp: 27 ]
+
+【  ma pháp chống cự: 13 ]
+
+【  độ bền: 120 ]
+
+【  cần lực lượng: 12 ]
+
+【  cần nhanh nhẹn: 8 ]
+
+【  bổ sung kỹ năng: Sơ cấp quấn quanh (tại dưới chân là thổ nhưỡng địa hình dưới, tại địch nhân dưới chân sinh trưởng ra Hấp Huyết Đằng mạn, trói buộc địch nhân 2 giây, cũng tạo thành mỗi giây 5 điểm hút máu tổn thương) ]
+
+Rất không tệ trang bị, đạt đến lục sắc tinh lương cấp bậc phẩm chất.
+
+Còn có ma pháp chống cự thuộc tính.
+
+Cùng một cái chủ động hình sơ cấp kỹ năng.
+
+Đáng tiếc, Tông Thận nhanh nhẹn kém 1 điểm, tạm thời còn không cách nào mặc.
+
+Bất quá không sao, có hai vị cường đại binh sĩ hộ giá hộ tống, Tông Thận tin tưởng mình rất nhanh liền có thể thăng cấp.
+
+Đem xanh biếc giáp chân cất kỹ.
+
+Tông Thận bắt đầu kiểm tra một thứ cuối cùng.
+
+Đây là một cái kiến trúc bản vẽ.
+
+【  đặc thù kiến trúc: Nguyệt Lượng giếng ]
+
+【  phẩm chất: Hi hữu (tử sắc) đặc thù Tinh Linh tộc kiến trúc ]
+
+【  nhu cầu: Nguyệt Lượng giếng kiến tạo bản vẽ ×1 ]
+
+【  hoàn chỉnh kiến trúc, không cần tốn hao vật liệu liền có thể kiến tạo, mời lựa chọn một khối khu vực cất đặt ]
+
+【  tu kiến thời gian: 4 M(đã từ công trình học giảm bớt 20%) ]
+
+【  chiếm diện tích: 1 mét vuông ]
+
+【  kiên cố giá trị: 1000 ]
+
+【  kiến trúc hộ giáp: 30 ]
+
+【  Ám Dạ Tinh Linh nhất tộc cơ sở kiến trúc, cam thuần Nguyệt Lượng Tỉnh Thủy có thể chữa trị bất luận cái gì thương thế đồng thời bổ sung tinh lực ]
+
+【  ăn vào 1 Ml nước giếng có thể khôi phục 1.2 HP ]
+
+【  nước giếng hạn mức cao nhất dung lượng: 2L ]
+
+【  mỗi giờ sản xuất: 50 Ml ]
+
+【  kỹ năng: Trăng tròn chi xuân (gia tăng Nguyệt Lượng giếng 1.25L dung lượng hạn mức cao nhất, đồng thời làm Nguyệt Lượng giếng nước giếng sản xuất tốc độ đề cao 520%(tiếp tục thời gian 5 giờ, thời gian cooldown 168 giờ) ]
+
+"Khá lắm, ta gọi thẳng khá lắm."
+
+"Cái này Nguyệt Lượng giếng liền là một cái vô hạn tự động sản xuất huyết dược kiến trúc."
+
+"Về sau còn có thể đóng gói ra tùy thân mang theo, thời điểm chiến đấu đến một ngụm, trong nháy mắt đến cảm giác!"
+
+"Thậm chí về sau còn có thể cùng cái khác lãnh chúa hoặc là thế giới này dân bản địa tiến hành giao dịch."
+
+"Có thể khôi phục sinh mệnh giá trị nước suối tuyệt đối không thấy nhiều!"
+
+Tông Thận nhìn xem bản vẽ, trong mắt đều nhanh toát ra tiểu tinh tinh tới.
+
+Đây chính là bảo bối tốt.
+
+Tông Thận kềm chế kích động trong lòng.
+
+Trước đem trên mặt đất, những cái kia Tinh Linh tộc hài cốt thu thập lại, vùi lấp trở về hố đất bên trong.
+
+Đem hố đất lấp đầy về sau.
+
+Bẻ một nhánh cành khô đem nó cắm ở bên trên.
+
+Tốt xấu những vật này cũng coi là người ta di vật, được chỗ tốt, tổng không có thể khiến người ta phơi thây hoang dã.
+
+"Cát bụi trở về với cát bụi, đã ta thu ân huệ của ngươi, tương lai nếu là gặp kia cái gì Nhiên Huyết quân đoàn, ta nhất định báo thù cho ngươi."
+
+Tông Thận đối hố đất chắp tay một cái.
+
+Lúc này mới quay người mang theo Luna trở về sân nhỏ.
+
+【  bởi vì ngươi đối Tinh Linh tộc cổ lão người mất tôn trọng ]
+
+【  Ám Dạ nữ thợ săn Luna đối với ngài độ trung thành tăng lên 3 điểm, trước mắt độ trung thành 83 ]
+
+Một đầu độ trung thành gia tăng đột nhiên xuất hiện như thế tính vui mừng ngoài ý muốn.
+
+Trở lại sân nhỏ về sau.
+
+Tông Thận trong sân bộ tìm một chỗ đất trống, chuẩn bị đem Nguyệt Lượng giếng tu kiến ở chỗ này.
+
+Hiện tại chỉ có sân nhỏ mới có phòng hộ năng lực, cũng là đường đường chính chính phạm vi lãnh địa bên trong.
+
+Về phần dã ngoại, Tông Thận cũng nếm thử qua, có thể tu kiến kiến trúc, nhưng là tứ phía mở ra, không có bất luận cái gì năng lực bảo vệ.
+
+Tông Thận mở ra bản vẽ, điểm kích sử dụng.
+
+Một tòa Nguyệt Lượng giếng hư ảnh xuất hiện ở trước mặt của hắn  dựa theo ý niệm của hắn rơi trên mặt đất.
+
+Một đoàn màu xanh biếc chùm sáng bỗng nhiên rơi vào trong lòng đất.
+
+Sau một khắc mặt đất hở ra, một đại đoàn lục sắc dây leo đột ngột từ mặt đất mọc lên.
+
+Bắt đầu không ngừng sinh trưởng, vặn vẹo, biến hình.
+
+Bốn phút về sau, một tòa hoàn toàn do dây leo thực vật sinh trưởng thành lục sắc kiến trúc, liền triệt để thành hình.
+
+Cực kỳ giống một cái lục sắc lũ lụt bồn, ở giữa bắt đầu có thanh tịnh chất lỏng không ngừng chậm rãi chảy ra.
+
+(tấu chương xong).

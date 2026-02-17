@@ -1,0 +1,96 @@
+{
+  "id": 106532,
+  "name": "Tiên Võ Đế Tôn",
+  "slug": "tien-vo-de-ton",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/tien-vo-de-ton",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13369911,
+  "latest_chapter": 13426623,
+  "latest_index": 3361,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tien-vo-de-ton/default.jpg?1612445945",
+    "600": "https://static.cdnno.com/poster/tien-vo-de-ton/600.jpg?1612445945",
+    "300": "https://static.cdnno.com/poster/tien-vo-de-ton/300.jpg?1612445945",
+    "150": "https://static.cdnno.com/poster/tien-vo-de-ton/150.jpg?1612445945"
+  },
+  "synopsis": "Chín ngàn năm trước, Tiên Võ Đế Tôn suất lĩnh trăm vạn Thần Tướng đánh vào Thái Cổ Hồng Hoang, lại không một người trở về, chỉ có một tia Chân Hỏa còn sót lại thế gian. \r\n\r\nChín ngàn năm về sau, môn phái phế đồ Diệp Thiên, bị đuổi ra tông môn, vô dĩ vi gia, dưới cơ duyên xảo hợp ngẫu nhiên đạt được Chân Hỏa, lại đạp Tiên Võ chi lộ. \r\n\r\nĐây là một cái Thần Ma Tiên Phật cùng tồn tại thế giới, đây là một cái chư thiên vạn vực hỗn loạn niên đại, Diệp Thiên nghịch thiên chinh đồ, bởi vậy bắt đầu.\r\n\r\nCVT: Main bá, Hậu cung (ít nhất 15 em), gần như YY (Giải trí là chính - chống chỉ định bô lão)",
+  "vote_count": 2757,
+  "review_score": "4.683",
+  "review_count": 62,
+  "comment_count": 1396,
+  "chapter_count": 3354,
+  "view_count": 0,
+  "word_count": 7696158,
+  "created_at": "2021-02-04T13:39:12.000000Z",
+  "updated_at": "2026-02-16T13:53:49.000000Z",
+  "new_chap_at": "2021-05-12T01:37:00.000000Z",
+  "published_at": "2021-02-04T13:39:05.000000Z",
+  "published": 1,
+  "user_id": 1000045,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Tiên Võ Đế Tôn",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 4726,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000045,
+    "name": "Thanh Hưng",
+    "avatar": [
+      "https://static.cdnno.com/user/c79de127d8c211a21898811f1e74d3f5/200.jpg?1590805499",
+      "https://static.cdnno.com/user/c79de127d8c211a21898811f1e74d3f5/100.jpg?1590805499",
+      "https://static.cdnno.com/user/c79de127d8c211a21898811f1e74d3f5/50.jpg?1590805499"
+    ],
+    "level": 3,
+    "exp": 584,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 4318,
+    "name": "Lục Giới Tam Đạo",
+    "avatar": null,
+    "local_name": "六界三道",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 84,
+      "name": "Sảng Văn",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

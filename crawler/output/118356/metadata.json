@@ -1,0 +1,102 @@
+{
+  "id": 118356,
+  "name": "Trấn Thủ Tàng Kinh Các Trăm Năm, Đầu Tư Thiên Mệnh Nhân Vật Phản Diện",
+  "slug": "tran-thu-tang-kinh-cac-tram-nam-dau-tu-thien-menh-nhan-vat-phan-dien",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/tran-thu-tang-kinh-cac-tram-nam-dau-tu-thien-menh-nhan-vat-phan-dien",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 16243978,
+  "latest_chapter": 26877645,
+  "latest_index": 1890,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tran-thu-tang-kinh-cac-tram-nam-dau-tu-thien-menh-nhan-vat-phan-dien/default.jpg?1684294607",
+    "600": "https://static.cdnno.com/poster/tran-thu-tang-kinh-cac-tram-nam-dau-tu-thien-menh-nhan-vat-phan-dien/600.jpg?1684294607",
+    "300": "https://static.cdnno.com/poster/tran-thu-tang-kinh-cac-tram-nam-dau-tu-thien-menh-nhan-vat-phan-dien/300.jpg?1684294607",
+    "150": "https://static.cdnno.com/poster/tran-thu-tang-kinh-cac-tram-nam-dau-tu-thien-menh-nhan-vat-phan-dien/150.jpg?1684294607"
+  },
+  "synopsis": "Sở Tuân xuyên qua huyền huyễn thế giới, trở thành Đông Lâm Thánh Địa Tàng Kinh Các trưởng lão, thu hoạch được đầu tư hệ thống, có thể nhìn thấy người bên ngoài khí vận, vận mệnh, vị cách các loại, đầu tư khác biệt, thu hoạch khác biệt. \n\nĐầu tư yêu cầu: Giới hạn thiên mệnh nhân vật phản diện. \n\nCái này khiến Sở Tuân phiền muộn, dựa vào cái gì ta chỉ có thể đầu tư nhân vật phản diện?\n\nĐại đồ đệ: Sư phụ, ta cho ngươi cướp tới một vị Nữ Đế. \n\nNhị đồ đệ: Sư phụ muốn luyện thần binh? Vừa vặn nhà ta có tổ truyền tiên kim, sư phụ chờ ta một chút. . . \n\nTiểu đồ đệ: Nhà ta có một gốc tuyệt thế lớn thuốc, sống bảy ngàn năm, ta đi hái tới cho sư phụ đương thuốc dẫn! \n\nSở Tuân: Thật là thơm!",
+  "vote_count": 61,
+  "review_score": "4.567",
+  "review_count": 5,
+  "comment_count": 143,
+  "chapter_count": 1886,
+  "view_count": 0,
+  "word_count": 3283067,
+  "created_at": "2023-05-17T03:36:22.000000Z",
+  "updated_at": "2026-02-16T07:18:13.000000Z",
+  "new_chap_at": "2026-02-12T13:46:01.000000Z",
+  "published_at": "2023-05-17T03:36:22.000000Z",
+  "published": 1,
+  "user_id": 1000076,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Trấn Thủ Tàng Kinh Các Trăm Năm, Đầu Tư Thiên Mệnh Nhân Vật Phản Diện",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2044,
+  "chapter_per_week": 4,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000076,
+    "name": "Shin Đzai",
+    "avatar": [
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/200.jpg?1750327701",
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/100.jpg?1750327701",
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/50.jpg?1750327701"
+    ],
+    "level": 4,
+    "exp": 3360,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 12207,
+    "name": "Mộc 11",
+    "avatar": null,
+    "local_name": "木11",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "Vô Sỉ",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": 137544,
+  "name": "Goblin Trọng Độ Ỷ Lại",
+  "slug": "goblin-trong-do-y-lai",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/goblin-trong-do-y-lai",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 20967386,
+  "latest_chapter": 26884054,
+  "latest_index": 712,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/goblin-trong-do-y-lai/default.jpg?1737165761",
+    "600": "https://static.cdnno.com/poster/goblin-trong-do-y-lai/600.jpg?1737165761",
+    "300": "https://static.cdnno.com/poster/goblin-trong-do-y-lai/300.jpg?1737165761",
+    "150": "https://static.cdnno.com/poster/goblin-trong-do-y-lai/150.jpg?1737165761"
+  },
+  "synopsis": "“Huynh đệ, chúng ta làm nhà thám hiểm là vì cái gì?”\n\n“Một con Goblin tiền thưởng là ba cái đồng bạc.”\n\n“Không, ngươi hiểu lầm ta huynh đệ, ta ý tứ là chúng ta làm này một hàng chung cực mục tiêu, suốt ngày cực cực khổ khổ, rốt cuộc có cái gì ý nghĩa?”\n\n“Một con Goblin, ba đồng bạc.”\n\n“……”\n\n“Ba đồng bạc.”\n\n“Được rồi, nơi này có một cái quét sạch Goblin sào huyệt nhiệm vụ, ngươi……”\n\n“Đi!”\n\n======\n\nYếu tố: 【 đường đáy nhà thám hiểm 】, 【 lẩu thập cẩm thế giới quan 】, 【 ngụy DND】",
+  "vote_count": 875,
+  "review_score": "4.924",
+  "review_count": 17,
+  "comment_count": 195,
+  "chapter_count": 712,
+  "view_count": 0,
+  "word_count": 1400650,
+  "created_at": "2025-01-18T02:02:06.000000Z",
+  "updated_at": "2026-02-16T17:27:35.000000Z",
+  "new_chap_at": "2026-02-14T16:31:10.000000Z",
+  "published_at": "2025-01-18T02:51:15.000000Z",
+  "published": 1,
+  "user_id": 1189500,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Goblin Trọng Độ Ỷ Lại",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 505,
+  "chapter_per_week": 7,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1189500,
+    "name": "RyuYamada",
+    "avatar": [
+      "https://static.cdnno.com/user/default/200.jpg",
+      "https://static.cdnno.com/user/default/100.jpg",
+      "https://static.cdnno.com/user/default/50.jpg"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 20992,
+    "name": "Nhứ Lý",
+    "avatar": null,
+    "local_name": "絮理",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 20,
+      "name": "Kỳ Ảo",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 15,
+      "name": "Tây Phương Kỳ Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 85,
+      "name": "Xuyên Không",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

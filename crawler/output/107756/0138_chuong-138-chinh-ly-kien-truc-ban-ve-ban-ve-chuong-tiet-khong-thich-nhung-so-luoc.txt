@@ -1,0 +1,283 @@
+Chương 138: Chỉnh lý kiến trúc bản vẽ 【  bản vẽ chương tiết, không thích nhưng sơ lược ]
+
+Chương 138: Chỉnh lý kiến trúc bản vẽ 【  bản vẽ chương tiết, không thích nhưng sơ lược ]
+
+Tựa như hiện tại, mưa lớn qua đi lãnh địa trong ngoài một mảnh ẩm ướt nính, chậm rãi từng bước tất cả đều là bùn!
+
+Cũng là thời điểm tại sân nhỏ cổng đến lãnh địa bên ngoài xây một con đường mặt.
+
+Tông Thận tay vỗ, liền đem bản vẽ cho nắm giữ.
+
+Đón lấy, lại là tiếp theo trương.
+
+【  nước hầm kiến tạo bản vẽ ]
+
+【  phẩm chất: Nhân loại bình thường kiến trúc ]
+
+【  nhu cầu: Vật liệu gỗ ×30, tảng đá ×100, sơ cấp nước phù văn ×1 ]
+
+【  chiếm diện tích: Rộng 3 mét × cao 3 mét × dài 3 mét ]
+
+【  dung tích: 27 mét khối ]
+
+【  kiên cố giá trị: 500 ]
+
+【  kiến trúc hộ giáp: 5 ]
+
+【  tương đối bịt kín nước ngầm hầm, có thể chứa đựng nước tài nguyên ]
+
+【  tu kiến thời gian: 1 giờ 12 phút đồng hồ ]
+
+(nguồn nước cũng là mệnh mạch một trong)
+
+[1 giai tháp quan sát kiến tạo bản vẽ ]
+
+【  phẩm chất: Nhân loại bình thường kiến trúc ]
+
+【  nhu cầu: Vật liệu gỗ ×180, tảng đá ×30, sắt ×10, dây gai ×8 ]
+
+【  chiếm diện tích: 20 mét vuông ]
+
+【  độ cao: 30 mét ]
+
+【  kiên cố giá trị: 1200 ]
+
+【  kiến trúc hộ giáp: 10 ]
+
+【  tháp quan sát có thể cung cấp tốt hơn tầm mắt, vì ngươi giám sát lãnh địa bốn phía ]
+
+【  tu kiến thời gian: 6 giờ 2 4 phút ]
+
+(đứng được cao, nước tiểu xa)
+
+Cái này ba tấm liền là Wenresa tuôn ra bản vẽ, tất cả đều thuộc về bảng trắng phổ thông kiến trúc bản vẽ.
+
+Tông Thận trước học tập lại nói.
+
+Sau đó, còn có đảo giữa hồ thăm dò có được những kiến trúc kia bản vẽ.
+
+[1 giai chướng ngại vật trên đường kiến tạo bản vẽ ]
+
+【  phẩm chất: Nhân loại bình thường kiến trúc ]
+
+【  nhu cầu: Vật liệu gỗ ×35, dây gai ×3 ]
+
+【  kích thước: 1.5 mét cao × dài 3 mét ]
+
+【  kiên cố giá trị: 600 ]
+
+【  kiến trúc hộ giáp: 10 ]
+
+【  có thể cấu trúc lâm thời phòng ngự trận tuyến hoặc là dùng để phủ kín con đường ]
+
+【  tu kiến thời gian: 2 4 phút ]
+
+(dùng để chắn địa huyệt, lại so với tường thành càng lợi ích thực tế)
+
+[2 giai nguyên tố tiễn tháp kiến tạo bản vẽ ]
+
+【  phẩm chất: Tinh lương (lục sắc) ]
+
+【  nhu cầu: Tảng đá ×100, sắt ×45, gỗ ×120, dây gai ×18, sơ cấp nguyên tố kết tinh ×12 ]
+
+【  chiếm diện tích: 15 mét vuông ]
+
+【  độ cao: 1 8 mét ]
+
+【  tầm bắn: 7 50 m ]
+
+【  đâm xuyên tổn thương: 90~96 ]
+
+【  tốc độ công kích: 3 giây ]
+
+【  mỗi lần công kích có 10% xác suất bổ sung 20 điểm ngẫu nhiên nguyên tố tổn thương ]
+
+【  kiên cố giá trị: 2000 ]
+
+【  kiến trúc hộ giáp: 10 ]
+
+【  cần bao trùm một tòa 1 giai nguyên tố tiễn tháp, mỗi tấm bản vẽ chỉ có thể tu kiến một lần ]
+
+【  tu kiến thời gian: 8 giờ 2 4 phút ]
+
+(1 giai nguyên tố tiễn tháp tiến giai hình, lãnh địa phòng ngự tốt giúp đỡ)
+
+【  giản dị nhà vệ sinh kiến tạo bản vẽ ]
+
+【  phẩm chất: Nhân loại bình thường kiến trúc ]
+
+【  nhu cầu: Vật liệu gỗ ×60, tảng đá ×20, sắt ×10, dây gai ×3 ]
+
+【  chiếm diện tích: 30 mét vuông ]
+
+【  dung nạp nhân số: 6 ]
+
+【  kiên cố giá trị: 500 ]
+
+【  kiến trúc hộ giáp: 8 ]
+
+【  giản dị nhà vệ sinh có thể đem bài tiết vật chuyển hóa làm vô hại công mập ]
+
+【  tu kiến thời gian: 1 giờ 2 4 phút ]
+
+(lãnh địa là nhà ta, vệ sinh dựa vào mọi người, không muốn tại trong bụi cỏ dẫm lên mừng rỡ, xin mau sớm tu kiến)
+
+【  suối nước nóng kiến tạo bản vẽ ]
+
+【  phẩm chất: Tinh lương (lục sắc) ]
+
+【  nhu cầu: Vật liệu gỗ ×120, tảng đá ×80, sắt ×10, sơ cấp hỏa phù văn ×1, sơ cấp nước phù văn ×1 ]
+
+【  chiếm diện tích: 30 mét vuông ]
+
+【  dung nạp nhân số: 8 ]
+
+【  kiên cố giá trị: 900 ]
+
+【  kiến trúc hộ giáp: 10 ]
+
+【  thoải mái dễ chịu suối nước nóng, lâu dài bảo trì 37 độ C, có thể làm dịu mệt nhọc, sạch sẽ thân thể, nguồn nước mỗi ngày sẽ thông qua nước phù văn tiến hành tuần hoàn ]
+
+【  tu kiến thời gian: 6 giờ 2 4 phút ]
+
+(nhanh tắm một cái ngươi kia ba ngày không tẩy chân thúi nha đi)
+
+[3 giai thạch ốc kiến tạo bản vẽ ]
+
+【  phẩm chất: Nhân loại bình thường kiến trúc ]
+
+【  nhu cầu: Tảng đá ×60, gỗ ×25, sắt ×12, dây gai ×5 ]
+
+【  chiếm diện tích: 30 mét vuông ]
+
+【  kiên cố giá trị: 800 ]
+
+【  kiến trúc hộ giáp: 10 ]
+
+【  có thể cung cấp dồn dập, che gió che mưa nghỉ ngơi nơi chốn, phục hồi từ từ HP ]
+
+【  mỗi giờ khôi phục sinh mệnh giá trị 2 ]
+
+【  có thể dung nạp 8 người ]
+
+【  tu kiến thời gian: 1 giờ 48 phút ]
+
+(càng lớn, càng kiên cố, càng mỹ quan hơn thạch ốc)
+
+[2 giai phòng bếp kiến tạo bản vẽ ]
+
+【  phẩm chất: Nhân loại bình thường kiến trúc ]
+
+【  nhu cầu: Vật liệu gỗ ×60, tảng đá ×30, sắt ×10, dây gai ×6 ]
+
+【  chiếm diện tích: 20 mét vuông ]
+
+【  kiên cố giá trị: 600 ]
+
+【  kiến trúc hộ giáp: 10 ]
+
+【  có thể đồng thời chế tác càng nhiều, phẩm chất cao hơn đồ ăn ]
+
+【  tu kiến thời gian: 1 giờ 2 4 phút ]
+
+(cơm nước khiến cho tốt, sinh hoạt tốt đẹp hơn)
+
+【  trinh sát tháp kiến tạo đồ ]
+
+【  phẩm chất: Ưu tú (màu lam) nhân tộc kiến trúc ]
+
+【  nhu cầu: Trinh sát tháp kiến tạo đồ ×1 ]
+
+【  hoàn chỉnh kiến trúc, không cần tốn hao vật liệu liền có thể kiến tạo, mời lựa chọn một khối khu vực cất đặt ]
+
+【  chiếm diện tích: 20 mét vuông ]
+
+【  độ cao: 3 2 m ]
+
+【  kiên cố giá trị: 1500 ]
+
+【  kiến trúc hộ giáp: 15 ]
+
+【  tác dụng phạm vi: Phương viên 1000 m ]
+
+【  trinh sát tháp có thể trinh sát phạm vi bên trong tiềm hành cùng ẩn nấp mục tiêu, khóa chặt phạm vi bên trong địch nhân, là lãnh địa phòng ngự kiến trúc tiến hành mục tiêu chỉ dẫn ]
+
+【  tu kiến thời gian: 10 phút ]
+
+(trinh sát tháp có được chân thị chi nhãn, có thể phát hiện ý đồ tiềm hành tiến doanh địa mục tiêu)
+
+【  khoáng thạch tinh luyện nhà máy kiến tạo đồ ]
+
+【  phẩm chất: Ưu tú (màu lam) nhân tộc kiến trúc ]
+
+【  nhu cầu: Khoáng thạch tinh luyện nhà máy kiến tạo đồ ×1 ]
+
+【  hoàn chỉnh kiến trúc, không cần tốn hao vật liệu liền có thể kiến tạo, mời lựa chọn một khối khu vực cất đặt ]
+
+【  chiếm diện tích: 120 mét vuông ]
+
+【  kiên cố giá trị: 1800 ]
+
+【  kiến trúc hộ giáp: 20 ]
+
+【  đi ngược chiều hái ra khoáng thạch tiến hành tinh luyện, các loại khoáng vật sản xuất suất gia tăng 20% ]
+
+【  tu kiến thời gian: 15 phút chuông ]
+
+(khai thác mỏ nguyên bộ kiến trúc, chân chính trong nhà có mỏ)
+
+Tông Thận đều là thống nhất trước học xong lại nói, tiết kiệm một chút không gian trữ vật
+
+Những bản vẽ này bên trong, trinh sát tháp cùng tinh luyện nhà máy đều là hoàn chỉnh kiến trúc, không cần vật liệu, kiến trúc thời gian cũng ngắn.
+
+Hiện tại, còn thừa lại chân chính áp trục bản vẽ, đó chính là từ vứt bỏ tổ rồng bạch ngân bảo rương bên trong thu hoạch được hai tấm hi hữu cấp bản vẽ.
+
+【  ma pháp điện đường kiến tạo đồ ]
+
+【  phẩm chất: Hi hữu (tử sắc) đặc thù pháp sư kiến trúc ]
+
+【  nhu cầu: Ma pháp điện đường kiến tạo đồ ×1 ]
+
+【  hoàn chỉnh kiến trúc, không cần tốn hao vật liệu liền có thể kiến tạo, mời lựa chọn một khối khu vực cất đặt ]
+
+【  chiếm diện tích: 500 mét vuông ]
+
+【  độ cao: 1 2 m ]
+
+【  kiên cố giá trị: 3800 ]
+
+【  kiến trúc hộ giáp: 35 ]
+
+【  ma pháp điện đường là các pháp sư chỗ tu luyện, nội bộ thiết trí một gian ma pháp phòng, mười gian phòng minh tưởng
+
+Ma pháp phòng: Cách mỗi 72 giờ ngẫu nhiên đổi mới ra một bản ma pháp sách kỹ năng
+
+Phòng minh tưởng: Minh tưởng 24 giờ có thể đề cao 10 MP hạn mức cao nhất, 1 điểm trí tuệ thuộc tính, 1 điểm ma pháp tổn thương, căn cứ tư chất khác biệt, minh tưởng tu luyện hạn mức cao nhất cũng khác biệt
+
+Cách mỗi 168 giờ có thể mượn nhờ ma pháp điện đường một lần phát động tứ giai ngẫu nhiên quần thể ma pháp ]
+
+【  tu kiến thời gian: 30 phút đồng hồ ]
+
+(pháp gia môn yêu nhất, lãnh địa ma pháp tương lai)
+
+【  Cự Lang Chi Sào kiến tạo bản vẽ ]
+
+【  phẩm chất: Hi hữu (tử sắc) đặc thù dã thú kiến trúc ]
+
+【  nhu cầu: Bí ngân ×40, trung cấp ma văn thạch ×25, trung cấp mộc phù văn ×3, trung cấp nguyên tố kết tinh ×8, hoàn chỉnh tử sắc linh hồn ×1, sói máu 5000 Ml ]
+
+【  chiếm diện tích: 380 mét vuông ]
+
+【  độ cao: 9 m ]
+
+【  kiên cố giá trị: 2800 ]
+
+【  kiến trúc hộ giáp: 25 ]
+
+【  mỗi 168 giờ đều có thể chiêu mộ một lần chiếm dụng 1 điểm thống ngự giá trị tam giai cự lang, số lượng 5/5 ]
+
+【  tu kiến thời gian: 1 ngày 14 giờ 2 4 phút ]
+
+(cường đại tam giai cự lang, Lang kỵ binh cự lang tiến giai phiên bản)
+
+(tấu chương xong).

@@ -1,0 +1,76 @@
+{
+  "id": 100358,
+  "name": "Vô Thượng Sát Thần",
+  "slug": "vo-thuong-sat-than",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/vo-thuong-sat-than",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 10340503,
+  "latest_chapter": 14059347,
+  "latest_index": 5515,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/vo-thuong-sat-than/default.jpg?1585205565",
+    "600": "https://static.cdnno.com/poster/vo-thuong-sat-than/600.jpg?1585205565",
+    "300": "https://static.cdnno.com/poster/vo-thuong-sat-than/300.jpg?1585205565",
+    "150": "https://static.cdnno.com/poster/vo-thuong-sat-than/150.jpg?1585205565"
+  },
+  "synopsis": "Cái gì là thiên tài? Vô luận bất luận cái gì chiến kỹ, công pháp đều có thể hoàn toàn lĩnh ngộ, cái này liền là thiên tài chân chính! \n\nTiêu Phàm mang theo Thần Bí Thạch Đầu trọng sinh Chiến Hồn Đại Lục, thức tỉnh kỳ dị chiến hồn, Nhất Đại Sát Thần, đột nhiên xuất hiện, ai dám tranh phong? \n\nVì hồng nhan, hắn có thể huyết nhuộm thanh thiên, thẳng lên cửu tiêu ôm minh nguyệt. Vì huynh đệ, hắn có thể đồ thi trăm vạn, dám cho thiên địa biến hoang tàn!\n\n๖ۣۜThanh ๖ۣۜPhong tất chúc tinh phẩm... Huynh đệ tỷ muội 500 anh em đâu, ủng hộ nào... /dap /dap\n\n1/9 ra chương...",
+  "vote_count": 6379,
+  "review_score": "4.791",
+  "review_count": 72,
+  "comment_count": 1310,
+  "chapter_count": 5515,
+  "view_count": 0,
+  "word_count": 14611805,
+  "created_at": "2021-07-01T07:49:11.000000Z",
+  "updated_at": "2026-02-16T13:54:11.000000Z",
+  "new_chap_at": "2021-10-06T15:11:48.000000Z",
+  "published_at": "2021-07-01T07:49:11.000000Z",
+  "published": 1,
+  "user_id": 1000065,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Vô Thượng Sát Thần",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 4159,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000065,
+    "name": "KiếmTiềnMuaSữa",
+    "avatar": [
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/200.jpg?1769515356",
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/100.jpg?1769515356",
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/50.jpg?1769515356"
+    ],
+    "level": 2,
+    "exp": 456,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 336,
+    "name": "Tà Tâm Vị Mẫn",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

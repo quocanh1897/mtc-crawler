@@ -1,0 +1,96 @@
+{
+  "id": 142310,
+  "name": "Trường Sinh Tu Tiên, Từ Vẽ Phù Bắt Đầu",
+  "slug": "truong-sinh-tu-tien-tu-ve-phu-bat-dau",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/truong-sinh-tu-tien-tu-ve-phu-bat-dau",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 22699049,
+  "latest_chapter": 26886618,
+  "latest_index": 956,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/truong-sinh-tu-tien-tu-ve-phu-bat-dau/default.jpg?1757525670",
+    "600": "https://static.cdnno.com/poster/truong-sinh-tu-tien-tu-ve-phu-bat-dau/600.jpg?1757525670",
+    "300": "https://static.cdnno.com/poster/truong-sinh-tu-tien-tu-ve-phu-bat-dau/300.jpg?1757525670",
+    "150": "https://static.cdnno.com/poster/truong-sinh-tu-tien-tu-ve-phu-bat-dau/150.jpg?1757525670"
+  },
+  "synopsis": "[Phàm nhân lưu, độ thuần thục, vững vàng, chính trực tam quan thường]\n\nLâm Trường An xuyên qua tiên hiệp thế giới, trở thành một tên tiên môn không được chọn tán tu.\n\nKhổ tu hai mươi năm, nản lòng thoái chí chuẩn bị trở về phàm tục hưởng thụ nhân gian phú quý lúc, đã thức tỉnh độ thuần thục bảng.\n\nChỉ cần dụng tâm chăm học khổ luyện, cố gắng tất có tạo thành.\n\nNhất chứng vĩnh chứng!\n\nTừ giờ trở đi, hắn chính là họa phù Tông sư.\n\n……\n\n“Tu tiên giới, linh căn mặc dù chênh lệch, nhưng cũng có tu tiên bách nghệ, cái này ngộ chữ không biết sáng tạo ra nhiều ít truyền kỳ tu sĩ, năm trăm năm đến kinh diễm nhất người, không ai qua được hạ phẩm linh căn xuất thân Thanh Mộc Chân Quân.”\n\nNghe tu tiên giới lưu truyền rộng rãi truyền thuyết, Lâm Trường An không khỏi bùi ngùi mãi thôi.\n\n“Ta cả đời này như giẫm trên băng mỏng, toàn bộ nhờ thiên phú mới đi tới đến nay.”\n\n……\n\nThời gian luân chuyển, kỷ nguyên thay đổi, chứng kiến thương hải tang điền, bất tri bất giác, hắn đã đứng sừng sững tiên đạo chi đỉnh, thiên địa đồng thọ, nhật nguyệt đồng huy.",
+  "vote_count": 793,
+  "review_score": "4.964",
+  "review_count": 14,
+  "comment_count": 105,
+  "chapter_count": 956,
+  "view_count": 0,
+  "word_count": 2111233,
+  "created_at": "2025-05-15T10:02:16.000000Z",
+  "updated_at": "2026-02-16T13:55:31.000000Z",
+  "new_chap_at": "2026-02-16T00:26:52.000000Z",
+  "published_at": "2025-05-15T10:02:16.000000Z",
+  "published": 1,
+  "user_id": 1231986,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Trường Sinh Tu Tiên, Từ Vẽ Phù Bắt Đầu",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 664,
+  "chapter_per_week": 20,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1231986,
+    "name": "Cầm Tâm",
+    "avatar": [
+      "https://static.cdnno.com/user/91aaaef21e8da885a02f2ac9d3b3dda3/200.jpg?1647436717",
+      "https://static.cdnno.com/user/91aaaef21e8da885a02f2ac9d3b3dda3/100.jpg?1647436717",
+      "https://static.cdnno.com/user/91aaaef21e8da885a02f2ac9d3b3dda3/50.jpg?1647436717"
+    ],
+    "level": 1,
+    "exp": 38,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 23649,
+    "name": "Giáo Tử Nhất Oản",
+    "avatar": null,
+    "local_name": "饺子一碗",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 5,
+      "name": "Nhẹ Nhàng",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 25,
+      "name": "Cổ Điển Tiên Hiệp",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 61,
+      "name": "Phàm Nhân",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

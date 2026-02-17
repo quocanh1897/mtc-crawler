@@ -1,0 +1,77 @@
+{
+  "id": 100383,
+  "name": "Vũ Luyện Điên Phong",
+  "slug": "vu-luyen-dien-phong",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/vu-luyen-dien-phong",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 10379240,
+  "latest_chapter": 14026066,
+  "latest_index": 6009,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/vu-luyen-dien-phong/default.jpg?1585205579",
+    "600": "https://static.cdnno.com/poster/vu-luyen-dien-phong/600.jpg?1585205579",
+    "300": "https://static.cdnno.com/poster/vu-luyen-dien-phong/300.jpg?1585205579",
+    "150": "https://static.cdnno.com/poster/vu-luyen-dien-phong/150.jpg?1585205579"
+  },
+  "synopsis": "Dương Khai đệ tử thí luyện của Lăng Tiêu Các, kiêm gã quét rác, sai vặt, vì vô tình mặt được một cuốn Hắc thư thần bí, từ đó bước vào con đường võ đạo dài đằng đẵng.”\nVì sao mà một tên quét rác lại có thể thành anh hùng trứ danh thiên hạ, vì sao mà một tên hàu sai vặt lại chiếm được những mỹ nữ sắc nước hương trời trong thiên hạ???Ai đã đọc Vô Thường của Mạc Mặc thì không thể bỏ qua tác phẩm này. Tác giả viết ngày càng lên tay.",
+  "vote_count": 23583,
+  "review_score": "4.852",
+  "review_count": 214,
+  "comment_count": 16002,
+  "chapter_count": 6003,
+  "view_count": 0,
+  "word_count": 24548608,
+  "created_at": "2020-03-26T06:52:59.000000Z",
+  "updated_at": "2026-02-16T09:53:35.000000Z",
+  "new_chap_at": "2021-09-25T00:01:02.000000Z",
+  "published_at": "2020-03-26T06:52:59.000000Z",
+  "published": 1,
+  "user_id": 1000015,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Vũ Luyện Điên Phong",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 7509,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000015,
+    "name": "DarkHero",
+    "avatar": [
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/200.jpg?1592316927",
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/100.jpg?1592316927",
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/50.jpg?1592316927"
+    ],
+    "level": 4,
+    "exp": 3484,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 354,
+    "name": "Mạc Mặc",
+    "avatar": null,
+    "local_name": "莫默",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

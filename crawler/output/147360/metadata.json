@@ -1,0 +1,90 @@
+{
+  "id": 147360,
+  "name": "Chư Thiên Lãnh Chúa",
+  "slug": "chu-thien-lanh-chua",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/chu-thien-lanh-chua",
+  "note": "https://tiemtruyenchu.com/\n\nMình sẽ tạm hoạt động ở đây",
+  "status_name": "Còn tiếp",
+  "first_chapter": 24562636,
+  "latest_chapter": 26886776,
+  "latest_index": 441,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/chu-thien-lanh-chua/default.jpg?1761105652",
+    "600": "https://static.cdnno.com/poster/chu-thien-lanh-chua/600.jpg?1761105652",
+    "300": "https://static.cdnno.com/poster/chu-thien-lanh-chua/300.jpg?1761105652",
+    "150": "https://static.cdnno.com/poster/chu-thien-lanh-chua/150.jpg?1761105652"
+  },
+  "synopsis": "\"Đích! Nhất tinh nông phu thẻ!\"\n\n\t\"Khóa lại tấm thẻ này, nhưng chuyển chức làm thực tập nông phu, cũng thu hoạch được chức nghiệp thiên phú —— chỗ trồng trọt thổ địa phì nhiêu độ bị động gia tăng 30%!\"\n\n\t——\n\n\t\"Đích! Nhất tinh thợ săn thẻ!\"\n\n\t\"Khóa lại tấm thẻ này, nhưng chuyển chức làm thực tập thợ săn, cũng thu hoạch được chức nghiệp thiên phú —— sử dụng vũ khí tầm xa độ chính xác bị động gia tăng 30%!\"\n\n\t——\n\n\tTập hợp đủ chín cái cơ sở thẻ, nhưng trở thành chư thiên lãnh chúa, cướp đoạt vạn giới!",
+  "vote_count": 5764,
+  "review_score": "4.998",
+  "review_count": 44,
+  "comment_count": 480,
+  "chapter_count": 437,
+  "view_count": 0,
+  "word_count": 1092324,
+  "created_at": "2025-09-08T09:45:21.000000Z",
+  "updated_at": "2026-02-16T15:45:38.000000Z",
+  "new_chap_at": "2026-02-16T03:54:04.000000Z",
+  "published_at": "2025-09-08T09:45:21.000000Z",
+  "published": 1,
+  "user_id": 1000065,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Chư Thiên Lãnh Chúa",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1419,
+  "chapter_per_week": 16,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000065,
+    "name": "KiếmTiềnMuaSữa",
+    "avatar": [
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/200.jpg?1769515356",
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/100.jpg?1769515356",
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/50.jpg?1769515356"
+    ],
+    "level": 2,
+    "exp": 456,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 958,
+    "name": "Lại Điểu",
+    "avatar": null,
+    "local_name": "懒鸟",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 5,
+      "name": "Nhẹ Nhàng",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 12,
+      "name": "Dị Thế Đại Lục",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

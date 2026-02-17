@@ -1,0 +1,96 @@
+{
+  "id": 144657,
+  "name": "Gia Tộc Tu Tiên, Ta Có Một Viên Phá Cảnh Châu",
+  "slug": "gia-toc-tu-tien-ta-co-mot-vien-pha-canh-chau",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/gia-toc-tu-tien-ta-co-mot-vien-pha-canh-chau",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 23556086,
+  "latest_chapter": 26887755,
+  "latest_index": 752,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/gia-toc-tu-tien-ta-co-mot-vien-pha-canh-chau/default.jpg?1765448854",
+    "600": "https://static.cdnno.com/poster/gia-toc-tu-tien-ta-co-mot-vien-pha-canh-chau/600.jpg?1765448854",
+    "300": "https://static.cdnno.com/poster/gia-toc-tu-tien-ta-co-mot-vien-pha-canh-chau/300.jpg?1765448854",
+    "150": "https://static.cdnno.com/poster/gia-toc-tu-tien-ta-co-mot-vien-pha-canh-chau/150.jpg?1765448854"
+  },
+  "synopsis": "Cửu Nghi giới, nhân yêu san sát, yêu ma đồng thời lên, hỗn chiến không ngớt! \n\nTrương Hoài Cẩn xuyên qua mà đến, chuyển thế đầu thai tại Lang Gia huyện một cái Luyện Khí gia tộc. \n\nCon đường tu tiên, vô cùng tàn khốc. \n\nMỗi cái cảnh giới ở giữa ràng buộc, tựa như lạch trời, khó như lên trời. \n\nKhông biết có bao nhiêu thiên kiêu anh hào, tại cảnh giới ràng buộc trước mặt ảm đạm tọa hóa, lưu lại vô tận không cam lòng. \n\nTrương Hoài Cẩn thân kiêm Phá Cảnh châu, chỉ cần có đầy đủ tài nguyên, liền có thể không nhìn cảnh giới ràng buộc, không ngừng đột phá. \n\nTu sĩ cảnh giới ràng buộc, tại trước mặt nó, không có bất kỳ cái gì ngăn cản. \n\nTrúc Cơ đan? Không cần\n\nTử Dương ngọc, đó là vật gì?\n\n Nguyên Anh đan, mặc dù ta không cần, nhưng có thể để lại cho gia tộc! \n\nTrương Hoài Cẩn ba tu đồng thể, đúc thành bất thế nội tình, hoành áp đương thời, dẫn đầu gia tộc quật khởi. \n\nTừng bước một, từ nhược tiểu nhất Luyện Khí gia tộc, trở thành sừng sững Tiên giới bất hủ Tiên tộc.",
+  "vote_count": 906,
+  "review_score": "5.000",
+  "review_count": 8,
+  "comment_count": 61,
+  "chapter_count": 752,
+  "view_count": 0,
+  "word_count": 1262019,
+  "created_at": "2025-07-05T15:36:47.000000Z",
+  "updated_at": "2026-02-17T00:51:44.000000Z",
+  "new_chap_at": "2026-02-16T09:12:46.000000Z",
+  "published_at": "2025-07-05T15:36:47.000000Z",
+  "published": 1,
+  "user_id": 1000020,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Gia Tộc Tu Tiên, Ta Có Một Viên Phá Cảnh Châu",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 880,
+  "chapter_per_week": 21,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000020,
+    "name": "Vô Ưu",
+    "avatar": [
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/200.jpg?1635993328",
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/100.jpg?1635993328",
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/50.jpg?1635993328"
+    ],
+    "level": 3,
+    "exp": 1649,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 20504,
+    "name": "Tam Thiên Di Hám",
+    "avatar": null,
+    "local_name": "三千遗憾",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 4,
+      "name": "Thiết Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}
