@@ -1,0 +1,76 @@
+{
+  "id": 101394,
+  "name": "Đại Sư Cứu Mạng",
+  "slug": "dai-su-cuu-mang",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/dai-su-cuu-mang",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11484158,
+  "latest_chapter": 12288168,
+  "latest_index": 254,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/dai-su-cuu-mang/default.jpg?1585206128",
+    "600": "https://static.cdnno.com/poster/dai-su-cuu-mang/600.jpg?1585206128",
+    "300": "https://static.cdnno.com/poster/dai-su-cuu-mang/300.jpg?1585206128",
+    "150": "https://static.cdnno.com/poster/dai-su-cuu-mang/150.jpg?1585206128"
+  },
+  "synopsis": "Tiêu Soái ban đầu chỉ muốn cho người ta xử lý chút việc, thuận tiện xem xem phong thủy, phá phá sát khí kiếm chút tiền.\n\nKết quả từ khi khóa lại cái này có khả năng cho đồ vật phát ra ánh sáng \"Bệnh đau mắt hệ thống\" về sau, sinh hoạt tiết tấu liền triệt để bị làm rối loạn.\n\nBệnh đau mắt là một thuật ngữ mạng hiện nay bên trung, đại ý là chỉ nhưng người đố kị, ghen ghét với người khác tới mắt đỏ, bên trung dùng từ rất nhiều thay cho chửi ghen ăn tức ở.\n\nThần Ky Đường Hồng Đậu sách mới.",
+  "vote_count": 7,
+  "review_score": "4.850",
+  "review_count": 2,
+  "comment_count": 4,
+  "chapter_count": 254,
+  "view_count": 0,
+  "word_count": 965594,
+  "created_at": "2020-03-26T07:02:08.000000Z",
+  "updated_at": "2026-02-16T13:45:43.000000Z",
+  "new_chap_at": "2019-02-26T14:00:22.000000Z",
+  "published_at": "2020-03-26T07:02:08.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Đại Sư Cứu Mạng",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 61,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1189,
+    "name": "Thần Ky Đường Hồng Đậu",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 6,
+      "name": "Đô Thị",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

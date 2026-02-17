@@ -1,0 +1,76 @@
+{
+  "id": 101354,
+  "name": "Huyền Giới Công Ty Du Lịch",
+  "slug": "huyen-gioi-cong-ty-du-lich",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/huyen-gioi-cong-ty-du-lich",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11456548,
+  "latest_chapter": 12280428,
+  "latest_index": 979,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/huyen-gioi-cong-ty-du-lich/default.jpg?1585206107",
+    "600": "https://static.cdnno.com/poster/huyen-gioi-cong-ty-du-lich/600.jpg?1585206107",
+    "300": "https://static.cdnno.com/poster/huyen-gioi-cong-ty-du-lich/300.jpg?1585206107",
+    "150": "https://static.cdnno.com/poster/huyen-gioi-cong-ty-du-lich/150.jpg?1585206107"
+  },
+  "synopsis": "Tìm việc làm thất bại, suốt đêm uống ừng ực, kết quả lại ngộ nhập chuyên môn phục vụ tại tu sĩ huyền giới cơ quan du lịch!\n\nBất quá, vị tiền bối này làm sao nhìn qua có chút là lạ, ngươi tại sao có thể có mèo lỗ tai đâu? Chờ một chút, ngươi vì cái gì sẽ còn đối mèo bạc hà nhạy cảm như vậy đâu?\n\nA, đừng hướng trên người của ta cọ nha ~~ nam nữ thụ thụ bất thân a ~~\n\nTác giả định nghĩa nội dung: Manh sủng, nhàn nhã lưu.",
+  "vote_count": 1,
+  "review_score": "4.909",
+  "review_count": 2,
+  "comment_count": 3,
+  "chapter_count": 979,
+  "view_count": 0,
+  "word_count": 2923344,
+  "created_at": "2020-03-26T07:01:47.000000Z",
+  "updated_at": "2026-02-16T13:46:13.000000Z",
+  "new_chap_at": "2018-09-14T07:00:00.000000Z",
+  "published_at": "2020-03-26T07:01:47.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Huyền Giới Công Ty Du Lịch",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 81,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 710,
+    "name": "Cao Sâm",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

@@ -201,6 +201,9 @@ def worker(device: str, books: list[dict], result_queue: multiprocessing.Queue):
     Each worker is a separate process with its own grab_book module state,
     so there are no shared globals to worry about.
     """
+    import sys
+    sys.stdout.reconfigure(line_buffering=True)
+
     # Import and configure grab_book for this device
     from grab_book import (
         set_device, search_book_api, launch_app,
@@ -369,11 +372,12 @@ def main():
         print(f"{'='*60}")
         return
 
-    # Spawn 2 worker processes
-    result_queue = multiprocessing.Queue()
-    p1 = multiprocessing.Process(
+    # Spawn 2 worker processes (use 'fork' so children inherit stdout)
+    ctx = multiprocessing.get_context('fork')
+    result_queue = ctx.Queue()
+    p1 = ctx.Process(
         target=worker, args=(DEVICES[0], queue1, result_queue))
-    p2 = multiprocessing.Process(
+    p2 = ctx.Process(
         target=worker, args=(DEVICES[1], queue2, result_queue))
 
     print("\n  Starting workers...")

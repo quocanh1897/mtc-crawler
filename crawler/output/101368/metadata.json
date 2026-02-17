@@ -1,0 +1,76 @@
+{
+  "id": 101368,
+  "name": "Hoan Nghênh Đi Vào Boss Đội",
+  "slug": "hoan-nghenh-di-vao-boss-doi",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/hoan-nghenh-di-vao-boss-doi",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11467154,
+  "latest_chapter": 12281236,
+  "latest_index": 554,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/hoan-nghenh-di-vao-boss-doi/default.jpg?1585206115",
+    "600": "https://static.cdnno.com/poster/hoan-nghenh-di-vao-boss-doi/600.jpg?1585206115",
+    "300": "https://static.cdnno.com/poster/hoan-nghenh-di-vao-boss-doi/300.jpg?1585206115",
+    "150": "https://static.cdnno.com/poster/hoan-nghenh-di-vao-boss-doi/150.jpg?1585206115"
+  },
+  "synopsis": "Ta gọi Âu Dương Tĩnh, người xuyên việt, từng dùng tên: Âu Dương Khắc.\n\nBởi vì xuyên qua quan hệ, ta biết rất nhiều bí mật. Cho nên ta chẳng những đã luyện thành Cáp Mô công, còn đã luyện thành Cửu Dương Thần Công, Trọng Kiếm kiếm pháp. Hiện tại ta rốt cục thần công đại thành, chuẩn bị đi đảo Đào hoa cầu hôn, cảm giác mình sắp đi đến nhân sinh đỉnh phong.\n\nNhưng mà tuyệt đối không nghĩ tới, cái thế giới này, lại có thể là \"Luân hồi\" khống kịch dưới nội dung cốt truyện thế giới!\n\nLuân hồi giả nhóm tới, ta có thần công, bọn hắn có khoa học! Cầm trong tay Ak AWM RPG, còn Tháp Mã biết ma pháp!\n\nHiện tại, Hoàng Dược Sư đã ngã xuống bên dưới luân hồi giả súng ngắm, mà Tiểu Hoàng Dung cũng nguy cơ sớm tối. Vì cưa gái, càng vì hơn không bị luân hồi giả thu hoạch, ta quyết định phấn khởi phản kích!\n\nTác giả định nghĩa nội dung: Vị Diện, Mạnh Mẽ, Vô Hạn lưu",
+  "vote_count": 0,
+  "review_score": "4.955",
+  "review_count": 1,
+  "comment_count": 4,
+  "chapter_count": 554,
+  "view_count": 0,
+  "word_count": 1857653,
+  "created_at": "2020-03-26T07:01:55.000000Z",
+  "updated_at": "2026-02-16T13:46:17.000000Z",
+  "new_chap_at": "2019-01-26T15:00:08.000000Z",
+  "published_at": "2020-03-26T07:01:55.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Hoan Nghênh Đi Vào Boss Đội",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 53,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 889,
+    "name": "L Cổ Đinh",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 7,
+      "name": "Đồng Nhân",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

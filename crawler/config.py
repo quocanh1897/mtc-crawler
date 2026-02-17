@@ -1,5 +1,5 @@
 BASE_URL = "https://android.lonoapp.net"
-BEARER_TOKEN = "7045826|W0GmBOqfeWO0wWZUD7QpikPjvMsP1tq7Ayjq48pX"
+BEARER_TOKEN = "7050589|YnIYK76km8VCVjbiDFORxh1e8fbYPkXocCGpOefI"
 
 REQUEST_DELAY = 1.5  # seconds between requests
 MAX_RETRIES = 3

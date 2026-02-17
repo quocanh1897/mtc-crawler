@@ -1,0 +1,76 @@
+{
+  "id": 101370,
+  "name": "Dragon Ball Chi Siêu Cấp Tiên Đậu",
+  "slug": "dragon-ball-chi-sieu-cap-tien-dau",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/dragon-ball-chi-sieu-cap-tien-dau",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11468304,
+  "latest_chapter": 11468533,
+  "latest_index": 230,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/dragon-ball-chi-sieu-cap-tien-dau/default.jpg?1585206116",
+    "600": "https://static.cdnno.com/poster/dragon-ball-chi-sieu-cap-tien-dau/600.jpg?1585206116",
+    "300": "https://static.cdnno.com/poster/dragon-ball-chi-sieu-cap-tien-dau/300.jpg?1585206116",
+    "150": "https://static.cdnno.com/poster/dragon-ball-chi-sieu-cap-tien-dau/150.jpg?1585206116"
+  },
+  "synopsis": "Có nguyên một thế hệ là nhìn xem 《 Ngọc Rồng 》 mà lớn lên, ở trong quá nhiều danh từ bị in dấu thật sâu ấn tiến vào trong đầu của bọn hắn: Rồng Thiêng, Đại Hội Luận Võ, Sóng Xung Kích, sức chiến đấu, Siêu Xayda, Hợp Thể thuật. . .\n\nBản này đồng nhân cũng là bởi vì những này thời gian lâu không tiêu tan, ngược lại càng rõ ràng hồi ức mà viết:\n\nVì cái gì đậu tiên lần thứ nhất xuất hiện chỉ có thể đỡ đói, lần thứ hai sau khi xuất hiện liền có thể chữa trị thương thế?\n\nBình thường người Địa Cầu không có Saiyan huyết mạch, không cách nào theo sắp chết trạng thái khôi phục lại như người bình thường sau sức chiến đấu tăng vọt, làm sao đối mặt cường địch?\n\nFide bị Goku đánh bại về sau, \"Saddam\" huynh đệ bên trong có người trước đến địa cầu trả thù, người Địa Cầu phải làm thế nào ứng đối?\n\n. . .\n\nĐể cho chúng ta cùng một chỗ trở lại Ngọc Rồng thế giới, đi ôn lại mỹ hảo ngày cũ thời gian đi!\n\nNếu như sinh hoạt gian khổ đã để ngươi không có năm đó truy Ngọc Rồng kích tình, không có quan hệ, tới hạt siêu cấp đậu tiên đi, nó sẽ để cho ngươi đầy máu phục sinh!\n\nTác giả định nghĩa nội dung: Nhiệt huyết, nhẹ nhàng.",
+  "vote_count": 1,
+  "review_score": "4.958",
+  "review_count": 1,
+  "comment_count": 5,
+  "chapter_count": 230,
+  "view_count": 0,
+  "word_count": 659972,
+  "created_at": "2020-03-26T07:01:56.000000Z",
+  "updated_at": "2026-02-16T13:46:39.000000Z",
+  "new_chap_at": "2018-04-06T09:00:29.000000Z",
+  "published_at": "2020-03-26T07:01:56.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Dragon Ball Chi Siêu Cấp Tiên Đậu",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 58,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1177,
+    "name": "Đông Môn Quán Thủy",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 7,
+      "name": "Đồng Nhân",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

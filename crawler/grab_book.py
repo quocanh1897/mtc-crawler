@@ -37,7 +37,7 @@ DEVICE = "emulator-5554"
 PACKAGE = "com.novelfever.app.android.debug"
 ACTIVITY = "com.example.novelfeverx.MainActivity"
 OUTPUT_DIR = "output"
-MAX_SEARCH_WORDS = 4
+MAX_SEARCH_WORDS = 8
 SEARCH_ICON = (882, 122)
 SEARCH_FIELD = (350, 68)
 

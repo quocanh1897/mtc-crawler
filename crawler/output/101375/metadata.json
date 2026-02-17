@@ -1,0 +1,77 @@
+{
+  "id": 101375,
+  "name": "Tù Trưởng Đừng Đánh Mặt",
+  "slug": "tu-truong-dung-danh-mat",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/tu-truong-dung-danh-mat",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11471230,
+  "latest_chapter": 12281816,
+  "latest_index": 494,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tu-truong-dung-danh-mat/default.jpg?1585206118",
+    "600": "https://static.cdnno.com/poster/tu-truong-dung-danh-mat/600.jpg?1585206118",
+    "300": "https://static.cdnno.com/poster/tu-truong-dung-danh-mat/300.jpg?1585206118",
+    "150": "https://static.cdnno.com/poster/tu-truong-dung-danh-mat/150.jpg?1585206118"
+  },
+  "synopsis": "Bắt đầu một cái tiểu la lỵ, ngươi để cho ta làm sao thắng? Kém nhất cũng cho một con chó a? Cái gì? Địch quân Chủ Tể tháp hoàn thành? Đi, hủy đi tháp ngược suối!\n\nĐịa Cầu sau thời đại văn minh, nguyên khí bùng nổ, mỗi một loại dòng họ, đều là một loại đồ đằng, đều có thể kích hoạt một loại huyết mạch lực lượng!\n\nHọ Hạ, đồ đằng Huyền Điểu Triều Nhật, huyết mạch chi lực làm Lưu Kim Tự Hỏa, đánh đông dẹp tây!\n\nHọ Tào, đồ đằng Kiến Mộc Đồng Tước, huyết mạch chi lực làm Nhật Xuất Thang Cốc, tung hoành Bát Hoang!\n\nChư họ đại chiến, trật tự đúc lại, mà ngươi cuối cùng rồi sẽ lên ngôi vua!\n\nTa thật tốt một cái nữ anh hùng, làm sao lại thành bí thư? Không cho ta đi GANK, đi đại sát đặc sát, lương tâm của ngươi sẽ không đau không?\n\nCó ta ở đây, ngươi toàn trường tốt nhất? Không tồn tại!\n\nĐã nói xong một vs năm đâu? Đã nói xong thần trang đi ra ngoài đâu? Ngươi cho ta một lần kiếm mẻ làm sao tú lật toàn trường?\n\nMột cái Hamburger liền có thể lừa gạt một cái nữ anh hùng thời đại đến rồi? Mau đỡ ta, ta có một nhà Hamburger cửa hàng.\n\nÂu hoàng ghê gớm nha , chờ bản tù trưởng tích lũy đủ 100 cái nữ anh hùng, cái thứ nhất ngược chết ngươi!",
+  "vote_count": 0,
+  "review_score": "5.000",
+  "review_count": 1,
+  "comment_count": 2,
+  "chapter_count": 494,
+  "view_count": 0,
+  "word_count": 1916556,
+  "created_at": "2020-03-26T07:01:58.000000Z",
+  "updated_at": "2026-02-16T13:46:59.000000Z",
+  "new_chap_at": "2018-12-30T04:00:18.000000Z",
+  "published_at": "2020-03-26T07:01:58.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Tù Trưởng Đừng Đánh Mặt",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 34,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1180,
+    "name": "Tương Tư Tẩy Hồng Đậu",
+    "avatar": null,
+    "local_name": "相思洗红豆",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}
