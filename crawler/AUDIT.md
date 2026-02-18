@@ -1,20 +1,20 @@
 # Book Download Audit
 
-Generated: 2026-02-18 20:10
+Generated: 2026-02-18 21:08
 
 ## Summary
 
 | Status               |   Books | Chapters saved |
 | -------------------- | ------: | -------------: |
-| Done                 |     293 |        296,085 |
+| Done                 |     294 |        297,474 |
 | Partial              |       0 |              0 |
-| Empty folder         |       7 |              0 |
+| Empty folder         |       8 |              0 |
 | Not started          |       0 |              0 |
-| **Total bookmarked** | **300** | **296,085** |
+| **Total bookmarked** | **302** | **297,474** |
 
-Output: 300 folders, 296,085 chapters saved, 6.1GB on disk.
+Output: 302 folders, 297,474 chapters saved, 6.3GB on disk.
 
-## Done (293)
+## Done (294)
 
 |     ID | API Chaps | Saved | Name |
 | -----: | --------: | ----: | ---- |
@@ -75,6 +75,7 @@ Output: 300 folders, 296,085 chapters saved, 6.1GB on disk.
 | 100524 |        -- |  1473 | Trọng Sinh Làm Ma Giáo Giáo Chủ |
 | 124260 |        -- |  1428 | Thỉnh Tiên Sinh Cứu Ta |
 | 101452 |        -- |  1426 | Siêu Thần Sủng Thú Cửa Hàng |
+| 126164 |        -- |  1389 | Trọng Sinh Vú Em Nhàn Nhã Sinh Hoạt |
 | 109334 |        -- |  1361 | Huấn Luyện Gia Tầng Lớp Thấp Nhất Của Thế Giới Pokemon |
 | 125669 |        -- |  1357 | Ta Mở Thật Sự Là Cô Nhi Viện, Không Phải Sát Thủ Đường |
 | 128228 |        -- |  1339 | Đế Quốc Bóng Tối |
@@ -312,14 +313,15 @@ Output: 300 folders, 296,085 chapters saved, 6.1GB on disk.
 | 127016 |        -- |    77 | Mỹ Thực Gia Tại Tu Tiên Giới |
 | 106532 |        -- |    23 | Tiên Võ Đế Tôn |
 
-## Empty Folder (7)
+## Empty Folder (8)
 
 |     ID | API Chaps | Name |
 | -----: | --------: | ---- |
-| 100441 |        -- | Man Hoang: Bộ Lạc Của Ta Mạnh Hơn Một Chút |
-| 101481 |        -- | Bắc Cảnh Nắm Giữ Mười Triệu Binh, Nữ Đế Quỳ Cầu Đừng Tạo Phản |
+| 100441 |        -- | Hồng Mông Thiên Đế |
+| 101481 |        -- | Siêu Thần Chế Tạp Sư |
 | 101486 |        -- | Vô Tận Ma Diễm |
-| 109098 |        -- | Book 109098 |
-| 115282 |        -- | Bắt Đầu Trở Thành Thủ Tọa, Đánh Dấu Cực Đạo Đế Binh! |
-| 122376 |        -- | Book 122376 |
-| 151531 |        -- | Bắt Đầu Thức Tỉnh F Cấp? Ta Có Thể Rút Ra Vạn Vật Thuộc Tính |
+| 109098 |        -- | Si Tình Thánh Nữ Theo Đuổi Tạp Dịch Tông Môn |
+| 115282 |        -- | Cái Này Trời Đẹp Đội Người Chơi Siêu Không Đứng Đắn! |
+| 117590 |        -- | Book 117590 |
+| 122376 |        -- | Cao Võ: Một Bài Hiệp Khách Hành Bắt Đầu Lĩnh Ngộ Thái Huyền Kinh |
+| 151531 |        -- | Hồng Hoang: Ta, Tử Vi Tinh Chủ |

@@ -1,0 +1,102 @@
+{
+  "id": 131184,
+  "name": "Vô Địch Thiên Mệnh",
+  "slug": "vo-dich-thien-menh",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/vo-dich-thien-menh",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 19089788,
+  "latest_chapter": 26890379,
+  "latest_index": 1324,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/vo-dich-thien-menh/default.jpg?1723905095",
+    "600": "https://static.cdnno.com/poster/vo-dich-thien-menh/600.jpg?1723905095",
+    "300": "https://static.cdnno.com/poster/vo-dich-thien-menh/300.jpg?1723905095",
+    "150": "https://static.cdnno.com/poster/vo-dich-thien-menh/150.jpg?1723905095"
+  },
+  "synopsis": "Người nào nói Thiên Mệnh thiên quyết định?\n\n\tMệnh ta do ta không do trời.\n\nCảnh giới: Nhục Thân cảnh, Tiên Thiên cảnh, Chân Pháp cảnh, Vạn Pháp cảnh, Tiểu Kiếp cảnh, Đại Kiếp cảnh, đăng phong tạo cực cảnh, Pháp Tướng cảnh, Tiên Giả cảnh, Chí Tiên cảnh, Tuế Nguyệt Tiên. . .",
+  "vote_count": 3180,
+  "review_score": "4.711",
+  "review_count": 35,
+  "comment_count": 2926,
+  "chapter_count": 1321,
+  "view_count": 0,
+  "word_count": 3107116,
+  "created_at": "2024-08-16T01:06:28.000000Z",
+  "updated_at": "2026-02-18T12:23:44.000000Z",
+  "new_chap_at": "2026-02-18T02:16:56.000000Z",
+  "published_at": "2024-08-16T01:06:28.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Vô Địch Thiên Mệnh",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2231,
+  "chapter_per_week": 16,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 683,
+    "name": "Thanh Phong Loan",
+    "avatar": null,
+    "local_name": "青鸾峰上",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 62,
+      "name": "Vô Địch",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

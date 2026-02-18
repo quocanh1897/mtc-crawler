@@ -90,11 +90,12 @@ class APIClient:
         return self._get(f"/api/chapters/{chapter_id}")
 
     def get_book(self, book_id: int) -> dict:
-        """Fetch book metadata."""
-        data = self._get("/api/books", params={
-            "filter[id]": book_id,
+        """Fetch book metadata via direct ID lookup."""
+        data = self._get(f"/api/books/{book_id}", params={
             "include": "author,creator,genres",
         })
+        if isinstance(data, dict) and "book" in data:
+            return data["book"]
         if isinstance(data, list) and data:
             book = data[0]
             return book.get("book", book)

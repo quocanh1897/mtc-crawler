@@ -1,0 +1,102 @@
+{
+  "id": 126164,
+  "name": "Trọng Sinh Vú Em Nhàn Nhã Sinh Hoạt",
+  "slug": "trong-sinh-vu-em-nhan-nha-sinh-hoat",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/trong-sinh-vu-em-nhan-nha-sinh-hoat",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 17962129,
+  "latest_chapter": 19819147,
+  "latest_index": 1389,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/trong-sinh-vu-em-nhan-nha-sinh-hoat/default.jpg?1713971221",
+    "600": "https://static.cdnno.com/poster/trong-sinh-vu-em-nhan-nha-sinh-hoat/600.jpg?1713971221",
+    "300": "https://static.cdnno.com/poster/trong-sinh-vu-em-nhan-nha-sinh-hoat/300.jpg?1713971221",
+    "150": "https://static.cdnno.com/poster/trong-sinh-vu-em-nhan-nha-sinh-hoat/150.jpg?1713971221"
+  },
+  "synopsis": "Thường niên thức đêm công tác đột tử Tào Thư Kiệt trọng sinh trở lại năm 2011, chán ghét thành thị ồn ào náo động, mang theo lão bà hài tử trở lại nông thôn, bằng vào chính mình nghiên cứu dịch dinh dưỡng, trồng cây ăn quả, làm chăn nuôi, xây biệt thự, thuận tiện dẫn dắt các hương thân làm giàu.\n\nRảnh rỗi không có việc gì, mang khuê nữ câu cá, cùng lão bà cùng nhau dắt chó đi dạo, bồi cha mẹ thừa hoan dưới gối, trải qua người người hâm mộ nông thôn nhàn nhã sinh hoạt.",
+  "vote_count": 86,
+  "review_score": "5.000",
+  "review_count": 2,
+  "comment_count": 44,
+  "chapter_count": 1389,
+  "view_count": 0,
+  "word_count": 4226287,
+  "created_at": "2024-04-24T15:06:40.000000Z",
+  "updated_at": "2026-02-17T17:48:22.000000Z",
+  "new_chap_at": "2024-10-16T23:49:00.000000Z",
+  "published_at": "2024-04-24T15:06:40.000000Z",
+  "published": 1,
+  "user_id": 1231986,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Trọng Sinh Vú Em Nhàn Nhã Sinh Hoạt",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2739,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1231986,
+    "name": "Cầm Tâm",
+    "avatar": [
+      "https://static.cdnno.com/user/91aaaef21e8da885a02f2ac9d3b3dda3/200.jpg?1647436717",
+      "https://static.cdnno.com/user/91aaaef21e8da885a02f2ac9d3b3dda3/100.jpg?1647436717",
+      "https://static.cdnno.com/user/91aaaef21e8da885a02f2ac9d3b3dda3/50.jpg?1647436717"
+    ],
+    "level": 1,
+    "exp": 38,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 13414,
+    "name": "Tân Ba Thụ",
+    "avatar": null,
+    "local_name": "辛巴树",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 6,
+      "name": "Đô Thị",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 27,
+      "name": "Đô Thị Sinh Hoạt",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 66,
+      "name": "Trọng Sinh",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}
