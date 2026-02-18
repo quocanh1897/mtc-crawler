@@ -1,0 +1,90 @@
+{
+  "id": 101666,
+  "name": "Trùng Sinh Chi Đô Thị Cuồng Tiên",
+  "slug": "trung-sinh-chi-do-thi-cuong-tien",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 3,
+  "link": "https://metruyencv.com/truyen/trung-sinh-chi-do-thi-cuong-tien",
+  "note": "",
+  "status_name": "Tạm dừng",
+  "first_chapter": 11610775,
+  "latest_chapter": 21561527,
+  "latest_index": 4534,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/trung-sinh-chi-do-thi-cuong-tien/default.jpg?1725986188",
+    "600": "https://static.cdnno.com/poster/trung-sinh-chi-do-thi-cuong-tien/600.jpg?1725986188",
+    "300": "https://static.cdnno.com/poster/trung-sinh-chi-do-thi-cuong-tien/300.jpg?1725986188",
+    "150": "https://static.cdnno.com/poster/trung-sinh-chi-do-thi-cuong-tien/150.jpg?1725986188"
+  },
+  "synopsis": "Kiếm Trảm Phong Lôi - Che Nhật Nguyệt\n\nChưởng Khống Càn Khôn - Đảo U Minh\n\nThế gian.... người có hàng tỷ - nhưng chỉ riêng ta một người xứng kiêu ngạo. \n\nTiên giới Thanh Đế trùng sinh vạn năm trước, giáng lâm tại đô thị sầm uất, xa hoa truỵ lạc.\n\nAi say nằm ngủ trên gối mỹ nhân\n\nAi tỉnh chưởng Sát Nhân Kiếm. \n\nNgười đời cười ta càn rỡ, thế nhân cười ta cuồng, ngươi lại nhìn, thiên địa vạn cổ về sau.\n\nNgười đời nhiều lần Luân Hồi.\n\nMà ta, y nguyên tại chỗ, cao cao tại thượng, nhìn xuống chúng sinh.",
+  "vote_count": 312,
+  "review_score": "4.883",
+  "review_count": 14,
+  "comment_count": 298,
+  "chapter_count": 4534,
+  "view_count": 0,
+  "word_count": 11764922,
+  "created_at": "2020-03-26T07:04:30.000000Z",
+  "updated_at": "2026-02-17T12:41:26.000000Z",
+  "new_chap_at": "2025-03-23T05:00:00.000000Z",
+  "published_at": "2020-03-26T07:04:30.000000Z",
+  "published": 1,
+  "user_id": 1504641,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Trùng Sinh Chi Đô Thị Cuồng Tiên",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2080,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1504641,
+    "name": "Vạn Hoá Thiên Ma",
+    "avatar": [
+      "https://static.cdnno.com/user/f75a0c8f561bfe3b57b09aeb80363b97/200.jpg?1730307311",
+      "https://static.cdnno.com/user/f75a0c8f561bfe3b57b09aeb80363b97/100.jpg?1730307311",
+      "https://static.cdnno.com/user/f75a0c8f561bfe3b57b09aeb80363b97/50.jpg?1730307311"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1397,
+    "name": "Mộng Trung Bút Chủ",
+    "avatar": null,
+    "local_name": "梦中笔丶",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 6,
+      "name": "Đô Thị",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 66,
+      "name": "Trọng Sinh",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 8,
+      "name": "Kiêu Ngạo",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}

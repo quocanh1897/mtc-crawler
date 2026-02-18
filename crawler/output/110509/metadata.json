@@ -1,0 +1,102 @@
+{
+  "id": 110509,
+  "name": "Vô Địch Thiên Đế",
+  "slug": "vo-dich-thien-de",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/vo-dich-thien-de",
+  "note": "nếu các bạn thấy truyện hay nhớ tặng hoa, tặng kẹo, đánh giá 5 sao...... ủng hộ mình nha, cảm ơn các bạn\nGiới thiệu truyện hay : Hồng Hoang: Bắt Đầu Cho Nữ Oa Kịch Thấu\nlink: https://metruyenchu.com/truyen/hong-hoang-bat-dau-cho-nu-oa-kich-thau",
+  "status_name": "Hoàn thành",
+  "first_chapter": 14317513,
+  "latest_chapter": 14568367,
+  "latest_index": 3871,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/vo-dich-thien-de/default.jpg?1640745586",
+    "600": "https://static.cdnno.com/poster/vo-dich-thien-de/600.jpg?1640745586",
+    "300": "https://static.cdnno.com/poster/vo-dich-thien-de/300.jpg?1640745586",
+    "150": "https://static.cdnno.com/poster/vo-dich-thien-de/150.jpg?1640745586"
+  },
+  "synopsis": "Một trận rối loạn phi thăng, Diệp Phàm trùng sinh trăm năm trước đó. \n\nToàn năng yêu nghiệt, tầng tầng lớp lớp võ kỹ, không gì không biết bác học, biết trước tương lai năng lực. \n\nNgô tức trùng sinh, coi như chấp chưởng thiên địa người, nhưng có người không tuân, giết! Nhưng có người không phục, trảm! \n\nMột lời định loạn thế, một kiếm trảm Cửu Tiêu, ngự Thần thú, đúc thần binh, phá hư không, thành Đế chủ, lật tay thành mây trở tay thành mưa, lại nhìn Diệp Phàm nghịch thiên mà lên, quân lâm vạn giới!\n~~~~~~~~~~~~~~~~~~~\nCầu buff hoa, cầu buff kẹo （づ￣3￣）づ╭❤～\n\nGiới thiệu truyện khác của tác viết về nhân vật Cổ Trường Thanh: Bất Hủ Thiên Đế\nLink: https://metruyenchu.com/truyen/bat-hu-thien-de",
+  "vote_count": 443,
+  "review_score": "4.553",
+  "review_count": 19,
+  "comment_count": 247,
+  "chapter_count": 3871,
+  "view_count": 0,
+  "word_count": 6884045,
+  "created_at": "2021-12-29T02:38:27.000000Z",
+  "updated_at": "2026-02-17T12:37:42.000000Z",
+  "new_chap_at": "2022-03-17T10:14:57.000000Z",
+  "published_at": "2021-12-29T02:38:27.000000Z",
+  "published": 1,
+  "user_id": 1000058,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Vô Địch Thiên Đế",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1476,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000058,
+    "name": "Kim Chủ Baba",
+    "avatar": [
+      "https://static.cdnno.com/user/1a0c99e94a563f138e8bbb618f51ef74/200.jpg?1732373398",
+      "https://static.cdnno.com/user/1a0c99e94a563f138e8bbb618f51ef74/100.jpg?1732373398",
+      "https://static.cdnno.com/user/1a0c99e94a563f138e8bbb618f51ef74/50.jpg?1732373398"
+    ],
+    "level": 4,
+    "exp": 2643,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 14379,
+    "name": "Hà Vị Tiên Phàm",
+    "avatar": null,
+    "local_name": "何谓仙凡",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 66,
+      "name": "Trọng Sinh",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    },
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": 112226,
+  "name": "Dị Giới Hệ Thống Cửa Hàng",
+  "slug": "di-gioi-he-thong-cua-hang",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/di-gioi-he-thong-cua-hang",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 14730353,
+  "latest_chapter": 25067146,
+  "latest_index": 2462,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/di-gioi-he-thong-cua-hang/default.jpg?1651458689",
+    "600": "https://static.cdnno.com/poster/di-gioi-he-thong-cua-hang/600.jpg?1651458689",
+    "300": "https://static.cdnno.com/poster/di-gioi-he-thong-cua-hang/300.jpg?1651458689",
+    "150": "https://static.cdnno.com/poster/di-gioi-he-thong-cua-hang/150.jpg?1651458689"
+  },
+  "synopsis": "Ở vào Thiên Thần đại lục vắng vẻ khu vực, một nhà bề ngoài không chút nào thu hút cửa hàng phía trước, một hàng dài, vô luận ngươi là thiên tông tông chủ, vẫn là đế quốc hoàng đế, đều phải ngoan ngoãn xếp hàng. \n\nBởi vì cửa hàng này kẻ kinh doanh để toàn bộ đại lục tất cả cường giả đều là chạy theo như vịt đồ vật. \n\n\"Dương chưởng quỹ, cho ta đến bình tiên đan.\" \n\n\"Dương chưởng quỹ, cho ta đến một cái Nhân Sâm Quả.\" \n\n\"Dương chưởng quỹ, cho ta đến một thanh tiên kiếm.\" \n\n\"Dương chưởng quỹ, cho ta tới một cái Bàn Đào.\" \n\n\"Dương chưởng quỹ, cho ta. . .\"",
+  "vote_count": 824,
+  "review_score": "4.537",
+  "review_count": 18,
+  "comment_count": 324,
+  "chapter_count": 2462,
+  "view_count": 0,
+  "word_count": 4322366,
+  "created_at": "2022-05-02T02:30:52.000000Z",
+  "updated_at": "2026-02-18T05:39:26.000000Z",
+  "new_chap_at": "2025-10-12T08:49:33.000000Z",
+  "published_at": "2022-05-02T02:30:52.000000Z",
+  "published": 1,
+  "user_id": 1000020,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Dị Giới Hệ Thống Cửa Hàng",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2975,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000020,
+    "name": "Vô Ưu",
+    "avatar": [
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/200.jpg?1635993328",
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/100.jpg?1635993328",
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/50.jpg?1635993328"
+    ],
+    "level": 3,
+    "exp": 1649,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 6405,
+    "name": "341 Nhân",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "Vô Sỉ",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

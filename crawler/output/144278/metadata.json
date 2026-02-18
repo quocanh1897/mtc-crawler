@@ -1,0 +1,96 @@
+{
+  "id": 144278,
+  "name": "Võ Toái Tinh Hà",
+  "slug": "vo-toai-tinh-ha",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/vo-toai-tinh-ha",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 23434052,
+  "latest_chapter": 23452265,
+  "latest_index": 1557,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/vo-toai-tinh-ha/default.jpg?1751034686",
+    "600": "https://static.cdnno.com/poster/vo-toai-tinh-ha/600.jpg?1751034686",
+    "300": "https://static.cdnno.com/poster/vo-toai-tinh-ha/300.jpg?1751034686",
+    "150": "https://static.cdnno.com/poster/vo-toai-tinh-ha/150.jpg?1751034686"
+  },
+  "synopsis": "Truyền thống huyền huyễn, huyền huyễn, Trảm Thần\n\n\tThần linh tại tinh không quan sát, ác ma tại địa ngục gào thét.\n\n\tĐây là một cái vạn tộc tranh hùng, thần ma loạn vũ thế giới kì dị.\n\n\tMột cái hàn môn thiếu niên cầm đao mà đi, đi ngược dòng nước, hắn muốn trở thành thế giới này vương!",
+  "vote_count": 3,
+  "review_score": "0.000",
+  "review_count": 0,
+  "comment_count": 4,
+  "chapter_count": 1557,
+  "view_count": 0,
+  "word_count": 2918636,
+  "created_at": "2025-06-27T14:30:24.000000Z",
+  "updated_at": "2026-02-17T12:40:52.000000Z",
+  "new_chap_at": "2025-11-05T22:26:00.000000Z",
+  "published_at": "2025-06-27T14:30:24.000000Z",
+  "published": 1,
+  "user_id": 1025157,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Võ Toái Tinh Hà",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 117,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1025157,
+    "name": "1 5 0 8",
+    "avatar": [
+      "https://static.cdnno.com/user/7d29eb964e5f45c46783c68b33f0a3fc/200.jpg?1758889136",
+      "https://static.cdnno.com/user/7d29eb964e5f45c46783c68b33f0a3fc/100.jpg?1758889136",
+      "https://static.cdnno.com/user/7d29eb964e5f45c46783c68b33f0a3fc/50.jpg?1758889136"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 614,
+    "name": "Yêu Dạ",
+    "avatar": null,
+    "local_name": "妖夜",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 60,
+      "name": "Tùy Thân",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

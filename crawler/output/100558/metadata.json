@@ -1,0 +1,77 @@
+{
+  "id": 100558,
+  "name": "Cái Thế Đế Tôn",
+  "slug": "cai-the-de-ton",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/cai-the-de-ton",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 10543003,
+  "latest_chapter": 10547266,
+  "latest_index": 4264,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/cai-the-de-ton/default.jpg?1585205674",
+    "600": "https://static.cdnno.com/poster/cai-the-de-ton/600.jpg?1585205674",
+    "300": "https://static.cdnno.com/poster/cai-the-de-ton/300.jpg?1585205674",
+    "150": "https://static.cdnno.com/poster/cai-the-de-ton/150.jpg?1585205674"
+  },
+  "synopsis": "Loạn cổ năm tháng, chư thánh tranh bá. Một cái được xưng \"Ngủ thần\" thiếu niên, nhân họa đắc phúc mở ra một môn công pháp nghịch thiên. Từ nay về sau, một cái thân thể vô song kỳ tài, hoành ép thiên địa, kiếm chém ngôi sao, vạn ngàn kỳ tài ở dưới chân hắn nằm rạp run rẩy. Quần hùng quật khởi thiên địa, duy ta bá vũ độc tôn!\nCảnh giới: Đoán Thể-Vận Linh-Tạo Khí-Thoát Thai-Vương giả-Hoàng giả-Thần cảnh- Thiên Thần-Vĩnh Hằng Chân Thần-Thần Vương-nửa bước đại năng(bán thánh)-Thánh cảnh-Đại Thánh-Thánh Chủ-Chí Tôn(Chí Tôn gồm Tiểu Chí Tôn(ngụy)-Đại Chí Tôn-Vũ Trụ Chí Tôn-Tôn Chủ)-Đế cảnh-Đại Đế-Chư Thiên Đế-Vô Thượng-Cấm Kỵ(Tiên Vương)",
+  "vote_count": 277,
+  "review_score": "4.629",
+  "review_count": 2,
+  "comment_count": 80,
+  "chapter_count": 4264,
+  "view_count": 0,
+  "word_count": 13868359,
+  "created_at": "2020-03-26T06:54:34.000000Z",
+  "updated_at": "2026-02-17T12:45:42.000000Z",
+  "new_chap_at": "2018-03-07T15:00:36.000000Z",
+  "published_at": "2020-03-26T06:54:34.000000Z",
+  "published": 1,
+  "user_id": 1000018,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Cái Thế Đế Tôn",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 818,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000018,
+    "name": "Khaox8896",
+    "avatar": [
+      "https://static.cdnno.com/user/9558075e9454035c61a4a4d665161692/200.jpg?1586661896",
+      "https://static.cdnno.com/user/9558075e9454035c61a4a4d665161692/100.jpg?1586661896",
+      "https://static.cdnno.com/user/9558075e9454035c61a4a4d665161692/50.jpg?1586661896"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 494,
+    "name": "Nhất Diệp Thanh Thiên",
+    "avatar": null,
+    "local_name": "一叶青天",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,102 @@
+{
+  "id": 101276,
+  "name": "Vũ Phá Cửu Hoang",
+  "slug": "vu-pha-cuu-hoang",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/vu-pha-cuu-hoang",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11383554,
+  "latest_chapter": 18889183,
+  "latest_index": 6454,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/vu-pha-cuu-hoang/default.jpg?1585206066",
+    "600": "https://static.cdnno.com/poster/vu-pha-cuu-hoang/600.jpg?1585206066",
+    "300": "https://static.cdnno.com/poster/vu-pha-cuu-hoang/300.jpg?1585206066",
+    "150": "https://static.cdnno.com/poster/vu-pha-cuu-hoang/150.jpg?1585206066"
+  },
+  "synopsis": "Chân Linh đại lục, thiên kiêu đương thời, yêu nghiệt tranh phong, Vương Giả thét dài nhưng Lạc Tinh Thần, Hoàng Giả lật tay nhưng che không trung.\n\nXuất thân thấp hèn thiếu niên Tiêu Diệp, đến Viễn Cổ Truyền Thừa, từ đó võ cực thiên hạ, quét ngang vạn địch, chiến phá cửu hoang, nhiệt huyết dâng trào chiến đấu  thiêu đốt cửu trọng thiên.\n\nVô địch chiến trường, thiên tài máu như biển, yêu nghiệt cốt thành núi, Tiêu Diệp từng bước tiến lên, đăng lâm tuyệt đỉnh, một đường đánh tới trên đời không người dám xưng tôn.\n\nChúng ta võ giả, làm thà gãy bất khuất, sát phạt quyết đoán, khoái ý ân cừu, trấn sát thế gian hết thảy địch!",
+  "vote_count": 653,
+  "review_score": "4.541",
+  "review_count": 8,
+  "comment_count": 145,
+  "chapter_count": 6354,
+  "view_count": 0,
+  "word_count": 16208193,
+  "created_at": "2020-03-26T07:01:06.000000Z",
+  "updated_at": "2026-02-18T03:05:44.000000Z",
+  "new_chap_at": "2024-07-28T02:34:54.000000Z",
+  "published_at": "2020-03-26T07:01:06.000000Z",
+  "published": 1,
+  "user_id": 1000076,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Vũ Phá Cửu Hoang",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1692,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000076,
+    "name": "Shin Đzai",
+    "avatar": [
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/200.jpg?1750327701",
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/100.jpg?1750327701",
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/50.jpg?1750327701"
+    ],
+    "level": 4,
+    "exp": 3360,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1107,
+    "name": "Vô Địch Tiểu Bối",
+    "avatar": null,
+    "local_name": "无敌小贝",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 61,
+      "name": "Phàm Nhân",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

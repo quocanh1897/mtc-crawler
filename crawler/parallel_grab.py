@@ -49,7 +49,7 @@ def pull_db_from(device: str) -> str:
     data = subprocess.run(
         [ADB, "-s", device, "shell",
          f"run-as {PACKAGE} cat databases/app_database.db"],
-        capture_output=True, timeout=30,
+        capture_output=True, timeout=120,
     ).stdout
     with open(db_path, "wb") as f:
         f.write(data)
@@ -235,6 +235,50 @@ def setup_second_emulator():
     print("  Verify by opening the app on emulator-5556 and checking bookmarks.")
 
 
+# ── Post-processing helpers ──────────────────────────────────────────────────
+
+CRAWLER_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_DIR = os.path.dirname(CRAWLER_DIR)
+
+
+def run_audit():
+    """Regenerate AUDIT.md from disk state (no API calls, no ADB)."""
+    script = os.path.join(PROJECT_DIR, "progress-checking", "audit.py")
+    try:
+        subprocess.run(
+            [sys.executable, script, "--save", "--no-api"],
+            timeout=120, capture_output=True, cwd=PROJECT_DIR,
+        )
+    except Exception as e:
+        print(f"  [audit] Warning: {e}")
+
+
+def run_meta_puller(book_id: int):
+    """Pull metadata + cover for a single book."""
+    meta_dir = os.path.join(PROJECT_DIR, "meta-puller")
+    script = os.path.join(meta_dir, "pull_metadata.py")
+    try:
+        subprocess.run(
+            [sys.executable, script, "--ids", str(book_id)],
+            timeout=60, capture_output=True, cwd=meta_dir,
+        )
+    except Exception as e:
+        print(f"  [meta] Warning: {e}")
+
+
+def run_epub_converter(book_id: int):
+    """Generate EPUB for a single book (skips audit update)."""
+    epub_dir = os.path.join(PROJECT_DIR, "epub-converter")
+    script = os.path.join(epub_dir, "convert.py")
+    try:
+        subprocess.run(
+            [sys.executable, script, "--ids", str(book_id), "--no-audit"],
+            timeout=300, capture_output=True, cwd=epub_dir,
+        )
+    except Exception as e:
+        print(f"  [epub] Warning: {e}")
+
+
 # ── Worker: runs in a subprocess ─────────────────────────────────────────────
 
 def worker(device: str, books: list[dict], result_queue: multiprocessing.Queue):
@@ -262,14 +306,18 @@ def worker(device: str, books: list[dict], result_queue: multiprocessing.Queue):
         bid = b["id"]
         name = b["name"]
         ch = b["chapter_count"]
+        start_ch = b.get("start_chapter", 1)
 
         print(f"\n[{device}] [{i+1}/{len(books)}] {name[:50]}")
-        print(f"  ID={bid}, Chapters={ch}")
+        print(f"  ID={bid}, Chapters={ch}, Start={start_ch}")
 
         try:
+            # Update AUDIT.md before starting this book
+            run_audit()
+
             clear_download_queue()
             launch_app()
-            ok = ui_search_and_download(name, ch)
+            ok = ui_search_and_download(name, ch, start_ch)
 
             if not ok:
                 print(f"  [{device}] SKIP: Not found in search")
@@ -277,8 +325,19 @@ def worker(device: str, books: list[dict], result_queue: multiprocessing.Queue):
                 failed += 1
                 continue
 
-            # Verify download started (retry — large books take time to begin)
-            count = 0
+            # Record baseline DB count (non-zero for partial books)
+            baseline = 0
+            try:
+                conn = sqlite3.connect(pull_db())
+                baseline = conn.execute(
+                    "SELECT COUNT(*) FROM Chapter WHERE bookId=?", (bid,)
+                ).fetchone()[0]
+                conn.close()
+            except Exception:
+                pass
+
+            # Verify download started (count must exceed baseline)
+            count = baseline
             for attempt in range(4):
                 time.sleep(15)
                 try:
@@ -289,12 +348,12 @@ def worker(device: str, books: list[dict], result_queue: multiprocessing.Queue):
                     conn.close()
                 except Exception:
                     continue
-                if count > 0:
+                if count > baseline:
                     break
-                print(f"  [{device}] DB check #{attempt+1}: {count} chapters, waiting...")
-            print(f"  [{device}] DB check: {count} chapters")
+                print(f"  [{device}] DB check #{attempt+1}: {count} chapters (baseline={baseline}), waiting...")
+            print(f"  [{device}] DB check: {count} chapters (baseline={baseline})")
 
-            if count == 0:
+            if count <= baseline:
                 print(f"  [{device}] SKIP: Download didn't start after 60s")
                 skipped.append(name)
                 failed += 1
@@ -304,6 +363,15 @@ def worker(device: str, books: list[dict], result_queue: multiprocessing.Queue):
             final = wait_for_download(bid, ch)
             saved = extract_chapters(bid, name)
             print(f"  [{device}] Result: {saved}/{ch} chapters")
+
+            # Post-processing: metadata + EPUB
+            print(f"  [{device}] Pulling metadata...")
+            run_meta_puller(bid)
+            print(f"  [{device}] Converting to EPUB...")
+            run_epub_converter(bid)
+
+            # Update AUDIT.md after finishing this book
+            run_audit()
             succeeded += 1
 
         except Exception as e:
@@ -330,6 +398,8 @@ def main():
                         help="Copy auth from emulator-5554 → emulator-5556")
     parser.add_argument("--from-api", action="store_true",
                         help="Use API bookmarks instead of device DB")
+    parser.add_argument("--partial-only", action="store_true",
+                        help="Only download partially-completed books")
     args = parser.parse_args()
 
     if args.setup:
@@ -363,12 +433,22 @@ def main():
         print_book_list(books, extracted)
         return
 
-    # Filter to pending
-    pending = []
+    # Filter to pending — two-phase: empty first, partial after
+    empty_books = []     # saved == 0 (not started or empty folder)
+    partial_books = []   # 0 < saved < total
     for b in books:
-        if extracted.get(b["id"], 0) >= b["latest_index"] and b["latest_index"] > 0:
-            continue
-        pending.append(b)
+        saved = extracted.get(b["id"], 0)
+        total = b["latest_index"]
+        if saved >= total and total > 0:
+            continue  # already done
+        if saved > 0:
+            partial_books.append(b)
+        else:
+            empty_books.append(b)
+    if args.partial_only:
+        pending = partial_books
+    else:
+        pending = empty_books + partial_books
 
     if not pending:
         print("  All books already downloaded!")
@@ -379,14 +459,27 @@ def main():
 
     # Pre-fetch chapter counts from API (single-threaded)
     print(f"\n[2] Fetching chapter counts for {len(pending)} books...")
+    print(f"  ({len(empty_books)} empty, {len(partial_books)} partial)")
     from grab_book import search_book_api
+    actually_pending = []
     for b in pending:
+        saved = extracted.get(b["id"], 0)
         api = search_book_api(b["name"])
         if api and api.get("chapter_count"):
             b["chapter_count"] = api["chapter_count"]
         else:
             b["chapter_count"] = b["latest_index"]
+        # Skip if actually done (API chapter count <= saved)
+        if saved >= b["chapter_count"] and b["chapter_count"] > 0:
+            print(f"  → Already done ({saved}/{b['chapter_count']}), skipping")
+            continue
+        b["start_chapter"] = min(saved + 1, b["chapter_count"])
+        actually_pending.append(b)
         time.sleep(0.3)
+    pending = actually_pending
+    if not pending:
+        print("  All books actually done after API check!")
+        return
 
     # Split round-robin into 2 queues
     queue1 = [b for i, b in enumerate(pending) if i % 2 == 0]

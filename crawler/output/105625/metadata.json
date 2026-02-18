@@ -1,0 +1,102 @@
+{
+  "id": 105625,
+  "name": "Bất Diệt Long Đế",
+  "slug": "bat-diet-long-de",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/bat-diet-long-de",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13122699,
+  "latest_chapter": 13307397,
+  "latest_index": 3852,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/bat-diet-long-de/default.jpg?1603283974",
+    "600": "https://static.cdnno.com/poster/bat-diet-long-de/600.jpg?1603283974",
+    "300": "https://static.cdnno.com/poster/bat-diet-long-de/300.jpg?1603283974",
+    "150": "https://static.cdnno.com/poster/bat-diet-long-de/150.jpg?1603283974"
+  },
+  "synopsis": "Cưỡi ngựa đẹp nhất, uống rượu mạnh nhất.\n\n\tNgủ nữ nhân đẹp nhất, giết đáng hận nhất người.\n\n\tNgười mang tuyệt thế huyết mạch, thiếu niên từ Bắc Mạc kéo quan tài mà đến, hắn muốn tại đem trên đời Thần Ma toàn bộ mai táng.\n\n\tTung ra di thiên đại hoang, cõng một thế bêu danh, vạn lý độc hành, bạn ma loạn vũ.\n\n\tHắn chỉ vì nam nhi một lời hứa.\n\n\tVượt thiên sơn vạn thủy, xông cửu thiên thập địa, chém hết thiên hạ anh hào, hắn thề phải trở về.\n\n\tChỉ vì nàng vẫn trông coi cô thành\n--------------------------------------------------------\nNgày 26/10/2020 bắt đầu lên chương - Ngày đầu tiên sẽ bạo rất rất nhiều chương, tốc độ mình lên chương khỏi phải bàn. Mình đang làm nên chưa có Review chi tiết. (Sẽ có sau)\n\nBộ này gần 4000 chương, đã hoàn thành!\n\n--------------------------------------------------------\nReview sơ bộ 500c: Main bá, biết suy nghĩ, không dại gái, có quyết đoán, trưởng thành dần. Nhiều nhân vật có tích cách khá đặc trưng. Nhân vật nữ nhiều, dự đoán bộ này có Hậu Cung. \nKhông dành cho các đại lão thích đọc đấu trí.",
+  "vote_count": 937,
+  "review_score": "4.455",
+  "review_count": 22,
+  "comment_count": 277,
+  "chapter_count": 3850,
+  "view_count": 0,
+  "word_count": 7155640,
+  "created_at": "2020-10-21T12:39:36.000000Z",
+  "updated_at": "2026-02-17T12:40:46.000000Z",
+  "new_chap_at": "2021-01-10T15:21:53.000000Z",
+  "published_at": "2020-10-21T12:39:34.000000Z",
+  "published": 1,
+  "user_id": 1000045,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Bất Diệt Long Đế",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1329,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000045,
+    "name": "Thanh Hưng",
+    "avatar": [
+      "https://static.cdnno.com/user/c79de127d8c211a21898811f1e74d3f5/200.jpg?1590805499",
+      "https://static.cdnno.com/user/c79de127d8c211a21898811f1e74d3f5/100.jpg?1590805499",
+      "https://static.cdnno.com/user/c79de127d8c211a21898811f1e74d3f5/50.jpg?1590805499"
+    ],
+    "level": 3,
+    "exp": 584,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 614,
+    "name": "Yêu Dạ",
+    "avatar": null,
+    "local_name": "妖夜",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 84,
+      "name": "Sảng Văn",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

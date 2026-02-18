@@ -1,0 +1,101 @@
+{
+  "id": 112576,
+  "name": "Võng Du Chi Thiên Khiển Tu La",
+  "slug": "vong-du-chi-thien-khien-tu-la",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/vong-du-chi-thien-khien-tu-la",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 14846828,
+  "latest_chapter": 14854063,
+  "latest_index": 853,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/vong-du-chi-thien-khien-tu-la/default.jpg?1653826664",
+    "600": "https://static.cdnno.com/poster/vong-du-chi-thien-khien-tu-la/600.jpg?1653826664",
+    "300": "https://static.cdnno.com/poster/vong-du-chi-thien-khien-tu-la/300.jpg?1653826664",
+    "150": "https://static.cdnno.com/poster/vong-du-chi-thien-khien-tu-la/150.jpg?1653826664"
+  },
+  "synopsis": "\tVì hy vọng cuối cùng cứu vớt em gái bệnh nan y, Lăng Trần tiến vào thế giới game giả tưởng mới mở, cùng gia nhập một cái phòng làm việc cỡ nhỏ tất cả đều là nữ hài tử.\n\t\n\tTừ nay hắn bước lên con đường đỉnh phong. Uốn cong thượng cổ tà vật \"Thiên Khiển Chi Nguyệt\" cơ hồ bị lịch sử quên mất\n\t\n\tThành tựu thần thoại đỉnh phong không thể siêu việt, cũng để cho hắn ở trong lúc vô tình bước lên một cái Tu La Chi Đạo đã định trước gặp Thiên Chi Khiển Phạt.",
+  "vote_count": 47,
+  "review_score": "4.375",
+  "review_count": 4,
+  "comment_count": 56,
+  "chapter_count": 853,
+  "view_count": 0,
+  "word_count": 2306094,
+  "created_at": "2022-05-29T12:17:05.000000Z",
+  "updated_at": "2026-02-17T12:39:37.000000Z",
+  "new_chap_at": "2022-06-08T13:00:12.000000Z",
+  "published_at": "2022-05-29T12:17:05.000000Z",
+  "published": 1,
+  "user_id": 1000060,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Võng Du Chi Thiên Khiển Tu La",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 304,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000060,
+    "name": "Mèo Nhà Meo",
+    "avatar": [
+      "https://static.cdnno.com/user/d73886dcb756964d702d47ad75c98560/200.jpg?1645020568",
+      "https://static.cdnno.com/user/d73886dcb756964d702d47ad75c98560/100.jpg?1645020568",
+      "https://static.cdnno.com/user/d73886dcb756964d702d47ad75c98560/50.jpg?1645020568"
+    ],
+    "level": 3,
+    "exp": 1410,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1105,
+    "name": "Hỏa Tinh Dẫn Lực",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 5,
+      "name": "Võng Du",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 62,
+      "name": "Vô Địch",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    },
+    {
+      "id": 7,
+      "name": "Lãnh Khốc",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 36,
+      "name": "Hư Nghĩ Võng Du",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": 100396,
+  "name": "Nhất Niệm Vĩnh Hằng",
+  "slug": "nhat-niem-vinh-hang",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/nhat-niem-vinh-hang",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 10405851,
+  "latest_chapter": 10407164,
+  "latest_index": 1314,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/nhat-niem-vinh-hang/default.jpg?1585205585",
+    "600": "https://static.cdnno.com/poster/nhat-niem-vinh-hang/600.jpg?1585205585",
+    "300": "https://static.cdnno.com/poster/nhat-niem-vinh-hang/300.jpg?1585205585",
+    "150": "https://static.cdnno.com/poster/nhat-niem-vinh-hang/150.jpg?1585205585"
+  },
+  "synopsis": "Nhất niệm thành thương hải ,   nhất niệm hóa ruộng dâu.   nhất niệm chém ngàn ma ,   nhất niệm tru vạn tiên.   duy ta niệm...   vĩnh hằng. Truyện mới của đại thần Nhĩ Căn.",
+  "vote_count": 3193,
+  "review_score": "4.704",
+  "review_count": 36,
+  "comment_count": 322,
+  "chapter_count": 1314,
+  "view_count": 0,
+  "word_count": 4907672,
+  "created_at": "2020-03-26T06:53:05.000000Z",
+  "updated_at": "2026-02-17T12:44:00.000000Z",
+  "new_chap_at": "2018-02-09T10:00:06.000000Z",
+  "published_at": "2020-03-26T06:53:05.000000Z",
+  "published": 1,
+  "user_id": 1000015,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Nhất Niệm Vĩnh Hằng",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 3664,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000015,
+    "name": "DarkHero",
+    "avatar": [
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/200.jpg?1592316927",
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/100.jpg?1592316927",
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/50.jpg?1592316927"
+    ],
+    "level": 4,
+    "exp": 3484,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 367,
+    "name": "Nhĩ Căn",
+    "avatar": null,
+    "local_name": "耳根",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

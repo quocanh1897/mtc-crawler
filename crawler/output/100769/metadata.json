@@ -1,0 +1,76 @@
+{
+  "id": 100769,
+  "name": "Hồng Hoang Hỗn Độn Ma Viên",
+  "slug": "hong-hoang-hon-don-ma-vien",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/hong-hoang-hon-don-ma-vien",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 10974845,
+  "latest_chapter": 10975256,
+  "latest_index": 412,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/hong-hoang-hon-don-ma-vien/default.jpg?1585205781",
+    "600": "https://static.cdnno.com/poster/hong-hoang-hon-don-ma-vien/600.jpg?1585205781",
+    "300": "https://static.cdnno.com/poster/hong-hoang-hon-don-ma-vien/300.jpg?1585205781",
+    "150": "https://static.cdnno.com/poster/hong-hoang-hon-don-ma-vien/150.jpg?1585205781"
+  },
+  "synopsis": "« b.faloo tiểu thuyết cấp A ký kết tác phẩm: Hồng Hoang Hỗn Độn Ma Viên » Hỗn Thế Tứ Hầu một đời long đong .\n\nHồng Quân Đạo tổ một câu pháp không thể ra truyền lục nhĩ, để nó không cách nào vấn đỉnh Tiên đạo .\n\nXích Khào Mã Hầu thì bị Đại Vũ đặt ở Hoài Âm Quy Sơn dưới, tham sống sợ chết .\n\nThông Tí Viên Hầu càng là thay thế Dương Tiễn lên Phong Thần bảng .\n\nCho dù là Linh Minh Thạch Hầu, cũng chạy không thoát số mệnh bị Phật môn khống chế, thành Phật từ nay trở đi đêm tụng kinh .\n\nHậu thế bên trong người xuyên qua Hồng Hoang, trùng sinh vì Lục Nhĩ Mi Hầu, tại cầu đạo không cửa tình huống dưới .\n\nMay mắn được Đại Đạo lọt mắt xanh, hệ thống nơi tay, thiên hạ ta có, chư thiên vạn pháp, mặc ta tu hành .\n\nMột thế này, ta muốn cải biến 4 khỉ vận mệnh, ngưng tụ ra hỗn độn chân thân, lại hiện ra Ma Thần huy hoàng .\n\nLại nhìn Hỗn Độn Ma Viên quyền đả Chuẩn Đề, chân đá Nguyên Thủy, nghiền ép Hồng Quân cố sự . (câu chuyện này cùng nhân vật đơn thuần hư cấu, như có tương đồng, đơn thuần trùng hợp, không nên bắt chước . )\n\nPS: 1 NGÀY 60C\nNhững mức buff:\n10 Np = 4 chương\n1 Kim Đậu (10.000 VND) =5 chương\n1 Hỏa Tinh Châu=5 chương\n1 Kim Sa Châu=5 chương\n1 Bố Cáo Lệnh=10 chương\n\ntruyện free. do lấy txt lậu nên sẽ có 1 số chương bị thiếu nên mn thông cảm. truyện được 700c",
+  "vote_count": 10,
+  "review_score": "4.042",
+  "review_count": 2,
+  "comment_count": 3,
+  "chapter_count": 412,
+  "view_count": 0,
+  "word_count": 967583,
+  "created_at": "2020-03-26T06:56:21.000000Z",
+  "updated_at": "2026-02-17T12:38:54.000000Z",
+  "new_chap_at": "2018-11-28T08:00:42.000000Z",
+  "published_at": "2020-03-26T06:56:21.000000Z",
+  "published": 1,
+  "user_id": 1000025,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Hồng Hoang Hỗn Độn Ma Viên",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 185,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000025,
+    "name": "Huyền Thiên",
+    "avatar": [
+      "https://static.cdnno.com/user/f85772ed39dfe9b374d86d12d4805156/200.jpg?1586770894",
+      "https://static.cdnno.com/user/f85772ed39dfe9b374d86d12d4805156/100.jpg?1586770894",
+      "https://static.cdnno.com/user/f85772ed39dfe9b374d86d12d4805156/50.jpg?1586770894"
+    ],
+    "level": 2,
+    "exp": 159,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 681,
+    "name": "Đại Ác Côn",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

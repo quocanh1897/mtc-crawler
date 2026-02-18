@@ -1,0 +1,90 @@
+{
+  "id": 101452,
+  "name": "Siêu Thần Sủng Thú Cửa Hàng",
+  "slug": "sieu-than-sung-thu-cua-hang",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/sieu-than-sung-thu-cua-hang",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 12297323,
+  "latest_chapter": 15612679,
+  "latest_index": 1427,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/sieu-than-sung-thu-cua-hang/default.jpg?1585206158",
+    "600": "https://static.cdnno.com/poster/sieu-than-sung-thu-cua-hang/600.jpg?1585206158",
+    "300": "https://static.cdnno.com/poster/sieu-than-sung-thu-cua-hang/300.jpg?1585206158",
+    "150": "https://static.cdnno.com/poster/sieu-than-sung-thu-cua-hang/150.jpg?1585206158"
+  },
+  "synopsis": "Vạn vật đều có thể bồi dưỡng, hết thảy đều là sủng vật!\n\nTại Siêu Thần Sủng Thú Cửa Hàng bên trong. . .\n\nCó một đao chém giết Hoàng Kim Cự Long siêu cấp tiểu khô lâu,\n\nCó người nghi ngờ thập đại sủng thú bí kỹ canh cổng chó vườn,\n\nCàng có tự xưng là Thần. . .\n\nTác Giả Định Nghĩa : Xấu bụng; Hệ Thống; Vị Diện; Trạch Nam\n\nTruyện được convert bởi Hades Demonoid\n\n",
+  "vote_count": 1179,
+  "review_score": "4.159",
+  "review_count": 47,
+  "comment_count": 424,
+  "chapter_count": 1426,
+  "view_count": 0,
+  "word_count": 4583421,
+  "created_at": "2020-03-26T07:02:38.000000Z",
+  "updated_at": "2026-02-17T12:40:11.000000Z",
+  "new_chap_at": "2022-12-14T14:48:21.000000Z",
+  "published_at": "2022-02-12T10:31:06.000000Z",
+  "published": 1,
+  "user_id": 1000065,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Siêu Thần Sủng Thú Cửa Hàng",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2881,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000065,
+    "name": "KiếmTiềnMuaSữa",
+    "avatar": [
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/200.jpg?1769515356",
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/100.jpg?1769515356",
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/50.jpg?1769515356"
+    ],
+    "level": 2,
+    "exp": 456,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1214,
+    "name": "Cổ Hi",
+    "avatar": null,
+    "local_name": "古羲",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}

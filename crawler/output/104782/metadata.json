@@ -1,0 +1,89 @@
+{
+  "id": 104782,
+  "name": "Bất Diệt Bá Thể Quyết",
+  "slug": "bat-diet-ba-the-quyet",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/bat-diet-ba-the-quyet",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 12948871,
+  "latest_chapter": 17497960,
+  "latest_index": 4378,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/bat-diet-ba-the-quyet/default.jpg?1597055080",
+    "600": "https://static.cdnno.com/poster/bat-diet-ba-the-quyet/600.jpg?1597055080",
+    "300": "https://static.cdnno.com/poster/bat-diet-ba-the-quyet/300.jpg?1597055080",
+    "150": "https://static.cdnno.com/poster/bat-diet-ba-the-quyet/150.jpg?1597055080"
+  },
+  "synopsis": "Hèn mọn thiếu niên, ngoài ý muốn thức tỉnh trí nhớ kiếp trước, tu Bất Diệt Bá Thể Quyết, có được hậu thiên giác tỉnh huyết mạch năng lực. Người khác nhất sinh chỉ có thể thức tỉnh một loại huyết mạch, mà hắn lại có thể thức tỉnh mười cái, trăm cái, còn có thể tùy ý dung hợp, cuối cùng đúc Tựu Bất Diệt Bá Thể! Ta lấy xác phàm đúc Bá Thể, một tay che trời trấn thế gian! Cửu Cực Thánh Thể? Hoang Thiên Cổ Thể? Thái Thượng Vương Thể? Mặc cho ngươi thể chất cả thế gian vô song, lại sao địch ta Bất Diệt Bá Thể!",
+  "vote_count": 831,
+  "review_score": "4.950",
+  "review_count": 10,
+  "comment_count": 191,
+  "chapter_count": 4378,
+  "view_count": 0,
+  "word_count": 8204660,
+  "created_at": "2020-08-10T10:24:42.000000Z",
+  "updated_at": "2026-02-17T12:41:38.000000Z",
+  "new_chap_at": "2024-02-29T13:42:16.000000Z",
+  "published_at": "2020-08-10T10:24:40.000000Z",
+  "published": 1,
+  "user_id": 1000034,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Bất Diệt Bá Thể Quyết",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1617,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000034,
+    "name": "Hoàng Châu",
+    "avatar": [
+      "https://static.cdnno.com/user/default/200.jpg",
+      "https://static.cdnno.com/user/default/100.jpg",
+      "https://static.cdnno.com/user/default/50.jpg"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 901,
+    "name": "Bát Dị",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 66,
+      "name": "Trọng Sinh",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

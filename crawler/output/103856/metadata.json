@@ -1,0 +1,95 @@
+{
+  "id": 103856,
+  "name": "Ta Mỗi Ngày Tùy Cơ Một Cái Mới Hệ Thống",
+  "slug": "ta-moi-ngay-tuy-co-mot-cai-moi-he-thong",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ta-moi-ngay-tuy-co-mot-cai-moi-he-thong",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 12614049,
+  "latest_chapter": 18612395,
+  "latest_index": 3280,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-moi-ngay-tuy-co-mot-cai-moi-he-thong/default.jpg?1597892861",
+    "600": "https://static.cdnno.com/poster/ta-moi-ngay-tuy-co-mot-cai-moi-he-thong/600.jpg?1597892861",
+    "300": "https://static.cdnno.com/poster/ta-moi-ngay-tuy-co-mot-cai-moi-he-thong/300.jpg?1597892861",
+    "150": "https://static.cdnno.com/poster/ta-moi-ngay-tuy-co-mot-cai-moi-he-thong/150.jpg?1597892861"
+  },
+  "synopsis": "[ nhẹ nhõm, hài hước, thường ngày ] Diệp Thiên dật xuyên việt đến một kẻ cặn bã trên người, đồng thời mở ra một cái vô hạn hệ thống, vô hạn hệ thống mỗi lần đều sẽ tùy cơ mở ra một cái không đồng dạng như vậy mới hệ thống, thu hoạch được nghịch thiên ban thưởng.\n\n\t\"Keng . . . Chúc mừng kí chủ mở ra [ Âu Thần hệ thống ].\"\n\n\t\"Keng . . . Chúc mừng kí chủ mở ra [ Tra Nam hệ thống ].\"\n\n\t\"Keng . . . Chúc mừng kí chủ mở ra [ Dự Ngôn hệ thống ].\"\n\n\t\"Keng . . .\"\n\n\t\". . .\"\n\nPS: Ai đoc ở trang metruyenchu thì cho mình xin ít hoa và kẹo : v",
+  "vote_count": 2454,
+  "review_score": "4.387",
+  "review_count": 53,
+  "comment_count": 731,
+  "chapter_count": 3280,
+  "view_count": 0,
+  "word_count": 5793375,
+  "created_at": "2020-04-11T08:26:36.000000Z",
+  "updated_at": "2026-02-17T12:41:56.000000Z",
+  "new_chap_at": "2024-06-30T07:17:45.000000Z",
+  "published_at": "2020-04-11T08:26:36.000000Z",
+  "published": 1,
+  "user_id": 1000020,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Mỗi Ngày Tùy Cơ Một Cái Mới Hệ Thống",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 3210,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000020,
+    "name": "Vô Ưu",
+    "avatar": [
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/200.jpg?1635993328",
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/100.jpg?1635993328",
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/50.jpg?1635993328"
+    ],
+    "level": 3,
+    "exp": 1649,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3110,
+    "name": "Công Tử Tiếu Ca",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 6,
+      "name": "Đô Thị",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "Vô Sỉ",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 12,
+      "name": "Dị Thế Đại Lục",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

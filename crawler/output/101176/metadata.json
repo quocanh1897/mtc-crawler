@@ -1,0 +1,77 @@
+{
+  "id": 101176,
+  "name": "Tuyệt Thế Dược Thần",
+  "slug": "tuyet-the-duoc-than",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/tuyet-the-duoc-than",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11290294,
+  "latest_chapter": 11293411,
+  "latest_index": 3119,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tuyet-the-duoc-than/default.jpg?1585206009",
+    "600": "https://static.cdnno.com/poster/tuyet-the-duoc-than/600.jpg?1585206009",
+    "300": "https://static.cdnno.com/poster/tuyet-the-duoc-than/300.jpg?1585206009",
+    "150": "https://static.cdnno.com/poster/tuyet-the-duoc-than/150.jpg?1585206009"
+  },
+  "synopsis": "Một đời đan đế bị đại sư huynh hãm hại.\n\nTừ nay, trên đời thiếu một thiên tài Thanh Vân Tử, nhiều hơn một cái vô địch quần là áo lụa.\n\nTrọng tẩu đan dược đại đạo\n\nLàm sao nghịch thương thiên, bằng vào trong tay ta đan dược!\n\nCảnh giới tu luyện: \n\n\n_Hạ giới: Ngưng Khí Cảnh - Linh Dịch Cảnh - Ngưng Tinh Cảnh - Hóa Hải Cảnh  - Hồn Hải Cảnh.\n\n_Thần giới: Thần Du Cảnh - Vô Lượng Cảnh - Thiên Khải Cảnh - Vô Tương Cảnh - Đạo Huyền Cảnh (Đế cảnh - Cửu trọng gọi là Thần Vương) - Thần Cảnh.\n\n_Thông Thiên Giới: Động Huyền Cảnh - Khuy Thiên Cảnh - Quy Khư Cảnh - Thần Quân Cảnh - Thiên Thần Cảnh - Chân Thần Cảnh - Thiên Tôn Cảnh - Thiên Đế Cảnh - Thiên Nhân cảnh - Đạo Tổ Cảnh.\n\n_Tam Thập Tam Thiên: Tiểu Cực Thiên Vị - Đại Cực Thiên Vị - Vô Cực Thiên Vị - Ngọc Hoàng Thiên - Thánh Hoàng Thiên - Chân Hoàng Thiên.",
+  "vote_count": 180,
+  "review_score": "4.463",
+  "review_count": 6,
+  "comment_count": 91,
+  "chapter_count": 3118,
+  "view_count": 0,
+  "word_count": 8501233,
+  "created_at": "2020-03-26T07:00:09.000000Z",
+  "updated_at": "2026-02-17T12:43:13.000000Z",
+  "new_chap_at": "2019-08-29T14:00:29.000000Z",
+  "published_at": "2020-03-26T07:00:09.000000Z",
+  "published": 1,
+  "user_id": 1000038,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Tuyệt Thế Dược Thần",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 970,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000038,
+    "name": "Lucario",
+    "avatar": [
+      "https://static.cdnno.com/user/2d229d073249c47875b1122fb8b8f1b8/200.jpg?1586583506",
+      "https://static.cdnno.com/user/2d229d073249c47875b1122fb8b8f1b8/100.jpg?1586583506",
+      "https://static.cdnno.com/user/2d229d073249c47875b1122fb8b8f1b8/50.jpg?1586583506"
+    ],
+    "level": 2,
+    "exp": 347,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1018,
+    "name": "Phong Nhất Sắc",
+    "avatar": null,
+    "local_name": "风一色",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

@@ -362,7 +362,8 @@ def launch_app():
     screencap("home")
 
 
-def tap_tai_truyen_and_fill(menu_screenshot: str, chapter_count: int):
+def tap_tai_truyen_and_fill(menu_screenshot: str, chapter_count: int,
+                            start_chapter: int = 1):
     """Shared logic: tap Tải truyện in bottom sheet → fill dialog → confirm.
 
     Called after a 3-dot menu is already open (bottom sheet visible).
@@ -467,9 +468,9 @@ def tap_tai_truyen_and_fill(menu_screenshot: str, chapter_count: int):
 
     # Pure TAB navigation within the dialog (reliable in Flutter dialogs).
     # Dialog opens with focus on title. TAB order: title → field1 → field2 → Hủy → Đồng ý
-    print(f"  Filling: 1 → {chapter_count}")
+    print(f"  Filling: {start_chapter} → {chapter_count}")
     tab(0.5)                   # title → field1
-    type_text("1", delay=0.5)
+    type_text(str(start_chapter), delay=0.5)
     tab(0.3)                   # field1 → field2
     type_text(str(chapter_count), delay=0.5)
 
@@ -484,7 +485,8 @@ def tap_tai_truyen_and_fill(menu_screenshot: str, chapter_count: int):
     tap(540, 400, delay=2)
 
 
-def ui_search_and_download(book_name: str, chapter_count: int) -> bool:
+def ui_search_and_download(book_name: str, chapter_count: int,
+                           start_chapter: int = 1) -> bool:
     """Full UI flow: search → 3-dot → Tải truyện → fill → confirm.
 
     Key insight: must be on "Đánh dấu" tab BEFORE opening search
@@ -536,7 +538,7 @@ def ui_search_and_download(book_name: str, chapter_count: int) -> bool:
     sc5 = screencap("menu")
 
     # ── Step 5+6: Tải truyện → fill dialog → confirm ───────────────────
-    tap_tai_truyen_and_fill(sc5, chapter_count)
+    tap_tai_truyen_and_fill(sc5, chapter_count, start_chapter)
     return True
 
 
@@ -630,9 +632,23 @@ def wait_for_download(book_id: int, target: int, timeout: int = 3600) -> int:
 
 
 def extract_chapters(book_id: int, book_name: str) -> int:
-    """Extract chapters from DB → .txt files + combined book."""
+    """Extract chapters from DB → individual .txt files.
+
+    Skips chapters whose file already exists on disk so partial
+    re-extractions don't overwrite previous data.
+    Returns total chapter files on disk (existing + newly saved).
+    """
     out = os.path.join(OUTPUT_DIR, str(book_id))
     os.makedirs(out, exist_ok=True)
+
+    # Build set of chapter indices already on disk
+    existing_indices: set[int] = set()
+    for fname in os.listdir(out):
+        if fname.endswith(".txt") and fname[0].isdigit():
+            try:
+                existing_indices.add(int(fname.split("_", 1)[0]))
+            except ValueError:
+                pass
 
     conn = sqlite3.connect(pull_db())
     conn.row_factory = sqlite3.Row
@@ -641,8 +657,7 @@ def extract_chapters(book_id: int, book_name: str) -> int:
     ).fetchall()
     conn.close()
 
-    saved = 0
-    parts: list[str] = []
+    newly_saved = 0
 
     for row in rows:
         idx = row["index"] or row["id"]
@@ -651,25 +666,24 @@ def extract_chapters(book_id: int, book_name: str) -> int:
         content = row["content"] or ""
         if len(content) < 10:
             continue
+        if idx in existing_indices:
+            continue
         with open(os.path.join(out, f"{idx:04d}_{slug}.txt"), "w", encoding="utf-8") as f:
             f.write(f"{name}\n\n{content}")
-        saved += 1
-        parts.append(f"{name}\n\n{content}")
+        newly_saved += 1
 
+    total_on_disk = len(existing_indices) + newly_saved
     with open(os.path.join(out, "book.json"), "w") as f:
         json.dump({"book_id": book_id, "book_name": book_name,
-                    "chapters_saved": saved, "total_in_db": len(rows)},
+                    "chapters_saved": total_on_disk, "total_in_db": len(rows)},
                   f, indent=2, ensure_ascii=False)
 
-    if parts:
-        safe = "".join(c for c in book_name if c.isalnum() or c in " _-").strip()
-        path = os.path.join(out, f"{safe}.txt")
-        with open(path, "w", encoding="utf-8") as f:
-            f.write(f"{'='*60}\n{book_name}\n{'='*60}\n\n")
-            f.write("\n\n---\n\n".join(parts))
-        print(f"  Combined: {path}")
+    if newly_saved:
+        print(f"  Extracted {newly_saved} new chapters ({total_on_disk} total on disk)")
+    else:
+        print(f"  No new chapters to extract ({total_on_disk} already on disk)")
 
-    return saved
+    return total_on_disk
 
 
 # ── Main ─────────────────────────────────────────────────────────────────────
