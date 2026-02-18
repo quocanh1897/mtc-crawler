@@ -4,6 +4,7 @@ import { Sidebar } from "@/components/layout/Sidebar";
 import { BookCard } from "@/components/books/BookCard";
 import { StatusBadge } from "@/components/ui/Badge";
 import { BookCover } from "@/components/books/BookCover";
+import { QuickDownloadButton } from "@/components/books/QuickDownloadButton";
 import { formatNumber, timeAgo } from "@/lib/utils";
 import type { RankingMetric } from "@/types";
 import Link from "next/link";
@@ -11,17 +12,17 @@ import Link from "next/link";
 export const dynamic = "force-dynamic";
 
 export default async function HomePage() {
-  const [viewRanked, bookmarkRanked, commentRanked, recentlyUpdated, completedBooks] =
+  const [voteRanked, bookmarkRanked, commentRanked, recentlyUpdated, completedBooks] =
     await Promise.all([
-      getRankedBooks("view_count", 10),
+      getRankedBooks("vote_count", 10),
       getRankedBooks("bookmark_count", 10),
       getRankedBooks("comment_count", 10),
       getBooks({ sort: "updated_at", order: "desc", limit: 15 }),
       getBooks({ sort: "bookmark_count", order: "desc", status: 2, limit: 8 }),
     ]);
 
-  const rankingData: Record<RankingMetric, typeof viewRanked> = {
-    view_count: viewRanked,
+  const rankingData: Partial<Record<RankingMetric, typeof voteRanked>> = {
+    vote_count: voteRanked,
     bookmark_count: bookmarkRanked,
     comment_count: commentRanked,
   };
@@ -53,9 +54,8 @@ export default async function HomePage() {
               {recentlyUpdated.data.map((book) => {
                 const genre = genreMap[book.id];
                 return (
-                  <Link
+                  <div
                     key={book.id}
-                    href={`/doc-truyen/${book.slug}`}
                     className="flex items-center gap-3 px-4 py-2 hover:bg-gray-50 transition-colors text-sm"
                   >
                     {genre ? (
@@ -65,16 +65,23 @@ export default async function HomePage() {
                     ) : (
                       <StatusBadge status={book.status} />
                     )}
-                    <span className="flex-1 min-w-0 font-medium text-[var(--color-text)] truncate">
+                    <Link
+                      href={`/doc-truyen/${book.slug}`}
+                      className="flex-1 min-w-0 font-medium text-[var(--color-text)] truncate hover:text-[var(--color-primary)] transition-colors"
+                    >
                       {book.name}
-                    </span>
+                    </Link>
                     <span className="shrink-0 text-xs text-[var(--color-text-secondary)]">
                       {formatNumber(book.chapterCount)} ch
                     </span>
+                    <span className="shrink-0 text-xs text-[var(--color-text-secondary)] w-16 text-right" title="Đề cử">
+                      {formatNumber(book.voteCount)} đề cử
+                    </span>
+                    <QuickDownloadButton bookId={book.id} />
                     <span className="shrink-0 text-xs text-[var(--color-text-secondary)] w-24 text-right">
                       {timeAgo(book.updatedAt)}
                     </span>
-                  </Link>
+                  </div>
                 );
               })}
             </div>

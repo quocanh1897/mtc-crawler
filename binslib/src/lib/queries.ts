@@ -400,6 +400,51 @@ export function getBookPrimaryGenres(
   return map;
 }
 
+// ─── Author ─────────────────────────────────────────────────────────────────
+
+export async function getAuthorById(id: number) {
+  return db
+    .select()
+    .from(authors)
+    .where(eq(authors.id, id))
+    .limit(1)
+    .then((rows) => rows[0] ?? null);
+}
+
+export async function getBooksByAuthorId(
+  authorId: number,
+  page: number = 1,
+  limit: number = 20
+): Promise<PaginatedResponse<BookWithAuthor>> {
+  const offset = (Math.max(1, page) - 1) * limit;
+
+  const dataSql = `
+    SELECT books.*,
+           authors.name as author_name,
+           authors.local_name as author_local_name,
+           authors.avatar as author_avatar
+    FROM books
+    LEFT JOIN authors ON books.author_id = authors.id
+    WHERE books.author_id = ?
+    ORDER BY books.updated_at DESC
+    LIMIT ? OFFSET ?
+  `;
+
+  const countSql = `SELECT COUNT(*) as cnt FROM books WHERE author_id = ?`;
+
+  const rows = sqlite.prepare(dataSql).all(authorId, limit, offset) as Record<string, unknown>[];
+  const countRow = sqlite.prepare(countSql).get(authorId) as { cnt: number };
+  const total = countRow?.cnt ?? 0;
+
+  return {
+    data: rows.map(rowToBookWithAuthor),
+    total,
+    page,
+    limit,
+    totalPages: Math.ceil(total / limit),
+  };
+}
+
 // ─── Author Search ──────────────────────────────────────────────────────────
 
 export function searchAuthors(query: string, limit: number = 20) {

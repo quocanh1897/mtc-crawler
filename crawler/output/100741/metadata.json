@@ -1,0 +1,76 @@
+{
+  "id": 100741,
+  "name": "Tu La Thiên Tôn",
+  "slug": "tu-la-thien-ton",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/tu-la-thien-ton",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 10648993,
+  "latest_chapter": 10651434,
+  "latest_index": 2450,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tu-la-thien-ton/default.jpg?1585205766",
+    "600": "https://static.cdnno.com/poster/tu-la-thien-ton/600.jpg?1585205766",
+    "300": "https://static.cdnno.com/poster/tu-la-thien-ton/300.jpg?1585205766",
+    "150": "https://static.cdnno.com/poster/tu-la-thien-ton/150.jpg?1585205766"
+  },
+  "synopsis": "Một thiếu niên thần bí, mang theo Thôn Thiên Thần Thú, lấy thân thành ma, giết hết cửu thiên vạn giới. Tàn sát vạn ngàn Thần, Ma. Thành tựu chí cao vô thượng Tu La Thiên Tôn.",
+  "vote_count": 8,
+  "review_score": "4.005",
+  "review_count": 3,
+  "comment_count": 8,
+  "chapter_count": 2442,
+  "view_count": 0,
+  "word_count": 9794156,
+  "created_at": "2020-03-26T06:56:06.000000Z",
+  "updated_at": "2026-02-17T12:38:45.000000Z",
+  "new_chap_at": "2017-10-18T03:00:43.000000Z",
+  "published_at": "2020-03-26T06:56:06.000000Z",
+  "published": 1,
+  "user_id": 1000025,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Tu La Thiên Tôn",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 305,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000025,
+    "name": "Huyền Thiên",
+    "avatar": [
+      "https://static.cdnno.com/user/f85772ed39dfe9b374d86d12d4805156/200.jpg?1586770894",
+      "https://static.cdnno.com/user/f85772ed39dfe9b374d86d12d4805156/100.jpg?1586770894",
+      "https://static.cdnno.com/user/f85772ed39dfe9b374d86d12d4805156/50.jpg?1586770894"
+    ],
+    "level": 2,
+    "exp": 159,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 654,
+    "name": "Thủy Vu Mộng",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

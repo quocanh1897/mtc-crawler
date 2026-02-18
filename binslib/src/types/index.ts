@@ -28,7 +28,7 @@ export type GenreWithCount = Genre & {
   bookCount: number;
 };
 
-export type RankingMetric = "view_count" | "comment_count" | "bookmark_count";
+export type RankingMetric = "vote_count" | "view_count" | "comment_count" | "bookmark_count";
 
 export type BookStatus = 1 | 2 | 3; // 1=ongoing, 2=completed, 3=paused
 
@@ -45,6 +45,7 @@ export const STATUS_COLORS: Record<number, string> = {
 };
 
 export const METRIC_LABELS: Record<RankingMetric, string> = {
+  vote_count: "Đề cử",
   view_count: "Lượt đọc",
   comment_count: "Bình luận",
   bookmark_count: "Yêu thích",

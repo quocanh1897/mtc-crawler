@@ -4,26 +4,27 @@ import { useState } from "react";
 import Link from "next/link";
 import { cn, formatNumber } from "@/lib/utils";
 import { BookCover } from "@/components/books/BookCover";
+import { QuickDownloadButton } from "@/components/books/QuickDownloadButton";
 import type { BookWithAuthor, RankingMetric } from "@/types";
 
 const TABS: { id: RankingMetric; label: string; unit: string }[] = [
-  { id: "view_count", label: "Lượt đọc", unit: "lượt xem" },
+  { id: "vote_count", label: "Đề cử", unit: "đề cử" },
   { id: "bookmark_count", label: "Yêu thích", unit: "yêu thích" },
   { id: "comment_count", label: "Bình luận", unit: "bình luận" },
 ];
 
 interface RankingTabsProps {
-  data: Record<RankingMetric, BookWithAuthor[]>;
+  data: Partial<Record<RankingMetric, BookWithAuthor[]>>;
   genreSlug?: string;
 }
 
 export function RankingTabs({ data, genreSlug }: RankingTabsProps) {
-  const [active, setActive] = useState<RankingMetric>("view_count");
+  const [active, setActive] = useState<RankingMetric>("vote_count");
 
   const books = data[active] || [];
 
   function getStatValue(book: BookWithAuthor): number {
-    if (active === "view_count") return book.viewCount;
+    if (active === "vote_count") return book.voteCount;
     if (active === "comment_count") return book.commentCount;
     if (active === "bookmark_count") return book.bookmarkCount;
     return 0;
@@ -93,20 +94,27 @@ export function RankingTabs({ data, genreSlug }: RankingTabsProps) {
                   {book.name}
                 </p>
                 {book.author && (
-                  <p className="text-xs text-[var(--color-text-secondary)] mt-0.5">
+                  <Link
+                    href={`/tac-gia/${book.author.id}`}
+                    className="text-xs text-[var(--color-text-secondary)] mt-0.5 hover:text-[var(--color-primary)] transition-colors block"
+                    onClick={(e) => e.stopPropagation()}
+                  >
                     {book.author.name}
-                  </p>
+                  </Link>
                 )}
               </div>
 
-              {/* Stat */}
-              <div className="shrink-0 text-right">
-                <span className="text-sm font-semibold text-[var(--color-primary)]">
-                  {formatNumber(getStatValue(book))}
-                </span>
-                <span className="block text-[10px] text-[var(--color-text-secondary)]">
-                  {activeTab.unit}
-                </span>
+              {/* Stat + Download */}
+              <div className="shrink-0 text-right flex items-center gap-1.5">
+                <div>
+                  <span className="text-sm font-semibold text-[var(--color-primary)]">
+                    {formatNumber(getStatValue(book))}
+                  </span>
+                  <span className="block text-[10px] text-[var(--color-text-secondary)]">
+                    {activeTab.unit}
+                  </span>
+                </div>
+                <QuickDownloadButton bookId={book.id} />
               </div>
             </Link>
           ))

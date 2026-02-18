@@ -1,0 +1,77 @@
+{
+  "id": 110127,
+  "name": "Hợp Đạo",
+  "slug": "hop-ao",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/hop-ao",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 14235694,
+  "latest_chapter": 17082248,
+  "latest_index": 1131,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/hop-ao/default.jpg?1638678343",
+    "600": "https://static.cdnno.com/poster/hop-ao/600.jpg?1638678343",
+    "300": "https://static.cdnno.com/poster/hop-ao/300.jpg?1638678343",
+    "150": "https://static.cdnno.com/poster/hop-ao/150.jpg?1638678343"
+  },
+  "synopsis": "Tu thần đạo môn mờ mịt hư vô , thần bí khó lường; luyện khí đạo môn siêu nhiên hậu thế , giám sát xã tắc; võ đạo thịnh hành hậu thế , tranh bá thiên hạ; ma môn yêu đảng ẩn vào chỗ tối , tùy thời tác loạn.\n\n\tĐại kiếp nạn buông xuống , thiên hạ dần dần loạn , quần hùng tịnh khởi.\n\n\tTần Tử Lăng trọng sinh tại lớn Tề Quốc xa xôi tiểu quận một vị bần hàn con em trẻ tuổi trên thân , bắt đầu lặp lại một cơn ác mộng.\n\n\tLão giả xấu xí , long thủ quái điểu , nghìn dặm truy sát. . .\n\n\tLoạn thế, một cái nghèo túng người trùng sinh , làm như thế nào tự bảo vệ mình?\n\n\tThẳng đến có một ngày , hắn trong mộng nhìn thấy , một ngón tay gãy đeo chiếc nhẫn  rơi tòa nào đó đạo quan.\n\n\tQuan tên Xích Tiêu!",
+  "vote_count": 532,
+  "review_score": "4.759",
+  "review_count": 9,
+  "comment_count": 166,
+  "chapter_count": 1130,
+  "view_count": 0,
+  "word_count": 2895623,
+  "created_at": "2021-12-05T04:25:44.000000Z",
+  "updated_at": "2026-02-17T12:35:44.000000Z",
+  "new_chap_at": "2023-11-22T11:25:45.000000Z",
+  "published_at": "2021-12-05T04:25:43.000000Z",
+  "published": 1,
+  "user_id": 1000034,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Hợp Đạo",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 662,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000034,
+    "name": "Hoàng Châu",
+    "avatar": [
+      "https://static.cdnno.com/user/default/200.jpg",
+      "https://static.cdnno.com/user/default/100.jpg",
+      "https://static.cdnno.com/user/default/50.jpg"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 919,
+    "name": "Đoạn Kiều Tàn Tuyết",
+    "avatar": null,
+    "local_name": "断桥残雪",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

@@ -53,7 +53,10 @@ export default async function BookDetailPage({ params, searchParams }: Props) {
 
             {book.author && (
               <p className="text-sm text-[var(--color-text-secondary)] mb-1">
-                T&aacute;c gi&#7843;: <span className="text-[var(--color-primary)]">{book.author.name}</span>
+                Tác giả:{" "}
+                <Link href={`/tac-gia/${book.author.id}`} className="text-[var(--color-primary)] hover:underline">
+                  {book.author.name}
+                </Link>
                 {book.author.localName && (
                   <span className="text-xs ml-1">({book.author.localName})</span>
                 )}
@@ -79,8 +82,8 @@ export default async function BookDetailPage({ params, searchParams }: Props) {
             {/* Stats Row */}
             <div className="flex flex-wrap gap-4 text-sm mb-4">
               <div className="text-center">
-                <div className="font-bold text-[var(--color-primary)]">{formatNumber(book.viewCount)}</div>
-                <div className="text-xs text-[var(--color-text-secondary)]">L&#432;&#7907;t &#273;&#7885;c</div>
+                <div className="font-bold text-[var(--color-primary)]">{formatNumber(book.voteCount)}</div>
+                <div className="text-xs text-[var(--color-text-secondary)]">Đề cử</div>
               </div>
               <div className="text-center">
                 <div className="font-bold text-[var(--color-primary)]">{formatNumber(book.commentCount)}</div>

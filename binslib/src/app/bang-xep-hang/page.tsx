@@ -16,13 +16,13 @@ interface Props {
   }>;
 }
 
-const VALID_METRICS: RankingMetric[] = ["view_count", "comment_count", "bookmark_count"];
+const VALID_METRICS: RankingMetric[] = ["vote_count", "view_count", "comment_count", "bookmark_count"];
 
 export default async function RankingsPage({ searchParams }: Props) {
   const params = await searchParams;
   const metric = (VALID_METRICS.includes(params.metric as RankingMetric)
     ? params.metric
-    : "view_count") as RankingMetric;
+    : "vote_count") as RankingMetric;
   const genreSlug = params.genre || undefined;
   const status = params.status ? parseInt(params.status, 10) : undefined;
 
@@ -148,7 +148,17 @@ export default async function RankingsPage({ searchParams }: Props) {
                 <div className="flex-1 min-w-0">
                   <p className="text-sm font-medium text-[var(--color-text)] line-clamp-1">{book.name}</p>
                   <p className="text-xs text-[var(--color-text-secondary)]">
-                    {book.author?.name} &middot; {formatNumber(book.chapterCount)} ch
+                    {book.author && (
+                      <Link
+                        href={`/tac-gia/${book.author.id}`}
+                        className="hover:text-[var(--color-primary)] transition-colors"
+                        onClick={(e: React.MouseEvent) => e.stopPropagation()}
+                      >
+                        {book.author.name}
+                      </Link>
+                    )}
+                    {book.author && <> &middot; </>}
+                    {formatNumber(book.chapterCount)} ch
                   </p>
                 </div>
                 <div className="hidden sm:block">
@@ -157,7 +167,9 @@ export default async function RankingsPage({ searchParams }: Props) {
                 <div className="shrink-0 text-right min-w-[80px]">
                   <span className="text-sm font-bold text-[var(--color-primary)]">
                     {formatNumber(
-                      metric === "view_count"
+                      metric === "vote_count"
+                        ? book.voteCount
+                        : metric === "view_count"
                         ? book.viewCount
                         : metric === "comment_count"
                         ? book.commentCount

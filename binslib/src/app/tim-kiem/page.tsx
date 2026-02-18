@@ -137,9 +137,10 @@ export default async function SearchPage({ searchParams }: Props) {
             </p>
           ) : (
             authorResults.map((author) => (
-              <div
+              <Link
                 key={author.id}
-                className="flex items-center gap-3 p-3 bg-white rounded-lg border border-[var(--color-border)]"
+                href={`/tac-gia/${author.id}`}
+                className="flex items-center gap-3 p-3 bg-white rounded-lg border border-[var(--color-border)] hover:shadow-md transition-shadow"
               >
                 <div className="w-10 h-10 rounded-full bg-[var(--color-primary)] flex items-center justify-center text-white font-bold text-sm shrink-0">
                   {author.name.charAt(0).toUpperCase()}
@@ -153,7 +154,7 @@ export default async function SearchPage({ searchParams }: Props) {
                 <span className="text-xs text-[var(--color-text-secondary)] shrink-0">
                   {author.book_count} truyện
                 </span>
-              </div>
+              </Link>
             ))
           )}
         </div>
