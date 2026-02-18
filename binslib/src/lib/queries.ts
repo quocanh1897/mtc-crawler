@@ -255,6 +255,14 @@ export async function getGenresWithCounts(): Promise<GenreWithCount[]> {
 
 // ─── Chapters ────────────────────────────────────────────────────────────────
 
+export function getAllChapterTitles(
+  bookId: number
+): { indexNum: number; title: string }[] {
+  return sqlite
+    .prepare("SELECT index_num AS indexNum, title FROM chapters WHERE book_id = ? ORDER BY index_num ASC")
+    .all(bookId) as { indexNum: number; title: string }[];
+}
+
 export async function getChaptersByBookId(
   bookId: number,
   page: number = 1,

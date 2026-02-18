@@ -1,0 +1,96 @@
+{
+  "id": 118191,
+  "name": "Hoan Nghênh Đi Vào Địa Ngục Của Ta",
+  "slug": "hoan-nghenh-di-vao-dia-nguc-cua-ta",
+  "kind": 1,
+  "sex": 2,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/hoan-nghenh-di-vao-dia-nguc-cua-ta",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 16203159,
+  "latest_chapter": 22574432,
+  "latest_index": 1283,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/hoan-nghenh-di-vao-dia-nguc-cua-ta/default.jpg?1683459333",
+    "600": "https://static.cdnno.com/poster/hoan-nghenh-di-vao-dia-nguc-cua-ta/600.jpg?1683459333",
+    "300": "https://static.cdnno.com/poster/hoan-nghenh-di-vao-dia-nguc-cua-ta/300.jpg?1683459333",
+    "150": "https://static.cdnno.com/poster/hoan-nghenh-di-vao-dia-nguc-cua-ta/150.jpg?1683459333"
+  },
+  "synopsis": "Thuở nhỏ không may Ngân Tô bị kéo vào vô hạn trò chơi sinh tồn về sau, bị vây ở cái thứ nhất phó bản, muốn chết muốn sống vô hạn Luân Hồi một vạn lần về sau, rốt cục trở về bình thường trò chơi tiến trình.\n\n\tRốt cục không dùng đối mặt cùng một đám quái vật Ngân Tô lệ rơi đầy mặt, quyết định hảo hảo cùng bọn quái vật kết giao bằng hữu.\n\n\tQuái vật nhìn xem tiện tay bóp nát quái vật Ngân Tô, run lẩy bẩy: Không, bọn nó không nghĩ.\n\n\tVề sau trong trò chơi nhiều một đầu cấm kỵ: Rời xa Ngân Tô, nàng có bệnh.\n\n♥♥♥ ỦNG HỘ ĐỂ TA CÓ ĐỘNG LỰC CV NHÉ! ♥♥♥\n\nCác bạn ủng hộ bằng 4 phương thức:\n1. Đánh giá chất lượng truyện và bản convert.\n2. Bấm đề cử, tặng hoa ❁.\n3. Ấn nút Tặng kẹo ? cuối chương.\n4. Ấn Nút like\nChân thành cảm ơn!",
+  "vote_count": 10567,
+  "review_score": "5.000",
+  "review_count": 29,
+  "comment_count": 301,
+  "chapter_count": 1283,
+  "view_count": 0,
+  "word_count": 2189281,
+  "created_at": "2023-05-07T11:35:04.000000Z",
+  "updated_at": "2026-02-17T16:50:56.000000Z",
+  "new_chap_at": "2025-05-07T16:34:39.000000Z",
+  "published_at": "2023-05-07T11:35:04.000000Z",
+  "published": 1,
+  "user_id": 1000075,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Hoan Nghênh Đi Vào Địa Ngục Của Ta",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1209,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000075,
+    "name": "LacMaiTrang",
+    "avatar": [
+      "https://static.cdnno.com/user/d7962d56e9b1a6961a59d5dfd88648ee/200.jpg?1598543928",
+      "https://static.cdnno.com/user/d7962d56e9b1a6961a59d5dfd88648ee/100.jpg?1598543928",
+      "https://static.cdnno.com/user/d7962d56e9b1a6961a59d5dfd88648ee/50.jpg?1598543928"
+    ],
+    "level": 4,
+    "exp": 6104,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1778,
+    "name": "Mặc Linh",
+    "avatar": null,
+    "local_name": "墨泠",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 17,
+      "name": "Khoa Huyễn Không Gian",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 7,
+      "name": "Lãnh Khốc",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 45,
+      "name": "Thời Không Xuyên Toa",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 84,
+      "name": "Sảng Văn",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

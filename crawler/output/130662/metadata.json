@@ -1,0 +1,96 @@
+{
+  "id": 130662,
+  "name": "Fairy Tail: Ta Mới Không Muốn Làm Hội Trưởng",
+  "slug": "fairy-tail-ta-muon-trieu-hoan-baron-nashor",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/fairy-tail-ta-muon-trieu-hoan-baron-nashor",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 18942763,
+  "latest_chapter": 26863127,
+  "latest_index": 1024,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/fairy-tail-ta-muon-trieu-hoan-baron-nashor/default.jpg?1729047569",
+    "600": "https://static.cdnno.com/poster/fairy-tail-ta-muon-trieu-hoan-baron-nashor/600.jpg?1729047569",
+    "300": "https://static.cdnno.com/poster/fairy-tail-ta-muon-trieu-hoan-baron-nashor/300.jpg?1729047569",
+    "150": "https://static.cdnno.com/poster/fairy-tail-ta-muon-trieu-hoan-baron-nashor/150.jpg?1729047569"
+  },
+  "synopsis": "Mở ra đi, liên thông Runeterra cánh cửa!\n\n\tA? Cua sông?\n\n\tMở ra đi, liên thông Runeterra cánh cửa!\n\n\tA? Ba sói?\n\n\tĐằng sau sẽ không là. . . Quả nhiên là sáu chim. . .\n\n\tTa Rhode muốn đổi tên Ivern sao, dã quái có thể đánh thắng ai?\n\n\tKhông đúng, dã quái cũng hẳn là có có thể đánh!\n\n\tTa muốn triệu hoán Rồng nhỏ! Ta muốn triệu hoán Rồng Ngàn Tuổi ! Ta muốn triệu hoán Baron Nashor!\n\n\tLOL+ triệu hoán lưu+ nhiệt huyết+ xuyên qua +nhẹ nhõm",
+  "vote_count": 7851,
+  "review_score": "5.000",
+  "review_count": 63,
+  "comment_count": 1036,
+  "chapter_count": 1022,
+  "view_count": 0,
+  "word_count": 1729749,
+  "created_at": "2024-08-01T17:42:32.000000Z",
+  "updated_at": "2026-02-18T08:30:35.000000Z",
+  "new_chap_at": "2026-02-09T03:12:57.000000Z",
+  "published_at": "2024-08-01T17:42:32.000000Z",
+  "published": 1,
+  "user_id": 1025157,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Fairy Tail: Ta Mới Không Muốn Làm Hội Trưởng",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2380,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1025157,
+    "name": "1 5 0 8",
+    "avatar": [
+      "https://static.cdnno.com/user/7d29eb964e5f45c46783c68b33f0a3fc/200.jpg?1758889136",
+      "https://static.cdnno.com/user/7d29eb964e5f45c46783c68b33f0a3fc/100.jpg?1758889136",
+      "https://static.cdnno.com/user/7d29eb964e5f45c46783c68b33f0a3fc/50.jpg?1758889136"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 7388,
+    "name": "Tưởng Cật Băng Bổng",
+    "avatar": null,
+    "local_name": "想吃冰棒",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 7,
+      "name": "Đồng Nhân",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 101,
+      "name": "Diễn Sinh Đồng Nhân",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 65,
+      "name": "Khế Ước",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

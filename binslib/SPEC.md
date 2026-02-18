@@ -11,16 +11,16 @@
 
 ### What stays from tangthuvien
 
-| Feature                | Notes                                                                                     |
-| ---------------------- | ----------------------------------------------------------------------------------------- |
-| Genre navigation bar   | Horizontal genre bar with book counts, same as tangthuvien's top bar                      |
+| Feature                | Notes                                                                                 |
+| ---------------------- | ------------------------------------------------------------------------------------- |
+| Genre navigation bar   | Horizontal genre bar with book counts, same as tangthuvien's top bar                  |
 | Homepage rankings      | "Đề cử" → `vote_count`, "Yêu thích" → `bookmark_count`, "Bình luận" → `comment_count` |
-| "Bảng xếp hạng" page   | Rankings with filters: metric, genre, status, time period                                 |
-| "Bộ lọc" page          | Multi-criteria filter: status, genre, chapter count, sort order, tags                     |
-| "Thể loại" genre pages | Per-genre listings with the same ranking tabs                                             |
-| Book detail page       | Cover, synopsis, stats, chapter list, comments/reviews                                    |
-| Search                 | Autocomplete dropdown + full results page                                                 |
-| Responsive layout      | Desktop-first, mobile-friendly                                                            |
+| "Bảng xếp hạng" page   | Rankings with filters: metric, genre, status, time period                             |
+| "Bộ lọc" page          | Multi-criteria filter: status, genre, chapter count, sort order, tags                 |
+| "Thể loại" genre pages | Per-genre listings with the same ranking tabs                                         |
+| Book detail page       | Cover, synopsis, stats, chapter list, comments/reviews                                |
+| Search                 | Autocomplete dropdown + full results page                                             |
+| Responsive layout      | Desktop-first, mobile-friendly                                                        |
 
 ### What's removed
 
@@ -54,19 +54,19 @@
 
 ## 2. Tech Stack
 
-| Layer            | Technology                               | Rationale                                                      |
-| ---------------- | ---------------------------------------- | -------------------------------------------------------------- |
-| Framework        | **Next.js 15** (App Router, React 19)    | SSR for fast initial load, API routes for backend              |
-| Language         | **TypeScript**                           | Type safety across frontend and backend                        |
-| Database         | **SQLite** via **better-sqlite3**        | Simple, file-based, no external DB server needed               |
-| Full-text search | **SQLite FTS5**                          | Built-in, no extra infra, supports CJK/Vietnamese tokenization |
-| ORM              | **Drizzle ORM**                          | Lightweight, SQL-first, excellent SQLite support               |
-| Styling          | **Tailwind CSS 4**                       | Utility-first, matches tangthuvien's dense layout              |
-| Auth             | **NextAuth.js v5** (Auth.js)             | Credentials provider (email/password), session management      |
-| Containerization | **Docker + Docker Compose**              | Self-hosted deployment                                         |
-| Data import      | **Node.js script** (`scripts/import.ts`) | Reads JSON files from `crawler/output/` into SQLite            |
-| Cron scheduler   | **node-cron**                            | Runs import polling loop inside the app process                |
-| Progress display | **rich** (Python-style) via **cli-progress** + **chalk** | Terminal progress bars and colored summary reports  |
+| Layer            | Technology                                               | Rationale                                                      |
+| ---------------- | -------------------------------------------------------- | -------------------------------------------------------------- |
+| Framework        | **Next.js 15** (App Router, React 19)                    | SSR for fast initial load, API routes for backend              |
+| Language         | **TypeScript**                                           | Type safety across frontend and backend                        |
+| Database         | **SQLite** via **better-sqlite3**                        | Simple, file-based, no external DB server needed               |
+| Full-text search | **SQLite FTS5**                                          | Built-in, no extra infra, supports CJK/Vietnamese tokenization |
+| ORM              | **Drizzle ORM**                                          | Lightweight, SQL-first, excellent SQLite support               |
+| Styling          | **Tailwind CSS 4**                                       | Utility-first, matches tangthuvien's dense layout              |
+| Auth             | **NextAuth.js v5** (Auth.js)                             | Credentials provider (email/password), session management      |
+| Containerization | **Docker + Docker Compose**                              | Self-hosted deployment                                         |
+| Data import      | **Node.js script** (`scripts/import.ts`)                 | Reads JSON files from `crawler/output/` into SQLite            |
+| Cron scheduler   | **node-cron**                                            | Runs import polling loop inside the app process                |
+| Progress display | **rich** (Python-style) via **cli-progress** + **chalk** | Terminal progress bars and colored summary reports             |
 
 ---
 
@@ -118,6 +118,7 @@ The import script (`scripts/import.ts`) runs in two modes: **one-shot** (CLI) an
 Every import run (whether manual or cron-triggered) displays:
 
 **During import — progress bar:**
+
 ```
 Importing books ████████████░░░░░░░░░░ 156/238  65%  │ book: Mục Thần Ký
   Chapters      ████████████████████░░ 1640/1868 88%
@@ -129,9 +130,10 @@ Importing books ████████████░░░░░░░░░�
 - Elapsed time and ETA displayed on the right
 
 **After import — summary report:**
+
 ```
 ┌─────────────────────────────────────────────┐
-│          Binslib Import Report               │
+│          Binslib Import Report              │
 ├─────────────────────────────────────────────┤
 │  Mode:       incremental                    │
 │  Started:    2026-02-18 14:30:00            │
@@ -161,14 +163,14 @@ Importing books ████████████░░░░░░░░░�
 
 #### CLI Flags
 
-| Flag | Description |
-|------|-------------|
-| `--full` | Drop all data and re-import everything |
-| `--cron` | Start the background polling loop (see §3.3) |
-| `--interval <minutes>` | Polling interval for cron mode (default: 30) |
-| `--ids <id ...>` | Import specific book IDs only |
-| `--dry-run` | Show what would be imported without writing to DB |
-| `--quiet` | Suppress progress bar (log summary only) |
+| Flag                   | Description                                       |
+| ---------------------- | ------------------------------------------------- |
+| `--full`               | Drop all data and re-import everything            |
+| `--cron`               | Start the background polling loop (see §3.3)      |
+| `--interval <minutes>` | Polling interval for cron mode (default: 30)      |
+| `--ids <id ...>`       | Import specific book IDs only                     |
+| `--dry-run`            | Show what would be imported without writing to DB |
+| `--quiet`              | Suppress progress bar (log summary only)          |
 
 ### 3.3 Cron Polling (Background Import)
 
@@ -193,6 +195,7 @@ The import script supports a **cron mode** that continuously polls `crawler/outp
 ```
 
 **Startup banner:**
+
 ```
 Binslib Import Daemon
   Polling: ../crawler/output  every 30 minutes
@@ -203,16 +206,17 @@ Binslib Import Daemon
 ```
 
 **Between cycles**, the script sleeps and displays a countdown:
+
 ```
 Next import in 24m 30s...
 ```
 
 **Configuration:**
 
-| Env Variable | Default | Description |
-|---|---|---|
-| `IMPORT_CRON_INTERVAL` | `30` | Minutes between polling cycles |
-| `IMPORT_CRON_ENABLED` | `false` | Auto-start cron when app starts (Docker) |
+| Env Variable           | Default | Description                              |
+| ---------------------- | ------- | ---------------------------------------- |
+| `IMPORT_CRON_INTERVAL` | `30`    | Minutes between polling cycles           |
+| `IMPORT_CRON_ENABLED`  | `false` | Auto-start cron when app starts (Docker) |
 
 #### Integration with Docker
 
@@ -620,7 +624,7 @@ Three tabs, each showing a ranked top-10 list:
 
 | Tab | Label         | Sort Field            | Display           |
 | --- | ------------- | --------------------- | ----------------- |
-| 1   | **Đề cử**    | `vote_count DESC`     | "8 đề cử"        |
+| 1   | **Đề cử**     | `vote_count DESC`     | "8 đề cử"         |
 | 2   | **Yêu thích** | `bookmark_count DESC` | "2,436 yêu thích" |
 | 3   | **Bình luận** | `comment_count DESC`  | "45 bình luận"    |
 
@@ -699,14 +703,14 @@ Three-tab results:
 
 Multi-criteria book filtering, mirrors tangthuvien's "Bộ lọc":
 
-| Filter         | Options                                        |
-| -------------- | ---------------------------------------------- |
-| **Trạng thái** | Tất cả, Đang ra, Hoàn thành, Tạm dừng          |
-| **Thể loại**   | All genres (clickable pills)                   |
+| Filter         | Options                                               |
+| -------------- | ----------------------------------------------------- |
+| **Trạng thái** | Tất cả, Đang ra, Hoàn thành, Tạm dừng                 |
+| **Thể loại**   | All genres (clickable pills)                          |
 | **Xếp hạng**   | Đề cử, Lượt đọc, Bình luận, Yêu thích, Không xếp hạng |
-| **Số chương**  | Tất cả, 2000+, 1000–2000, 300–1000             |
-| **Sắp xếp**    | Số chương, Truyện mới, Mới cập nhật            |
-| **Tags**       | Tag pills (from DB), expandable                |
+| **Số chương**  | Tất cả, 2000+, 1000–2000, 300–1000                    |
+| **Sắp xếp**    | Số chương, Truyện mới, Mới cập nhật                   |
+| **Tags**       | Tag pills (from DB), expandable                       |
 
 Results shown as book cards with: cover, title, synopsis excerpt, stats, "Đọc truyện" and "Chi tiết" buttons.
 
@@ -1041,11 +1045,11 @@ services:
     ports:
       - "3000:3000"
     volumes:
-      - ../crawler/output:/data/crawler-output        # Book data (rw: meta-puller writes cover.jpg)
-      - ../meta-puller:/data/meta-puller:ro            # Meta-puller scripts (read-only)
-      - ../epub-converter:/data/epub-converter         # EPUB converter (rw: generates .epub files)
-      - ./data:/app/data                               # SQLite DB persistence
-      - ./public/covers:/app/public/covers             # Cover images
+      - ../crawler/output:/data/crawler-output # Book data (rw: meta-puller writes cover.jpg)
+      - ../meta-puller:/data/meta-puller:ro # Meta-puller scripts (read-only)
+      - ../epub-converter:/data/epub-converter # EPUB converter (rw: generates .epub files)
+      - ./data:/app/data # SQLite DB persistence
+      - ./public/covers:/app/public/covers # Cover images
     environment:
       - DATABASE_URL=file:/app/data/binslib.db
       - CRAWLER_OUTPUT_DIR=/data/crawler-output
@@ -1061,8 +1065,8 @@ services:
     volumes:
       - ../crawler/output:/data/crawler-output
       - ../meta-puller:/data/meta-puller:ro
-      - ./data:/app/data                               # Shared SQLite DB with web server
-      - ./public/covers:/app/public/covers             # Shared cover images
+      - ./data:/app/data # Shared SQLite DB with web server
+      - ./public/covers:/app/public/covers # Shared cover images
     environment:
       - DATABASE_URL=file:/app/data/binslib.db
       - CRAWLER_OUTPUT_DIR=/data/crawler-output
@@ -1135,10 +1139,10 @@ npm run import:cron
 
 ### npm scripts
 
-| Script | Command | Description |
-|--------|---------|-------------|
-| `import` | `tsx scripts/import.ts` | One-shot incremental import |
-| `import:full` | `tsx scripts/import.ts --full` | One-shot full re-import |
+| Script        | Command                        | Description                                   |
+| ------------- | ------------------------------ | --------------------------------------------- |
+| `import`      | `tsx scripts/import.ts`        | One-shot incremental import                   |
+| `import:full` | `tsx scripts/import.ts --full` | One-shot full re-import                       |
 | `import:cron` | `tsx scripts/import.ts --cron` | Start background polling daemon (every 30min) |
 
 ### Ongoing usage — Cron Daemon
@@ -1157,6 +1161,7 @@ npm run import:cron -- --interval 10
 ```
 
 The daemon will:
+
 1. Run an incremental import immediately on startup
 2. Show a progress bar and summary report for each run
 3. Sleep until the next cycle (displaying a countdown timer)

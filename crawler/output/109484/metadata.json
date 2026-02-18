@@ -1,0 +1,96 @@
+{
+  "id": 109484,
+  "name": "Cửu Tinh Bá Thể Quyết",
+  "slug": "cuu-tinh-ba-the-quyet",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/cuu-tinh-ba-the-quyet",
+  "note": "Đề cử truyện:\nKhông Phải, Ta Điện Tử Bạn Gái Thế Nào Tu Thành Kiếm Tiên\nĐiên Rồi Đi? Ta Vừa Tiên Thiên Hắn Thì Tiên Đế!\nGiết Địch Bạo Tu Vi, Ta Công Lực Ngập Trời!\nThái Cổ Thần Tôn\nĐể Ngươi Người Quản Lý Phế Vật Lớp, Làm Sao Thành Võ Thần Điện",
+  "status_name": "Còn tiếp",
+  "first_chapter": 14075723,
+  "latest_chapter": 26891616,
+  "latest_index": 7083,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/cuu-tinh-ba-the-quyet/default.jpg?1634010296",
+    "600": "https://static.cdnno.com/poster/cuu-tinh-ba-the-quyet/600.jpg?1634010296",
+    "300": "https://static.cdnno.com/poster/cuu-tinh-ba-the-quyet/300.jpg?1634010296",
+    "150": "https://static.cdnno.com/poster/cuu-tinh-ba-the-quyet/150.jpg?1634010296"
+  },
+  "synopsis": "Là Đan Đế trọng sinh? Là dung hợp linh hồn? Bị đánh cắp linh căn, linh huyết, linh cốt ba không thiếu niên — — Long Trần, nương tựa theo trong trí nhớ luyện đan thần thuật, tu hành thần bí công pháp Cửu Tinh Bá Thể Quyết, đẩy ra sương mù dày đặc, giải khai cái bẫy động trời.\n\n\tTay cầm thiên địa càn khôn, chân đạp nhật nguyệt tinh thần, thông đồng các loại mỹ nữ, trấn áp ác quỷ tà thần.\n\n\tGiang hồ truyền văn: Long Trần vừa đến, địa hống thiên khiếu. Long Trần vừa ra, quỷ khóc thần khóc.",
+  "vote_count": 8029,
+  "review_score": "4.623",
+  "review_count": 45,
+  "comment_count": 2670,
+  "chapter_count": 7073,
+  "view_count": 0,
+  "word_count": 15020549,
+  "created_at": "2021-10-12T03:44:58.000000Z",
+  "updated_at": "2026-02-18T13:11:00.000000Z",
+  "new_chap_at": "2026-02-18T12:00:43.000000Z",
+  "published_at": "2021-10-12T03:44:56.000000Z",
+  "published": 1,
+  "user_id": 1000020,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Cửu Tinh Bá Thể Quyết",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 5633,
+  "chapter_per_week": 9,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000020,
+    "name": "Vô Ưu",
+    "avatar": [
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/200.jpg?1635993328",
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/100.jpg?1635993328",
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/50.jpg?1635993328"
+    ],
+    "level": 3,
+    "exp": 1649,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 5391,
+    "name": "Bình Phàm Ma Thuật Sư",
+    "avatar": null,
+    "local_name": "九星霸体诀",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 3,
+      "name": "Vô Sỉ",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 83,
+      "name": "Vả Mặt",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

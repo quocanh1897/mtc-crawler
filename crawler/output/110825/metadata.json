@@ -1,0 +1,101 @@
+{
+  "id": 110825,
+  "name": "Tổng Mạn: The Gamer",
+  "slug": "tong-man-the-gamer",
+  "kind": 2,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://vtruyen.com/truyen/tong-man-the-gamer",
+  "note": "Truyện mới cầu tương tác: đánh giá, đề cử hoa, tặng quà, bình luận trên 10 chữ, thả cảm xúc.",
+  "status_name": "Còn tiếp",
+  "first_chapter": 14397788,
+  "latest_chapter": 26861620,
+  "latest_index": 1331,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tong-man-the-gamer/default.jpg?1642865106",
+    "600": "https://static.cdnno.com/poster/tong-man-the-gamer/600.jpg?1642865106",
+    "300": "https://static.cdnno.com/poster/tong-man-the-gamer/300.jpg?1642865106",
+    "150": "https://static.cdnno.com/poster/tong-man-the-gamer/150.jpg?1642865106"
+  },
+  "synopsis": "Chứng kiến một tên thanh niên ngày ngày sinh hoạt chỉ là ngủ dậy, đi làm rồi lại trở về nhà nằm ngủ thì một vị thần liền quyết định giúp hắn có được một cuộc sống thú vị hơn.\n\nNhưng nhìn tên thanh niên này lại bỏ chạy khi chạm mặt tên tội phạm giết người mà mình sắp xếp cho hắn gặp thì vị thần này không khỏi tức giận.\n\n\"Đừng có chạy, để ta giúp ngươi chuyển sinh !\"\n\nTên thanh niên chạy tới đầu đường thì lại gặp phải một chiếc xe tải lao về phía mình. May mà hắn phản ứng nhanh nên nhảy qua một bên tránh được.\n\nTại thần giới lại là vị thần kia giận dữ quát lớn:\n\n\"Ta nếu không thể khiến ngươi chuyển sinh thì ta sẽ không làm thần nữa !\"\n\nThế là một viên thiên thạch khổng lồ không biết từ đâu xuất hiện rơi thẳng xuống đầu tên thanh niên kia.\n------------\n\nBộ truyện thứ 3 của tác giả Keima42. Tác giả đã hoàn thành hai bộ The Gamer Hệ Thống (1010 chương) và Gamer Xưng Bá Dị Giới (1056 chương). Nhân phẩm đảm bảo, tuyệt đối không drop !",
+  "vote_count": 47472,
+  "review_score": "4.981",
+  "review_count": 87,
+  "comment_count": 2879,
+  "chapter_count": 1331,
+  "view_count": 0,
+  "word_count": 2387744,
+  "created_at": "2022-01-22T07:49:41.000000Z",
+  "updated_at": "2026-02-18T02:30:15.000000Z",
+  "new_chap_at": "2026-02-08T14:12:32.000000Z",
+  "published_at": "2022-01-22T15:25:32.000000Z",
+  "published": 1,
+  "user_id": 1000024,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Tổng Mạn: The Gamer",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2171,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 350400,
+  "discount": 0,
+  "creator": {
+    "id": 1000024,
+    "name": "Keima42",
+    "avatar": [
+      "https://static.cdnno.com/user/6ad0f8bf32b1fd3b286fd244f7656637/200.jpg?1590806043",
+      "https://static.cdnno.com/user/6ad0f8bf32b1fd3b286fd244f7656637/100.jpg?1590806043",
+      "https://static.cdnno.com/user/6ad0f8bf32b1fd3b286fd244f7656637/50.jpg?1590806043"
+    ],
+    "level": 4,
+    "exp": 7025,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3167,
+    "name": "",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 7,
+      "name": "Đồng Nhân",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 10,
+      "name": "Giảo Hoạt",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 94,
+      "name": "Chư Thiên Vạn Giới",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

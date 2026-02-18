@@ -1,62 +1,69 @@
 {
-  "id": 150811,
-  "name": "Cao Võ: Một Bài Hiệp Khách Hành Bắt Đầu Lĩnh Ngộ Thái Huyền Kinh",
-  "slug": "cao-vo-mot-bai-hiep-khach-hanh-bat-dau-linh-ngo-thai-huyen-kinh",
+  "id": 122376,
+  "name": "Cổ Long Thế Giới Bên Trong Ăn Dưa Kiếm Khách",
+  "slug": "co-long-the-gioi-ben-trong-an-dua-kiem-khach",
   "kind": 1,
   "sex": 1,
   "state": "Đã xuất bản",
-  "status": 1,
-  "link": "https://metruyencv.com/truyen/cao-vo-mot-bai-hiep-khach-hanh-bat-dau-linh-ngo-thai-huyen-kinh",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/co-long-the-gioi-ben-trong-an-dua-kiem-khach",
   "note": "",
-  "status_name": "Còn tiếp",
-  "first_chapter": 25787798,
-  "latest_chapter": 26720121,
-  "latest_index": 631,
+  "status_name": "Hoàn thành",
+  "first_chapter": 17162958,
+  "latest_chapter": 19845910,
+  "latest_index": 751,
   "high_quality": 0,
-  "manager_pick": 0,
+  "manager_pick": 1,
   "poster": {
-    "default": "https://static.cdnno.com/poster/cao-vo-mot-bai-hiep-khach-hanh-bat-dau-linh-ngo-thai-huyen-kinh/default.jpg?1764603373",
-    "600": "https://static.cdnno.com/poster/cao-vo-mot-bai-hiep-khach-hanh-bat-dau-linh-ngo-thai-huyen-kinh/600.jpg?1764603373",
-    "300": "https://static.cdnno.com/poster/cao-vo-mot-bai-hiep-khach-hanh-bat-dau-linh-ngo-thai-huyen-kinh/300.jpg?1764603373",
-    "150": "https://static.cdnno.com/poster/cao-vo-mot-bai-hiep-khach-hanh-bat-dau-linh-ngo-thai-huyen-kinh/150.jpg?1764603373"
+    "default": "https://static.cdnno.com/poster/co-long-the-gioi-ben-trong-an-dua-kiem-khach/default.jpg?1702259559",
+    "600": "https://static.cdnno.com/poster/co-long-the-gioi-ben-trong-an-dua-kiem-khach/600.jpg?1702259559",
+    "300": "https://static.cdnno.com/poster/co-long-the-gioi-ben-trong-an-dua-kiem-khach/300.jpg?1702259559",
+    "150": "https://static.cdnno.com/poster/co-long-the-gioi-ben-trong-an-dua-kiem-khach/150.jpg?1702259559"
   },
-  "synopsis": "Đây là một thế giới lấy võ vi tôn, cá lớn nuốt cá bé, mạng người như cỏ rác.\n\nTiêu Vũ tỉnh lại sau một giấc ngủ, phát hiện mình đã xuyên không đến thế giới xa lạ này, được một đám sơn tặc ngáo ngơ cứu giúp và lầm tưởng là cao thủ võ lâm trong truyền thuyết.\n\nBị ép phải ra mặt, hắn vốn chỉ định dùng một bài thơ «Hiệp Khách Hành» để lừa bịp cho qua chuyện, nào ngờ lại thức tỉnh hệ thống, trực tiếp lĩnh ngộ được Thái Huyền Kinh.\n\nTừ đó, con đường thu đồ đệ và trang bức của hắn ngày càng rộng mở.",
-  "vote_count": 82,
-  "review_score": "2.900",
-  "review_count": 2,
-  "comment_count": 17,
-  "chapter_count": 631,
+  "synopsis": "Buông xuống giúp người tình kết, tôn trọng người khác vận mệnh!\n\n\tNhững cái kia nhân vật chính không cần trợ giúp.\n\n\tThật vất vả xuyên qua một lần, ngoại trừ một chút ý khó bình, còn lại chính là trải qua một chút tên tràng diện, ăn dưa xem kịch le le rãnh.\n\n\tĐương nhiên còn có. . .\n\n\tDanh kiếm, rượu ngon, tuyệt thế giai nhân!",
+  "vote_count": 1612,
+  "review_score": "4.976",
+  "review_count": 37,
+  "comment_count": 471,
+  "chapter_count": 751,
   "view_count": 0,
-  "word_count": 1080527,
-  "created_at": "2025-12-01T15:13:37.000000Z",
-  "updated_at": "2026-02-18T13:32:07.000000Z",
-  "new_chap_at": "2026-02-18T13:32:00.000000Z",
-  "published_at": "2025-12-01T15:13:37.000000Z",
+  "word_count": 1312036,
+  "created_at": "2023-12-11T01:52:24.000000Z",
+  "updated_at": "2026-02-18T15:36:17.000000Z",
+  "new_chap_at": "2024-10-19T03:32:40.000000Z",
+  "published_at": "2023-12-11T01:52:24.000000Z",
   "published": 1,
-  "user_id": 1084973,
+  "user_id": 1000065,
   "object_type": "Book",
-  "bookmark_count": 200,
-  "chapter_per_week": 14,
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Cổ Long Thế Giới Bên Trong Ăn Dưa Kiếm Khách",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2526,
+  "chapter_per_week": 0,
   "ready_for_sale": 0,
   "discount_price": 0,
   "discount": 0,
   "creator": {
-    "id": 1084973,
-    "name": "Note Book",
+    "id": 1000065,
+    "name": "KiếmTiềnMuaSữa",
     "avatar": [
-      "https://static.cdnno.com/user/66c10b39a8f74c217e1e60c10b8403d0/200.jpg?1767845034",
-      "https://static.cdnno.com/user/66c10b39a8f74c217e1e60c10b8403d0/100.jpg?1767845034",
-      "https://static.cdnno.com/user/66c10b39a8f74c217e1e60c10b8403d0/50.jpg?1767845034"
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/200.jpg?1769515356",
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/100.jpg?1769515356",
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/50.jpg?1769515356"
     ],
-    "level": 0,
-    "exp": 0,
+    "level": 2,
+    "exp": 456,
     "object_type": "User"
   },
   "author": {
-    "id": 28300,
-    "name": "Thực Đường Chưởng Trù",
+    "id": 17801,
+    "name": "Tây Qua Cật Bồ Đào",
     "avatar": null,
-    "local_name": "食堂掌厨",
+    "local_name": "西瓜吃葡萄",
     "object_type": "Author"
   },
   "genres": [
@@ -64,6 +71,20 @@
       "id": 3,
       "name": "Huyền Huyễn",
       "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "Vô Sỉ",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 12,
+      "name": "Dị Thế Đại Lục",
+      "type_id": "2",
+      "object_type": "Tag"
     }
   ]
 }

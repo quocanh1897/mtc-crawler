@@ -1,0 +1,81 @@
+Chương 143: Hệ Thống Bảo Mật
+
+Chương 143: Hệ Thống Bảo Mật
+
+Nguyễn Mạnh trợn mắt nhìn Trần Thiên Nam, điệu bộ như đang ăn vụng quan sát bốn phía kéo Trần Thiên Nam lại nói nhỏ.
+
+- Chuyện này không phải có thể đùa?
+
+- Cháu nói thật.
+
+- Giá trị bao nhiêu?
+
+- Hùng chục tỷ đô, thậm chí là hàng trăm.
+
+Nguyễn Mạnh trợn trắng mắt, lại nhìn sang Lê Huyên Huyên đứng ở bên cạnh nhìn mình chằm chằm, tựa như mà có gì đó không đúng là thịt mình ngay lập tức, khẽ nuốt nước bọt một cái.
+
+- Chuyện này bác không thể xen vào được, có người sẽ tới tìm cháu, cháu khẳng định là thật?
+
+Trần Thiên Nam nghiêm túc gật đầu, dĩ nhiên hắn không giao cho Nguyễn Mạnh, cho dù đối phương quen biết cụ ngoại đi chăng nữa, giá trị đặt nên lòng tin không lớn.
+
+Nguyễn Mạnh trong đầu nổ ầm ầm, quả nhiên con cháu nhà này toàn thú dữ không phải người thường có thể so sánh được, mở miệng một cái toàn nói chuyện trên trời, bất quá người ta thật sự có tư cách để nói, ai bảo gốc rễ lớn cơ chứ, cái này là kĩ năng đầu thai.
+
+Sau đó Nguyễn Mạnh rời đi, hai người Trần Thiên Nam cùng Lê Huyên Huyên đi về, giữa trưa chú Tùng đã lái xe xuống nhà đón hắn, cô Linh đi chung việc này không nhỏ, cần sự có mặt tham gia của tất cả cổ đông, đón Nga cùng thằng Tú chiếc audi phóng thẳng tới trụ sợ của công ty công nghệ JN.
+
+- Tổ chức buổi họp đã xong, xin mời mọi người.
+
+Chú Sơn tự mình đón người ở sảnh chính công ty, sau khi chào hỏi với nhau liền đi lên trên bước vào phòng họp, hôm nay Trần Thiên Nam quyết định lộ diện, hiện tại hắn chưa đủ tuổi để điều hành công ty nhưng chức danh vẫn treo ở đó, mọi quyết định thực tế là ở cô Linh, người đại diện pháp lý của công ty công nghệ JN.
+
+Trần Thiên Nam ngồi vào vị trí chủ tịch, chức danh đã được đặt ở phòng họp, trong phòng họp có mười hai người đại diện các phòng ban...của công ty, qua gần hai năm phát triển công ty công nghệ JN trên phương diện game đã đạt được thành công nhất định, lọt top 100 công ty triển vọng nhất, đạt được khen thưởng của các cấp ban ngành.
+
+- Xin chào mọi người, tôi là Trần Thiên Nam là người đồng sáng lập công ty công nghệ JN, nơi mà mọi người đang làm việc.
+
+Vẻ mặt những người ngồi ở đây có tò mò, có đặc sắc, có người bất động không lộ ra suy nghĩ của mình, chung quy họ đều có một suy nghĩ chung, người này còn quá trẻ tựa như một học sinh, chú Sơn lên tiếng.
+
+- Như mọi người đã biết, hôm nay công ty công nghệ JN bổ nhiệm vị trí giám đốc bảo mật, chuyện thứ hai chính là công bố sản phẩm bảo mật VNBM thế hệ 1.
+
+Chú Sơn nói xong tất cả mọi người đều nhìn về người đeo kính ôm một chiếc máy tính ngồi ở một bên, dưới ánh mắt của mọi người Tú đứng dậy giới thiệu.
+
+- Xin chào mọi người, tôi tên Nguyễn Đăng Tú, không để mọi người mất thêm thời gian quý báu của mình, tôi sẽ trình bày ngắn gọn dễ hiểu nhất về VNBM thế hệ 1 cho mọi người...
+
+Thằng Tú bắt đầu thuyết trình của mình, càng về sau vẻ mặt mọi người ở đây càng biến đổi, họ hiểu vì sao trước khi bắt đầu cuộc họp này an ninh của công ty lại tạm thời thu giữ điện thoại thiết bị cá nhân ở bên ngoài.
+
+Hệ thống bảo mật VNBM thế hệ 1 này theo những gì được thuyết trình sẽ tạo thành một cơn sóng mãnh liệt trong ngành bảo mật của toàn thế giới, người này chính xác là một thiên tài vượt thời đại, đây là suy nghĩ chung của mọi người đang ngồi họp ở đây.
+
+- Cảm ơn mọi người.
+
+Thằng Tú ngồi xuống, Trần Thiên Nam liền đứng dậy quét ánh mắt nhìn một vòng nghiêm túc nói.
+
+- Câu này giống như một trò đùa nhưng tôi vẫn phải nói, các vị ngồi ở đây hôm nay được xem như nòng cốt của công ty công nghệ JN, việc các vị đã và đang làm đều là cống hiến chung vì lợi ích của tất cả mọi người, việc này không thể chối cãi, nhưng hôm nay tại đây ngay lúc này tôi nhấn mạnh một điều.
+
+Tất cả mọi người đều nhìn Trần Thiên Nam, người trẻ tuổi trước mặt không thể đánh giá qua vẻ bên ngoài, Trần Thiên Nam nhìn tất cả mọi người một lần nữa rồi nói tiếp.
+
+- Ai không thể chịu được áp lực thì rời đi trước khi bắt đầu.
+
+Mười hai người ngoài cô Linh chú Sơn ra, đây đều là người giữ vị trí quan trọng của công ty, là lãnh đạo phòng ban...họ ngồi được vị trí như ngày hôm nay là sự hi sinh cống hiến hết mình vì công việc, nhưng hôm nay họ biết chuyện này sẽ tạo thành chuyện gì, là áp lực lớn chưa từng có của công ty, vượt qua mọi người cùng nhau bay thẳng lên cao, không vượt qua tất cả đều trở về con số không, có người bắt đầu do dự với sự lựa chọn của mình.
+
+Trần Thiên Nam để mọi người lựa chọn, người ở lại phải đối mặt với áp lực khủng khiếp từ mọi góc cạnh, lợi ích nhận được sẽ rất lớn, nếu rời đi an ổn sẽ chẳng có nguy cơ gì, nhưng ai lại cam lòng rời đi, đứng trước lợi ích lớn chưa từng có họ chọn lựa chìm mình vào trong đó, thành công mọi người một bước lên trời trở thành ông nọ bà kia, thất bại cùng lắm thì trở về nhà, sống qua ngày không khó, chỉ là thiếu thốn mà thôi.
+
+- Biểu quyết đi, ai ở lại dơ tay còn ngược lại thì xin mời rời đi, mọi thủ tục sẽ được bàn giao ngay lập tức, hơi phiền nhưng không sao.
+
+Trần Thiên Nam lạnh nhạt nói ra, mười hai cánh tay đồng loạt dơ lên, Trần Thiên Nam gật đầu hài lòng, ai mà chẳng có tâm tư riêng của mình, khi đối mặt trực tiếp với áp lực mới lộ ra bản chất thật sự, hiện tại mười hai người này dơ tay, nhưng ngày mai có người không chịu được áp lực sẽ tự động biến mất.
+
+Hắn không quan tâm lắm, ít nhất là còn cô Linh chú Sơn chống đỡ là được, thêm vào các mối quan hệ, Trần Thiên Nam không tin ở trên địa bàn của mình những quái vật công nghệ nước ngoài có thể ép chết công ty công nghệ JN được.
+
+- Cảm ơn mọi người đã đưa ra lựa chọn của mình, sáng mai chín giờ sáng công ty chúng ta sẽ công bố sản phẩm bảo mật VNBM 1, hi vọng mọi người chịu đựng được tới phút cuối cùng, tan họp.
+
+Sau đó mấy người ở lại trong phòng họp trao đổi một số thứ, bốn người Trần Thiên Nam, Tú, Nga, cô Linh lên xe chú Tùng đưa về, chuyện còn lại để cho chú Sơn lo nốt.
+
+Chỉ còn một mình ở lại trong căn phòng họp, Sơn thở dài một hơi lẩm bẩm.
+
+- Không ngờ tới về Việt Nam lại có thể đem mình bước tới một bước này, áp lực lớn ha ha, chịu được thì hóa rồng, không chịu được liền về quê nuôi cá trồng rau.
+
+Sáng ngày hôm sau công ty công nghệ JN công bố sản phẩm bảo mật đầu tiên VNBM 1, ngay sau đó là một trận bão tố khổng lồ quét qua ngành bảo mật của thế giới, các hacker tấn công vào VNBM 1, các quốc gia, tổ chức dần dần phát hiện ra bảo mật của VNBM 1 rất khó để phá bỏ, là một tầng thứ bảo mật muốn vượt lên thời đại.
+
+-Ôi chúa ơi, tên nào tạo ra thứ bảo mật này vậy?
+
+Trong một căn phòng lộn xộn, một tên đàn ông râu ria mọc rậm, hai mắt thâm quầng, bàn tay đang thao tác trên bàn phím máy tính, một loại màn hình xanh lá, màu trắng hiện lên, hacker thiên tài Kevin Gary niềm khiếp sợ của các tổ chức quốc gia.
+
+Thời buổi hiện đại hóa càng ngày càng phổ biến trong nhiều ngành nhiều lĩnh vực, số lượng hacker tăng theo đó, trong thế giới hacker có năm cái tên nổi bật nhất trong đó có cái tên Kevin Gary biệt danh Thỏ Đen, lúc này đang điên cuồng tấn công vào hệ thống bảo mật VNBM 1, nhưng kết quả sự xâm nhập bị chặn đứng hoàn toàn, không một kẽ hở.
+
+- Vì sao lại làm được? Không, nhất định phải có lỗ hổng, Kevin Gary này không tin không phá được hệ thống bảo mật chết tiệt này....

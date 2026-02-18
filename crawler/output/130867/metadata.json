@@ -1,0 +1,102 @@
+{
+  "id": 130867,
+  "name": "Điên Rồi Đi? Ta Vừa Tiên Thiên Hắn Thì Tiên Đế!",
+  "slug": "dien-roi-di-ta-vua-tien-thien-han-thi-tien-de",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/dien-roi-di-ta-vua-tien-thien-han-thi-tien-de",
+  "note": "Đề cử truyện:\nGiết Địch Bạo Tu Vi, Ta Công Lực Ngập Trời!\nKhông Phải, Ta Điện Tử Bạn Gái Thế Nào Tu Thành Kiếm Tiên\nĐể Ngươi Người Quản Lý Phế Vật Lớp, Làm Sao Thành Võ Thần Điện\nThái Cổ Thần Tôn",
+  "status_name": "Còn tiếp",
+  "first_chapter": 19002195,
+  "latest_chapter": 26887590,
+  "latest_index": 1301,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/dien-roi-di-ta-vua-tien-thien-han-thi-tien-de/default.jpg?1726462606",
+    "600": "https://static.cdnno.com/poster/dien-roi-di-ta-vua-tien-thien-han-thi-tien-de/600.jpg?1726462606",
+    "300": "https://static.cdnno.com/poster/dien-roi-di-ta-vua-tien-thien-han-thi-tien-de/300.jpg?1726462606",
+    "150": "https://static.cdnno.com/poster/dien-roi-di-ta-vua-tien-thien-han-thi-tien-de/150.jpg?1726462606"
+  },
+  "synopsis": "Lục Trường Sinh xuyên việt qua dị giới, giác tỉnh đại đạo máy mô phỏng. \n\nHắn phát hiện chỉ cần nạp tiền mô phỏng, thì có thể không ngừng mạnh lên. \n\n【 17 tuổi, ngươi xuyên việt Tiểu Nguyên giới, quyền trấn tam giáo lục tông, thế nhân xưng ngươi là Võ Tổ! 】 \n\n【 18 tuổi, ngươi tiến vào 3000 Đạo Vực. 】 \n\n【  hắc ám sắp tới, thế nhân đau khổ, ngươi phạt thiên thành đế, chung kết kỷ nguyên chi kiếp, thế nhân tôn ngươi vì Trường Sinh Thiên Đế! 】 \n\n【 19 tuổi, ngươi đánh vào Tiên Vực. 】 \n\n【 20 tuổi, ngươi trở thành Tiên Đế, quét ngang hết thảy địch! 】 ... \n\nMột ngày này, Lục Trường Sinh trở lại chốn cũ, Tiên Đế đi tuần, vạn giới cùng chúc mừng. \"Ha ha, ta rốt cục Tiên Thiên!\" Vách đá ầm ầm mà nát, một vị phàm giới bạn cũ phá quan mà ra, làm hắn ngẩng đầu nhìn đến ngồi tại long liễn phía trên Lục Trường Sinh, kinh hãi muốn tuyệt nói: \"Mẹ nó, lúc này mới bao lâu, ngươi làm sao lại thành Tiên Đế! ? ?\"",
+  "vote_count": 2428,
+  "review_score": "4.910",
+  "review_count": 33,
+  "comment_count": 1521,
+  "chapter_count": 1301,
+  "view_count": 0,
+  "word_count": 2368857,
+  "created_at": "2024-08-07T01:26:36.000000Z",
+  "updated_at": "2026-02-18T06:07:48.000000Z",
+  "new_chap_at": "2026-02-16T08:34:28.000000Z",
+  "published_at": "2024-08-07T01:26:36.000000Z",
+  "published": 1,
+  "user_id": 1000020,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Điên Rồi Đi? Ta Vừa Tiên Thiên Hắn Thì Tiên Đế!",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 4075,
+  "chapter_per_week": 6,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000020,
+    "name": "Vô Ưu",
+    "avatar": [
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/200.jpg?1635993328",
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/100.jpg?1635993328",
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/50.jpg?1635993328"
+    ],
+    "level": 3,
+    "exp": 1649,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 16544,
+    "name": "Vĩnh Hằng Hỏa Diễm",
+    "avatar": null,
+    "local_name": "永恒火焰",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "Vô Sỉ",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

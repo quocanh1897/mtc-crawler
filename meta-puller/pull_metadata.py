@@ -134,11 +134,24 @@ def get_book_ids() -> list[int]:
 
 
 def needs_pull(book_id: int, force: bool) -> bool:
-    """Check if a book directory is missing metadata."""
+    """Check if a book directory is missing metadata, cover, or author."""
     if force:
         return True
-    meta_path = os.path.join(OUTPUT_DIR, str(book_id), "metadata.json")
-    return not os.path.exists(meta_path)
+    book_dir = os.path.join(OUTPUT_DIR, str(book_id))
+    meta_path = os.path.join(book_dir, "metadata.json")
+    cover_path = os.path.join(book_dir, "cover.jpg")
+    if not os.path.exists(meta_path) or not os.path.exists(cover_path):
+        return True
+    try:
+        with open(meta_path) as f:
+            meta = json.load(f)
+        author_name = (meta.get("author") or {}).get("name", "")
+        creator_name = (meta.get("creator") or {}).get("name", "")
+        if not author_name and not creator_name:
+            return True
+    except Exception:
+        return True
+    return False
 
 
 def pull_one(client: httpx.Client, book_id: int, log=print) -> bool:
@@ -157,20 +170,48 @@ def pull_one(client: httpx.Client, book_id: int, log=print) -> bool:
         json.dump(book, f, indent=2, ensure_ascii=False)
 
     # Download cover image
+    cover_ok = False
     poster = book.get("poster")
     if poster and isinstance(poster, dict):
-        if not download_cover(client, poster, cover_path):
-            log(f"  [yellow]WARNING[/yellow] {book_id}: cover download failed")
+        cover_ok = download_cover(client, poster, cover_path)
     elif poster and isinstance(poster, str):
         try:
             r = client.get(poster, follow_redirects=True, timeout=30)
             if r.status_code == 200 and len(r.content) > 100:
                 with open(cover_path, "wb") as f:
                     f.write(r.content)
-        except Exception as e:
-            log(f"  [yellow]WARNING[/yellow] {book_id}: cover failed: {e}")
+                cover_ok = True
+        except Exception:
+            pass
+
+    if not cover_ok:
+        log(f"  [yellow]WARNING[/yellow] {book_id}: no cover found")
+        # Retry from poster.default in existing metadata on disk
+        if not _retry_cover_from_metadata(client, book_id, cover_path):
+            log(f"  [red]ALERT[/red] {book_id}: cover still missing after retry")
 
     return True
+
+
+def _retry_cover_from_metadata(client: httpx.Client, book_id: int, cover_path: str) -> bool:
+    """Try downloading cover from poster.default stored in metadata.json."""
+    meta_path = os.path.join(OUTPUT_DIR, str(book_id), "metadata.json")
+    if not os.path.exists(meta_path):
+        return False
+    try:
+        with open(meta_path) as f:
+            meta = json.load(f)
+        url = (meta.get("poster") or {}).get("default")
+        if not url:
+            return False
+        r = client.get(url, follow_redirects=True, timeout=30)
+        if r.status_code == 200 and len(r.content) > 100:
+            with open(cover_path, "wb") as f:
+                f.write(r.content)
+            return True
+    except Exception:
+        pass
+    return False
 
 
 # ── Main ────────────────────────────────────────────────────────────────────
@@ -208,16 +249,33 @@ def main():
 
     if args.list:
         if not pending:
-            print("All books have metadata.json.")
+            print("All books have metadata.json + cover.jpg + author.")
         else:
-            print("Books missing metadata.json:")
+            print("Books missing metadata, cover, or author:")
             for bid in pending:
-                book_json = os.path.join(OUTPUT_DIR, str(bid), "book.json")
+                book_dir = os.path.join(OUTPUT_DIR, str(bid))
+                book_json = os.path.join(book_dir, "book.json")
                 name = "?"
                 if os.path.exists(book_json):
                     with open(book_json) as f:
                         name = json.load(f).get("book_name", "?")
-                print(f"  {bid}: {name}")
+                missing_parts = []
+                meta_path = os.path.join(book_dir, "metadata.json")
+                if not os.path.exists(meta_path):
+                    missing_parts.append("metadata")
+                else:
+                    try:
+                        with open(meta_path) as f:
+                            meta = json.load(f)
+                        author_name = (meta.get("author") or {}).get("name", "")
+                        creator_name = (meta.get("creator") or {}).get("name", "")
+                        if not author_name and not creator_name:
+                            missing_parts.append("author")
+                    except Exception:
+                        missing_parts.append("author?")
+                if not os.path.exists(os.path.join(book_dir, "cover.jpg")):
+                    missing_parts.append("cover")
+                print(f"  {bid}: {name}  [missing: {', '.join(missing_parts)}]")
         return
 
     if not pending:

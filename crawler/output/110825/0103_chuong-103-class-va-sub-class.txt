@@ -1,0 +1,217 @@
+Chương 103: Class và sub-class
+
+Chương 103: Class và sub-class
+
+Trước đó Sena cần 110 exp để tăng cấp lên 20.
+
+Bây giờ sau khi hoàn thành nhiệm vụ giải cứu và tặng quà cho Siesta thì hắn đã nhận được đủ 110 exp và tăng lên tới cấp 20.
+
+Thứ đầu tiên mà Sena quan sát khi tăng lên cấp 20 không phải là bảng chỉ số của mình mà là cuộn giấy chuyển chức Knight.
+
+Cuộn giấy chuyển chức này yêu cầu phải đạt tới cấp 20 mới có thể sử dụng. Bây giờ đã đạt tới cấp độ yêu cầu thì Sena nóng lòng muốn thử.
+
+"Có muốn sử dụng Cuộn giấy chuyển chức Knight không? Sau khi sử dụng sẽ không thể thay đổi."
+
+Sena nghe thấy việc chuyển chức là không thể đảo ngược thì trong lòng cũng hơi do dự. Nhưng sau đó hắn liền quyết định tiếp tục.
+
+Hiện tại Sena cũng chẳng có cuộn giấy chuyển chức nào khác, class Knight là lựa chọn duy nhất của hắn rồi.
+
+-Sử dụng cuộn giấy chuyển chức Knight!
+
+Sena vừa nói xong thì cuộn giấy da trong tay liền hóa thành một tia sáng bay thẳng về phía hắn.
+
+Sena còn chưa kịp cảm nhận điều gì thì việc chuyển chức đã hoàn thành rồi.
+
+"Chuyển chức thành công, nhận được class chính: Knight"
+
+"Chuyển chức class chính thành công, mở ra class phụ"
+
+"Chỉ số cơ bản cộng thêm khi lên cấp thay đổi.
+
+Str+4
+
+Vit+5
+
+Agi+3
+
+Int+3"
+
+"Chỉ số thiên phú thay đổi.
+
+Atk: S (2.65)
+
+Spd: A- (2.2)
+
+M.Atk: B+ (2.15)
+
+Def: S+ (1.1)
+
+Ref: A (0.85)
+
+M.Res: A+ (0.9)"
+
+Tên: Kobayakawa Sena
+
+Class: Knight
+
+Sub-Class: None
+
+Hp: 980/980
+
+Mp: 720/720
+
+Level: 20 (0/200)
+
+Str: 82 (68+14)
+
+Vit: 88 (57+31)
+
+Agi: 90 (48+42)
+
+Int: 62 (24+38)
+
+Sena bây giờ mới mở ra bảng chỉ số của mình để xem.
+
+Sau hơn nửa năm luyện tập chủ yếu là để nâng cao thể lực và tốc độ thì đương nhiên hai chỉ số này là tăng lên nhiều nhất, đặc biệt là sau khi hoàn thành Death March.
+
+Ngoài ra nhờ chăm chỉ luyện tập siêu năng lực nên chỉ số Int cũng tăng mạnh.
+
+Sau khi chuyển chức thành Knight thì các chỉ số tăng thêm khi lên cấp của hắn cũng trở nên cân bằng hơn, không cần lo khi lên cấp cao hơn thì chỉ số Int sẽ bị suy yếu khiến cho ma lực bị thiếu hụt.
+
+Thiên phú được tăng mạnh khiến cho chiến lực tổng thể được gia tăng rất lớn.
+
+Quan trọng hơn hết là Sena lại thấy được trong bảng chỉ số của mình đã có thể một dòng sub-class tức là hắn có thể có thêm một class phụ nữa. Điều này quả thực là niềm vui bất ngờ khi Sena quyết định chọn chuyển chức khi chưa xem xét những class khác.
+
+Sena lúc này trông thấy một dấu (i) bên cạnh ô sub-class thì thử ấn vào đó.
+
+Ngay lập tức một bảng thông tin hiện ra trước mặt hắn. Đây là bảng thông tin giới thiệu về class phụ.
+
+Để có được class phụ thì Sena phải có được cuộn giấy chuyển chức của class đó.
+
+Điểm khác biệt giữa class chính và class phụ là khi chuyển chức class phụ thì Sena sẽ không nhận được chỉ số cơ bản cũng như chỉ số thiên phú cộng thêm giống như là khi chuyển chức class chính.
+
+Như vậy chuyển chức class phụ thì có tác dụng gì?
+
+Đáp án chính là kỹ năng thiên phú.
+
+Sau khi chuyển chức class phụ thì Sena sẽ có được kỹ năng thiên phú của class đó.
+
+Như là kỹ năng thiên phú của Knight là [Thệ Ước]
+
+[Thệ Ước]
+
+Tiến hành liên kết với một mục tiêu để chia sẻ sức mạnh với nhau trong khi chiến đấu bên cạnh nhau.
+
+Knight sẽ nhận được 10% chỉ số cơ bản của mục tiêu liên kết.
+
+Mục tiêu liên kết sẽ nhận được 20% chỉ số cơ bản của Knight.
+
+Hủy bỏ liên kết sẽ mất đi chỉ số cộng thêm.
+
+Số lượng liên kết khả dụng: 2
+
+Sena đọc xong giới thiệu về kỹ năng thiên phú của class Knight thì cảm thấy đây quả thực là một kỹ năng quá ăn gian.
+
+Đây là một kỹ năng có lợi cho cả đôi bên khi mà cả hai sẽ nhận được chỉ số cơ bản của nhau.
+
+Tuy rằng chỉ số Sena nhận được từ người khác chỉ bằng một nửa những gì mà người khác nhận được từ hắn nhưng mà số lượng liên kết khả dụng lại là 2.
+
+Chỉ cần liên kết hai người thì chỉ số hắn nhận lại sẽ bằng với chỉ số người khác nhận được.
+
+Khả năng này còn có một điểm cực kỳ lợi hại chính là khi Sena có thể liên kết với một người mạnh hơn mình nhiều lần thì hắn có thể kế thừa một phần mười chỉ số của đối phương.
+
+Điểm bất lợi duy nhất chính là kỹ năng này chỉ phát huy hiệu quả khi mà hắn và đối tượng liên kết ở gần nhau.
+
+Khoảng cách tối đa mà kỹ năng này còn phát huy tác dụng cụ thể là bao nhiêu thì Sena còn chưa thử nghiệm nên cũng không biết rõ.
+
+Sena nhất định phải xác định được điều này trước khi tiến vào một trận chiến thực sự.
+
+……
+
+-Sena… có chuyện rồi!
+
+Sena đang ở trong phòng thì bỗng nhiên Louise đẩy cửa chạy vào khiến hắn giật mình.
+
+-Có chuyện gì vậy?
+
+Sena trong lòng hơi lo lắng, chẳng lẽ việc hắn giết tên bá tước Mott đã bị lộ ra?
+
+Khi Sena ra tay thì đã rất cẩn thận mà cũng bị truy ra được sao?
+
+Giết quý tộc là trọng tội, nếu bị phát hiện thì Sena sẽ lập tức trở thành tội phạm bị truy nã. Tới lúc đó hắn chỉ còn cách trốn khỏi Tristain mà đi tới quốc gia khác mà thôi.
+
+Louise lúc này mới nói:
+
+-Sắp tới học viên năm hai sẽ phải cùng tsukaima của mình tham gia cuộc thi tài năng và tiến hành biểu diễn một tiết mục trước mọi người!
+
+Sena đang gấp gáp nghe Louise nói thế thì lập tức khuôn mặt ỉu xìu như bún thiu nhìn cô bé.
+
+-Hóa ra là chuyện này à? Tôi còn tưởng là có chuyện gì nghiêm trọng xảy ra.
+
+Louise đã khiến Sena lo lắng một phen.
+
+-Chuyện này đương nhiên là nghiêm trọng rồi, ta đã quên mất là có chuyện này nên chưa hề chuẩn bị gì. Trong khi đó ngày mai là cuộc thi tài năng đã được tổ chức rồi.
+
+Sena lúc này không còn lo lắng nữa thì mới nghĩ tới buổi biểu diễn mà Louise vừa nhắc.
+
+-Không phải cuộc thi tài năng này là thời điểm mà công chúa Henrietta sẽ tới học viện Tristain sao?
+
+Sena nhớ tới cô công chúa xinh đẹp Henrietta thì trong lòng lập tức nổi lên hứng thú.
+
+-Sena, không phải ngươi rất giỏi dùng kiếm sao? Nếu không ngươi hãy biểu diễn kiếm thuật trong buổi biểu diễn ngày mai đi.
+
+Sena lập tức xua tay nói:
+
+-Không được đâu, kiếm thuật của tôi là loại kiếm thuật thực chiến chỉ sử dụng trên chiến trường, đem ra biểu diễn sẽ không có chút hấp dẫn nào đâu.
+
+Kiếm thuật Sena là thừa kế của Gintoki. Đây là loại kiếm thuật sát nhân mà Shouyou đã đúc kết ra trong nhiều năm chém giết mà không phải loại kiếm thuật dùng để biểu diễn cho người khác xem.
+
+-Vậy phải làm sao bây giờ? Ngươi đâu có khả năng đặc biệt nào ngoài cái đó. Ngươi chỉ hơn những tsukaima của người khác ở chỗ là biết nói chuyện thôi. Chẳng lẽ lại để ngươi lên sân khấu để diễn thuyết?
+
+Sena nghĩ ngợi một chút rồi liền nảy sinh một ý hay.
+
+-Đừng lo Louise, tôi có ý này rất hay. Đảm bảo ngày mai chúng ta sẽ đoạt được giải cao trong cuộc thi tài năng!
+
+Louise lập tức hỏi lại:
+
+-Ngươi có trò hay gì để biểu diễn sao. Mau nói cho ta biết đi.
+
+Sena cười bí ẩn đáp:
+
+-Cái này chờ ngày mai cô cùng xem với mọi người là sẽ biết thôi.
+
+Louise phản đối:
+
+-Ta là chủ nhân của ngươi cơ mà. Tại sao ta lại không được biết trước năng lực của tsukaima của chính mình chứ?
+
+Sena thấy Louise nhõng nhẽo thì đưa tay xoa đầu cô bé mà nói:
+
+-Hay là như thế này, nếu như cô có thể đoán được ra ngày mai tôi sẽ biểu diễn cái gì thì tôi sẽ tặng cho cô một món quà nhé.
+
+Louise dường như đã quen với việc Sena xoa đầu mình nên không cố gắng hất tay hắn ra. Cô bé quay đầu đi tỏ vẻ không quan tâm:
+
+-Ai… ai mà thèm được ngươi tặng quà cơ chứ?
+
+Sena thấy được phản ứng của Louise thì cũng chỉ mỉm cười.
+
+……
+
+Hôm sau là ngày mà công chúa Henrietta đặt chân tới học viện pháp thuật Tristain.
+
+Do công chúa sẽ rời cung điện vào giữa trưa và buổi chiều sẽ tới nơi nên sáng ngày hôm nay mọi người trong học viện vô cùng bận rộn.
+
+Siesta cũng phải xuống nhà bếp phụ giúp chuẩn bị đồ ăn sau đó còn phải đi dọn dẹp. Tuy có được chiếc tạp dề toàn năng mà Sena tặng nhưng Siesta vẫn rất bận rộn vì đây không phải phần việc của một người.
+
+Trước giờ công chúa Henrietta tới một tiếng đồng hồ thì toàn thể học viên của học viện đã được yêu cầu đi ra trước cửa lâu đài để làm nghi lễ đón tiếp.
+
+Vài trăm học viên của học viện được chia ra thành hai đoàn người đứng xếp hàng ở hai bên để lộ ra một con đường ở giữa hướng thẳng tới cửa tòa lâu đài nơi các giáo viên đứng đợi sẵn.
+
+-Công chúa của vương quốc Tristain, công nương Henrietta tới!
+
+Ngay khi có tiếng xe ngựa từ phía xa truyền tới thì một người đã cưỡi ngựa chạy tới trước và hô lên.
+
+Ngay sau đó là một đoàn xe ngựa gồm một chiếc xe ngựa màu tím được một con ngựa vàng kéo đi đằng trước. Ngay phía sau là một chiếc xe ngựa màu trắng với những chiếc rèm màu tím được bốn con ngựa trắng kéo đi ngay phía sau. Ở đằng sau còn có rất nhiều binh sĩ mặc giáp cưỡi ngựa bám theo.
+
+Những chiếc xe ngựa sau đó dừng lại giữa hai hàng người do các học viên tạo thành.
+
+-------☆☆☆☆-------.
