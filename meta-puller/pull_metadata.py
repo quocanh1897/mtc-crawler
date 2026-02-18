@@ -146,8 +146,7 @@ def needs_pull(book_id: int, force: bool) -> bool:
         with open(meta_path) as f:
             meta = json.load(f)
         author_name = (meta.get("author") or {}).get("name", "")
-        creator_name = (meta.get("creator") or {}).get("name", "")
-        if not author_name and not creator_name:
+        if not author_name:
             return True
     except Exception:
         return True
@@ -164,6 +163,14 @@ def pull_one(client: httpx.Client, book_id: int, log=print) -> bool:
     if not book:
         log(f"  [red]FAILED[/red] {book_id}: no API data")
         return False
+
+    # Fill author.name from creator.name when empty
+    author = book.get("author")
+    if isinstance(author, dict) and not author.get("name"):
+        creator_name = (book.get("creator") or {}).get("name", "")
+        if creator_name:
+            author["name"] = creator_name
+            log(f"  [yellow]NOTE[/yellow] {book_id}: author.name empty, using creator: {creator_name}")
 
     # Save full metadata
     with open(meta_path, "w", encoding="utf-8") as f:
