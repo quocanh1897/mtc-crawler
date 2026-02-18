@@ -1,0 +1,90 @@
+import { notFound } from "next/navigation";
+import Link from "next/link";
+import { getBookBySlug, getChapter } from "@/lib/queries";
+
+export const dynamic = "force-dynamic";
+
+interface Props {
+  params: Promise<{ slug: string; chapter: string }>;
+}
+
+export default async function ChapterReaderPage({ params }: Props) {
+  const { slug, chapter: chapterSegment } = await params;
+
+  // URL format: /doc-truyen/{slug}/chuong-{N}
+  // The [chapter] dynamic segment captures the full "chuong-1" string
+  const match = chapterSegment.match(/^chuong-(\d+)$/);
+  if (!match) notFound();
+  const indexNum = parseInt(match[1], 10);
+  if (isNaN(indexNum) || indexNum < 1) notFound();
+
+  const book = await getBookBySlug(slug);
+  if (!book) notFound();
+
+  const chapter = await getChapter(book.id, indexNum);
+  if (!chapter) notFound();
+
+  const hasPrev = indexNum > 1;
+  const hasNext = indexNum < book.chapterCount;
+
+  return (
+    <div className="max-w-3xl mx-auto px-4 py-6">
+      {/* Top Nav */}
+      <div className="flex items-center justify-between mb-6 text-sm">
+        <Link
+          href={`/doc-truyen/${book.slug}`}
+          className="text-[var(--color-primary)] hover:underline flex items-center gap-1"
+        >
+          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+          </svg>
+          {book.name}
+        </Link>
+        <span className="text-[var(--color-text-secondary)]">
+          Chương {indexNum} / {book.chapterCount}
+        </span>
+      </div>
+
+      {/* Chapter Content */}
+      <article className="bg-white rounded-lg border border-[var(--color-border)] p-8">
+        <h1 className="text-lg font-bold text-center mb-6 text-[var(--color-text)]">
+          {chapter.title}
+        </h1>
+        <div
+          className="prose max-w-none text-[var(--color-text)] leading-[1.8]"
+          style={{ fontFamily: "var(--font-serif)", fontSize: "16px" }}
+        >
+          {chapter.body?.split("\n").map((paragraph: string, i: number) => (
+            <p key={i} className="mb-4 text-justify indent-8">
+              {paragraph}
+            </p>
+          ))}
+        </div>
+      </article>
+
+      {/* Bottom Nav */}
+      <div className="flex items-center justify-between mt-6">
+        {hasPrev ? (
+          <Link
+            href={`/doc-truyen/${book.slug}/chuong-${indexNum - 1}`}
+            className="px-4 py-2 text-sm font-medium rounded border border-[var(--color-border)] hover:bg-gray-50 transition-colors"
+          >
+            &laquo; Chương trước
+          </Link>
+        ) : (
+          <div />
+        )}
+        {hasNext ? (
+          <Link
+            href={`/doc-truyen/${book.slug}/chuong-${indexNum + 1}`}
+            className="px-4 py-2 text-sm font-medium rounded border border-[var(--color-border)] hover:bg-gray-50 transition-colors"
+          >
+            Chương sau &raquo;
+          </Link>
+        ) : (
+          <div />
+        )}
+      </div>
+    </div>
+  );
+}

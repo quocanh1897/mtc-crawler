@@ -1,0 +1,673 @@
+/**
+ * Binslib Import Script
+ *
+ * Reads crawler/output into SQLite database with progress bars and reports.
+ *
+ * Usage:
+ *   npx tsx scripts/import.ts                    # incremental import
+ *   npx tsx scripts/import.ts --full             # full re-import
+ *   npx tsx scripts/import.ts --cron             # background polling daemon
+ *   npx tsx scripts/import.ts --cron --interval 10
+ *   npx tsx scripts/import.ts --ids 100267 102205
+ *   npx tsx scripts/import.ts --dry-run
+ *   npx tsx scripts/import.ts --quiet
+ */
+
+import Database from "better-sqlite3";
+import fs from "fs";
+import path from "path";
+import { execSync } from "child_process";
+import cliProgress from "cli-progress";
+
+// ─── CLI Args ────────────────────────────────────────────────────────────────
+
+const args = process.argv.slice(2);
+const FULL_MODE = args.includes("--full");
+const CRON_MODE = args.includes("--cron");
+const DRY_RUN = args.includes("--dry-run");
+const QUIET = args.includes("--quiet");
+
+function getArgValue(flag: string, defaultVal: string): string {
+  const idx = args.indexOf(flag);
+  return idx !== -1 && args[idx + 1] ? args[idx + 1] : defaultVal;
+}
+
+const CRON_INTERVAL = parseInt(
+  process.env.IMPORT_CRON_INTERVAL || getArgValue("--interval", "30"),
+  10
+);
+
+const SPECIFIC_IDS: number[] = (() => {
+  const idx = args.indexOf("--ids");
+  if (idx === -1) return [];
+  const ids: number[] = [];
+  for (let i = idx + 1; i < args.length; i++) {
+    if (args[i].startsWith("--")) break;
+    const n = parseInt(args[i], 10);
+    if (!isNaN(n)) ids.push(n);
+  }
+  return ids;
+})();
+
+// ─── Config ──────────────────────────────────────────────────────────────────
+
+const DB_PATH = path.resolve(
+  process.env.DATABASE_URL?.replace("file:", "") || "./data/binslib.db"
+);
+const CRAWLER_OUTPUT =
+  process.env.CRAWLER_OUTPUT_DIR ||
+  path.resolve(__dirname, "../../crawler/output");
+const META_PULLER_DIR =
+  process.env.META_PULLER_DIR ||
+  path.resolve(__dirname, "../../meta-puller");
+const COVERS_DIR = path.resolve(__dirname, "../public/covers");
+const LOG_FILE = path.resolve(__dirname, "../data/import-log.txt");
+
+// ─── Colors (ANSI) ──────────────────────────────────────────────────────────
+
+const c = {
+  reset: "\x1b[0m",
+  bold: "\x1b[1m",
+  dim: "\x1b[2m",
+  green: "\x1b[32m",
+  yellow: "\x1b[33m",
+  red: "\x1b[31m",
+  cyan: "\x1b[36m",
+  blue: "\x1b[34m",
+  gray: "\x1b[90m",
+  white: "\x1b[37m",
+  bgBlue: "\x1b[44m",
+};
+
+function log(msg: string) {
+  if (!QUIET) process.stdout.write(msg + "\n");
+}
+
+// ─── DB Setup ────────────────────────────────────────────────────────────────
+
+function openDb() {
+  const sqlite = new Database(DB_PATH);
+  sqlite.pragma("journal_mode = WAL");
+  sqlite.pragma("foreign_keys = ON");
+  return sqlite;
+}
+
+// ─── Helpers ─────────────────────────────────────────────────────────────────
+
+function slugify(text: string): string {
+  const from =
+    "àáảãạăắằẳẵặâấầẩẫậèéẻẽẹêếềểễệìíỉĩịòóỏõọôốồổỗộơớờởỡợùúủũụưứừửữựỳýỷỹỵđ";
+  const to =
+    "aaaaaaaaaaaaaaaaaeeeeeeeeeeeiiiiiooooooooooooooooouuuuuuuuuuuyyyyyd";
+  let slug = text.toLowerCase().trim();
+  for (let i = 0; i < from.length; i++) {
+    slug = slug.replace(new RegExp(from[i], "g"), to[i]);
+  }
+  return slug
+    .replace(/[^a-z0-9\s-]/g, "")
+    .replace(/[\s-]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+function tryRunMetaPuller(bookId: number): boolean {
+  const script = path.join(META_PULLER_DIR, "pull_metadata.py");
+  if (!fs.existsSync(script)) return false;
+  try {
+    execSync(`python3 "${script}" --ids ${bookId}`, {
+      cwd: META_PULLER_DIR,
+      stdio: "pipe",
+      timeout: 30000,
+    });
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+function formatDuration(ms: number): string {
+  const s = Math.floor(ms / 1000);
+  if (s < 60) return `${s}s`;
+  const m = Math.floor(s / 60);
+  const sec = s % 60;
+  if (m < 60) return `${m}m ${sec}s`;
+  const h = Math.floor(m / 60);
+  return `${h}h ${m % 60}m ${sec}s`;
+}
+
+function formatNum(n: number): string {
+  return n.toLocaleString("en-US");
+}
+
+function timestamp(): string {
+  return new Date().toISOString().replace("T", " ").slice(0, 19);
+}
+
+// ─── Import Report ───────────────────────────────────────────────────────────
+
+interface ImportReport {
+  mode: string;
+  startedAt: Date;
+  finishedAt: Date;
+  booksScanned: number;
+  booksImported: number;
+  booksSkipped: number;
+  booksFailed: number;
+  chaptersAdded: number;
+  coversCopied: number;
+  metaPullerRuns: number;
+  failures: { bookId: number; error: string }[];
+}
+
+function printReport(report: ImportReport) {
+  const duration = report.finishedAt.getTime() - report.startedAt.getTime();
+  const dbSize = fs.existsSync(DB_PATH)
+    ? (fs.statSync(DB_PATH).size / (1024 * 1024)).toFixed(1) + " MB"
+    : "N/A";
+
+  const sqlite = openDb();
+  const totals = sqlite
+    .prepare(
+      "SELECT COUNT(*) as books, SUM(chapters_saved) as chapters FROM books"
+    )
+    .get() as { books: number; chapters: number };
+  sqlite.close();
+
+  const border = `${c.blue}┌${"─".repeat(51)}┐${c.reset}`;
+  const bottom = `${c.blue}└${"─".repeat(51)}┘${c.reset}`;
+  const sep = `${c.blue}├${"─".repeat(51)}┤${c.reset}`;
+  const row = (label: string, value: string, color = c.white) =>
+    `${c.blue}│${c.reset}  ${label.padEnd(22)}${color}${value.padStart(26)}${c.reset}  ${c.blue}│${c.reset}`;
+
+  const lines = [
+    "",
+    border,
+    `${c.blue}│${c.reset}${c.bold}          Binslib Import Report              ${c.reset}${c.blue}│${c.reset}`,
+    sep,
+    row("Mode:", report.mode),
+    row("Started:", timestamp()),
+    row("Duration:", formatDuration(duration)),
+    sep,
+    row("Books scanned:", formatNum(report.booksScanned)),
+    row(
+      "Books imported:",
+      `${formatNum(report.booksImported)}  (new/updated)`,
+      c.green
+    ),
+    row(
+      "Books skipped:",
+      `${formatNum(report.booksSkipped)}  (unchanged)`,
+      c.yellow
+    ),
+    row(
+      "Books failed:",
+      formatNum(report.booksFailed),
+      report.booksFailed > 0 ? c.red : c.white
+    ),
+    sep,
+    row("Chapters added:", formatNum(report.chaptersAdded), c.green),
+    row("Covers copied:", formatNum(report.coversCopied)),
+    row("Meta-puller runs:", formatNum(report.metaPullerRuns)),
+    sep,
+    row("DB size:", dbSize),
+    row("Total books:", formatNum(totals.books)),
+    row("Total chapters:", formatNum(totals.chapters ?? 0)),
+    bottom,
+  ];
+
+  for (const line of lines) {
+    process.stdout.write(line + "\n");
+  }
+
+  if (report.failures.length > 0) {
+    process.stdout.write(
+      `\n${c.red}${c.bold}Failed books:${c.reset}\n`
+    );
+    for (const f of report.failures) {
+      process.stdout.write(
+        `  ${c.red}•${c.reset} Book ${f.bookId}: ${f.error}\n`
+      );
+    }
+  }
+}
+
+function appendLog(report: ImportReport) {
+  const duration =
+    report.finishedAt.getTime() - report.startedAt.getTime();
+  const entry = [
+    `[${timestamp()}] mode=${report.mode} duration=${formatDuration(duration)}`,
+    `  scanned=${report.booksScanned} imported=${report.booksImported} skipped=${report.booksSkipped} failed=${report.booksFailed}`,
+    `  chapters=${report.chaptersAdded} covers=${report.coversCopied} meta_pulls=${report.metaPullerRuns}`,
+    ...(report.failures.length > 0
+      ? report.failures.map((f) => `  FAIL book ${f.bookId}: ${f.error}`)
+      : []),
+    "",
+  ].join("\n");
+
+  fs.mkdirSync(path.dirname(LOG_FILE), { recursive: true });
+  fs.appendFileSync(LOG_FILE, entry);
+}
+
+// ─── Core Import ─────────────────────────────────────────────────────────────
+
+function runImport(fullMode: boolean): ImportReport {
+  const startedAt = new Date();
+  const sqlite = openDb();
+
+  // Prepared statements
+  const insertAuthor = sqlite.prepare(
+    "INSERT OR REPLACE INTO authors (id, name, local_name, avatar) VALUES (?, ?, ?, ?)"
+  );
+  const insertGenre = sqlite.prepare(
+    "INSERT OR IGNORE INTO genres (id, name, slug) VALUES (?, ?, ?)"
+  );
+  const insertTag = sqlite.prepare(
+    "INSERT OR REPLACE INTO tags (id, name, type_id) VALUES (?, ?, ?)"
+  );
+  const insertBook = sqlite.prepare(`
+    INSERT OR REPLACE INTO books (
+      id, name, slug, synopsis, status, status_name,
+      view_count, comment_count, bookmark_count, vote_count,
+      review_score, review_count, chapter_count, word_count,
+      cover_url, author_id, created_at, updated_at,
+      published_at, new_chap_at, chapters_saved
+    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+  `);
+  const insertBookGenre = sqlite.prepare(
+    "INSERT OR IGNORE INTO book_genres (book_id, genre_id) VALUES (?, ?)"
+  );
+  const insertBookTag = sqlite.prepare(
+    "INSERT OR IGNORE INTO book_tags (book_id, tag_id) VALUES (?, ?)"
+  );
+  const insertChapter = sqlite.prepare(
+    "INSERT OR REPLACE INTO chapters (book_id, index_num, title, slug, body, word_count) VALUES (?, ?, ?, ?, ?, ?)"
+  );
+  const bookExistsStmt = sqlite.prepare(
+    "SELECT id, updated_at FROM books WHERE id = ?"
+  );
+  const chapterExistsStmt = sqlite.prepare(
+    "SELECT id FROM chapters WHERE book_id = ? AND index_num = ?"
+  );
+
+  fs.mkdirSync(COVERS_DIR, { recursive: true });
+
+  if (fullMode) {
+    log(`${c.yellow}Clearing existing data...${c.reset}`);
+    sqlite.exec("DELETE FROM reading_history");
+    sqlite.exec("DELETE FROM reading_progress");
+    sqlite.exec("DELETE FROM user_bookmarks");
+    sqlite.exec("DELETE FROM chapters");
+    sqlite.exec("DELETE FROM book_tags");
+    sqlite.exec("DELETE FROM book_genres");
+    sqlite.exec("DELETE FROM books");
+    sqlite.exec("DELETE FROM authors");
+    sqlite.exec("DELETE FROM genres");
+    sqlite.exec("DELETE FROM tags");
+    sqlite.exec("DELETE FROM books_fts");
+    sqlite.exec("DELETE FROM chapters_fts");
+  }
+
+  let entries = fs
+    .readdirSync(CRAWLER_OUTPUT)
+    .filter((e) => /^\d+$/.test(e));
+
+  if (SPECIFIC_IDS.length > 0) {
+    const idSet = new Set(SPECIFIC_IDS.map(String));
+    entries = entries.filter((e) => idSet.has(e));
+  }
+
+  const report: ImportReport = {
+    mode: fullMode ? "full" : "incremental",
+    startedAt,
+    finishedAt: new Date(),
+    booksScanned: entries.length,
+    booksImported: 0,
+    booksSkipped: 0,
+    booksFailed: 0,
+    chaptersAdded: 0,
+    coversCopied: 0,
+    metaPullerRuns: 0,
+    failures: [],
+  };
+
+  // Progress bars (using SingleBar for reliable total tracking)
+  const bookBar = QUIET
+    ? null
+    : new cliProgress.SingleBar(
+        {
+          clearOnComplete: false,
+          hideCursor: true,
+          barCompleteChar: "\u2588",
+          barIncompleteChar: "\u2591",
+          barsize: 30,
+          format: `  Books    ${c.cyan}{bar}${c.reset} {value}/{total}  {percentage}%  ${c.dim}{detail}${c.reset}`,
+        }
+      );
+  bookBar?.start(entries.length, 0, { detail: "" });
+
+  for (const bookIdStr of entries) {
+    const bookId = parseInt(bookIdStr, 10);
+    const bookDir = path.join(CRAWLER_OUTPUT, bookIdStr);
+
+    try {
+      // Read metadata.json
+      const metaPath = path.join(bookDir, "metadata.json");
+      if (!fs.existsSync(metaPath)) {
+        report.metaPullerRuns++;
+        tryRunMetaPuller(bookId);
+      }
+      if (!fs.existsSync(metaPath)) {
+        report.booksSkipped++;
+        bookBar?.increment(1, { detail: `skip ${bookId} (no metadata)` });
+        continue;
+      }
+
+      const meta = JSON.parse(fs.readFileSync(metaPath, "utf-8"));
+
+      // Skip unchanged in incremental mode
+      if (!fullMode) {
+        const existing = bookExistsStmt.get(bookId) as
+          | { id: number; updated_at: string }
+          | undefined;
+        if (existing && existing.updated_at === meta.updated_at) {
+          const bookJsonPath = path.join(bookDir, "book.json");
+          if (fs.existsSync(bookJsonPath)) {
+            const bookJson = JSON.parse(
+              fs.readFileSync(bookJsonPath, "utf-8")
+            );
+            const savedInDb = sqlite
+              .prepare(
+                "SELECT COUNT(*) as cnt FROM chapters WHERE book_id = ?"
+              )
+              .get(bookId) as { cnt: number };
+            if (savedInDb.cnt >= (bookJson.chapters_saved || 0)) {
+              report.booksSkipped++;
+              bookBar?.increment(1, { detail: `skip ${meta.name}` });
+              continue;
+            }
+          } else {
+            report.booksSkipped++;
+            bookBar?.increment(1, { detail: `skip ${meta.name}` });
+            continue;
+          }
+        }
+      }
+
+      if (DRY_RUN) {
+        report.booksImported++;
+        bookBar?.increment(1, { detail: `[dry] ${meta.name}` });
+        continue;
+      }
+
+      bookBar?.update({ detail: meta.name });
+
+      // Author
+      if (meta.author) {
+        insertAuthor.run(
+          meta.author.id,
+          meta.author.name,
+          meta.author.local_name || null,
+          meta.author.avatar || null
+        );
+      }
+
+      // Genres
+      if (meta.genres && Array.isArray(meta.genres)) {
+        for (const g of meta.genres) {
+          insertGenre.run(g.id, g.name, slugify(g.name));
+        }
+      }
+
+      // Tags
+      if (meta.tags && Array.isArray(meta.tags)) {
+        for (const t of meta.tags) {
+          insertTag.run(
+            t.id,
+            t.name,
+            t.type_id ? parseInt(t.type_id, 10) : null
+          );
+        }
+      }
+
+      // book.json
+      let chaptersSaved = 0;
+      const bookJsonPath = path.join(bookDir, "book.json");
+      if (fs.existsSync(bookJsonPath)) {
+        try {
+          const bookJson = JSON.parse(
+            fs.readFileSync(bookJsonPath, "utf-8")
+          );
+          chaptersSaved = bookJson.chapters_saved || 0;
+        } catch {
+          /* ignore */
+        }
+      }
+
+      // Cover
+      const coverSrc = path.join(bookDir, "cover.jpg");
+      const coverDest = path.join(COVERS_DIR, `${bookId}.jpg`);
+      let coverUrl: string | null = null;
+      if (!fs.existsSync(coverSrc)) {
+        report.metaPullerRuns++;
+        tryRunMetaPuller(bookId);
+      }
+      if (fs.existsSync(coverSrc)) {
+        fs.copyFileSync(coverSrc, coverDest);
+        coverUrl = `/covers/${bookId}.jpg`;
+        report.coversCopied++;
+      }
+
+      // Insert book
+      insertBook.run(
+        meta.id,
+        meta.name,
+        meta.slug,
+        meta.synopsis || null,
+        meta.status || 1,
+        meta.status_name || null,
+        meta.view_count || 0,
+        meta.comment_count || 0,
+        meta.bookmark_count || 0,
+        meta.vote_count || 0,
+        meta.review_score ? parseFloat(meta.review_score) : 0,
+        meta.review_count || 0,
+        meta.chapter_count || 0,
+        meta.word_count || 0,
+        coverUrl,
+        meta.author?.id || null,
+        meta.created_at || null,
+        meta.updated_at || null,
+        meta.published_at || null,
+        meta.new_chap_at || null,
+        chaptersSaved
+      );
+
+      // Junctions
+      if (meta.genres && Array.isArray(meta.genres)) {
+        for (const g of meta.genres) insertBookGenre.run(meta.id, g.id);
+      }
+      if (meta.tags && Array.isArray(meta.tags)) {
+        for (const t of meta.tags) insertBookTag.run(meta.id, t.id);
+      }
+
+      // Chapters
+      const chapterFiles = fs
+        .readdirSync(bookDir)
+        .filter((f) => f.endsWith(".txt") && /^\d{4}_/.test(f))
+        .sort();
+
+      if (chapterFiles.length > 0) {
+        // Chapter progress (inline, not a separate bar to avoid terminal flicker)
+        let chapDone = 0;
+        const chapTotal = chapterFiles.length;
+
+        let chaptersThisBook = 0;
+        const importChapters = sqlite.transaction(() => {
+          for (const filename of chapterFiles) {
+            const match = filename.match(/^(\d+)_(.+)\.txt$/);
+            if (!match) {
+              chapDone++;
+              continue;
+            }
+            const indexNum = parseInt(match[1], 10);
+            const chapterSlug = match[2];
+
+            if (!fullMode) {
+              const existing = chapterExistsStmt.get(bookId, indexNum);
+              if (existing) {
+                chapDone++;
+                continue;
+              }
+            }
+
+            const filePath = path.join(bookDir, filename);
+            const content = fs.readFileSync(filePath, "utf-8");
+            const lines = content.split("\n");
+            const title = lines[0]?.trim() || `Chương ${indexNum}`;
+            let bodyStart = 1;
+            while (
+              bodyStart < lines.length &&
+              lines[bodyStart].trim() === ""
+            )
+              bodyStart++;
+            if (
+              bodyStart < lines.length &&
+              lines[bodyStart].trim() === title
+            )
+              bodyStart++;
+            const body = lines.slice(bodyStart).join("\n").trim();
+            const wordCount = body.split(/\s+/).filter(Boolean).length;
+
+            insertChapter.run(
+              bookId,
+              indexNum,
+              title,
+              chapterSlug,
+              body,
+              wordCount
+            );
+            chaptersThisBook++;
+            chapDone++;
+          }
+        });
+        importChapters();
+        report.chaptersAdded += chaptersThisBook;
+        bookBar?.update({ detail: `${meta.name} (${chaptersThisBook} chaps)` });
+      }
+
+      report.booksImported++;
+      bookBar?.increment(1, { detail: meta.name });
+    } catch (err) {
+      const msg = (err as Error).message?.slice(0, 120) || "Unknown error";
+      report.booksFailed++;
+      report.failures.push({ bookId, error: msg });
+      bookBar?.increment(1, { detail: `FAIL ${bookId}` });
+    }
+  }
+
+  bookBar?.stop();
+
+  report.finishedAt = new Date();
+  sqlite.close();
+  return report;
+}
+
+// ─── Cron Mode ───────────────────────────────────────────────────────────────
+
+function sleep(ms: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+async function cronLoop() {
+  process.stdout.write(
+    [
+      "",
+      `${c.bgBlue}${c.white}${c.bold} Binslib Import Daemon ${c.reset}`,
+      `  ${c.dim}Polling:${c.reset}   ${CRAWLER_OUTPUT}`,
+      `  ${c.dim}Interval:${c.reset}  every ${CRON_INTERVAL} minutes`,
+      `  ${c.dim}Database:${c.reset}  ${DB_PATH}`,
+      `  ${c.dim}Log:${c.reset}       ${LOG_FILE}`,
+      `  ${c.dim}Press Ctrl+C to stop${c.reset}`,
+      "",
+    ].join("\n")
+  );
+
+  // Handle graceful shutdown
+  let running = true;
+  process.on("SIGINT", () => {
+    process.stdout.write(`\n${c.yellow}Shutting down import daemon...${c.reset}\n`);
+    running = false;
+    process.exit(0);
+  });
+  process.on("SIGTERM", () => {
+    running = false;
+    process.exit(0);
+  });
+
+  while (running) {
+    process.stdout.write(
+      `${c.cyan}[${timestamp()}]${c.reset} Starting import cycle...\n`
+    );
+
+    const report = runImport(false);
+    printReport(report);
+    appendLog(report);
+
+    if (!running) break;
+
+    // Countdown to next run
+    const intervalMs = CRON_INTERVAL * 60 * 1000;
+    const nextRun = new Date(Date.now() + intervalMs);
+    process.stdout.write(
+      `\n${c.dim}Next import at ${nextRun.toLocaleTimeString()}${c.reset}\n`
+    );
+
+    const sleepStep = 30_000; // update countdown every 30s
+    let remaining = intervalMs;
+    while (remaining > 0 && running) {
+      const mins = Math.floor(remaining / 60000);
+      const secs = Math.floor((remaining % 60000) / 1000);
+      process.stdout.write(
+        `\r${c.dim}Next import in ${mins}m ${secs}s...${c.reset}   `
+      );
+      const step = Math.min(sleepStep, remaining);
+      await sleep(step);
+      remaining -= step;
+    }
+    process.stdout.write("\r" + " ".repeat(50) + "\r");
+  }
+}
+
+// ─── Main ────────────────────────────────────────────────────────────────────
+
+function main() {
+  const mode = FULL_MODE ? "full" : "incremental";
+
+  if (CRON_MODE) {
+    cronLoop().catch((err) => {
+      console.error("Cron loop error:", err);
+      process.exit(1);
+    });
+    return;
+  }
+
+  // One-shot import
+  process.stdout.write(
+    [
+      "",
+      `${c.bold}Binslib Import${c.reset} — ${mode} mode${DRY_RUN ? " (dry run)" : ""}`,
+      `  ${c.dim}Database:${c.reset} ${DB_PATH}`,
+      `  ${c.dim}Source:${c.reset}   ${CRAWLER_OUTPUT}`,
+      "",
+    ].join("\n")
+  );
+
+  const report = runImport(FULL_MODE);
+  printReport(report);
+  appendLog(report);
+
+  if (report.booksFailed > 0) {
+    process.exit(1);
+  }
+}
+
+main();

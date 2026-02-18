@@ -5,19 +5,67 @@ __pycache__/
 .venv/
 venv/
 
-# APKs and binaries (decompiled APKs, keystores, patched builds)
+# Node.js
+node_modules/
+.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Next.js
+.next/
+out/
+build/
+
+# APKs and binaries
 apk/
 
-
-# Temp databases
+# SQLite databases
 *.db
+*.db-shm
+*.db-wal
+
+# Crawler output (large data)
+crawler/output/
+
+# EPUB output (generated files)
+epub-converter/epub-output/
+
+# Binslib generated data
+binslib/data/
+binslib/public/covers/*.jpg
+!binslib/public/covers/placeholder.jpg
+
+# Environment files
+.env
+.env.*
+!.env.example
 
 # IDE / editor
 .vscode/
 .idea/
+*.swp
+*.swo
 
-# Claude
+# Claude / Cursor
 .claude/
+.cursor/
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
 
 # macOS
 .DS_Store
+
+# TypeScript
+*.tsbuildinfo
+
+# Misc
+*.pem
+.vercel
