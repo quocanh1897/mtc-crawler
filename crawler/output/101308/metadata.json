@@ -1,0 +1,77 @@
+{
+  "id": 101308,
+  "name": "Đại Vương Tha Mạng",
+  "slug": "dai-vuong-tha-mang",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/dai-vuong-tha-mang",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11422645,
+  "latest_chapter": 11423975,
+  "latest_index": 1334,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/dai-vuong-tha-mang/default.jpg?1585206083",
+    "600": "https://static.cdnno.com/poster/dai-vuong-tha-mang/600.jpg?1585206083",
+    "300": "https://static.cdnno.com/poster/dai-vuong-tha-mang/300.jpg?1585206083",
+    "150": "https://static.cdnno.com/poster/dai-vuong-tha-mang/150.jpg?1585206083"
+  },
+  "synopsis": "Linh khí khôi phục thời đại, vắng vẻ sinh hoạt bể nát, phảng phất lôi đình xuyên qua trời cao, điện quang bắn thẳng đến thiên tâm, mưa xào xạc rơi xuống .  Phàm nghịch chúng ta cuối cùng sắp chết đi, đây chính là pháp tắc .  . . .  Đây là một cái Lữ Thụ dựa vào Độc Kê Thang trở thành Đại Ma Vương cố sự .",
+  "vote_count": 771,
+  "review_score": "4.918",
+  "review_count": 19,
+  "comment_count": 166,
+  "chapter_count": 1331,
+  "view_count": 0,
+  "word_count": 3710386,
+  "created_at": "2020-03-26T07:01:23.000000Z",
+  "updated_at": "2026-02-17T11:01:04.000000Z",
+  "new_chap_at": "2018-12-01T07:00:32.000000Z",
+  "published_at": "2020-03-26T07:01:23.000000Z",
+  "published": 1,
+  "user_id": 1000042,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Đại Vương Tha Mạng",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1836,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000042,
+    "name": "Jet Black",
+    "avatar": [
+      "https://static.cdnno.com/user/91ca9117412e5ab29e20009526462fbc/200.jpg?1593616713",
+      "https://static.cdnno.com/user/91ca9117412e5ab29e20009526462fbc/100.jpg?1593616713",
+      "https://static.cdnno.com/user/91ca9117412e5ab29e20009526462fbc/50.jpg?1593616713"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1133,
+    "name": "Hội Thuyết Thoại Trửu Tử",
+    "avatar": null,
+    "local_name": "会说话的肘子",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 6,
+      "name": "Đô Thị",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

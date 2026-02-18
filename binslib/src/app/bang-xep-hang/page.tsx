@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { AuthorLink } from "@/components/rankings/AuthorLink";
 import { getRankedBooks, getGenresWithCounts } from "@/lib/queries";
 import { BookCover } from "@/components/books/BookCover";
 import { StatusBadge } from "@/components/ui/Badge";
@@ -149,13 +150,12 @@ export default async function RankingsPage({ searchParams }: Props) {
                   <p className="text-sm font-medium text-[var(--color-text)] line-clamp-1">{book.name}</p>
                   <p className="text-xs text-[var(--color-text-secondary)]">
                     {book.author && (
-                      <Link
+                      <AuthorLink
                         href={`/tac-gia/${book.author.id}`}
                         className="hover:text-[var(--color-primary)] transition-colors"
-                        onClick={(e: React.MouseEvent) => e.stopPropagation()}
                       >
                         {book.author.name}
-                      </Link>
+                      </AuthorLink>
                     )}
                     {book.author && <> &middot; </>}
                     {formatNumber(book.chapterCount)} ch

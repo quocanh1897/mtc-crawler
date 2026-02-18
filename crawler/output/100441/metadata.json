@@ -1,0 +1,69 @@
+{
+  "id": 152084,
+  "name": "Man Hoang: Bộ Lạc Của Ta Mạnh Hơn Một Chút",
+  "slug": "man-hoang-bo-lac-cua-ta-manh-hon-mot-chut",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/man-hoang-bo-lac-cua-ta-manh-hon-mot-chut",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 26348465,
+  "latest_chapter": 26728989,
+  "latest_index": 228,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/man-hoang-bo-lac-cua-ta-manh-hon-mot-chut/default.jpg?1767281462",
+    "600": "https://static.cdnno.com/poster/man-hoang-bo-lac-cua-ta-manh-hon-mot-chut/600.jpg?1767281462",
+    "300": "https://static.cdnno.com/poster/man-hoang-bo-lac-cua-ta-manh-hon-mot-chut/300.jpg?1767281462",
+    "150": "https://static.cdnno.com/poster/man-hoang-bo-lac-cua-ta-manh-hon-mot-chut/150.jpg?1767281462"
+  },
+  "synopsis": "Vừa mới xuyên qua liền bị một đám người mặc da thú vây quanh gọi tộc trưởng, đây là loại cảm giác gì?\n\nHơn nữa đồ đằng của bộ lạc này sắp sửa tiêu vong, không lửa, không nước, càng không có thức ăn, chỗ ở cũng chỉ là sơn động!\n\nBất đắc dĩ, Lâm Dạ chỉ có thể bắt đầu từ con số không, săn bắn, gieo trồng, chăn nuôi, tu luyện, xây thành, kiến lập hệ thống văn minh, mãi cho đến khi tạo dựng nên bộ lạc cường đại nhất thời đại, mãi cho đến khi dẫn dắt nhân tộc tiến về phía văn minh, bước lên đỉnh phong!",
+  "vote_count": 59,
+  "review_score": "5.000",
+  "review_count": 1,
+  "comment_count": 8,
+  "chapter_count": 228,
+  "view_count": 0,
+  "word_count": 371120,
+  "created_at": "2026-01-01T14:07:23.000000Z",
+  "updated_at": "2026-02-18T13:04:10.000000Z",
+  "new_chap_at": "2026-02-18T13:04:00.000000Z",
+  "published_at": "2026-01-03T16:42:54.000000Z",
+  "published": 1,
+  "user_id": 1534667,
+  "object_type": "Book",
+  "bookmark_count": 95,
+  "chapter_per_week": 14,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1534667,
+    "name": "Khưu Oánh Oánh",
+    "avatar": [
+      "https://static.cdnno.com/user/ebf28a241af98f135133f966e993d886/200.jpg?1762765974",
+      "https://static.cdnno.com/user/ebf28a241af98f135133f966e993d886/100.jpg?1762765974",
+      "https://static.cdnno.com/user/ebf28a241af98f135133f966e993d886/50.jpg?1762765974"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 29002,
+    "name": "Vũ Vô Ý",
+    "avatar": null,
+    "local_name": "雨无意",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ]
+}

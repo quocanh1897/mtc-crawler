@@ -1,0 +1,102 @@
+{
+  "id": 110611,
+  "name": "Ta Có 9 Triệu Tỷ Liếm Cẩu Tiền",
+  "slug": "ta-co-90-nghin-ty-liem-cau-tien",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ta-co-90-nghin-ty-liem-cau-tien",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 14341077,
+  "latest_chapter": 17677390,
+  "latest_index": 2156,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-co-90-nghin-ty-liem-cau-tien/default.jpg?1641230895",
+    "600": "https://static.cdnno.com/poster/ta-co-90-nghin-ty-liem-cau-tien/600.jpg?1641230895",
+    "300": "https://static.cdnno.com/poster/ta-co-90-nghin-ty-liem-cau-tien/300.jpg?1641230895",
+    "150": "https://static.cdnno.com/poster/ta-co-90-nghin-ty-liem-cau-tien/150.jpg?1641230895"
+  },
+  "synopsis": "Trần Viễn, một cái phổ thông sinh viên đại học, bắt đầu bị quăng, thu được thần hào hệ thống, bắt đầu thu được 90 nghìn tỷ, thế nhưng hố cha chính là, cái này tiền chỉ có thể cho nữ sinh xài, hết cách rồi, vì xài hết số tiền này, Trần Viễn mở ra một cái không giống bình thường thần hào con đường!",
+  "vote_count": 4897,
+  "review_score": "4.637",
+  "review_count": 57,
+  "comment_count": 1759,
+  "chapter_count": 2156,
+  "view_count": 0,
+  "word_count": 3747206,
+  "created_at": "2022-01-03T17:27:39.000000Z",
+  "updated_at": "2026-02-17T12:38:12.000000Z",
+  "new_chap_at": "2024-03-24T05:00:00.000000Z",
+  "published_at": "2022-01-03T17:27:39.000000Z",
+  "published": 1,
+  "user_id": 1000070,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Có 9 Triệu Tỷ Liếm Cẩu Tiền",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2593,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000070,
+    "name": "Ngụy Khinh",
+    "avatar": [
+      "https://static.cdnno.com/user/3cd86e19a05635f7f736ef2f3c1c79dd/200.jpg?1748706855",
+      "https://static.cdnno.com/user/3cd86e19a05635f7f736ef2f3c1c79dd/100.jpg?1748706855",
+      "https://static.cdnno.com/user/3cd86e19a05635f7f736ef2f3c1c79dd/50.jpg?1748706855"
+    ],
+    "level": 2,
+    "exp": 118,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 5788,
+    "name": "Phiên Gia Đệ Nhất Soái Ca",
+    "avatar": null,
+    "local_name": "番茄第一帅哥",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 6,
+      "name": "Đô Thị",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 10,
+      "name": "Giảo Hoạt",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 28,
+      "name": "Đô Thị Dị Năng",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 83,
+      "name": "Vả Mặt",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

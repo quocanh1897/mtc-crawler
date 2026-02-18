@@ -1,0 +1,101 @@
+{
+  "id": 119381,
+  "name": "Astartes Của School Of The Bear",
+  "slug": "astartes-cua-school-of-the-bear",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/astartes-cua-school-of-the-bear",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 16480574,
+  "latest_chapter": 26779498,
+  "latest_index": 2107,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/astartes-cua-school-of-the-bear/default.jpg?1688917574",
+    "600": "https://static.cdnno.com/poster/astartes-cua-school-of-the-bear/600.jpg?1688917574",
+    "300": "https://static.cdnno.com/poster/astartes-cua-school-of-the-bear/300.jpg?1688917574",
+    "150": "https://static.cdnno.com/poster/astartes-cua-school-of-the-bear/150.jpg?1688917574"
+  },
+  "synopsis": "(Đồng nhân The Witcher)\t\n\nTại một cái ma huyễn thời trung cổ mong muốn kiên trì tín niệm. . . Thậm chí chỉ lo thân mình đều là chuyện khó.\n\n\tBởi vì nơi này bình dân cũng không thuần phác, bọn hắn ngu muội, tham lam lại tàn nhẫn.\n\n\tBởi vì nơi này quý tộc cũng không cao quý, bọn hắn âm hiểm, ngoan độc lại bạo ngược.\n\n\tNhưng là. . . Người với người thể chất không thể quơ đũa cả nắm.\n\n\tLane sờ sờ dưới bộ ngực mình hai cái trái tim, ba cái túi phổi.\n\n\tXem chừng không riêng thế giới này, liền xem như tại đó bị Conjunction of the Spheres kết nối lên thế giới khác, chính mình cũng có thể duy trì khỏe mạnh thiện ác quan.\n\n\t—— sau đó đem những cái kia không có cứu cặn bã toàn bộ cho hất!\n\n\t【  dự tính kinh lịch thế giới: Sekiro, Assassin's Creed, Monster Hunter, Bloodborne, Dark Soul, Nioh. . . 】\n",
+  "vote_count": 3428,
+  "review_score": "4.707",
+  "review_count": 32,
+  "comment_count": 563,
+  "chapter_count": 2107,
+  "view_count": 0,
+  "word_count": 4615436,
+  "created_at": "2023-07-09T15:45:45.000000Z",
+  "updated_at": "2026-02-18T10:35:47.000000Z",
+  "new_chap_at": "2026-01-31T11:31:42.000000Z",
+  "published_at": "2023-07-09T15:45:45.000000Z",
+  "published": 1,
+  "user_id": 1231986,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Astartes Của School Of The Bear",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2433,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1231986,
+    "name": "Cầm Tâm",
+    "avatar": [
+      "https://static.cdnno.com/user/91aaaef21e8da885a02f2ac9d3b3dda3/200.jpg?1647436717",
+      "https://static.cdnno.com/user/91aaaef21e8da885a02f2ac9d3b3dda3/100.jpg?1647436717",
+      "https://static.cdnno.com/user/91aaaef21e8da885a02f2ac9d3b3dda3/50.jpg?1647436717"
+    ],
+    "level": 1,
+    "exp": 38,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 9689,
+    "name": "Nhĩ Kiền Ma Nha Nhĩ",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 7,
+      "name": "Đồng Nhân",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 15,
+      "name": "Tây Phương Kỳ Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

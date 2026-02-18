@@ -1,0 +1,90 @@
+{
+  "id": 105499,
+  "name": "Ta Là Tinh Chủ",
+  "slug": "ta-that-su-la-tinh-cau-toi-cao-truong-quan",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ta-that-su-la-tinh-cau-toi-cao-truong-quan",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13081916,
+  "latest_chapter": 13705540,
+  "latest_index": 440,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-that-su-la-tinh-cau-toi-cao-truong-quan/default.jpg?1601990968",
+    "600": "https://static.cdnno.com/poster/ta-that-su-la-tinh-cau-toi-cao-truong-quan/600.jpg?1601990968",
+    "300": "https://static.cdnno.com/poster/ta-that-su-la-tinh-cau-toi-cao-truong-quan/300.jpg?1601990968",
+    "150": "https://static.cdnno.com/poster/ta-that-su-la-tinh-cau-toi-cao-truong-quan/150.jpg?1601990968"
+  },
+  "synopsis": "Tần Chính Phàm trong lúc vô tình cứu được một vị lão nhân, lại không nghĩ rằng hắn là trấn thủ bọn hắn tinh cầu tu linh giả, là đã không hỏi qua Thiên Phượng Tinh chuyện thế tục mấy trăm năm lâu tối cao người cầm quyền.\n\n\tChỉ vì Thiên Phượng Tinh linh khí mỏng manh đục ngầu, cửa truyền tống lại hủy hoại, lão nhân chỉ có thể chết già Thiên Phượng Tinh, không cách nào trở về tông môn sở tại xa xôi tinh cầu.\n\n\tTần Chính Phàm kế thừa y bát của ông lão.\n\n\tCứ như vậy một vị sắp tốt nghiệp, đi bên trên giáo sư đại học cương vị tiến sĩ sinh, thành một tên đã sớm bị thời đại quên lãng năm trăm năm tinh cầu tối cao trưởng quan.",
+  "vote_count": 59,
+  "review_score": "5.000",
+  "review_count": 2,
+  "comment_count": 37,
+  "chapter_count": 440,
+  "view_count": 0,
+  "word_count": 1079022,
+  "created_at": "2020-10-06T13:29:31.000000Z",
+  "updated_at": "2026-02-17T12:35:47.000000Z",
+  "new_chap_at": "2021-06-08T05:57:31.000000Z",
+  "published_at": "2020-10-06T13:29:28.000000Z",
+  "published": 1,
+  "user_id": 1000034,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Là Tinh Chủ",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 211,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000034,
+    "name": "Hoàng Châu",
+    "avatar": [
+      "https://static.cdnno.com/user/default/200.jpg",
+      "https://static.cdnno.com/user/default/100.jpg",
+      "https://static.cdnno.com/user/default/50.jpg"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 919,
+    "name": "Đoạn Kiều Tàn Tuyết",
+    "avatar": null,
+    "local_name": "断桥残雪",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 6,
+      "name": "Đô Thị",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 28,
+      "name": "Đô Thị Dị Năng",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

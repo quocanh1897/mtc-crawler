@@ -1,0 +1,84 @@
+{
+  "id": 106203,
+  "name": "Nhân Loại Bình Thường Bình Thường Sinh Hoạt",
+  "slug": "nhan-loai-binh-thuong-binh-thuong-sinh-hoat",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/nhan-loai-binh-thuong-binh-thuong-sinh-hoat",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13275414,
+  "latest_chapter": 15150562,
+  "latest_index": 1333,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/nhan-loai-binh-thuong-binh-thuong-sinh-hoat/default.jpg?1609253779",
+    "600": "https://static.cdnno.com/poster/nhan-loai-binh-thuong-binh-thuong-sinh-hoat/600.jpg?1609253779",
+    "300": "https://static.cdnno.com/poster/nhan-loai-binh-thuong-binh-thuong-sinh-hoat/300.jpg?1609253779",
+    "150": "https://static.cdnno.com/poster/nhan-loai-binh-thuong-binh-thuong-sinh-hoat/150.jpg?1609253779"
+  },
+  "synopsis": "Hà Tứ Hải, nhân xưng Hà Đại Lực, am hiểu làm ruộng, chuyển gạch, khoác lác, bày sạp, tích góp tiền, nuôi Đào Tử.\n\n\tĐây chỉ là một \"Nhân loại bình thường\" \"Bình thường\" sinh hoạt câu chuyện.\n\n\tĐây là một cái trợ giúp người chết hoàn thành tâm nguyện, dẫn độ linh hồn câu chuyện.\n\n\tĐể chúng ta đồng thời tìm kiếm bình thường bên trong cảm động.\n\n\tQuyển sách lại tên ( Tiếp dẫn nhân bình thường sinh hoạt ), ( Hoàng Tuyền người dẫn đường ), ( tâm nguyện Người Lái Đò ), ( lễ tạ thần Tiếp dẫn nhân ).",
+  "vote_count": 1623,
+  "review_score": "4.965",
+  "review_count": 38,
+  "comment_count": 456,
+  "chapter_count": 1333,
+  "view_count": 0,
+  "word_count": 2351436,
+  "created_at": "2020-12-29T14:56:21.000000Z",
+  "updated_at": "2026-02-18T09:54:59.000000Z",
+  "new_chap_at": "2022-08-17T13:42:28.000000Z",
+  "published_at": "2020-12-29T14:56:18.000000Z",
+  "published": 1,
+  "user_id": 1000018,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Nhân Loại Bình Thường Bình Thường Sinh Hoạt",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2335,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000018,
+    "name": "Khaox8896",
+    "avatar": [
+      "https://static.cdnno.com/user/9558075e9454035c61a4a4d665161692/200.jpg?1586661896",
+      "https://static.cdnno.com/user/9558075e9454035c61a4a4d665161692/100.jpg?1586661896",
+      "https://static.cdnno.com/user/9558075e9454035c61a4a4d665161692/50.jpg?1586661896"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 4187,
+    "name": "Hà Xử Khả Đào",
+    "avatar": null,
+    "local_name": "何处可桃",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 6,
+      "name": "Đô Thị",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 27,
+      "name": "Đô Thị Sinh Hoạt",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

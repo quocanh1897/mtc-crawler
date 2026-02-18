@@ -1,0 +1,84 @@
+{
+  "id": 133699,
+  "name": "Ta Yêu Vật Diễn Sinh Kỹ Mới Là Chính Thống",
+  "slug": "ta-yeu-vat-dien-sinh-ky-moi-la-chinh-thong",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ta-yeu-vat-dien-sinh-ky-moi-la-chinh-thong",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 19792666,
+  "latest_chapter": 22961178,
+  "latest_index": 540,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-yeu-vat-dien-sinh-ky-moi-la-chinh-thong/default.jpg?1732103090",
+    "600": "https://static.cdnno.com/poster/ta-yeu-vat-dien-sinh-ky-moi-la-chinh-thong/600.jpg?1732103090",
+    "300": "https://static.cdnno.com/poster/ta-yeu-vat-dien-sinh-ky-moi-la-chinh-thong/300.jpg?1732103090",
+    "150": "https://static.cdnno.com/poster/ta-yeu-vat-dien-sinh-ky-moi-la-chinh-thong/150.jpg?1732103090"
+  },
+  "synopsis": "Máy sấy, dao cạo râu, bình nước suối khoáng, bản bút ký. . . Thế giới này quần ma loạn vũ, vạn vật liền có thể thành Yêu.\n\n\tVì thủ hộ nhân loại, Tróc Yêu Nhân theo thời thế mà sinh, người người ca tụng.\n\n\tTróc Yêu Nhân phía trên, có một đám càng đặc thù Tróc Yêu Nhân, bọn hắn vượt qua thời không, hành tẩu dị giới, yên lặng vì thế giới kính dâng tự thân, bọn hắn được xưng là Thời Không Hành Giả. Mà Lý Dã là Thời Không Hành Giả bên trong người nổi bật, anh hùng dân tộc. . .\n\n\tNhưng ở một cái khác vũ trụ, lại miêu tả như vậy hắn:\n\n\t « Vũ Trụ Lịch Niên Ký · Lý Dã liệt truyện »: Tróc Yêu Nhân họa, càng cao hơn tại Yêu. Họa đứng đầu thuộc về Lý Dã, cái khác Tróc Yêu Nhân không đủ này vạn nhất. Hậu nhân tới gặp gỡ, nên tôn chi kính chi. Chớ tới là địch, nếu không phải, e rằng có diệt tộc họa. . .",
+  "vote_count": 105,
+  "review_score": "5.000",
+  "review_count": 5,
+  "comment_count": 113,
+  "chapter_count": 540,
+  "view_count": 0,
+  "word_count": 986003,
+  "created_at": "2024-10-14T13:06:17.000000Z",
+  "updated_at": "2026-02-18T08:13:02.000000Z",
+  "new_chap_at": "2025-05-31T05:44:58.000000Z",
+  "published_at": "2024-10-14T13:06:17.000000Z",
+  "published": 1,
+  "user_id": 1097372,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Yêu Vật Diễn Sinh Kỹ Mới Là Chính Thống",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 793,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1097372,
+    "name": "akkhanh",
+    "avatar": [
+      "https://static.cdnno.com/user/4b8fa1987e5326bfe14af05cc111b518/200.jpg?1613721487",
+      "https://static.cdnno.com/user/4b8fa1987e5326bfe14af05cc111b518/100.jpg?1613721487",
+      "https://static.cdnno.com/user/4b8fa1987e5326bfe14af05cc111b518/50.jpg?1613721487"
+    ],
+    "level": 1,
+    "exp": 20,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1263,
+    "name": "Miên Y Vệ",
+    "avatar": null,
+    "local_name": "棉衣卫",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 22,
+      "name": "Light Novel",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 99,
+      "name": "Nguyên Sinh Huyễn Tưởng",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

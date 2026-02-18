@@ -1,0 +1,137 @@
+Chương 138: Kỳ hoa tâm nguyện (3/3)
+
+Chương 138: Kỳ hoa tâm nguyện (3/3)
+
+Đinh Mẫn đem Hà Tứ Hải đưa đến sáng sớm lên xe địa phương để xuống.
+
+Sau đó nàng liền lái xe trở về cục đi rồi.
+
+Mà Hà Tứ Hải cũng không vội vã trở lại, mà là nhìn về phía theo hắn đồng thời xuống xe trọc nửa tuổi trẻ quỷ.
+
+Trọc nửa tuổi trẻ quỷ muốn tìm Hà Tứ Hải hỗ trợ hoàn thành tâm nguyện, tự nhiên cũng không dám ẩn giấu, giới thiệu chính mình đến.
+
+Nguyên lai hắn gọi Vu Hải Đông, là Hợp Châu một nhà công ty game lập trình viên. Bởi vì trường kỳ tăng ca, mấy ngày trước chết đột ngột ở công tác trên cương vị.
+
+Công ty vì để tránh cho ảnh hưởng, bồi ba mẹ hắn một số tiền lớn, ba mẹ hắn có một khoản tiền này, thêm vào hắn những năm này tích góp lại đến, đã có thể rất tốt mà cải thiện sinh hoạt.
+
+Trong nhà còn có một cái đệ đệ cùng một người muội muội, sở dĩ hắn đột nhiên tạ thế, trong nhà tuy rằng bi thương, nhưng ảnh hưởng cũng không phải rất lớn, lẽ ra Vu Hải Đông hẳn là yên tâm đi tới Minh Thổ.
+
+Nhưng là hắn nhưng có một cái rất mãnh liệt tâm nguyện, đó chính là hi vọng Hà Tứ Hải hỗ trợ đem công ty trên Server tài liệu học tập cho xóa rơi.
+
+"Tài liệu học tập?" Đơn thuần Hà Tứ Hải chớp mắt liền phản ứng lại.
+
+"Ngươi làm gì thế đem tư liệu tồn ở trong server a?" Hà Tứ Hải kỳ quái hỏi, trong nhà máy tính không tốt sao?
+
+"Chủ yếu là ở công ty thời gian so với ở nhà thời gian dài, hơn nữa công ty Server tồn trữ không gian lớn, tốc độ vừa nhanh, lại là ta độc lập quản lý, an toàn lại thuận tiện." Vu Hải Đông giải thích nói.
+
+Đương nhiên nơi này chỉ chính là công ty bản địa Server, mà không phải Elastic Compute Cloud, rốt cuộc đồ chơi kia đè tồn trữ lượng cùng lưu lượng lấy tiền, muốn thật ở phía trên kia tồn trữ đồ vật, có lẽ những người khác không phát hiện ra được, tài vụ nhất định có thể cảm giác được, rốt cuộc thành phẩm gia tăng rồi.
+
+"Sở dĩ ngươi hi vọng ta làm thế nào?" Hà Tứ Hải quyết định đỡ lấy nhiệm vụ này.
+
+Chủ yếu là Vu Hải Đông thù lao để Hà Tứ Hải động lòng rồi.
+
+Vu Hải Đông thù lao chính là hắn máy tính lập trình kỹ thuật.
+
+Hà Tứ Hải năm đó nếu là không có thôi học, chỉ sợ cũng phải ghi danh máy tính chuyên nghiệp.
+
+Hắn vẫn đối với lập trình loại kỹ thuật cảm thấy rất hứng thú, chính mình còn tự học một ít, có thể viết ra "hello Word" .
+
+Hơn nữa từ Vu Hải Đông trên đầu tóc thưa thớt trình độ đến nhìn, hắn máy tính lập trình năng lực hẳn là không kém.
+
+"Không cần đặc biệt đi công ty, chỉ cần một đài network máy tính, ta có thể lấy từ xa đăng nhập Server." Vu Hải Đông nói.
+
+Cái này dễ thôi, tuy rằng Hà Tứ Hải trong nhà không có máy tính, thế nhưng hắn nhớ tới phụ cận cách đó không xa có cái quán net.
+
+Thế là Hà Tứ Hải thẳng đến quán net mà đi.
+
+Quán net xem ra rất xa hoa, so với hắn quê nhà trên trấn quán net đẹp đẽ nhiều, không chỉ cung cấp các loại bình chứa đồ uống, còn cung cấp cà phê, trà, trà sữa cùng trái cây.
+
+Đương nhiên lên mạng giá cả cũng không rẻ, tám khối tiền một giờ, thế nhưng có thể xung hội viên, một trăm lên xung, xung một trăm đưa một trăm.
+
+Tất cả đều là sáo lộ, Hà Tứ Hải đang phục vụ viên cực lực dưới sự đề cử móc ra hai mươi khối tiền.
+
+Đầu tiên muốn một cái ftp quản lý công cụ. . .
+
+Hà Tứ Hải ở Vu Hải Đông nhắc nhở bước kế tiếp bước thao tác, hắn không phải máy tính tiểu Bạch, đều niên đại nào rồi, còn có mấy người trẻ tuổi là sẽ không làm máy tính?
+
+"Hiện tại chỉ cần điền lên ip, người sử dụng tên cùng mật mã  liên tiếp trên Server, cắt bỏ rơi tệp tài liệu là có thể rồi." Vu Hải Đông vui vẻ nói.
+
+Hà Tứ Hải cũng thật vui vẻ, nhiệm vụ này cũng quá đơn giản chứ?
+
+Nhưng là. . .
+
+Hết thảy đều điền được rồi, nhưng nhưng vẫn nhắc nhở liên tiếp thất bại.
+
+"Ngươi có hay không nhớ lầm mật mã rồi?" Hà Tứ Hải hỏi.
+
+"Không thể nhớ lầm, chỉ hai cái khả năng, một cái là tài khoản của ta quyền hạn bị cắt bỏ rồi, một cái khác khả năng chính là mật mã bị sửa chữa rồi."
+
+Vu Hải Đông tuy rằng có Server quản lý quyền hạn, nhưng cũng không phải quyền hạn tối cao, lãnh đạo nơi đó còn có một cái càng cao hơn quyền hạn, chính là vì phòng ngừa lập trình viên nghỉ việc chạy trốn, xóa kho, khóa cơ, sửa chữa quyền hạn tình huống.
+
+Hiện tại nếu đăng nhập không đi vào, cũng không biết lãnh đạo có phải là phát hiện hắn những kia tài liệu học tập.
+
+"Ta liền không hiểu nổi, ngươi làm gì thế nhất định phải xóa rồi, để cho kế tiếp lập trình viên học tập không giỏi sao?"
+
+"Ngươi không hiểu." Vu Hải Đông có vẻ đặc biệt ủ rũ.
+
+"Toàn xong, mọi người biết rồi, sau đó còn làm sao gặp người a?" Vu Hải Đông vẻ mặt đưa đám nói.
+
+Hà Tứ Hải nhưng có điểm muốn cười, ngươi đều biến thành quỷ rồi, còn gặp người nào a.
+
+"Lý Nhược Hoa khẳng định cũng biết rồi." Vu Hải Đông bụm mặt nói.
+
+Sau đó cả người bắt đầu hướng về bàn máy tính dưới xuyên, ngược lại hắn là quỷ, nơi nào đều có thể xuyên đến đi vào.
+
+"Ngươi làm gì thế? Còn có kia Lý Nhược Hoa là ai?" Hà Tứ Hải đưa tay đem hắn cho lôi đi ra.
+
+"Lý Nhược Hoa nàng là công ty mỹ thuật." Vu Hải Đông nói.
+
+"Chỉ là đơn giản mỹ thuật? Nói nhanh một chút, bằng không ta giúp ngươi ra sao?"
+
+Vu Hải Đông nhăn nhó nửa ngày, cuối cùng nói ra nguyên nhân.
+
+Lý Nhược Hoa xác thực là công ty bọn họ mỹ thuật, nhưng cũng là Vu Hải Đông thầm mến đối tượng.
+
+Nhưng làm việc với nhau bốn, năm năm hắn nhưng vẫn không dám biểu lộ, năm ngoái họp hằng năm dựa vào rượu kình, theo người ta biểu lộ, tại chỗ liền bị cự tuyệt rồi, nguyên lai nhân gia năm trước đã giao một cái bạn trai.
+
+Thế nhưng Vu Hải Đông vẫn đối với Lý Nhược Hoa nhà nhớ mãi không quên.
+
+Hắn tài liệu học tập bên trong liền có rất nhiều hắn chụp trộm, thường ngày tăng ca, trời tối người yên thời điểm, hắn sẽ lật ra đến tham quan tham quan.
+
+Bản này cũng không có gì, nhưng sau một quãng thời gian, hắn cảm thấy chỉ nhìn bức ảnh cùng mấy cái ống kính video đã không thể thỏa mãn hắn rồi.
+
+Thế là len lén lợi dụng đổi đầu phần mềm, đem một vài tài liệu học tập bên trong nội dung cho đổi.
+
+"Đổi đầu phần mềm là cái gì?" Hà Tứ Hải tốt hơn học, không hiểu liền hỏi.
+
+Chờ biết sau đó, hắn chỉ muốn nói, người thành phố thật sẽ chơi.
+
+"Hiện tại toàn xong." Chờ nói xong, Vu Hải Đông tiếp tục một bộ khóc tang dáng dấp.
+
+Nếu như thật bị phát hiện rồi, Vu Hải Đông danh tiếng ở trong công ty tuyệt đối khắp nơi bừa bộn, cho dù đã chết rồi, e sợ đều phải bị đem ra quất roi mấy lần.
+
+Chủ yếu nhất chính là Vu Hải Đông sợ hắn những kia đổi đầu video lưu truyền đi, này đối với Lý Nhược Hoa nhất định sẽ tạo thành rất lớn thương tổn.
+
+"Ngươi cũng đừng vội, ngươi không nên quên ngươi hiện tại là quỷ, ngươi trước về công ty nhìn một chút. Nhìn một chút có phải là thật hay không bị phát hiện rồi, nếu là không có, ngươi cũng có thể nghĩ nghĩ biện pháp, nhìn có thể hay không cầm đi mới tài khoản cùng mật mã." Hà Tứ Hải suy nghĩ một chút nói.
+
+"Đúng vậy, ta làm sao không nghĩ tới đây, ta hiện tại liền trở về."
+
+Mới vừa rồi còn vẻ mặt đưa đám Vu Hải Đông một mặt hưng phấn bay lên.
+
+"Ta tệp tài liệu cũng là bỏ thêm mật, chính là chạy tự điển cũng chạy mấy ngày, khẳng định không nhanh như vậy." Vu Hải Đông đầy cõi lòng hi vọng nói.
+
+Nói xong xoay người liền muốn chạy ra ngoài.
+
+Đi chưa được mấy bước phảng phất nhớ tới cái gì, lại xoay người đối Hà Tứ Hải nói: "Cảm tạ tiếp dẫn đại nhân, ta trước đi xem xem, làm lỡ ngài thời gian rồi."
+
+"Đi thôi, bất quá ta nhắc nhở ngươi một câu, tuy rằng ngươi hiện tại là quỷ, không có trở ngại, thế nhưng ngươi cũng không thể lợi dụng năng lực này, lên cái gì tà tâm, làm một ít trước đây không dám làm sự? Ta tuy rằng không sẽ nhờ đó đối với ngươi trừng phạt, thế nhưng ngươi đi Âm Thế sau, nhất định sẽ cùng ngươi thanh toán." Hà Tứ Hải cảnh cáo nói.
+
+"Trước đây không dám làm sự?" Vu Hải Đông nghe vậy sửng sốt một chút.
+
+Sau đó phản ứng lại, rất tức giận nói: "Tiếp dẫn đại nhân, ngươi coi ta là gì người, ta tuy rằng thầm mến Lý Nhược Hoa, nhưng tuyệt đối sẽ không đối với nàng làm cái gì chuyện xấu xa."
+
+"Có đúng không?" Hà Tứ Hải có chút không tin.
+
+Có đổi đầu sự ở trước, lời này thực sự là quá không sức thuyết phục rồi.
+
+Bất quá này không về Hà Tứ Hải quản, nếu như thật sự có cái gì, hắn trở về Minh Thổ thời điểm, Minh Thổ phán phạt quy tắc sẽ theo hắn thanh toán..

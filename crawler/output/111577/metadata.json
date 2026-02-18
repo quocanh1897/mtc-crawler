@@ -1,0 +1,101 @@
+{
+  "id": 111577,
+  "name": "Đại Thừa Kỳ Mới Có Nghịch Tập Hệ Thống",
+  "slug": "dai-thua-ky-moi-co-nghich-tap-he-thong",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/dai-thua-ky-moi-co-nghich-tap-he-thong",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 14553669,
+  "latest_chapter": 15497834,
+  "latest_index": 776,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/dai-thua-ky-moi-co-nghich-tap-he-thong/default.jpg?1647093291",
+    "600": "https://static.cdnno.com/poster/dai-thua-ky-moi-co-nghich-tap-he-thong/600.jpg?1647093291",
+    "300": "https://static.cdnno.com/poster/dai-thua-ky-moi-co-nghich-tap-he-thong/300.jpg?1647093291",
+    "150": "https://static.cdnno.com/poster/dai-thua-ky-moi-co-nghich-tap-he-thong/150.jpg?1647093291"
+  },
+  "synopsis": "Giang Ly chuyển kiếp tới, có phát hiện không kim thủ chỉ, chỉ có thể đàng hoàng tu luyện, năm trăm năm sau, hắn trở thành Cửu Châu người mạnh nhất, đột nhiên xuất hiện một cái hệ thống, nói có thể giúp kí chủ từ Luyện Khí Kỳ nghịch tập trở thành Cửu Châu đệ nhất nhân.\n\n\tGiang Ly nhìn nhiệm vụ thứ nhất, lâm vào trầm tư.\n\n\t\"Mời kí chủ đánh bại ngươi anh họ (Luyện Khí tầng sáu ).\"\n\n\t\"Ngươi này hệ thống kéo dài thật nghiêm trọng a.\"",
+  "vote_count": 412,
+  "review_score": "4.781",
+  "review_count": 24,
+  "comment_count": 429,
+  "chapter_count": 772,
+  "view_count": 0,
+  "word_count": 1370396,
+  "created_at": "2022-03-12T13:54:32.000000Z",
+  "updated_at": "2026-02-18T05:09:41.000000Z",
+  "new_chap_at": "2022-11-15T15:49:40.000000Z",
+  "published_at": "2022-03-12T13:54:32.000000Z",
+  "published": 1,
+  "user_id": 1000054,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Đại Thừa Kỳ Mới Có Nghịch Tập Hệ Thống",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2271,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000054,
+    "name": "Kelly 97",
+    "avatar": [
+      "https://static.cdnno.com/user/c921b2e0feb1db5e1accda522366b9aa/200.jpg?1716720298",
+      "https://static.cdnno.com/user/c921b2e0feb1db5e1accda522366b9aa/100.jpg?1716720298",
+      "https://static.cdnno.com/user/c921b2e0feb1db5e1accda522366b9aa/50.jpg?1716720298"
+    ],
+    "level": 1,
+    "exp": 19,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 6138,
+    "name": "Tối Bạch Ô Nha",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

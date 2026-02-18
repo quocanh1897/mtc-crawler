@@ -1,0 +1,77 @@
+{
+  "id": 100850,
+  "name": "Tại Liêu Trai Làm Hiền Giả",
+  "slug": "tai-lieu-trai-lam-hien-gia",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/tai-lieu-trai-lam-hien-gia",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11031081,
+  "latest_chapter": 11031891,
+  "latest_index": 812,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tai-lieu-trai-lam-hien-gia/default.jpg?1585205829",
+    "600": "https://static.cdnno.com/poster/tai-lieu-trai-lam-hien-gia/600.jpg?1585205829",
+    "300": "https://static.cdnno.com/poster/tai-lieu-trai-lam-hien-gia/300.jpg?1585205829",
+    "150": "https://static.cdnno.com/poster/tai-lieu-trai-lam-hien-gia/150.jpg?1585205829"
+  },
+  "synopsis": "Ruộng tốt vạn mẫu, nô bộc mấy trăm, hào môn đại trạch. . . \nLý Tu Viễn xuyên qua trở thành địa chủ nhà đại thiếu gia, không có chút nào chí khí hắn vốn định làm một lần bại gia tử, khi một cái hoàn khố đệ tử, đùa giỡn đẹp tỷ, quảng thu tiểu thiếp, tiên y nộ mã.  Thẳng đến có ngày hắn đột nhiên phát phát hiện mình nhà tại Quách Bắc huyện, huyện ngoài có cái Lan Nhược Tự.  \nCàng trí mạng là Lý Tu Viễn trời sinh Thất Khiếu Linh Lung Tâm, quỷ quái ăn hắn một giọt tâm đầu huyết có thể tăng trăm năm tu vi, ăn hắn một mảnh tim can có thể thành ngàn năm lão yêu, đem cả người hắn nuốt, lập tức vũ hóa thành tiên.  \nVẫn còn may không phải là tất cả quỷ quái đều là như thế tàn bạo, ngẫu nhiên cũng có mấy cái lòng mang ý đồ xấu diễm quỷ, hồ nữ, chạy tới tranh muốn đoạt lấy làm thê thiếp của hắn.",
+  "vote_count": 10,
+  "review_score": "4.227",
+  "review_count": 3,
+  "comment_count": 25,
+  "chapter_count": 811,
+  "view_count": 0,
+  "word_count": 3138437,
+  "created_at": "2020-03-26T06:57:09.000000Z",
+  "updated_at": "2026-02-17T12:35:24.000000Z",
+  "new_chap_at": "2018-06-26T11:00:51.000000Z",
+  "published_at": "2020-03-26T06:57:09.000000Z",
+  "published": 1,
+  "user_id": 1000029,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Tại Liêu Trai Làm Hiền Giả",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 390,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000029,
+    "name": "MisDax",
+    "avatar": [
+      "https://static.cdnno.com/user/2f25b940dc586c83b766de9142e5cf29/200.jpg?1590730402",
+      "https://static.cdnno.com/user/2f25b940dc586c83b766de9142e5cf29/100.jpg?1590730402",
+      "https://static.cdnno.com/user/2f25b940dc586c83b766de9142e5cf29/50.jpg?1590730402"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 751,
+    "name": "Phật Tiền Hiến Hoa",
+    "avatar": null,
+    "local_name": "佛前献花",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

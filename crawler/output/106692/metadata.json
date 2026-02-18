@@ -1,0 +1,84 @@
+{
+  "id": 106692,
+  "name": "Ta Thật Không Phải Cái Thế Cao Nhân",
+  "slug": "huyen-huyen-ta-that-khong-phai-cai-the-cao-nhan",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/huyen-huyen-ta-that-khong-phai-cai-the-cao-nhan",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13417108,
+  "latest_chapter": 14949396,
+  "latest_index": 1244,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/huyen-huyen-ta-that-khong-phai-cai-the-cao-nhan/default.jpg?1614177699",
+    "600": "https://static.cdnno.com/poster/huyen-huyen-ta-that-khong-phai-cai-the-cao-nhan/600.jpg?1614177699",
+    "300": "https://static.cdnno.com/poster/huyen-huyen-ta-that-khong-phai-cai-the-cao-nhan/300.jpg?1614177699",
+    "150": "https://static.cdnno.com/poster/huyen-huyen-ta-that-khong-phai-cai-the-cao-nhan/150.jpg?1614177699"
+  },
+  "synopsis": "Cái gì? Ta nuôi gà đất là thuần huyết Phượng Hoàng? Cái gì? Ta nuôi cá chép đều là Chân Long? Lý Phàm: Không, không có khả năng, ta làm sao có thể là cái thế cường giả? !\n\nCảnh giới: Kim Đan, Nguyên Anh, phân thần, Động Hư, Đại Thừa, Hợp Thể, Tiên Nhân, Chân Tiên, Huyền Tiên, Thiên Tiên, Kim Tiên, Thái Ất Kim Tiên, Đại La Kim Tiên, Hỗn Nguyên Kim Tiên(Tiên Quân).",
+  "vote_count": 1222,
+  "review_score": "4.920",
+  "review_count": 30,
+  "comment_count": 793,
+  "chapter_count": 1243,
+  "view_count": 0,
+  "word_count": 2842076,
+  "created_at": "2021-02-24T14:41:53.000000Z",
+  "updated_at": "2026-02-17T01:52:14.000000Z",
+  "new_chap_at": "2022-06-29T05:03:52.000000Z",
+  "published_at": "2021-02-24T14:41:39.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Thật Không Phải Cái Thế Cao Nhân",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2274,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 4381,
+    "name": "Tâm Cảnh Vô Cực",
+    "avatar": null,
+    "local_name": "心境无极",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 5,
+      "name": "Nhẹ Nhàng",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}

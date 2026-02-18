@@ -1,0 +1,77 @@
+{
+  "id": 100365,
+  "name": "Vạn Đạo Long Hoàng",
+  "slug": "van-dao-long-hoang",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/van-dao-long-hoang",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 10353634,
+  "latest_chapter": 16390034,
+  "latest_index": 6017,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/van-dao-long-hoang/default.jpg?1585205568",
+    "600": "https://static.cdnno.com/poster/van-dao-long-hoang/600.jpg?1585205568",
+    "300": "https://static.cdnno.com/poster/van-dao-long-hoang/300.jpg?1585205568",
+    "150": "https://static.cdnno.com/poster/van-dao-long-hoang/150.jpg?1585205568"
+  },
+  "synopsis": "Thiếu niên Lục Minh, huyết mạch bị đoạt, biến thành phế nhân, nhận hết khuất nhục. May mắn được Chí Tôn Thần Điện, trọng sinh vô thượng huyết mạch, từ nay về sau chân đạp thiên tài, một đường phản ngược, đạp vào nhiệt huyết huy hoàng đường. Phệ vô tận sinh linh, dung Chư Thiên huyết mạch, vượt qua thiên sơn vạn thủy, xông cửu thiên thập địa, bại tận thiên hạ anh hào, tu Chiến Long chân quyết, thành tựu Vạn Đạo Long Hoàng.\n---------\n\n\n♥♥♥ ỦNG HỘ ĐỂ TA CÓ ĐỘNG LỰC CV NHÉ! ♥♥♥\n\nCác bạn ủng hộ bằng 4 phương thức:\n1. Đánh giá chất lượng truyện và bản convert.\n2. Bấm đề cử, tặng hoa ❁.\n3. Ấn nút Tặng kẹo ???? cuối chương.\n4. Ấn Nút like\nChân thành cảm ơn",
+  "vote_count": 1517,
+  "review_score": "4.741",
+  "review_count": 25,
+  "comment_count": 636,
+  "chapter_count": 6015,
+  "view_count": 0,
+  "word_count": 14074971,
+  "created_at": "2020-03-26T06:52:48.000000Z",
+  "updated_at": "2026-02-18T10:53:49.000000Z",
+  "new_chap_at": "2023-06-20T02:26:16.000000Z",
+  "published_at": "2020-03-26T06:52:48.000000Z",
+  "published": 1,
+  "user_id": 1000076,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Vạn Đạo Long Hoàng",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2351,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000076,
+    "name": "Shin Đzai",
+    "avatar": [
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/200.jpg?1750327701",
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/100.jpg?1750327701",
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/50.jpg?1750327701"
+    ],
+    "level": 4,
+    "exp": 3360,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 321,
+    "name": "Mục Đồng Thính Trúc",
+    "avatar": null,
+    "local_name": "牧童听竹",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

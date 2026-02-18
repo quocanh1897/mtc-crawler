@@ -1,0 +1,102 @@
+{
+  "id": 123059,
+  "name": "Ta Lấy Lực Phục Tiên",
+  "slug": "ta-lay-luc-phuc-tien",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/ta-lay-luc-phuc-tien",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 17327651,
+  "latest_chapter": 26878620,
+  "latest_index": 761,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-lay-luc-phuc-tien/default.jpg?1705503873",
+    "600": "https://static.cdnno.com/poster/ta-lay-luc-phuc-tien/600.jpg?1705503873",
+    "300": "https://static.cdnno.com/poster/ta-lay-luc-phuc-tien/300.jpg?1705503873",
+    "150": "https://static.cdnno.com/poster/ta-lay-luc-phuc-tien/150.jpg?1705503873"
+  },
+  "synopsis": "Người lấy lực phục người, không phải tâm phục vậy, lực không đủ vậy.\n\nNgười lấy lý phục người, trong lòng vui mà tâm phục khẩu phục vậy.\n\nNhưng tiên nhân thường không nói lý...",
+  "vote_count": 551,
+  "review_score": "5.000",
+  "review_count": 2,
+  "comment_count": 64,
+  "chapter_count": 761,
+  "view_count": 0,
+  "word_count": 1923655,
+  "created_at": "2024-01-17T15:03:31.000000Z",
+  "updated_at": "2026-02-17T12:35:38.000000Z",
+  "new_chap_at": "2026-02-13T03:39:09.000000Z",
+  "published_at": "2024-01-17T15:03:31.000000Z",
+  "published": 1,
+  "user_id": 1000034,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Lấy Lực Phục Tiên",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 367,
+  "chapter_per_week": 3,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000034,
+    "name": "Hoàng Châu",
+    "avatar": [
+      "https://static.cdnno.com/user/default/200.jpg",
+      "https://static.cdnno.com/user/default/100.jpg",
+      "https://static.cdnno.com/user/default/50.jpg"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 919,
+    "name": "Đoạn Kiều Tàn Tuyết",
+    "avatar": null,
+    "local_name": "断桥残雪",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 22,
+      "name": "Huyễn Tưởng Tu Tiên",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

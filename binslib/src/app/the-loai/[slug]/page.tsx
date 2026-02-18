@@ -19,17 +19,17 @@ export default async function GenrePage({ params }: Props) {
   const genre = allGenres.find((g) => g.slug === slug);
   if (!genre) notFound();
 
-  const [viewRanked, bookmarkRanked, commentRanked, recentBooks, completedBooks] =
+  const [voteRanked, bookmarkRanked, commentRanked, recentBooks, completedBooks] =
     await Promise.all([
-      getRankedBooks("view_count", 10, slug),
+      getRankedBooks("vote_count", 10, slug),
       getRankedBooks("bookmark_count", 10, slug),
       getRankedBooks("comment_count", 10, slug),
       getBooks({ sort: "updated_at", order: "desc", genre: slug, limit: 10 }),
       getBooks({ sort: "bookmark_count", order: "desc", genre: slug, status: 2, limit: 6 }),
     ]);
 
-  const rankingData: Record<RankingMetric, typeof viewRanked> = {
-    view_count: viewRanked,
+  const rankingData: Partial<Record<RankingMetric, typeof voteRanked>> = {
+    vote_count: voteRanked,
     bookmark_count: bookmarkRanked,
     comment_count: commentRanked,
   };

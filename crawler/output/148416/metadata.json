@@ -1,0 +1,84 @@
+{
+  "id": 148416,
+  "name": "Tịch Tĩnh Sát Lục",
+  "slug": "tich-tinh-sat-luc",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/tich-tinh-sat-luc",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 24960804,
+  "latest_chapter": 25005281,
+  "latest_index": 903,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tich-tinh-sat-luc/default.jpg?1759656737",
+    "600": "https://static.cdnno.com/poster/tich-tinh-sat-luc/600.jpg?1759656737",
+    "300": "https://static.cdnno.com/poster/tich-tinh-sat-luc/300.jpg?1759656737",
+    "150": "https://static.cdnno.com/poster/tich-tinh-sat-luc/150.jpg?1759656737"
+  },
+  "synopsis": "Ta, bị nhốt ở trên Trái Đất, bị nhốt ở trên tinh cầu bình thường, phổ thông, không có bất kỳ kỳ tích gì này.\n\n\tĐây là hạnh phúc của nhược giả, lại là bi ai của cường giả.\n\n\tNhưng hiện tại, ta cuối cùng bước vào thế giới mới, ta không biết nơi này có còn hay không là Trái Đất, nhưng chí ít ở nơi này, vũ lực cùng tri thức mới là pháp tắc cuối cùng của hết thảy sự vật.\n\n\tMà tài năng của ta, cũng sẽ đạt được thỏa thích bày ra, bởi vì ta duy nhất phải làm, liền là khiến bản thân biến đến càng mạnh.\n\n\tTa nhìn thấy, ta giết chóc, ta hủy diệt.",
+  "vote_count": 1,
+  "review_score": "0.000",
+  "review_count": 0,
+  "comment_count": 6,
+  "chapter_count": 903,
+  "view_count": 0,
+  "word_count": 1735527,
+  "created_at": "2025-10-05T09:31:42.000000Z",
+  "updated_at": "2026-02-16T13:42:01.000000Z",
+  "new_chap_at": "2025-10-08T12:52:48.000000Z",
+  "published_at": "2025-10-05T09:31:42.000000Z",
+  "published": 1,
+  "user_id": 1013692,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Tịch Tĩnh Sát Lục",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 71,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1013692,
+    "name": "Htohtaza",
+    "avatar": [
+      "https://static.cdnno.com/user/af63c600a4cd2af7bded6cab8a8180ec/200.jpg?1709291278",
+      "https://static.cdnno.com/user/af63c600a4cd2af7bded6cab8a8180ec/100.jpg?1709291278",
+      "https://static.cdnno.com/user/af63c600a4cd2af7bded6cab8a8180ec/50.jpg?1709291278"
+    ],
+    "level": 2,
+    "exp": 185,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 496,
+    "name": "Hùng Lang Cẩu",
+    "avatar": null,
+    "local_name": "熊狼狗",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 4,
+      "name": "Khoa Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 7,
+      "name": "Lãnh Khốc",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}

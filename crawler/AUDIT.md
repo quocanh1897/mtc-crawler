@@ -1,24 +1,25 @@
 # Book Download Audit
 
-Generated: 2026-02-18 16:56
+Generated: 2026-02-18 20:10
 
 ## Summary
 
 | Status               |   Books | Chapters saved |
 | -------------------- | ------: | -------------: |
-| Done                 |     278 |        276,003 |
+| Done                 |     293 |        296,085 |
 | Partial              |       0 |              0 |
 | Empty folder         |       7 |              0 |
 | Not started          |       0 |              0 |
-| **Total bookmarked** | **285** | **276,003** |
+| **Total bookmarked** | **300** | **296,085** |
 
-Output: 285 folders, 276,003 chapters saved, 5.9GB on disk.
+Output: 300 folders, 296,085 chapters saved, 6.1GB on disk.
 
-## Done (278)
+## Done (293)
 
 |     ID | API Chaps | Saved | Name |
 | -----: | --------: | ----: | ---- |
 | 101276 |        -- |  6354 | Vũ Phá Cửu Hoang |
+| 100365 |        -- |  6015 | Vạn Đạo Long Hoàng |
 | 100383 |        -- |  6003 | Vũ Luyện Điên Phong |
 | 100358 |        -- |  5515 | Vô Thượng Sát Thần |
 | 101666 |        -- |  4534 | Trùng Sinh Chi Đô Thị Cuồng Tiên |
@@ -43,7 +44,9 @@ Output: 285 folders, 276,003 chapters saved, 5.9GB on disk.
 | 112226 |        -- |  2462 | Dị Giới Hệ Thống Cửa Hàng |
 | 118113 |        -- |  2456 | Đế Quốc Đại Phản Tặc |
 | 100741 |        -- |  2442 | Tu La Thiên Tôn |
+| 110611 |        -- |  2156 | Ta Có 9 Triệu Tỷ Liếm Cẩu Tiền |
 | 118613 |        -- |  2146 | Hệ Thống Phú Ta Trường Sinh, Ta Chịu Chết Tất Cả Mọi Người |
+| 119381 |        -- |  2106 | Astartes Của School Of The Bear |
 | 107833 |        -- |  2105 | Nhà Ta Đập Chứa Nước Thật Không Có Cự Mãng A |
 | 121613 |        -- |  2003 | Ngự Thú Gia Tộc: Ta Có Một Bản Vạn Linh Đồ Giám |
 | 104815 |        -- |  1928 | Ta Đại Đạo Thân Phận Bị Muội Muội Đắc Kỷ Công Khai |
@@ -75,6 +78,8 @@ Output: 285 folders, 276,003 chapters saved, 5.9GB on disk.
 | 109334 |        -- |  1361 | Huấn Luyện Gia Tầng Lớp Thấp Nhất Của Thế Giới Pokemon |
 | 125669 |        -- |  1357 | Ta Mở Thật Sự Là Cô Nhi Viện, Không Phải Sát Thủ Đường |
 | 128228 |        -- |  1339 | Đế Quốc Bóng Tối |
+| 106203 |        -- |  1333 | Nhân Loại Bình Thường Bình Thường Sinh Hoạt |
+| 101308 |        -- |  1331 | Đại Vương Tha Mạng |
 | 127659 |        -- |  1320 | Chỉ Kiếm Tiền Không Nói Tình Cảm, Nghề Nghiệp Liếm Cẩu Ta Nhất Đi! |
 | 100396 |        -- |  1314 | Nhất Niệm Vĩnh Hằng |
 | 135947 |        -- |  1311 | Vô Tận Hàn Đông: Doanh Địa Của Ta Vô Hạn Thăng Cấp |
@@ -82,6 +87,7 @@ Output: 285 folders, 276,003 chapters saved, 5.9GB on disk.
 | 101396 |        -- |  1274 | Quật Khởi Thức Tỉnh Thời Đại |
 | 119583 |        -- |  1274 | Lừa Bán Nữ Quỷ, Ta Quỷ Buôn Lậu Thân Phận Không Giấu Được |
 | 126441 |        -- |  1252 | Thần Thoại Chi Hậu |
+| 106692 |        -- |  1243 | Ta Thật Không Phải Cái Thế Cao Nhân |
 | 101381 |        -- |  1238 | Đô Thị Chi Tiên Tôn Trọng Sinh |
 | 101492 |        -- |  1231 | Bất Động Sản Đại Ngoạn Gia |
 | 101358 |        -- |  1222 | Cơ Thể Ta Có Bug |
@@ -118,9 +124,11 @@ Output: 285 folders, 276,003 chapters saved, 5.9GB on disk.
 | 121143 |        -- |   936 | Đạo Gia Muốn Phi Thăng |
 | 133647 |        -- |   934 | Theo Một Con Gà Bắt Đầu Chế Tạo Tiên Thôn |
 | 109531 |        -- |   932 | Ta Có Thể Bạo Tu Vi |
+| 138958 |        -- |   926 | Ta Ở Trong Game Thăng Cấp |
 | 101386 |        -- |   919 | Vạn Yêu Đế Chủ |
 | 101379 |        -- |   913 | Thần Thoại Cấm Khu |
 | 112034 |        -- |   909 | Thỉnh Công Tử Trảm Yêu |
+| 148416 |        -- |   903 | Tịch Tĩnh Sát Lục |
 | 105922 |        -- |   896 | Theo Hồng Nguyệt Bắt Đầu |
 | 101348 |        -- |   880 | Gien Tối Cường |
 | 108723 |        -- |   861 | Vạn Tộc Chiến Trường: Ta Có Một Cái Vô Hạn Hợp Thành Lan! |
@@ -136,16 +144,19 @@ Output: 285 folders, 276,003 chapters saved, 5.9GB on disk.
 | 153070 |        -- |   818 | Gia Tộc Tu Tiên: Ta Làm Trấn Tộc Linh Thú |
 | 117132 |        -- |   817 | Thân Là Thiên Tài, Ta Lại Là Trong Nhà Yếu Nhất? |
 | 101389 |        -- |   816 | Tạo Mộng Thiên Sư |
+| 100850 |        -- |   811 | Tại Liêu Trai Làm Hiền Giả |
 | 101484 |        -- |   801 | Mộng Tưởng Là Vua |
 | 101357 |        -- |   790 | Biến Thân Người Qua Đường Nữ Chính |
 | 108637 |        -- |   790 | Ta Tại Võ Đạo Thư Viện Cẩu Thả Đến Vô Địch |
 | 114714 |        -- |   787 | Vừa Thành Tiên Thần, Con Cháu Cầu Ta Xuất Sơn |
 | 101355 |        -- |   784 | Ngược Dòng Hồn Nhiên Những Năm Tháng |
 | 116007 |        -- |   774 | Các Sư Đệ Đều Là Đại Lão, Vậy Ta Chỉ Có Thể Bật Hack |
+| 111577 |        -- |   772 | Đại Thừa Kỳ Mới Có Nghịch Tập Hệ Thống |
 | 134297 |        -- |   771 | Cái Này Thích Khách Quang Minh Lỗi Lạc |
 | 101342 |        -- |   769 | Nhất Đao Phách Khai Sinh Tử Lộ |
 | 130765 |        -- |   769 | Từ Đầy Thiên Phú Bắt Đầu Tu Tiên |
 | 132535 |        -- |   762 | Pháp Sư Chi Thượng |
+| 123059 |        -- |   761 | Ta Lấy Lực Phục Tiên |
 | 107477 |        -- |   744 | Bầy Trùng Pháp Tắc |
 | 120389 |        -- |   741 | Vạn Cổ Đao |
 | 100414 |        -- |   739 | Phi Kiếm Vấn Đạo |
@@ -167,6 +178,7 @@ Output: 285 folders, 276,003 chapters saved, 5.9GB on disk.
 | 107105 |        -- |   671 | Bắt Đầu Lừa Tình Mười Cái Nữ Cường Nhân |
 | 101491 |        -- |   669 | Lục Tích Chi Tinh Hà Sáng Thế |
 | 104231 |        -- |   665 | Đại Chu Tiên Lại |
+| 109220 |        -- |   661 | Đối Tượng Hẹn Hò Là Thần Minh Chi Nữ |
 | 105581 |        -- |   660 | Từ Mạng Lưới Thần Hào Bắt Đầu |
 | 117899 |        -- |   643 | Trường Sinh Từ Thợ Săn Bắt Đầu |
 | 110127 |        -- |   634 | Hợp Đạo |
@@ -204,6 +216,7 @@ Output: 285 folders, 276,003 chapters saved, 5.9GB on disk.
 | 128419 |        -- |   477 | Ta Khai Sáng Thiên Kiêu Kỷ Nguyên |
 | 102205 |        -- |   476 | Bàn Long |
 | 119872 |        -- |   475 | Khí Lực Của Ta Mỗi Ngày Gia Tăng 100 Cân |
+| 101367 |        -- |   472 | Inuyasha Chi Dạ Phong Đô |
 | 101397 |        -- |   472 | Sư Thúc Vô Địch |
 | 105099 |        -- |   467 | Ta Có Một Tòa Thời Không Điền Viên |
 | 101359 |        -- |   465 | Thiên Cửu Vương |
@@ -215,6 +228,7 @@ Output: 285 folders, 276,003 chapters saved, 5.9GB on disk.
 | 100386 |        -- |   447 | Đế Bá |
 | 104145 |        -- |   445 | Hoàng Huynh Vạn Tuế |
 | 107249 |        -- |   441 | Ta Tại Hiệu Cầm Đồ Giám Bảo Những Năm Kia |
+| 105499 |        -- |   440 | Ta Là Tinh Chủ |
 | 147360 |        -- |   437 | Chư Thiên Lãnh Chúa |
 | 149799 |        -- |   433 | Lão Bà Của Ta Là Đông Tấn Đệ Nhất Nữ Ma Đầu |
 | 101409 |        -- |   431 | Dáng Dấp Quá Hung Làm Sao Bây Giờ |
@@ -285,6 +299,7 @@ Output: 285 folders, 276,003 chapters saved, 5.9GB on disk.
 | 139488 |        -- |   178 | Theo Tượng Gỗ Tạp Dịch Can Thành Thánh Nhân |
 | 139490 |        -- |   167 | Ràng Buộc Luyện Công, Vô Sự Tự Thông |
 | 101395 |        -- |   158 | Tu La Giác Tỉnh |
+| 133699 |        -- |   152 | Ta Yêu Vật Diễn Sinh Kỹ Mới Là Chính Thống |
 | 145021 |        -- |   149 | Trường Sinh Có Nến |
 | 152042 |        -- |   144 | Cẩu Tại Lưỡng Giới Tu Tiên |
 | 107063 |        -- |   143 | Ta Tại Trấn Dạ Ti Mở Ra Địa Ngục Chi Môn |
@@ -301,8 +316,8 @@ Output: 285 folders, 276,003 chapters saved, 5.9GB on disk.
 
 |     ID | API Chaps | Name |
 | -----: | --------: | ---- |
-| 100441 |        -- | Book 100441 |
-| 101481 |        -- | Book 101481 |
+| 100441 |        -- | Man Hoang: Bộ Lạc Của Ta Mạnh Hơn Một Chút |
+| 101481 |        -- | Bắc Cảnh Nắm Giữ Mười Triệu Binh, Nữ Đế Quỳ Cầu Đừng Tạo Phản |
 | 101486 |        -- | Vô Tận Ma Diễm |
 | 109098 |        -- | Book 109098 |
 | 115282 |        -- | Bắt Đầu Trở Thành Thủ Tọa, Đánh Dấu Cực Đạo Đế Binh! |

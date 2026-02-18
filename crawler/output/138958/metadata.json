@@ -1,0 +1,96 @@
+{
+  "id": 138958,
+  "name": "Ta Ở Trong Game Thăng Cấp",
+  "slug": "ta-o-trong-game-thang-cap",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ta-o-trong-game-thang-cap",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 21575706,
+  "latest_chapter": 22059727,
+  "latest_index": 926,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-o-trong-game-thang-cap/default.jpg?1740660366",
+    "600": "https://static.cdnno.com/poster/ta-o-trong-game-thang-cap/600.jpg?1740660366",
+    "300": "https://static.cdnno.com/poster/ta-o-trong-game-thang-cap/300.jpg?1740660366",
+    "150": "https://static.cdnno.com/poster/ta-o-trong-game-thang-cap/150.jpg?1740660366"
+  },
+  "synopsis": "【 linh khí khôi phục 】 + 【 toàn dân thức tỉnh 】 + 【 giả heo ăn thịt hổ 】 + 【 hài hước 】 + 【 đơn nữ chính 】 + 【 trò chơi thăng cấp 】\nĐây là toàn dân thức tỉnh thời đại, giác tỉnh giả 18 tuổi trước đó có thể đem suy nghĩ trong lòng biến thành thức tỉnh vật.\nCó người thức tỉnh Hiên Viên kiếm, một kiếm có thể mở thiên môn.\nCó người thức tỉnh ma đao, hoắc loạn thương sinh.\nCó người thức tỉnh tất chân, phá có thể tự động chữa trị.\nCó người thức tỉnh cái mũ, nói dối sẽ cải biến nhan sắc.\nCó người thức tỉnh đồ chơi, có thể hoá hình biến hóa lớn nhỏ dài ngắn.\nThân là nghiện net thiếu niên gió đêm đã thức tỉnh một cái Tiểu Bá Vương máy chơi game.\nNguyên bản gió đêm coi là đời này liền muốn không lý tưởng.\nKết quả hắn chợt phát hiện mình có thể ở trong game thăng cấp.\nNgươi hỏi ta vì cái gì mạnh như vậy? chết nhiều mấy lần liền tốt.",
+  "vote_count": 305,
+  "review_score": "4.842",
+  "review_count": 12,
+  "comment_count": 225,
+  "chapter_count": 926,
+  "view_count": 0,
+  "word_count": 1692557,
+  "created_at": "2025-02-27T12:45:54.000000Z",
+  "updated_at": "2026-02-17T17:51:39.000000Z",
+  "new_chap_at": "2025-04-13T05:00:00.000000Z",
+  "published_at": "2025-02-27T13:00:35.000000Z",
+  "published": 1,
+  "user_id": 1280652,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Ở Trong Game Thăng Cấp",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2443,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1280652,
+    "name": "GrootQe",
+    "avatar": [
+      "https://static.cdnno.com/user/d88294e2a6ce382e39ecdb34623d5b58/200.jpg?1716598891",
+      "https://static.cdnno.com/user/d88294e2a6ce382e39ecdb34623d5b58/100.jpg?1716598891",
+      "https://static.cdnno.com/user/d88294e2a6ce382e39ecdb34623d5b58/50.jpg?1716598891"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 7112,
+    "name": "Phủ Sơn Đồ Thư Quán",
+    "avatar": null,
+    "local_name": "斧山图书馆",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 6,
+      "name": "Đô Thị",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 14,
+      "name": "Cao Võ Thế Giới",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 92,
+      "name": "Toàn Dân",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

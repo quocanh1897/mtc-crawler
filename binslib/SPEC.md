@@ -14,7 +14,7 @@
 | Feature                | Notes                                                                                     |
 | ---------------------- | ----------------------------------------------------------------------------------------- |
 | Genre navigation bar   | Horizontal genre bar with book counts, same as tangthuvien's top bar                      |
-| Homepage rankings      | "Xem nhiều" → `view_count`, "Yêu thích" → `bookmark_count`, "Bình luận" → `comment_count` |
+| Homepage rankings      | "Đề cử" → `vote_count`, "Yêu thích" → `bookmark_count`, "Bình luận" → `comment_count` |
 | "Bảng xếp hạng" page   | Rankings with filters: metric, genre, status, time period                                 |
 | "Bộ lọc" page          | Multi-criteria filter: status, genre, chapter count, sort order, tags                     |
 | "Thể loại" genre pages | Per-genre listings with the same ranking tabs                                             |
@@ -41,7 +41,10 @@
 | Full-text chapter search  | Search within chapter content, not just titles                                |
 | Reading progress tracking | Per-user last-read chapter, reading history                                   |
 | Bookmarks & favorites     | Personal library management                                                   |
-| Basic chapter reader      | Clean text reader with chapter navigation                                     |
+| Basic chapter reader      | Clean text reader with chapter navigation + "Mục lục" links                   |
+| Author page               | Dedicated author page (`/tac-gia/[id]`) with book list; clickable everywhere  |
+| "Đề cử" ranking           | `vote_count` replaces `view_count` as primary ranking metric                  |
+| Quick EPUB download       | Small download button next to stats on homepage (ranking, recently updated)   |
 | Data sync from crawler    | Import script reads `crawler/output/` into SQLite                             |
 | Meta-puller integration   | Auto-fetch metadata for books missing `metadata.json`                         |
 | EPUB download button      | On-demand EPUB generation via epub-converter, with smart re-generation        |
@@ -415,6 +418,7 @@ CREATE INDEX idx_reading_history_user ON reading_history(user_id, read_at DESC);
 | `/tong-hop`                         | Filter/Browse   | Advanced multi-filter browsing                    |
 | `/doc-truyen/[slug]`                | Book detail     | Book info, stats, chapter list                    |
 | `/doc-truyen/[slug]/chuong-[index]` | Chapter reader  | Basic text reader                                 |
+| `/tac-gia/[id]`                     | Author page     | Author info and list of their books               |
 | `/tim-kiem?q=`                      | Search results  | Full-text search results                          |
 | `/dang-nhap`                        | Login           | Sign in page                                      |
 | `/dang-ky`                          | Register        | Sign up page                                      |
@@ -502,20 +506,20 @@ Mirrors tangthuvien but without converter/monetization sections:
 ├────────────────────────────────────┬─────────────────┤
 │                                    │                 │
 │  ┌─ Tabs ────────────────────┐     │  Truyện mới    │
-│  │ Xem nhiều | Yêu thích |   │     │  xem (recent   │
+│  │ Đề cử | Yêu thích |      │     │  xem (recent   │
 │  │ Bình luận                 │     │  reads)        │
 │  ├───────────────────────────┤     │                │
-│  │  1. Book A     30,822 👁  │     │  ──────────    │
-│  │  2. Book B     27,978 👁  │     │                │
-│  │  3. Book C     23,042 👁  │     │  Thống kê      │
+│  │  1. Book A    8 đề cử ⬇  │     │  ──────────    │
+│  │  2. Book B    5 đề cử ⬇  │     │                │
+│  │  3. Book C    3 đề cử ⬇  │     │  Thống kê      │
 │  │  ...                      │     │  (Library      │
 │  │  10. Book J    12,124 👁  │     │   stats)       │
 │  └───────────────────────────┘     │  • 231 books   │
 │                                    │  • 203K chaps  │
-│  ┌─ Mới cập nhật ───────────┐     │  • 12 genres   │
-│  │ Genre | Title | Ch | Time │     │                │
-│  │ ...                       │     │                │
-│  └───────────────────────────┘     │                │
+│  ┌─ Mới cập nhật ───────────────┐ │  • 12 genres   │
+│  │ Genre|Title|Ch|Đề cử|⬇|Time │ │                │
+│  │ ...                           │ │                │
+│  └───────────────────────────────┘ │                │
 │                                    │                 │
 │  ┌─ Truyện đã hoàn thành ───┐     │                │
 │  │ Grid of completed books   │     │                │
@@ -537,7 +541,7 @@ Mirrors tangthuvien but without converter/monetization sections:
 │  │  Image  │  Thể loại: Genre1, Genre2               │
 │  │         │  Trạng thái: Còn tiếp / Hoàn thành      │
 │  │         │  ─────────────────────────────           │
-│  │         │  👁 12,930  💬 45  ❤ 2,436  📖 1,868    │
+│  │         │  🏆 8 đề cử  💬 45  ❤ 2,436  📖 1,868   │
 │  │         │                                         │
 │  │         │  [⬇ DOWNLOAD]  ← prominent, above all   │
 │  └─────────┘  [Đọc truyện] [Yêu thích] [Theo dõi]  │
@@ -560,7 +564,7 @@ Minimal, distraction-free reading:
 
 ```
 ┌──────────────────────────────────────────────────────┐
-│  ← Book Title                          Ch X / Total  │
+│  ← Book Title              Ch X / Total  [☰ Mục lục]│
 ├──────────────────────────────────────────────────────┤
 │                                                      │
 │              Chapter Title                           │
@@ -573,7 +577,7 @@ Minimal, distraction-free reading:
 │  ...                                                 │
 │                                                      │
 ├──────────────────────────────────────────────────────┤
-│  [◄ Chương trước]        [Chương sau ►]              │
+│  [◄ Chương trước]    [☰ Mục lục]    [Chương sau ►]  │
 └──────────────────────────────────────────────────────┘
 ```
 
@@ -616,11 +620,11 @@ Three tabs, each showing a ranked top-10 list:
 
 | Tab | Label         | Sort Field            | Display           |
 | --- | ------------- | --------------------- | ----------------- |
-| 1   | **Lượt đọc**  | `view_count DESC`     | "30,822 lượt xem" |
-| 2   | **Bình luận** | `comment_count DESC`  | "45 bình luận"    |
-| 3   | **Yêu thích** | `bookmark_count DESC` | "2,436 yêu thích" |
+| 1   | **Đề cử**    | `vote_count DESC`     | "8 đề cử"        |
+| 2   | **Yêu thích** | `bookmark_count DESC` | "2,436 yêu thích" |
+| 3   | **Bình luận** | `comment_count DESC`  | "45 bình luận"    |
 
-Each entry shows: Rank number, book cover thumbnail, title (linked), stat value.
+Each entry shows: Rank number, book cover thumbnail, title (linked), author (clickable link to author page), stat value, and a quick EPUB download button.
 
 Clicking "Tất cả" at top-right of each tab → navigates to `/bang-xep-hang?metric={metric}`.
 
@@ -630,7 +634,7 @@ Mirrors tangthuvien's "Bảng xếp hạng":
 
 **Filters:**
 
-- **Metric:** Lượt đọc | Bình luận | Yêu thích (radio buttons)
+- **Metric:** Đề cử | Lượt đọc | Bình luận | Yêu thích (radio buttons)
 - **Genre:** Tất cả | Tiên Hiệp | Huyền Huyễn | ... (from DB)
 - **Status:** Tất cả | Đang ra | Hoàn thành | Tạm dừng
 - **Period:** Tất cả | Năm nay | Tháng này | Tuần này
@@ -699,7 +703,7 @@ Multi-criteria book filtering, mirrors tangthuvien's "Bộ lọc":
 | -------------- | ---------------------------------------------- |
 | **Trạng thái** | Tất cả, Đang ra, Hoàn thành, Tạm dừng          |
 | **Thể loại**   | All genres (clickable pills)                   |
-| **Xếp hạng**   | Lượt đọc, Bình luận, Yêu thích, Không xếp hạng |
+| **Xếp hạng**   | Đề cử, Lượt đọc, Bình luận, Yêu thích, Không xếp hạng |
 | **Số chương**  | Tất cả, 2000+, 1000–2000, 300–1000             |
 | **Sắp xếp**    | Số chương, Truyện mới, Mới cập nhật            |
 | **Tags**       | Tag pills (from DB), expandable                |
@@ -711,9 +715,9 @@ Results shown as book cards with: cover, title, synopsis excerpt, stats, "Đọc
 **Header section:**
 
 - Cover image (see §6.9 Cover Image Handling)
-- Title, author (linked), genre tags
+- Title, author (clickable link to author page `/tac-gia/[id]`), genre tags
 - Status badge (color-coded: green=ongoing, blue=completed, yellow=paused)
-- Stats row: Lượt đọc, Bình luận, Yêu thích, Số chương
+- Stats row: Đề cử (`vote_count`), Bình luận, Yêu thích, Số chương
 
 **Actions (in order, top to bottom):**
 
@@ -731,9 +735,9 @@ Results shown as book cards with: cover, title, synopsis excerpt, stats, "Đọc
 
 **Minimal UI:**
 
-- Top bar: back to book, chapter title, chapter N/total
+- Top bar: back to book, chapter N/total, "Mục lục" link (navigates to book detail/chapter list)
 - Chapter body: clean text, comfortable typography
-- Bottom nav: previous/next chapter buttons
+- Bottom nav: "Chương trước" / "Mục lục" / "Chương sau" buttons (Mục lục in the center)
 - Keyboard shortcuts: ← previous, → next
 
 **Reading progress:**
@@ -940,8 +944,11 @@ binslib/
 │   │   ├── doc-truyen/
 │   │   │   └── [slug]/
 │   │   │       ├── page.tsx   # Book detail
-│   │   │       └── chuong-[index]/
-│   │   │           └── page.tsx  # Chapter reader
+│   │   │       └── [chapter]/
+│   │   │           └── page.tsx  # Chapter reader (chuong-N)
+│   │   ├── tac-gia/
+│   │   │   └── [id]/
+│   │   │       └── page.tsx   # Author page (book list by author)
 │   │   ├── tim-kiem/
 │   │   │   └── page.tsx       # Search results
 │   │   ├── dang-nhap/
@@ -974,13 +981,15 @@ binslib/
 │   │   │   ├── BookGrid.tsx
 │   │   │   ├── BookList.tsx
 │   │   │   ├── BookStats.tsx
-│   │   │   ├── BookCover.tsx     # Cover image with placeholder fallback
-│   │   │   ├── DownloadButton.tsx # EPUB download with generation logic
+│   │   │   ├── BookCover.tsx         # Cover image with placeholder fallback
+│   │   │   ├── DownloadButton.tsx    # EPUB download with generation logic (book detail)
+│   │   │   ├── QuickDownloadButton.tsx # Compact EPUB download icon button (homepage)
 │   │   │   └── ChapterList.tsx
 │   │   ├── rankings/
 │   │   │   ├── RankingTabs.tsx
 │   │   │   ├── RankingTable.tsx
-│   │   │   └── RankingFilters.tsx
+│   │   │   ├── RankingFilters.tsx
+│   │   │   └── AuthorLink.tsx    # Client-side author link with stopPropagation
 │   │   ├── search/
 │   │   │   ├── SearchBar.tsx
 │   │   │   ├── SearchResults.tsx
@@ -1203,9 +1212,9 @@ docker compose exec binslib-importer npx tsx scripts/import.ts --full
 | ------------------- | ------------------ | ------ |
 
 | Genre bar with counts | Same, dynamic from DB | Core |
-| "Xem nhiều" ranking | "Lượt đọc" tab (`view_count`) | Core |
+| "Xem nhiều" ranking | Replaced by "Đề cử" tab (`vote_count`) | Core |
 | "Yêu thích" ranking | "Yêu thích" tab (`bookmark_count`) | Core |
-| "Đề cử" ranking | Removed (converter-specific) | N/A |
+| "Đề cử" ranking | "Đề cử" tab (`vote_count`) — primary ranking metric | Core |
 | "Theo dõi nhiều" ranking | Removed (no follow system from tangthuvien) | N/A |
 | "Bình luận" | "Bình luận" tab (`comment_count`) | Core |
 | Bảng xếp hạng | `/bang-xep-hang` with same filters | Core |
@@ -1223,8 +1232,11 @@ docker compose exec binslib-importer npx tsx scripts/import.ts --full
 | Reading progress | Per-user tracking in SQLite | Core |
 | Bookmarks | User bookmarks in SQLite | Core |
 | N/A (new) | EPUB Download button with smart generation (§6.10) | Core |
+| N/A (new) | Quick EPUB download buttons on homepage (ranking, recently updated, completed) | Core |
+| N/A (new) | Author page (`/tac-gia/[id]`) with book list — clickable author names everywhere | Core |
+| N/A (new) | "Mục lục" links in chapter reader (top nav + bottom nav) | Core |
 | N/A (new) | Cover fallback chain with meta-puller integration (§6.9) | Core |
 
 ---
 
-_Spec version: 1.2 — February 18, 2026_
+_Spec version: 1.3 — February 18, 2026_

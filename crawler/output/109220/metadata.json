@@ -1,0 +1,77 @@
+{
+  "id": 109220,
+  "name": "Đối Tượng Hẹn Hò Là Thần Minh Chi Nữ",
+  "slug": "doi-tuong-hen-ho-la-than-minh-chi-nu",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/doi-tuong-hen-ho-la-than-minh-chi-nu",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 14013415,
+  "latest_chapter": 15459813,
+  "latest_index": 661,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/doi-tuong-hen-ho-la-than-minh-chi-nu/default.jpg?1632140931",
+    "600": "https://static.cdnno.com/poster/doi-tuong-hen-ho-la-than-minh-chi-nu/600.jpg?1632140931",
+    "300": "https://static.cdnno.com/poster/doi-tuong-hen-ho-la-than-minh-chi-nu/300.jpg?1632140931",
+    "150": "https://static.cdnno.com/poster/doi-tuong-hen-ho-la-than-minh-chi-nu/150.jpg?1632140931"
+  },
+  "synopsis": "Vừa mới tốt nghiệp đại học Chu Tự, đột nhiên nhận được phụ thân điện thoại.\n\n\t\"Con ta, ngươi đã trưởng thành, có một số việc vi phụ cũng nên nói cho ngươi biết.\"\n\n\tChu Tự: \"Cha, ngươi nói chuyện làm sao vẻ nho nhã? Nửa trắng không trắng, nhìn cái gì kịch truyền hình rồi?\"\n\n\t\"Con ta, vi phụ ngả bài, vi phụ chính là Ma Đạo cự phách. Ngươi chính là Ma Đạo Thánh Tử.\"\n\n\tChu Tự: \". . . Cha, ta treo, bận bịu đâu.\"\n\n\t\"Chờ một chút, còn có một chuyện cuối cùng. Ngươi không phải niên kỷ không nhỏ sao? Mẹ ngươi an bài cho ngươi cái đối tượng hẹn hò, ngươi nhìn một chút.\"\n\n\tChu Tự: \"Ai vậy?\"\n\n\t\"Giống như ngươi, cửa đối diện Ma Đạo Thần Nữ.\"\n\n........\n\nTG bộ Đạo Lữ Hung Mãnh Cũng Trùng Sinh,...",
+  "vote_count": 10298,
+  "review_score": "4.905",
+  "review_count": 35,
+  "comment_count": 2114,
+  "chapter_count": 661,
+  "view_count": 0,
+  "word_count": 1549035,
+  "created_at": "2021-09-20T07:52:41.000000Z",
+  "updated_at": "2026-02-18T04:30:57.000000Z",
+  "new_chap_at": "2022-11-05T10:36:42.000000Z",
+  "published_at": "2021-09-20T07:52:40.000000Z",
+  "published": 1,
+  "user_id": 1000015,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Đối Tượng Hẹn Hò Là Thần Minh Chi Nữ",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2316,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000015,
+    "name": "DarkHero",
+    "avatar": [
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/200.jpg?1592316927",
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/100.jpg?1592316927",
+      "https://static.cdnno.com/user/b5a5e2e8958e765c2822d5cf7c60df7d/50.jpg?1592316927"
+    ],
+    "level": 4,
+    "exp": 3484,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 2298,
+    "name": "Vũ Hạ Đích Hảo Đại",
+    "avatar": null,
+    "local_name": "雨下的好大",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}
