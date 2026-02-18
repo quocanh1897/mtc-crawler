@@ -172,16 +172,16 @@ function printReport(report: ImportReport) {
         .get() as { books: number; chapters: number };
     sqlite.close();
 
-    const border = `${c.blue}┌${"─".repeat(51)}┐${c.reset}`;
-    const bottom = `${c.blue}└${"─".repeat(51)}┘${c.reset}`;
-    const sep = `${c.blue}├${"─".repeat(51)}┤${c.reset}`;
+    const border = `${c.blue}┌${"─".repeat(52)}┐${c.reset}`;
+    const bottom = `${c.blue}└${"─".repeat(52)}┘${c.reset}`;
+    const sep = `${c.blue}├${"─".repeat(52)}┤${c.reset}`;
     const row = (label: string, value: string, color = c.white) =>
         `${c.blue}│${c.reset}  ${label.padEnd(22)}${color}${value.padStart(26)}${c.reset}  ${c.blue}│${c.reset}`;
 
     const lines = [
         "",
         border,
-        `${c.blue}│${c.reset}${c.bold}          Binslib Import Report                  ${c.reset}${c.blue}│${c.reset}`,
+        `${c.blue}│${c.reset}${c.bold}          Binslib Import Report                     ${c.reset}${c.blue}│${c.reset}`,
         sep,
         row("Mode:", report.mode),
         row("Started:", timestamp()),
