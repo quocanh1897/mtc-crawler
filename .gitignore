@@ -28,9 +28,6 @@ apk/
 *.db-shm
 *.db-wal
 
-# Crawler output (large data)
-crawler/output/
-
 # EPUB output (generated files)
 epub-converter/epub-output/
 

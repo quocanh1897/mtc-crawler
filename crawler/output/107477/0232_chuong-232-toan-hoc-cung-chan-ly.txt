@@ -1,0 +1,113 @@
+Chương 232: Toán học cùng chân lý
+
+Chương 232: Toán học cùng chân lý
+
+Thời gian qua đi bốn ngày, Sistrom vốn cho rằng nạp tiền chi tháp không có định thời gian mở ra, sẽ khiến người thằn lằn rối loạn.
+
+Nhưng mà sự tình cũng không có dạng này, người thằn lằn cũng không có thay đổi đến rối loạn, y nguyên đúng giờ tụ tập tại nạp tiền chi tháp bên cạnh, đợi cho nạp tiền chi tháp lần nữa mở ra về sau, còn đưa tới người thằn lằn reo hò.
+
+Nhìn đến người thằn lằn ngoại trừ đối Sistrom cung cấp mỹ thực phi thường mê luyến bên ngoài, còn đối nạp tiền chi tháp có đầy đủ kính sợ.
+
+Người thằn lằn biểu hiện cực kỳ để Sistrom rất hài lòng, nếu như không có Não Ma Trùng uy hiếp, Sistrom có lẽ sẽ còn lại quan sát một đoạn thời gian.
+
+Nhưng bây giờ, Sistrom quyết định, lập tức đem nạp tiền chi tháp tại vực sâu cấp độ này tiến hành mở rộng.
+
+Bởi vì lần này hôn mê, cũng làm cho Sistrom ra đời một cái ý nghĩ.
+
+Hắn phải chăng có thể tại [ số liệu khuôn mẫu ] bên trong thiết kế một cái chương trình, có thể phân biệt người thằn lằn cầu nguyện, sau đó mỗi ngày cố định thời gian cấp cho ban thưởng, thậm chí là ngẫu nhiên cấp cho một chút nhiệm vụ hàng ngày.
+
+Chức năng này Sistrom cảm giác hẳn là có thể thực hiện.
+
+Hắn thậm chí có thể tại [ số liệu khuôn mẫu ] bên trong, thiết trí một cái hư ảo nạp tiền chi tháp, để người thằn lằn không cần nhất định phải lại tới đây tập kết.
+
+Thằn lằn chỉ cần mỗi ngày cầu nguyện, bị chương trình phân biệt, liền sẽ thu hoạch được nạp tiền chi tháp nạp tiền điểm số ban thưởng, sẽ còn tiếp thu được chương trình đổi mới một chút nhiệm vụ hàng ngày.
+
+Dạng này cũng có trợ giúp đem [ số liệu khuôn mẫu ] khuếch tán ra, phòng ngừa nạp tiền chi tháp phụ cận tụ tập quá nhiều người thằn lằn.
+
+Đồng thời chỉ cần người thằn lằn muốn đổi mới cao ban thưởng nhiệm vụ hoặc là tiến hành giao dịch, nhất định phải một lần nữa về tới đây, cũng sẽ không cùng hiện tại có quá nhiều khác biệt.
+
+Chỉ tiếc, Sistrom [ tinh thần mạng lưới ] công năng không cách nào bao trùm quá xa, nếu như có thể giống kiếp trước mạng lưới đồng dạng có thể bao trùm thế giới các ngõ ngách, không thể nghi ngờ sẽ để cho Sistrom công việc nhẹ nhõm rất nhiều...
+
+Bởi vì nạp tiền chi tháp ban thưởng liên tục bốn ngày không có cấp cho, Sistrom thích hợp đối người thằn lằn tiến hành một chút đền bù, nhưng là đền bù cũng không nhiều.
+
+Mà tại đối người thằn lằn điều tra quá trình bên trong, Sistrom phát hiện ngoại trừ xà nhân Vu sư Rex bên ngoài một tên khác xà nhân.
+
+Tên này xà nhân tựa hồ cũng là siêu phàm giai vị, Sistrom phát hiện thời điểm, hai tên xà nhân ngay tại một chỗ mặt đất bằng phẳng phía trên, dùng gậy kim loại trên mặt đất tô tô vẽ vẽ.
+
+Sistrom phát hiện, xà nhân so sánh đơn thuần nghiên cứu số lượng ở giữa quy luật, càng ưa thích nghiên cứu bao nhiêu vấn đề.
+
+Tại một đoạn thời gian trước, xà nhân Rex thường xuyên sẽ một mình nghiên cứu định lý Pitago.
+
+Mà lúc này hai tên xà nhân chỗ nghiên cứu đồ vật, chính là tròn chu vi cùng đường kính tỉ suất, cũng chính là số Pi, [ số liệu mật mã ] trung cao cấp máy kế toán π.
+
+Vận dụng Sistrom giao cho Rex cắt tròn thuật, xà nhân Vu sư đem tròn chia bên cạnh số tận lực nhiều đa giác đều, sau đó dần dần tiến hành chứng thực.
+
+Hai tên xà nhân Vu sư hiển nhiên trí lực không sai, trải qua cái này mấy ngày, đã phân chia ra tròn hơn một trăm bên cạnh hình, thành công ấn chứng số lẻ sau hai vị, trước mắt ngay tại xác minh sau ba vị.
+
+Nhìn qua cái này hai tên xà nhân còn muốn tiếp tục xác minh xuống dưới, hai tên xà nhân đối số Pi tựa hồ rất cố chấp, trong miệng thường xuyên nói chân lý cái từ ngữ này.
+
+Trên thực tế, muốn chứng thực số Pi, dùng bao nhiêu phương pháp là tại quá chậm, Sistrom dù cho dùng 【  số liệu biên dịch ] gian lận năng lực, tính toán ra số Pi một trăm vị liền muốn tốn hao thời gian mấy tiếng.
+
+Sistrom sử dụng vẫn là phân tích pháp, lợi dụng vô tận cấp số công thức tiến hành đo lường tính toán, dạng này cho dù ở mấy phút bên trong, Sistrom lợi dụng 【  số liệu biên dịch ] cũng có thể tính toán ra số Pi mấy vạn vị.
+
+Đoán chừng tại cái này không có máy tính thế giới bên trong, ngoại trừ hắn, cho dù là thần linh cũng không có khả năng giống như hắn, đem số Pi chính xác đến nước này.
+
+Bất quá liên quan số Pi vật này, Sistrom cũng không có quá nhiều cảm giác.
+
+Ngược lại là xà nhân Rex đem số Pi so sánh chân lý, Sistrom cực kỳ tán đồng.
+
+Chân lý, tức vĩnh hằng bất biến chân chính lý.
+
+Quan sát nhân loại truyền thuyết thần thoại Sistrom biết, thế giới này có được một bản « chân lý chi thư » đã từng có rất nhiều tên thần linh tranh đoạt qua quyển sách này, muốn đem quyển sách này chiếm hữu, còn có rất nhiều liên quan tới « chân lý chi thư » cố sự.
+
+Nhưng chân lý ở cái thế giới này đến tột cùng đại biểu cái gì, Sistrom cũng không rõ ràng.
+
+Bất quá theo Sistrom, nếu có một loại đồ vật nhất định có thể được xưng chân lý, vậy nó chính là toán học.
+
+Coi như thế giới đủ loại quy tắc cải biến, tỷ như nước nóng lên sẽ kết thành băng, quả táo chín sẽ rơi xuống trên trời, toán học bên trong quy luật cũng sẽ không vì vậy mà cải biến.
+
+Nhìn xem xà nhân nghiên cứu số Pi, cũng tiến hành một phen cảm khái Sistrom hiển nhiên không biết, cũng là bởi vì lúc trước hắn lợi dụng 【  số liệu biên dịch ] tiến hành một chút cử động, dẫn đến thế giới này « chân lý chi thư » nhiều hai trang, mà kia thêm ra hai trang nội dung, tất cả đều là Sistrom mang đến toán học tri thức.
+
+Thế giới này đỉnh tiêm toán học tri thức, so Sistrom kiếp trước cũng không có lạc hậu quá nhiều, nhưng luôn có một chút trị số đo lường tính toán không phải người đủ khả năng, liền là thần lực cũng không được.
+
+Đo lường tính toán năng lực có thể so với máy tính Sistrom xuất hiện, lập tức đổi mới bộ phận này nội dung.
+
+Trong đó số Pi liền đổi mới « chân lý chi thư » Trung Nguyên có hậu hai trăm vị ghi chép, trực tiếp tăng lên tới hai trăm vạn vị, lật ra gấp một vạn lần.
+
+Nếu như không phải « chân lý chi thư » ghi chép đồ vật phương thức tương đối đặc biệt, đoán chừng quyển sách này cũng không phải là thêm ra hai trang, mà là thêm ra hai ngàn trang.
+
+...
+
+Quan sát nghiên cứu số Pi đồng thời thỉnh thoảng cảm thán chân lý xà nhân, Sistrom rất nhanh hướng một tên khác xà nhân Vu sư cũng giao phó[ số liệu khuôn mẫu ].
+
+Đồng thời, Sistrom cũng đúng thằn lằn nhóm hạ đạt một cái nhiệm vụ mới.
+
+Trên đại thể tới nói, liền là đem [ số liệu khuôn mẫu ] cùng nạp tiền chi tháp đề cử cho cái khác mới người sử dụng, nếu như được đề cử người sử dụng lại tới đây thành công thu được [ số liệu khuôn mẫu ] như vậy đề cử người sẽ thu hoạch được phi thường phần thưởng phong phú.
+
+Sistrom cách làm, cùng kiếp trước rất nhiều loại lưu manh phần mềm, lưu manh trò chơi mở rộng phương thức không sai biệt lắm.
+
+Bởi vì không có cạnh tranh, tăng thêm Sistrom sở thiết định ban thưởng cực kỳ cao, Sistrom cảm thấy loại này mở rộng phương thức hiệu quả hẳn là rất không tệ.
+
+Đem tuyên bố nhiệm vụ hoàn tất về sau, Sistrom liền tiếp theo quan sát cái này hai tên xà nhân Vu sư, đồng thời tự hỏi như thế nào lợi dụng xà nhân Vu sư, hấp dẫn càng nhiều xà nhân, đến để hắn ứng đối đến từ Não Ma Trùng Barbuda ngươi nguy cơ...
+
+...
+
+...
+
+Thân ở thủy tinh vương tọa Sistrom bắt đầu hắn bận rộn cùng chuẩn bị, mà ở xa U Minh chi địa lão Vu Yêu thì có vẻ hơi vội vàng xao động.
+
+Kazasimer mỗi ba ngày sẽ triệu hoán Sistrom một lần, tiến hành thích hợp nạp tiền, mà Sistrom thì hôn mê bốn ngày.
+
+Cho nên lúc này lão Vu Yêu đã liên tục bỏ qua hai lần nạp tiền thời cơ, tính đến hôm nay hôm nay, hắn đã ròng rã bảy ngày không có tiến hành nạp tiền.
+
+Mặc dù mỗi ngày đánh dấu, đều sẽ đạt được nhất định nạp tiền điểm số, nhưng là thu hoạch được điểm số thật sự là quá ít, không thể nghi ngờ sẽ chậm lại lão Vu Yêu cường hóa card thực vật bài tiến độ.
+
+Cái này cực lớn giảm bớt lão Vu Yêu bởi vì nạp tiền mang đến sảng khoái cảm giác, để lão Vu Yêu không cảm giác được trước đó vài ngày vui vẻ.
+
+Đồng thời trừ cái đó ra, lão Vu Yêu Kazasimer còn có một chuyện khác, hắn muốn để Sistrom giúp hắn đưa một phong thư.
+
+Mấy ngày nay thông qua nghiên cứu [ số liệu khuôn mẫu ] bên trong một chút công năng, lão Vu Yêu viết một phong khóa lại tư mật thư tín.
+
+Căn cứ [ số liệu khuôn mẫu ] trên miêu tả giới thiệu, loại này khóa lại tư mật thư tín nhất định phải đặc biệt mục tiêu mới có thể giải tỏa mở ra.
+
+Lão Vu Yêu không kịp chờ đợi muốn đem cái này che lại khóa thư tín, để Sistrom chuyển giao cho cốt long Donald....

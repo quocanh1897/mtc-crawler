@@ -1,0 +1,76 @@
+{
+  "id": 101506,
+  "name": "Siêu Thời Không Bình Trắc",
+  "slug": "sieu-thoi-khong-binh-trac",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/sieu-thoi-khong-binh-trac",
+  "note": "Tự giới thiệu:\nhttps://truyencv.com/ta-lam-sao-len-lam-hoang-de/ \nMain quyết đoán, thông minh,miệng độc,chuyên gia cà khịa,nhân vật phụ IQ online\n https://truyencv.com/van-gioi-giai-mong-su/",
+  "status_name": "Hoàn thành",
+  "first_chapter": 12317766,
+  "latest_chapter": 12678890,
+  "latest_index": 416,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/sieu-thoi-khong-binh-trac/default.jpg?1585206186",
+    "600": "https://static.cdnno.com/poster/sieu-thoi-khong-binh-trac/600.jpg?1585206186",
+    "300": "https://static.cdnno.com/poster/sieu-thoi-khong-binh-trac/300.jpg?1585206186",
+    "150": "https://static.cdnno.com/poster/sieu-thoi-khong-binh-trac/150.jpg?1585206186"
+  },
+  "synopsis": "Ta chỉ là cái làm bình trắc video chủ, bình trắc sản phẩm có lượng tử máy tính, phản ứng tổng hợp hạt nhân lò phản ứng, phản trọng lực phi hành xe, vượt tốc độ ánh sáng phi thuyền vũ trụ, hành tinh đại pháo, hai hướng bạc.\n\nTrần Vũ: \"Hôm nay, bản tiết mục cho mọi người trực tiếp bình trắc khoa học kỹ thuật sản phẩm là —— tinh cầu vỡ nát chấn động khí! Chờ. . . Chờ một chút! Toàn nhân loại mời tỉnh táo, nghe ta giải thích...\"\n\n...\n\n(chú thích: Quyển sách chỉ là một bộ nhẹ nhõm, vui vẻ, thường ngày lưu mở não động khoa học kỹ thuật đô thị văn, không phải thuần khoa huyễn, không thích ngộ nhập. )",
+  "vote_count": 4,
+  "review_score": "4.722",
+  "review_count": 3,
+  "comment_count": 7,
+  "chapter_count": 416,
+  "view_count": 0,
+  "word_count": 1141004,
+  "created_at": "2020-03-26T07:03:06.000000Z",
+  "updated_at": "2026-02-16T13:31:48.000000Z",
+  "new_chap_at": "2020-05-07T15:43:57.000000Z",
+  "published_at": "2020-03-26T07:03:06.000000Z",
+  "published": 1,
+  "user_id": 1000046,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Siêu Thời Không Bình Trắc",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 97,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000046,
+    "name": "Huyền Linh",
+    "avatar": [
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/200.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/100.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/50.jpg?1615709578"
+    ],
+    "level": 4,
+    "exp": 2395,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1256,
+    "name": "Tam Hành Đích Thư",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 6,
+      "name": "Đô Thị",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,213 @@
+Chương 21:. Triển khai hạng nhẹ nỏ pháo
+
+Chương 21:. Triển khai hạng nhẹ nỏ pháo
+
+Nalot cùng kia 2 cái từng theo hầu tới giặc cướp bằng hữu, khiêng tiếp cận 30 kiện sản phẩm sắt, rời đi Thẩm Mục cứ điểm.
+
+Liền phảng phất lúc đến đồng dạng, từ tiểu mạch ruộng phạm vi bên trong hóa thành hư ảnh, dần dần cũng hoàn toàn biến mất thân hình.
+
+"Thẩm Mục đại nhân, kia 3 người đã đi."
+
+Lake Rats bang người mới trở về báo cáo.
+
+"Ừm." Thẩm Mục gật đầu, ngữ khí bình tĩnh: "Ta đã biết, lần sau tới, có lẽ liền là chúng ta bằng hữu chân chính."
+
+Thẩm Mục phất tay, ra hiệu cái này Lake Rats bang người mới trở lại nhà chính cứ điểm cùng ruộng lúa mì tương liên cổng tiếp tục đứng gác.
+
+Kết nối hành lang cổng, thì là hai tên Swadia bộ binh hạng nhẹ đứng gác.
+
+Giữa lẫn nhau phân công cực kì minh xác.
+
+Về phần xạ kích miệng vị trí, thì là kia 10 tên lính đánh thuê cầm trong tay nhẹ nỏ đứng gác cùng nghỉ ngơi, từ bọn hắn những này lính đánh thuê tự hành an bài.
+
+Bao quát đã tại nhà chính trên mặt đất, đều đánh chăn đệm nằm dưới đất ngủ Swadia bộ binh hạng nhẹ cùng các tân binh.
+
+Hết thảy nhìn xem đều ngay ngắn rõ ràng.
+
+"Ta cũng nên về đi ngủ." Thẩm Mục liếc mắt ngoài cửa sổ, vẫn là đen sì bộ dáng, sương mù xám đang chảy, tử linh quy tắc tràn ngập đêm tối.
+
+Vẫn là bộ kia kinh khủng, nguy hiểm, tà ác quỷ dị bộ dáng.
+
+Chỉ là.
+
+Đối với Thẩm Mục tới nói, kia tuyệt đối sợ hãi, đã theo mình xuất hiện những này Mount and Blade các binh sĩ, lặng yên biến mất.
+
+Thẩm Mục dọc theo dốc đứng thang lầu đi tới nhà chính lầu hai, mở ra thẳng thuộc về phòng ngủ của mình liền đi vào.
+
+Đơn sơ lại rắn chắc làm bằng gỗ giường lớn, đệm ở trên giường mềm mại rơm rạ, còn có cửa hàng ở phía trên da thú, cùng thủ công may lông dê chăn mỏng.
+
+Mặc dù so với trước đó mình ngủ nệm cao su cùng chăn lông phải kém một chút.
+
+Bất quá trùm lên Thẩm Mục trên thân.
+
+Mang tới.
+
+Lại là một loại an tâm, cùng ngay cả linh hồn đều có thể bảo vệ được ấm áp.
+
+"Đây không phải giả tượng, mà là thật." Thẩm Mục nằm ở trên giường, đối với cái này như có điều suy nghĩ: "Hẳn là Mount and Blade quy tắc phát huy hiệu quả."
+
+Thời điểm trước kia, coi như ngủ ở bên cạnh đống lửa, đều có thể cảm nhận được cỗ kia nguồn gốc từ linh hồn hàn ý.
+
+Đó phải là tử linh quy tắc ăn mòn.
+
+Hiện tại ấm áp.
+
+Thì là Mount and Blade quy tắc đối với hắn bảo hộ!
+
+"Đúng rồi, còn nhớ rõ ta có cái đồng thau cấp bảo rương không mở."
+
+Thẩm Mục tại sắp sửa trước, nghĩ tới điều gì.
+
+Tư duy lần nữa câu thông hệ thống.
+
+【  đinh! Ngài mở ra 'Đồng thau cấp bảo rương' . 】
+
+【  chúc mừng! Ngài thu được 'Hạng nhẹ nỏ pháo' ×1 môn. 】
+
+Trước mắt, võng mạc trên lập tức đổi mới ra khung chat.
+
+Đồng thời ngay tại Thẩm Mục trong đầu, một bức vẽ lấy nỏ pháo đồng thau sắc tấm thẻ liền hiện lên ở kia.
+
+Sau đó liên quan tới nỏ pháo cấp hai giao diện triển khai.
+
+【  đạo cụ tên: Hạng nhẹ nỏ pháo 】
+
+【  đạo cụ giới thiệu vắn tắt: Đây là một loại uy lực to lớn nỏ pháo hạng nhẹ bản, thông qua bàn kéo lên dây cung về sau, có thể bắn ra dài một mét đoản mâu, tại 150 m phạm vi bên trong có thể hữu hiệu sát thương địch nhân. 】
+
+【  đạo cụ nói rõ: Cần 2 người tiến hành điều khiển, đồng thời tại triển khai lúc cần một cái 3 mét × 3 mét không gian. 】
+
+"Hạng nhẹ nỏ pháo." Thẩm Mục có chút nhíu mày, trên mặt cũng nhiều hơn mấy phần ngây người giống như sợ hãi lẫn vui mừng.
+
+Đây thật là bên trong thưởng lớn.
+
+Nhất là tại ác ma quái vật bộ đội sắp tiến công mình cứ điểm trước đó, còn nhiều thêm như vậy một kiện lợi khí.
+
+Quả thực chẳng khác nào nói đưa than sưởi ấm trong ngày tuyết rơi pulas bản!
+
+"Lắp đặt tại lầu hai."
+
+Thẩm Mục tư duy khẽ nhúc nhích, làm ra quyết định.
+
+Mà liền tại Thẩm Mục phòng ngủ bên cạnh, tới gần hành lang, cũng là không đáng ban lính đánh thuê nghỉ ngơi cùng chuẩn bị chiến đấu gian phòng bên trong.
+
+'Ông!' một cỗ huyền ảo lực lượng dẫn đầu giáng lâm, sau đó liền là từ Thẩm Mục mi tâm tránh trong nháy mắt xuất hiện dòng số liệu.
+
+Dây dưa cùng nhau, hóa thành ánh sáng trắng bắt đầu hiển hiện.
+
+Chờ ánh sáng trắng dần dần tán đi thời điểm.
+
+Một khung mới tinh, phảng phất vừa mới chế tác hoàn thành, có hai mét nỏ cánh tay, ba mét chủ thể nỏ pháo, liền xuất hiện ở kia.
+
+Mộc rãnh bên trong tản ra có chút bốc mùi dầu bôi trơn hương vị, làm bằng sắt bộ kiện trên càng là cà sơn mà đen thui tóc đen sáng.
+
+Mà tại bộ này nỏ pháo bên cạnh, dòng số liệu cuối cùng quấn quanh quá khứ.
+
+Ánh sáng trắng lấp lóe.
+
+Ba cái chứa rượu thùng gỗ bên trong  30 căn đoản mâu chính cắm vào bên trong.
+
+Lít nha lít nhít phảng phất như là chất đầy cự hình con nhím, mang cho bất luận cái gì đứng ở bên cạnh quân đội bạn, một loại tuyệt đối cảm giác an toàn.
+
+Hạng nhẹ nỏ pháo, danh tự mang theo hạng nhẹ hai chữ, nhưng lại vẫn như cũ là nỏ pháo!
+
+Đừng nói binh lính bình thường.
+
+Liền xem như võ trang đầy đủ, đầy người trọng giáp, hoàn thủ cầm dầy nhất tranh hình thuẫn trọng trang chiến sĩ, tại đối mặt nỏ pháo lúc đều sẽ sinh lòng sợ hãi.
+
+Liền xem như có được thiết thuẫn, cả người lẫn ngựa đều là bản giáp hạng nặng kỵ binh.
+
+Tại 50 m khoảng cách bên trong .
+
+Đều muốn đối loại này hạng nhẹ nỏ pháo để diễn tả kính ý.
+
+"Có loại này nỏ pháo, vậy thì đồng nghĩa với có được một tên Rhodoks đánh lén nỏ thủ." Thẩm Mục cười khẽ.
+
+Mà lại tại thủ thành thời điểm.
+
+Một khung hạng nhẹ nỏ pháo hiệu quả, có đôi khi so Rhodoks đánh lén nỏ thủ hiệu quả còn muốn càng mạnh!
+
+Tỷ như. . .
+
+Liền là tại lầu hai bên ngoài, trực tiếp liền có thể nhắm chuẩn, kia chung cư lầu 7 giữa thang máy, mãi cho đến cứ điểm nhà chính bên này, nhỏ hẹp hành lang!
+
+Phối hợp những này lính đánh thuê, Thẩm Mục chỉ là suy nghĩ một chút liền biết, khẳng định sẽ đem đầu này hành lang, biến thành một đầu tử vong hành lang!
+
+"Coi như không tệ." Thẩm Mục nhẹ nhõm thiếp đi.
+
+Bất quá, ngay tại bên ngoài.
+
+Chung cư lầu 7.
+
+日 chữ hình góc đối bên kia.
+
+7040 phòng.
+
+Một tia càng thêm nồng đậm sương mù xám, từ khe cửa bên trong bắt đầu tràn ngập ra.
+
+Mà lại càng thêm nồng đậm lưu huỳnh mùi thối, cũng theo sương mù xám tràn ngập ra bắt đầu xuất hiện ở cái này tầng lầu bên trong.
+
+Nếu như cẩn thận quan sát.
+
+Lại thình lình cũng có thể phát hiện, tại cửa này trong khe, tựa hồ có loại nào đó điên cuồng, hỗn loạn, bạo ngược khí tức tại hội tụ.
+
+Một điểm điểm hội tụ.
+
+Như là.
+
+Một viên sắp nở trứng!
+
+. . .
+
+Ngày thứ hai, sáng sớm.
+
+Làm tia nắng đầu tiên xuất hiện trong nháy mắt, toàn bộ Lam Tinh kia bao phủ, phảng phất vĩnh hằng giống như hắc ám cùng nồng đậm sương mù xám, liền trong nháy mắt tiêu tán.
+
+Chỉ có tại một ít ánh mặt trời chiếu sáng không đến nơi hẻo lánh, chỗ tối tăm, còn có hắc ám cùng sương mù xám tồn tại.
+
+Nhưng là mặt đất bao la bên trên, thành thị, dãy núi, dòng sông.
+
+Các loại tòa nhà lớn, nhà máy, còn có đặc sắc kiến trúc.
+
+Cũng đều nhao nhao xuất hiện.
+
+Phảng phất hết thảy đều khôi phục đã từng Lam Tinh thời đại huy hoàng bộ dáng.
+
+"Thật sự là dễ chịu." Thẩm Mục xốc lên lông dê chăn mỏng, toàn bộ người cũng từ trên giường ngồi xuống, híp mắt nhìn về phía ngoài cửa sổ.
+
+Sắc trời còn thoáng ảm đạm, nhưng mặt trời đã dâng lên, sắc trời cũng càng ngày càng sáng.
+
+Thẩm Mục xốc lên làm cửa sổ tấm ván gỗ.
+
+Chung cư bên ngoài, nơi xa kia nhà cao tầng san sát, phảng phất như là rừng sắt thép giống như trung tâm thành phố, để hắn đều nhìn sửng sốt.
+
+"Long Thành." Thẩm Mục trong đầu, hiện ra cái thành phố kia danh tự.
+
+Cũng là mảnh này địa khu gọi chung.
+
+Tiền thân đã từng sinh sống mười bảy mười tám năm đô thị.
+
+Cùng
+
+Tại ba năm đêm tối bên trong, không dám tùy tiện tới gần, tràn đầy nguy hiểm, tràn đầy kinh khủng, tràn đầy tử vong uy hiếp ma quật.
+
+Nhà cao tầng là đã từng Lam Tinh đô thị huy hoàng, phồn hoa biểu tượng.
+
+Thế nhưng là.
+
+Làm tử linh quy tắc giáng lâm.
+
+Cái kia khổng lồ dưới mặt đất thương trường, người phòng công sự, ga ra tầng ngầm cùng tàu điện ngầm mạng lưới, lại thành tử linh quái vật giường ấm.
+
+Đừng nói là ban đêm, coi như tại ban ngày, nếu như không phải giữa trưa sáng rõ, đều có một cỗ thật mỏng sương mù xám tràn ngập.
+
+Nếu như gặp phải trời đầy mây, như vậy ngay cả tử linh quái vật đều sẽ xuất hiện!
+
+"Mà lại gặp được hắc triều, thì càng nguy hiểm." Thẩm Mục hé miệng, nghĩ đến cái này từ ngữ, trong mắt cũng nổi lên thật sâu kiêng kị.
+
+Bởi vì căn cứ trí nhớ của đời trước, mỗi ba tháng đều sẽ xuất hiện một lần hắc triều, tựa hồ cũng mau tới!
+
+Bất quá đúng vào lúc này, cửa phòng ngủ lại bị gõ.
+
+"Đương đương đương."
+
+Đồng thời, bên ngoài truyền đến một vị Swadia bộ binh hạng nhẹ thanh âm: "Thẩm Mục đại nhân, bên ngoài có tự xưng lầu năm hàng xóm, muốn gặp ngài.".

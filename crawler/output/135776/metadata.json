@@ -1,0 +1,84 @@
+{
+  "id": 135776,
+  "name": "Ngự Thần Thiên Tông",
+  "slug": "ngu-than-thien-tong",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ngu-than-thien-tong",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 20351795,
+  "latest_chapter": 24580433,
+  "latest_index": 1499,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ngu-than-thien-tong/default.jpg?1732980552",
+    "600": "https://static.cdnno.com/poster/ngu-than-thien-tong/600.jpg?1732980552",
+    "300": "https://static.cdnno.com/poster/ngu-than-thien-tong/300.jpg?1732980552",
+    "150": "https://static.cdnno.com/poster/ngu-than-thien-tong/150.jpg?1732980552"
+  },
+  "synopsis": "Không có chút nào bối cảnh hương dã thiếu niên, bái nhập ngự thần tông môn xuống, nghịch thiên tu hành, bởi vì tư chất bình thường, ở trong môn biểu hiện thường thường, lại bởi vì tự nhưỡng linh tửu bản sự, ngoài ý muốn nắm giữ tu luyện bí mật. Cẩu lại, ta có thể nghịch tập!",
+  "vote_count": 10,
+  "review_score": "0.000",
+  "review_count": 0,
+  "comment_count": 4,
+  "chapter_count": 1499,
+  "view_count": 0,
+  "word_count": 2657656,
+  "created_at": "2024-11-30T15:29:04.000000Z",
+  "updated_at": "2026-02-17T14:04:51.000000Z",
+  "new_chap_at": "2025-10-31T13:08:00.000000Z",
+  "published_at": "2024-12-01T03:30:40.000000Z",
+  "published": 1,
+  "user_id": 1074961,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ngự Thần Thiên Tông",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 160,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1074961,
+    "name": "Why05you",
+    "avatar": [
+      "https://static.cdnno.com/user/9f51e7edd0c530fefba0651d2810a2ed/200.jpg?1607423150",
+      "https://static.cdnno.com/user/9f51e7edd0c530fefba0651d2810a2ed/100.jpg?1607423150",
+      "https://static.cdnno.com/user/9f51e7edd0c530fefba0651d2810a2ed/50.jpg?1607423150"
+    ],
+    "level": 0,
+    "exp": 6,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 16483,
+    "name": "Dạ Mâu Tàng Phong",
+    "avatar": null,
+    "local_name": "夜眸藏锋",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

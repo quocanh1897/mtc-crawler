@@ -1,0 +1,96 @@
+{
+  "id": 136297,
+  "name": "Từ Chống Đẩy Bắt Đầu Lá Gan Kinh Nghiệm",
+  "slug": "tu-chong-day-bat-dau-la-gan-kinh-nghiem",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/tu-chong-day-bat-dau-la-gan-kinh-nghiem",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 20517132,
+  "latest_chapter": 26878032,
+  "latest_index": 564,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tu-chong-day-bat-dau-la-gan-kinh-nghiem/default.jpg?1733986809",
+    "600": "https://static.cdnno.com/poster/tu-chong-day-bat-dau-la-gan-kinh-nghiem/600.jpg?1733986809",
+    "300": "https://static.cdnno.com/poster/tu-chong-day-bat-dau-la-gan-kinh-nghiem/300.jpg?1733986809",
+    "150": "https://static.cdnno.com/poster/tu-chong-day-bat-dau-la-gan-kinh-nghiem/150.jpg?1733986809"
+  },
+  "synopsis": "Ma Thiên cao lầu đỉnh.\n\n\tMới thành đổ mồ hôi như mưa, không ngừng làm lấy huấn luyện.\n\n\t1000 lần bay lên không vỗ tay chống đẩy.\n\n\t1000 lần nhị chỉ thiền chống đẩy.\n\n\t1000 lần một cánh tay kéo xà đơn.\n\n\t1000 lần một cánh tay chồng cây chuối chống đỡ.\n\n\t1000 lần chân sau Squat.\n\n\tLại thêm, kiên trì 1 giờ Dragon flag cùng baki pose.\n\n\tSo sánh tấm gương, mới thành lộ ra vẻ vui mừng.\n\n\t\"Sáu hạng kỹ năng toàn bộ max cấp, rốt cục có thể hợp thành thần thoại thiên phú, A Tu La chi thân.\"\n\n\tNgũ sắc cầu vồng mê loạn hắc ám đô thị, vô số tinh hồng con mắt vây quanh chung quanh.\n\n\tTài phiệt, sát nhân ma, dị giáo đồ, người cải tạo gen, quân phản loạn tổ chức. . .\n\n\tMới thành mang theo bảng, xâm nhập cái này nhìn như bình thường thế giới thần bí.\n\n\tTừ chống đẩy bắt đầu lá gan kinh nghiệm tu hành.\n\n\tKiện thân, quyền kích, tán đả, parkour, minh tưởng, hô hấp, khí công. . .\n\n\tTừng cái kỹ năng bình thường, đều đạt tới khó có thể tưởng tượng cảnh giới.\n\n\tĐem nhân loại cực hạn không ngừng đẩy cao, nghiền ép hết thảy tự cho mình siêu phàm \"Quái vật\" .\n\n\tCho đến —— trở thành thế giới mới thần!",
+  "vote_count": 44,
+  "review_score": "5.000",
+  "review_count": 1,
+  "comment_count": 29,
+  "chapter_count": 564,
+  "view_count": 0,
+  "word_count": 1797070,
+  "created_at": "2024-12-12T06:59:44.000000Z",
+  "updated_at": "2026-02-17T06:16:53.000000Z",
+  "new_chap_at": "2026-02-12T16:35:46.000000Z",
+  "published_at": "2024-12-12T06:59:44.000000Z",
+  "published": 1,
+  "user_id": 1000046,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Từ Chống Đẩy Bắt Đầu Lá Gan Kinh Nghiệm",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 331,
+  "chapter_per_week": 10,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000046,
+    "name": "Huyền Linh",
+    "avatar": [
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/200.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/100.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/50.jpg?1615709578"
+    ],
+    "level": 4,
+    "exp": 2395,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 20184,
+    "name": "Hải Phong Hữu Đa Cửu",
+    "avatar": null,
+    "local_name": "海风有多久",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 14,
+      "name": "Cao Võ Thế Giới",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

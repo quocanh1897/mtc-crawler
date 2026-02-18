@@ -1,0 +1,185 @@
+Chương 55:. Bắt đầu triển khai thôn trang
+
+Chương 55:. Bắt đầu triển khai thôn trang
+
+Chỉ là theo Thẩm Mục tiếng kinh hô, loại nào đó lực lượng thần bí trong nháy mắt bắt đầu tràn ngập tại toàn bộ trong căn hộ.
+
+Kia là một cỗ yếu ớt, dường như phá thành mảnh nhỏ, nhưng vẫn mang theo cao cao tại thượng vĩ lực, nương theo lấy kia toàn bộ trong hành lang bắt đầu hiển hiện vô số màu trắng nhỏ bé điểm sáng, mà chậm rãi tràn ngập cũng giáng lâm tại hành lang bên trong.
+
+Càng là hội tụ đến viên kia đã hình thành Linh giới ấn ký bên trên, chậm rãi ngưng tụ ra một viên càng lớn Linh giới ấn ký!
+
+Ông
+
+Lúc này Thẩm Mục mi tâm, một cỗ nhỏ xíu dòng số liệu bắt đầu xuất hiện, tại chỗ liền hóa thành từng đạo ánh sáng trắng đang nháy trong nháy mắt tản ra như một cái lưới lớn, đem viên kia còn tại ngưng tụ ra to lớn Linh giới ấn ký hoàn toàn bao phủ.
+
+Sau đó liền phảng phất bắt được cá lớn đồng dạng, mang theo một cỗ mạnh mẽ lực đạo, một lần nữa về tới Thẩm Mục mi tâm.
+
+【  đinh! Xen vào sự giúp đỡ của ngài, Mount and Blade hệ thống thành công hấp thu cũng bắt đầu chiều sâu phân tích nên đặc thù lực lượng! 】
+
+【  chúc mừng! Căn cứ trong đó phân tích đặc thù lực lượng, ngài từ bên trong thu hoạch đến mới thăng cấp —— 'Quần thể Hồi Phục Thuật' ! 】
+
+【  quần thể Hồi Phục Thuật (lv3 cấp tự nhiên pháp thuật): Bởi vì ngài nhận lấy 'Tự nhiên ý chí' đặc thù chúc phúc cùng chú ý, cũng đạt được lực lượng thần bí tăng phúc, ngài có thể mỗi ngày có thể đối 10 m * 10 m phạm vi bên trong, không tiêu hao phóng thích 3 lần quần thể Hồi Phục Thuật. Nên pháp thuật hiệu quả nhưng khôi phục 30% đã tiêu hao thể lực cùng tinh thần. Nếu như ngài thu hoạch được càng nhiều tự nhiên ý chí chúc phúc, như vậy hiệu quả cùng phóng thích số lần sẽ đạt được gia tăng. 】
+
+"Quần thể. . . Hồi Phục Thuật!" Làm ánh sáng trắng triệt để trở về Thẩm Mục mi tâm, mới khung chat nổi lên.
+
+Thẩm Mục trên mặt xuất hiện sợ hãi lẫn vui mừng: "Đem ta đơn thể loại hình Hồi Phục Thuật, trực tiếp thăng cấp đến quần thể cấp bậc Hồi Phục Thuật! ?"
+
+Đây quả thật là ngoài dự liệu kinh hỉ!
+
+Nếu như nói đơn thể Hồi Phục Thuật, phóng thích bắt đầu còn cần cân nhắc ai ai ai càng thích hợp tiếp nhận loại này hồi phục pháp thuật, đến để kịch chiến bên trong trận tuyến càng thêm vững chắc, để tiếp xuống xung kích càng thêm hung mãnh, hoặc là vãn hồi một chút tổn thất.
+
+Như vậy hiện tại, biến thành quần thể hồi phục pháp thuật về sau, chỉ cần là 10 m × 10 m cái phạm vi này bên trong binh sĩ, liền đều có thể tiếp nhận cái này hồi phục pháp thuật.
+
+Không thể nghi ngờ là cực kì thích hợp chiến trường hoàn cảnh, có thể tác dụng tại một chi tiểu đội, chiến thuật cấp hồi phục pháp thuật!
+
+"Cái này khiến ta nghĩ đến những cái kia trư đầu nhân tại vừa mới bắt đầu tiến công lúc, đột nhiên xuất hiện đặc thù trạng thái điên cuồng."
+
+Thẩm Mục đang kinh hỉ lúc nghĩ tới điều gì.
+
+Tựa hồ liền là ở phía sau, cái nào đó càng mập mạp trư đầu nhân tinh anh đầu mục, Lam Tinh nhân loại biến hóa mà thành trư đầu nhân, sử dụng một loại nguồn gốc từ nên Linh giới sinh vật pháp thuật, mới khiến cho những cái kia mặc kệ là trư đầu nhân vẫn là cái khác Linh giới sinh vật, đều trở nên càng có lực công kích cùng điên cuồng bộ dáng!
+
+"Mount and Blade hệ thống phân tích loại lực lượng này, sau đó quà tặng cho ta, vừa vặn thăng cấp ta duy nhất nắm giữ pháp thuật."
+
+Thẩm Mục là như thế này suy đoán.
+
+Cái này đáng giá vui sướng.
+
+Đương nhiên, tiếp xuống thôn trang mô bản triển khai, mới là Thẩm Mục quan tâm hơn sự tình.
+
+Thế là hắn quay người trở lại tòa thành đại sảnh.
+
+Ngồi tại chủ vị.
+
+Thẩm Mục suy nghĩ câu thông hệ thống: "Triển khai thôn trang mô bản, tiến vào ma cầu quyền hạn!"
+
+Ông
+
+Đến từ Mount and Blade hệ thống quy tắc trong nháy mắt giáng lâm.
+
+Thẩm Mục trước mắt có chút sáng lên, qua trong giây lát liền từ bình thường người thị giác, kéo đến trên trời hóa thành như là Thượng Đế đồng dạng ngôi thứ ba thị giác.
+
+【  đinh! Kiểm trắc đến ngài có được "Thôn trang mô bản" trước mắt có thể tác dụng tại ngài đã có "Cứ điểm" bên trên tiến hành thăng cấp triển khai. 】
+
+【  bởi vì ngài cứ điểm là 'Swadia cứ điểm' bởi vậy ngài thôn trang tại triển khai về sau cũng đem cố định là "Swadia thôn trang" . 】
+
+【  nên thôn trang sẽ kế tục trở xuống Swadia đặc sắc —— 】
+
+【① dũng cảm chi dân (trung cấp): Các binh sĩ tại thôn trang chung quanh lúc tác chiến +30% dũng khí, lại đang tiến hành thôn trang bảo vệ thời gian chiến tranh +20% tổ chức độ. 】
+
+【② trang viên kinh tế (sơ cấp): Ngài thôn trang nông nghiệp +20% sản lượng, chăn nuôi nghiệp +20% sản lượng. 】
+
+【  mời lựa chọn triển khai ngài thôn trang mô bản, tìm đọc kỹ càng giao diện. 】
+
+"Ừm." Thẩm Mục trước mắt có khung chat hiển hiện, đồng thời ngay tại trong óc của hắn, còn có một mảnh chiếm diện tích tương đối rộng lớn thôn trang hư ảnh đã xuất hiện.
+
+Còn có bộ phận hư ảnh đã cùng hắn an trí tại lầu trọ bên trong những cái kia cứ điểm nhà chính, cất giữ phòng, kho lúa chờ cứ điểm kiến trúc cho trùng hợp đến cùng một chỗ.
+
+Hiển nhiên ở sau đó thăng cấp quá trình bên trong, những này cứ điểm kiến trúc sẽ không cũng sẽ không biến mất, mà là tự động chuyển hóa làm thôn trang kiến trúc.
+
+"Như vậy cũng không tệ." Thẩm Mục ngược lại là không có để ý quá nhiều, ngược lại là bắt đầu chuẩn bị triển khai thôn trang.
+
+Đồng thời đến tăng tốc thời gian tiến độ.
+
+Bởi vì thông qua ngôi thứ ba thị giác, Thẩm Mục đã phát hiện lúc này, sắc trời dần dần lặn về tây.
+
+Thời gian bây giờ, đã đi tới xuống buổi trưa tiếp cận chạng vạng tối thời điểm.
+
+Dựa theo đối với thời gian tính ra.
+
+Còn có 2 giờ tả hữu, liền sẽ tiến vào bị tử linh quy tắc ăn mòn chiếm cứ, tràn đầy tử linh quái vật hoành hành đêm tối nửa đêm!
+
+"Được nhanh điểm rồi."
+
+Thẩm Mục nghĩ tới đây, tư duy khẽ nhúc nhích.
+
+Sau đó liền ở trong đầu hắn cái kia thôn trang mô bản, trong nháy mắt liền triệt để triển khai, hóa thành một thôn trang hư ảnh xuất hiện ở cái này chung cư cư xá ở giữa.
+
+Vừa vặn đem cái này lấy bốn tòa nhà cỡ lớn lầu trọ cùng xanh hoá khu vực cư xá, toàn bộ bao phủ!
+
+"Chờ chút. . ." Liền là Thẩm Mục mày nhăn lại.
+
+Bởi vì hắn phát hiện.
+
+Làm toàn bộ thôn trang mô bản bắt đầu tiếp xúc mặt đất khoảng 1 mét phạm vi thời điểm, ngược lại toàn bộ đều hóa thành màu đỏ.
+
+Mà màu đỏ tại ma cầu sửa chữa quyền hạn bên trong, đại biểu chính là phủ định.
+
+Không cho phép triển khai thôn trang!
+
+"Cách mặt đất 1 mét trở lên có thể triển khai thôn trang, nhưng là tiếp xúc đến mặt đất liền không cho phép triển khai?"
+
+Thẩm Mục cảm giác cái này cùng có ấn mở trò đùa đồng dạng.
+
+Không trên mặt đất triển khai thôn trang.
+
+Chẳng lẽ còn thật muốn đem thôn trang nhét vào lầu trọ bên trong, lần nữa đem mình biến thành cá trong chậu?
+
+"Đây không phải náo sao?" Thẩm Mục lắc đầu.
+
+Đồng thời ngôi thứ ba thị giác bắt đầu rút ngắn mặt đất, ánh mắt nghiêm túc đảo qua mặt đất 1 mét vị trí.
+
+Lúc này Mount and Blade hệ thống đã tiêu ký ra, mảnh này cách mặt đất khoảng 1 mét hồng quang.
+
+Chỉ là cái này khiến Thẩm Mục càng thêm nghi hoặc.
+
+"Chờ một chút?" Thế nhưng là làm Thẩm Mục ngôi thứ ba thị giác, kéo đến chung cư lầu một vị trí, cũng nhạy cảm đã nhận ra tại mấy cái đặc thù vị trí, kia hồng quang độ sáng càng dày đặc, cũng càng thêm dễ thấy ——
+
+Bốn tòa nhà chung cư thang lầu tiến về nhà để xe vị trí, cùng chung cư con đường tiến về ga ra tầng ngầm vị trí.
+
+Hồng quang đều càng thêm nồng đậm.
+
+"Ga ra tầng ngầm. . ." Thẩm Mục hơi híp mắt lại, đồng thời trong đầu cũng hiểu rõ ra: "Bởi vì lâu dài không gặp được mặt trời, từ đó triệt để bị hắc ám cùng sương mù xám chiếm lĩnh, tràn ngập tử linh quy tắc cùng tử linh quái vật ga ra tầng ngầm."
+
+Chuẩn xác mà nói, hẳn là đã xách trước rơi vị, vượt lên trước chiếm cứ lòng đất nhà để xe tử linh quy tắc.
+
+Cái này có chút khó khăn.
+
+Căn cứ trí nhớ của đời trước đến xem, trước đó vì sao lại lựa chọn cái này chung cư cư xá, cũng là bởi vì phiến khu vực này tại lấy trước chính là vậy Bát Lý Hà đường đi phương đông vùng ngoại thành vị trí.
+
+Là Bát Lý Hà đường đi biên giới vị trí.
+
+Rời xa ở vào Bát Lý Hà đường đi phồn hoa nhất khu vực hạch tâm Sài Du công ty.
+
+Chung quanh thương siêu cao ốc văn phòng cũng ít.
+
+Đại biểu cho tỷ như ga ra tầng ngầm, dưới mặt đất thương trường, người phòng công sự cái này mặt trời chiếu xạ không đến, dễ dàng xuất hiện lượng lớn tử linh quái vật điểm cũng ít.
+
+Chỉnh thể đều tương đối an toàn.
+
+Đối với tiền thân lúc trước loại này người bình thường tới nói, mặc kệ là thăm dò, vẫn là ẩn núp, đều xem như nhẹ nhõm.
+
+Tại hắc triều xuất hiện, ban ngày đều sẽ tràn ngập lên sương mù xám, tử linh quy tắc ở sau đó trong vài ngày triệt để vượt trên Lam Tinh quy tắc, để tử linh quái vật ngày đêm hoành hành kinh khủng đoạn thời gian.
+
+Liền xem như tại hắc triều bên trong, không tiến vào Sài Du công ty nửa thú nhân bộ lạc, hoặc là càng phía tây tại thành thị rừng rậm trong công viên, kia thuộc về Lục Diệp tập đoàn Mộc Tinh Linh thôn xóm, tiếp nhận hai vị này đã trở thành Linh giới lãnh chúa tồn tại che chở, cũng có thể dựa vào cái phạm vi này tử linh quái vật ít mà ẩn núp lấy sống sót.
+
+"Đến nghĩ một chút biện pháp." Thẩm Mục nhíu mày, nhìn xem xuất hiện trước mặt thôn trang hư ảnh, trong lòng có chút bất đắc dĩ.
+
+Sớm nhất đem cứ điểm xây dựng ở cái này.
+
+Vậy liền đem tiếp xuống phát triển khu vực, cùng ma cầu sửa chữa quyền hạn, đều cho cố định tại cái này.
+
+Có điểm biến khéo thành vụng.
+
+Rốt cuộc ma cầu sửa chữa quyền hạn mặc dù cực kỳ cường đại, nhưng là quyền hạn phạm vi cũng chỉ là tại cứ điểm hoặc thôn trang, hoặc là về sau thành trấn hoặc tòa thành phạm vi bên trong.
+
+Không có khả năng rời đi cái phạm vi này, cùng tạo vật chủ đồng dạng khắp thế giới tùy tiện sửa chữa.
+
+Cái này cũng đến cân nhắc Mount and Blade quy tắc phạm vi.
+
+"Ừm? Phạm vi! ?"
+
+Thẩm Mục đột nhiên sững sờ.
+
+Nhìn xem rõ ràng đã bao phủ toàn bộ chung cư cư xá thôn trang hư ảnh, đại biểu cho có được Mount and Blade quy tắc ma cầu sửa chữa quyền hạn, có thể sửa chữa toàn bộ chung cư cư xá hết thảy vật thể.
+
+Bao quát lầu trọ, bao quát xanh hoá cảnh quan, bao quát cứ điểm kiến trúc cùng thôn trang kiến trúc. . .
+
+Bao quát dưới đáy mười mấy thước ga ra tầng ngầm!
+
+"Nếu như ta sử dụng ma cầu quyền hạn, đem những này bốn tòa nhà lầu trọ hoàn toàn giải thể, cưỡng ép khiến cái này xi măng cốt thép hướng phía dưới ép, đem ga ra tầng ngầm cách xa mặt đất khoảng cách lần nữa kéo ra hơn hai thước khoảng cách. . ."
+
+"Đó không phải là đại biểu cho ta thôn trang, liền có thể hoàn hoàn chỉnh chỉnh triển khai sao?"
+
+Thẩm Mục lông mày có chút bốc lên.
+
+Hắn tựa hồ là phát hiện ma cầu sửa chữa quyền hạn chỗ cường đại..

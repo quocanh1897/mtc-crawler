@@ -1,0 +1,96 @@
+{
+  "id": 144678,
+  "name": "Ta Tại Thượng Cổ Làm Thiên Đế",
+  "slug": "toai-co-chi-so",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 3,
+  "link": "https://metruyencv.com/truyen/toai-co-chi-so",
+  "note": "",
+  "status_name": "Tạm dừng",
+  "first_chapter": 23564001,
+  "latest_chapter": 25240678,
+  "latest_index": 300,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/toai-co-chi-so/default.jpg?1751785639",
+    "600": "https://static.cdnno.com/poster/toai-co-chi-so/600.jpg?1751785639",
+    "300": "https://static.cdnno.com/poster/toai-co-chi-so/300.jpg?1751785639",
+    "150": "https://static.cdnno.com/poster/toai-co-chi-so/150.jpg?1751785639"
+  },
+  "synopsis": "Toại cổ chi sơ, ai truyền đạo chi.\n\n\tThượng cổ, hắn là chúng sinh triều bái thượng đế.\n\n\tHiện đại, hắn là cường đại nhất, siêu phàm giả.",
+  "vote_count": 127,
+  "review_score": "5.000",
+  "review_count": 2,
+  "comment_count": 52,
+  "chapter_count": 293,
+  "view_count": 0,
+  "word_count": 670588,
+  "created_at": "2025-07-06T07:06:57.000000Z",
+  "updated_at": "2026-02-16T13:32:08.000000Z",
+  "new_chap_at": "2025-10-24T05:35:03.000000Z",
+  "published_at": "2025-07-06T07:06:57.000000Z",
+  "published": 1,
+  "user_id": 1000046,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Tại Thượng Cổ Làm Thiên Đế",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 76,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000046,
+    "name": "Huyền Linh",
+    "avatar": [
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/200.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/100.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/50.jpg?1615709578"
+    ],
+    "level": 4,
+    "exp": 2395,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3112,
+    "name": "Lịch Sử Lý Xuy Xuy Phong",
+    "avatar": null,
+    "local_name": "历史里吹吹风",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

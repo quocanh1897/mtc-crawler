@@ -1,0 +1,161 @@
+Chương 3: Độ thân mật phỏng đoán
+
+Chương 3: Độ thân mật phỏng đoán
+
+Eevee tiến hóa sở nghiên cứu một gian trong văn phòng.
+
+Cerise cầm trong tay cặp văn kiện, thần sắc nghiêm lại hưng phấn, ngòi bút thỉnh thoảng trên giấy viết một chút mấu chốt tin tức cùng điểm.
+
+Ngồi đối diện hắn Natsuhiko cũng kém không nhiều, cho nghiên cứu khoa học cao nhất thái độ cùng nghiêm cẩn.
+
+Hắn cùng Cerise dạng này, đã kéo dài một giờ.
+
+"Nói như vậy, ngươi cảm thấy Pokemon cùng nhân loại tầm đó, trường kỳ ở chung xuống tới, căn cứ vào ăn ý, phối hợp, tính tình các loại nhiều cái phương diện, trên lý luận hẳn là tồn tại một loại nào đó chúng ta chỗ nhìn không thấy quan hệ hoặc là liên hệ tồn tại?
+
+Mà loại này đặc thù mối quan hệ quan hệ, không chỉ có thể để Pokemon ảnh hưởng người, người cũng tương tự có thể ảnh hưởng Pokemon, cái này giả thiết đưa ra rất có tính kiến thiết, ta nhớ được trước đó có một ít nghiên cứu viên liền thử qua nghiên cứu phương diện này, chỉ bất quá cuối cùng bởi vì thiếu khuyết mấu chốt nhất luận chứng, cho nên cuối cùng không thể đạt được chính xác kết luận."
+
+Tiến vào loại này liên quan tới Pokemon thăm dò cùng nghiên cứu trạng thái bên trong lúc, Cerise liền biến thành phi thường chuyên chú.
+
+Thường xuyên nói lên một chút nghi hoặc cùng kiến giải hỏi được Natsuhiko đáp không được.
+
+Natsuhiko hiểu biết liên quan tới Pokemon tri thức dù sao rất nhiều đều nguồn gốc từ kiếp trước, xâm nhập đến chi tiết phương diện đồ vật, mặc dù hắn đã học tập một đoạn thời gian, nhưng cùng Cerise dạng này thâm niên nghiên cứu viên, lập tức liền có thể trở thành tiến sĩ người so sánh, cuối cùng vẫn là kém rất nhiều.
+
+May mắn, hắn hoặc nhiều hoặc ít cũng có thể lợi dụng một chút góc độ tương đối xảo trá phỏng đoán, tiến hành lẩn tránh hoặc là "Giải đáp" .
+
+Natsuhiko gật gật đầu.
+
+"Muốn chứng thực phương diện này liên hệ xác thực không có một cái rất tốt giữ cửa, bất quá theo ta được biết, phần lớn Pokemon đều có thể học tập 'Return' chiêu thức này, chúng ta có thể bắt đầu từ hướng này."
+
+Cerise thấp đôi mắt hơi suy nghĩ.
+
+"Cụ thể đây?"
+
+"Kỳ thật, ta có cái tương đối to gan giả thiết, đó chính là Pokemon cùng Trainer tầm đó tồn tại mối quan hệ liên hệ, nhưng thật ra là có thể định lượng."
+
+"Định lượng?"
+
+"Đúng, ta tự mình xưng cái này mối quan hệ vì 'Độ thân mật' mà 'Return' chiêu thức chính là kiểm trắc cái này độ thân mật tốt nhất chứng minh."
+
+". . . Độ thân mật. . . Cụ thể đây?"
+
+"Chúng ta đều biết, 'Return' chiêu thức, kỳ thật ban đầu bị cho rằng nên uy lực của chiêu thức, căn cứ vào Pokemon đối Trainer cảm kích trình độ, cho nên đặt tên là 'Return' ."
+
+Natsuhiko vừa nói, một bên cầm bút trên giấy tiến hành vẽ bản đồ.
+
+"Làm một cái đơn giản kết luận giả thiết. Return chiêu thức uy lực là biến động, đồng thời căn cứ vào độ thân mật, như vậy tất nhiên độ thân mật càng cao, uy lực của chiêu thức cũng liền càng cao. Vậy có phải hay không có thể trái lại suy luận, Return chiêu thức uy lực càng cao, Pokemon cùng Trainer ở giữa độ thân mật cũng liền càng cao, chỉ cần đem định lượng, liền có thể chứng thực độ thân mật tồn tại."
+
+Đây chính là một cái cơ sở nhất giả thiết kết luận thành lập cũng đẩy ngược ý nghĩ.
+
+Natsuhiko trên giấy viết xuống số lượng giá trị
+
+100.
+
+"Nếu, độ thân mật hạn mức cao nhất là một trăm, như vậy Return chiêu thức uy lực cũng là cao nhất.
+
+Đồng thời để nên Pokemon sử dụng một cái khác đã xác định uy lực trị số chiêu thức tiến hành hướng ngang so sánh, chuẩn xác tính toán ra độ thân mật đi đến max trị số lúc Return chiêu thức uy lực, lại để cho một con độ thân mật không có cao như vậy Pokemon sử dụng Return, tiếp tục hướng ngang so sánh, cứ thế mà suy ra. . ."
+
+Cerise nhẹ gật đầu.
+
+Dạng này thao tác ngoại trừ để Pokemon học tập nên chiêu thức bên ngoài, cũng cố định mấy hạng không thể thay đổi cơ sở giá trị bên ngoài, còn lại cũng không khó.
+
+"Có thể coi là cấp ra độ thân mật chuẩn xác trị số, vậy vẫn là thiếu khuyết mấu chốt nhất một bước luận chứng." Cerise lại đưa ra vấn đề.
+
+Natsuhiko cười.
+
+Người khác khả năng thật đúng là không cách nào luận chứng, nhưng hắn trùng hợp biết một chút cần độ thân mật mới có thể tiến hóa Pokemon độ thân mật trị số.
+
+"Cái này cần phiền phức Cerise tiên sinh ngươi đến hao tổn nhiều tâm trí."
+
+Ừm
+
+"Eevee loại này Pokemon, chính là tốt nhất luận chứng Pokemon.
+
+Cerise tiên sinh ngươi có thể đồng thời bồi dưỡng bốn cái đến năm con Eevee, hoặc là càng nhiều, cho đồng dạng điều kiện cùng bồi dưỡng, mỗi ngày dùng 'Return' khảo thí độ thân mật trị số biến hóa, nhìn Eevee sẽ hay không tại độ thân mật đi đến nhất định trị số lúc, phát sinh tiến hóa.
+
+Nếu như mỗi một cái đều tiến hóa, đồng thời trị số giống nhau, cái kia không chỉ có Eevee mới tiến hóa hình đoán đến luận chứng, 'Độ thân mật' số này giá trị tồn tại, cũng đồng dạng có thể được chứng minh, nhất cử lưỡng tiện."
+
+Dừng lại một chút về sau, Natsuhiko tiếp tục nói: "Thậm chí, Cerise tiên sinh ngươi còn có thể thử khai phát ra một cái chuyên môn khảo thí độ thân mật dụng cụ, ta tin tưởng sẽ là rộng rãi đám Trainer tin mừng."
+
+Nghe Natsuhiko nói xong, Cerise con mắt càng ngày càng sáng.
+
+Về phần nói, Natsuhiko nói lên những thứ này giả thiết cùng phỏng đoán, nếu như sai làm sao bây giờ? Những thứ này hắn căn bản cũng không có cân nhắc.
+
+Pokemon nghiên cứu vốn là người bạn theo đại lượng sai lầm từ đó đạt được thành công kết luận quá trình, trọng điểm là phải có phương hướng, sai cũng không có cái gì quan hệ.
+
+Bất quá rất nhanh, hắn lại lộ ra xoắn xuýt chi sắc.
+
+" 'Dodo' ngươi để cho ta tiến hành cái này thí nghiệm? Đây chính là ngươi nói lên luận đề cùng phỏng đoán, ta như vậy. . ."
+
+Không phải là đi quá giới hạn sao?
+
+Động người khác luận đề cùng phỏng đoán, cũng tại giới nghiên cứu xem như cái không lớn không nhỏ kiêng kị.
+
+Nếu như người khác lòng dạ rộng lớn còn dễ nói, nhưng nếu là lòng dạ nhỏ mọn người, có thể sẽ ghi hận cả một đời.
+
+Natsuhiko buông buông tay.
+
+"Cerise tiên sinh ngươi thấy ta giống là có năng lực nuôi nhiều như vậy Eevee người sao? Huống hồ ta không cách nào thu hoạch được nhiều như vậy Eevee, mà lại quá trình này không ngắn."
+
+Đây là lời nói thật.
+
+Natsuhiko bồi dưỡng ba con Pokemon thu nhập cùng chi tiêu đều nhanh theo không kịp, huống chi lại nuôi nhiều như vậy Eevee.
+
+Cerise mặt lộ vẻ do dự.
+
+Nói thật, Natsuhiko những thứ này phỏng đoán hòa luận đề hắn cảm thấy rất có tính khả thi, nhưng hắn cũng không phải là loại kia tham ô người khác công tích tiểu nhân.
+
+Trầm ngâm sau một hồi, Cerise làm ra quyết định.
+
+"Tốt! Cái kia bất luận cuối cùng này kết quả thành công hay không, ta đều biết đưa ngươi cùng tên của ta viết cùng một chỗ, đồng thời sau khi thành công tất cả nghiên cứu thù lao cùng với Liên Minh ban thưởng ta hết thảy không cần, đây là thuộc về ngươi, ta chỉ là thay mặt đi việc."
+
+Cerise thái độ rất kiên quyết.
+
+Ta
+
+"Nếu như ngươi không đáp ứng, ta là tuyệt đối sẽ không đụng vào cái này nghiên cứu."
+
+Natsuhiko khóe miệng giật một cái.
+
+'Ta lời muốn nói, đều bị ngươi cho đi nói, ta nên nói cái gì?'
+
+Mục tiêu của hắn kỳ thật rất đơn giản, viết luận văn kiếm tiền.
+
+Làm nghiên cứu quá tốn thời gian, mà lại càng phí tiền, hắn là tuyệt đối sẽ không đụng.
+
+Huống hồ hắn hiện tại không có học vị, không có tên tuổi, càng không tư lịch, luận văn có độ tin cậy cũng không cao.
+
+Bên trên một thiên cũng là bởi vì Cerise cho cho phép, mới có thể đạt được nhiều người như vậy tán đồng.
+
+Lý tưởng nhất trạng thái chính là hắn gia nhập vào một hạng trong nghiên cứu, cũng căn cứ từ mình một chút cảm giác tiên tri nhận biết, đưa ra một chút tính kiến thiết ý kiến cùng đề nghị, hỗn cái kí tên, hỗn chút vốn kim liền tốt.
+
+Hiện tại hắn cũng còn không nói ra miệng, Cerise liền rất "Chơi đẹp" cho hắn toàn bộ muốn.
+
+Cái này còn thế nào từ chối?
+
+Đương nhiên là vui vẻ tiếp nhận.
+
+Natsuhiko "Cố mà làm" nói: "Được."
+
+Nghe được hắn nhượng bộ, Cerise thở phào một hơi dài, cũng cười, "Cứ quyết định như vậy đi, ta hiện tại liền viết 'Độ thân mật' phỏng đoán luận văn, cũng mỗi ngày đổi mới số liệu cùng kết luận."
+
+". . . Vội vã như vậy sao?"
+
+"Nghiên cứu, không có thời gian có thể lãng phí." Cerise cúi đầu, bắt đầu bày ra bọn hắn trước đó chỗ giao lưu nội dung, cùng với luận văn đại cương.
+
+"Cái kia. . . Ta kỳ thật muốn hỏi một chút, Cerise tiên sinh có thể giúp ta lấy tới một cái học vị sao? Học sĩ là được rồi."
+
+Cerise kinh ngạc ngẩng đầu, "Ngươi không có học vị sao?"
+
+Natsuhiko
+
+Đây là cái gì đáng đến kinh ngạc sự tình sao?
+
+"Khác không dám nói, nhưng 'Học sĩ' học vị chỉ cần bản này phỏng đoán cùng luận đề phát ra ngoài, hẳn là không vấn đề gì." Cerise bảo đảm nói.
+
+"Đa tạ."
+
+"Đúng rồi, còn không biết tên thật của ngươi, học vị thứ này, dùng bút danh cùng biệt danh không thể được."
+
+Natsuhiko hơi trầm ngâm về sau, chậm rãi nói: "Natsuhiko, ta gọi. . . Natsuhiko."
+
+Gấp mà nói: "Bất quá ta hy vọng Cerise tiên sinh ngươi kí tên thời điểm, liền dùng 'Dodo' xưng hô thế này đi.".

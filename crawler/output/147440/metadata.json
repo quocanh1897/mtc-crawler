@@ -1,0 +1,96 @@
+{
+  "id": 147440,
+  "name": "Mạnh Nhất Khắc Kim Hệ Thống Tăng Cấp",
+  "slug": "manh-nhat-khac-kim-he-thong-tang-cap",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/manh-nhat-khac-kim-he-thong-tang-cap",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 24597119,
+  "latest_chapter": 25136753,
+  "latest_index": 1173,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/manh-nhat-khac-kim-he-thong-tang-cap/default.jpg?1757465383",
+    "600": "https://static.cdnno.com/poster/manh-nhat-khac-kim-he-thong-tang-cap/600.jpg?1757465383",
+    "300": "https://static.cdnno.com/poster/manh-nhat-khac-kim-he-thong-tang-cap/300.jpg?1757465383",
+    "150": "https://static.cdnno.com/poster/manh-nhat-khac-kim-he-thong-tang-cap/150.jpg?1757465383"
+  },
+  "synopsis": "Hiện đại đại học chó hạ thiếu, một giấc chiêm bao xuyên việt qua dị giới, trở thành “Đại Hạ Quốc, Long Uyên Tỉnh, cửu khúc thành Hạ gia một cấp thấp nô bộc”...... Tiền đồ xa vời, sinh tử không khỏi chính mình...... \n\n“Lão tặc thiên, con mẹ nó ngươi đem lão tử ném qua đến, chính là vì chơi lão tử sao?!!” Hắn phẫn nộ gào thét. \n\n【 Mạnh nhất khắc kim hệ thống tăng cấp, trợ ngài đăng đỉnh mạnh nhất đỉnh phong! 】 \n\n【 Thiếu niên, muốn mạnh lên sao? Khắc kim đi! 】 \n\nNgười mang hệ thống, hóa thân đệ tứ thiên tai! Bình cảnh? Chưa nghe nói qua! Huyền khí? Nghề nghiệp “thần chú sư” tìm hiểu một chút? Đan dược? Kỳ thuật? Chiến kỹ? Chiến thể? Công pháp?...... \n\nNgô, các ngươi đại khái không hiểu cái gì là VIP thương thành? Lại nhìn “đệ tứ thiên tai”, như thế nào tại cao võ dị giới, quấy phong vân! Mà mãi cho đến hắn đứng ở đỉnh cao nhất của thế giới này, hắn mới giật mình phát hiện...... Nguyên lai hết thảy, vừa mới bắt đầu......",
+  "vote_count": 79,
+  "review_score": "5.000",
+  "review_count": 1,
+  "comment_count": 48,
+  "chapter_count": 1173,
+  "view_count": 0,
+  "word_count": 2081121,
+  "created_at": "2025-09-10T00:49:33.000000Z",
+  "updated_at": "2026-02-17T16:19:06.000000Z",
+  "new_chap_at": "2026-01-21T02:40:00.000000Z",
+  "published_at": "2025-09-10T23:59:17.000000Z",
+  "published": 1,
+  "user_id": 1515876,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Mạnh Nhất Khắc Kim Hệ Thống Tăng Cấp",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 567,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1515876,
+    "name": "Gen Z",
+    "avatar": [
+      "https://static.cdnno.com/user/6c85bc17bfdf59d9f04c24dda2c6da9d/200.jpg?1750382101",
+      "https://static.cdnno.com/user/6c85bc17bfdf59d9f04c24dda2c6da9d/100.jpg?1750382101",
+      "https://static.cdnno.com/user/6c85bc17bfdf59d9f04c24dda2c6da9d/50.jpg?1750382101"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 26342,
+    "name": "Nguyệt Hạ Bán Chích Miêu",
+    "avatar": null,
+    "local_name": "月下半只猫",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 14,
+      "name": "Cao Võ Thế Giới",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

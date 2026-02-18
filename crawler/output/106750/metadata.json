@@ -1,0 +1,83 @@
+{
+  "id": 106750,
+  "name": "Huyền Huyễn Chi Nghìn Lần Kinh Nghiệm Hệ Thống",
+  "slug": "huyen-huyen-chi-nghin-lan-kinh-nghiem-he-thong",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/huyen-huyen-chi-nghin-lan-kinh-nghiem-he-thong",
+  "note": "✨CẦU HOA✨ CẦU ĐÁNH GIÁ✨CẦU BUFF KẸO✨",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13429060,
+  "latest_chapter": 13449254,
+  "latest_index": 448,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/huyen-huyen-chi-nghin-lan-kinh-nghiem-he-thong/default.jpg?1614533798",
+    "600": "https://static.cdnno.com/poster/huyen-huyen-chi-nghin-lan-kinh-nghiem-he-thong/600.jpg?1614533798",
+    "300": "https://static.cdnno.com/poster/huyen-huyen-chi-nghin-lan-kinh-nghiem-he-thong/300.jpg?1614533798",
+    "150": "https://static.cdnno.com/poster/huyen-huyen-chi-nghin-lan-kinh-nghiem-he-thong/150.jpg?1614533798"
+  },
+  "synopsis": "【B.faloo tiểu thuyết Internet độc nhất vô nhị ký kết tiểu thuyết: Huyền huyễn chi nghìn lần kinh nghiệm hệ thống 】\n\n Nguyên lực tinh không thời đại. Cổ Niết trong lúc vô tình lấy được nghìn lần kinh nghiệm hệ thống. \nTu luyện đao pháp, nghìn lần kinh nghiệm gia trì. Một đao liền có thể thăng cấp đao pháp cảnh giới. \nTu luyện thân pháp, tùy tiện đi hai bước, nghìn lần kinh nghiệm gia trì, cảnh giới đi lên căng vọt. \nTự thân cảnh giới tu luyện, càng là một đường bão táp. \nTừ đây ở nơi này vũ trụ tinh không thời đại, Cổ Niết đua xe con đường, đã xảy ra là không thể ngăn cản.\n\n\n\n✨CẦU HOA✨ CẦU ĐÁNH GIÁ✨CẦU BUFF KẸO✨",
+  "vote_count": 83,
+  "review_score": "4.778",
+  "review_count": 3,
+  "comment_count": 57,
+  "chapter_count": 448,
+  "view_count": 0,
+  "word_count": 601521,
+  "created_at": "2021-02-28T17:36:46.000000Z",
+  "updated_at": "2026-02-16T13:25:17.000000Z",
+  "new_chap_at": "2021-03-06T09:11:15.000000Z",
+  "published_at": "2021-02-28T17:36:38.000000Z",
+  "published": 1,
+  "user_id": 1000046,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Huyền Huyễn Chi Nghìn Lần Kinh Nghiệm Hệ Thống",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 511,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000046,
+    "name": "Huyền Linh",
+    "avatar": [
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/200.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/100.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/50.jpg?1615709578"
+    ],
+    "level": 4,
+    "exp": 2395,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 4405,
+    "name": "Hắc Sắc Thiên Thần",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

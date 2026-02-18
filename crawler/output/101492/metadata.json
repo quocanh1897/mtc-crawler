@@ -1,0 +1,76 @@
+{
+  "id": 101492,
+  "name": "Bất Động Sản Đại Ngoạn Gia",
+  "slug": "bat-dong-san-dai-ngoan-gia",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/bat-dong-san-dai-ngoan-gia",
+  "note": "✨CẦU HOA✨ CẦU ĐÁNH GIÁ✨CẦU BUFF KẸO✨",
+  "status_name": "Hoàn thành",
+  "first_chapter": 12309611,
+  "latest_chapter": 12694924,
+  "latest_index": 1231,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/bat-dong-san-dai-ngoan-gia/default.jpg?1585206178",
+    "600": "https://static.cdnno.com/poster/bat-dong-san-dai-ngoan-gia/600.jpg?1585206178",
+    "300": "https://static.cdnno.com/poster/bat-dong-san-dai-ngoan-gia/300.jpg?1585206178",
+    "150": "https://static.cdnno.com/poster/bat-dong-san-dai-ngoan-gia/150.jpg?1585206178"
+  },
+  "synopsis": "Âu sầu thất bại bất động sản người mới Trần Tấn đạt được một cái nghịch thiên APP!\n\n\"Đinh\" phát hiện mới hộ khách, nhu cầu: ...\n\n\"Đinh\" phát hiện xứng đôi phòng nguyên...\n\nTừ đây trò chơi bất động sản nghiệp, nghênh đón nhân sinh đỉnh phong?\n\n\"Đinh\" điểm tích lũy không đủ, xin mau sớm kiếm lấy điểm tích lũy!\n\nTrần Tấn: \"WTF?\"\n\n\np/s: Ai thích quyền mưu chính trị,thương nghiệp đọc đảm bảo hay, đấu đá nhau cân não lắm\n\n✨CẦU HOA✨ CẦU ĐÁNH GIÁ✨CẦU BUFF KẸO✨",
+  "vote_count": 35,
+  "review_score": "4.500",
+  "review_count": 1,
+  "comment_count": 12,
+  "chapter_count": 1231,
+  "view_count": 0,
+  "word_count": 4434105,
+  "created_at": "2020-03-26T07:02:58.000000Z",
+  "updated_at": "2026-02-16T13:30:18.000000Z",
+  "new_chap_at": "2020-05-14T11:33:51.000000Z",
+  "published_at": "2020-03-26T07:02:58.000000Z",
+  "published": 1,
+  "user_id": 1000046,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Bất Động Sản Đại Ngoạn Gia",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 153,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000046,
+    "name": "Huyền Linh",
+    "avatar": [
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/200.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/100.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/50.jpg?1615709578"
+    ],
+    "level": 4,
+    "exp": 2395,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1243,
+    "name": "Tỳ Khâu",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 6,
+      "name": "Đô Thị",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

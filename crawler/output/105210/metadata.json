@@ -1,0 +1,83 @@
+{
+  "id": 105210,
+  "name": "Nghịch Thiên Đan Đế",
+  "slug": "nghich-thien-dan-de",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/nghich-thien-dan-de",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13035388,
+  "latest_chapter": 17195632,
+  "latest_index": 3378,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/nghich-thien-dan-de/default.jpg?1600395782",
+    "600": "https://static.cdnno.com/poster/nghich-thien-dan-de/600.jpg?1600395782",
+    "300": "https://static.cdnno.com/poster/nghich-thien-dan-de/300.jpg?1600395782",
+    "150": "https://static.cdnno.com/poster/nghich-thien-dan-de/150.jpg?1600395782"
+  },
+  "synopsis": "Nhất kiếm phá thương khung, nhất kiếm vũ trường không. Người đứng giữa thiên địa, không phục ta liền làm!\n\nDuy Dịch Vĩnh Hằng sách mới, cùng tác Ngạo Thiên Thánh Đế.\n\n✯ Cvt by KOL.",
+  "vote_count": 849,
+  "review_score": "4.238",
+  "review_count": 7,
+  "comment_count": 238,
+  "chapter_count": 3373,
+  "view_count": 0,
+  "word_count": 6037041,
+  "created_at": "2020-09-18T02:23:06.000000Z",
+  "updated_at": "2026-02-16T13:35:41.000000Z",
+  "new_chap_at": "2023-12-18T02:32:12.000000Z",
+  "published_at": "2020-09-18T02:23:02.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Nghịch Thiên Đan Đế",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1147,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3813,
+    "name": "Duy Dịch Vĩnh Hằng",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 7,
+      "name": "Lãnh Khốc",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}

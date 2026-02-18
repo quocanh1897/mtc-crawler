@@ -1,0 +1,95 @@
+{
+  "id": 105581,
+  "name": "Từ Mạng Lưới Thần Hào Bắt Đầu",
+  "slug": "tu-mang-luoi-than-hao-bat-dau",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/tu-mang-luoi-than-hao-bat-dau",
+  "note": "✨CẦU HOA✨ CẦU ĐÁNH GIÁ✨CẦU NÉM GẠCH VÀO MẶT✨",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13105776,
+  "latest_chapter": 14002710,
+  "latest_index": 660,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tu-mang-luoi-than-hao-bat-dau/default.jpg?1602829273",
+    "600": "https://static.cdnno.com/poster/tu-mang-luoi-than-hao-bat-dau/600.jpg?1602829273",
+    "300": "https://static.cdnno.com/poster/tu-mang-luoi-than-hao-bat-dau/300.jpg?1602829273",
+    "150": "https://static.cdnno.com/poster/tu-mang-luoi-than-hao-bat-dau/150.jpg?1602829273"
+  },
+  "synopsis": "Thân là thần hào, ngài thời gian là vàng bạc!\n\n\t【  trước mắt hệ thống đẳng cấp: Cấp 1 】\n\n\t【  mỗi một giây, thu hoạch được 0. 01 nguyên tiền mặt 】\n\n\t【  đinh! Chúc mừng ngài thu hoạch được \"Mạng lưới thần hào thể nghiệm thẻ\" một trương 】\n\n\tThần hào con đường, như vậy mở ra...\n\nP/s: truyện tình tiết chậm,từ từ chứ ko ào ạt như các truyện thần hào khác\n\n✨CẦU HOA✨ CẦU ĐÁNH GIÁ✨CẦU NÉM GẠCH VÀO MẶT✨",
+  "vote_count": 500,
+  "review_score": "4.622",
+  "review_count": 15,
+  "comment_count": 195,
+  "chapter_count": 660,
+  "view_count": 0,
+  "word_count": 1860357,
+  "created_at": "2020-10-16T06:21:18.000000Z",
+  "updated_at": "2026-02-16T13:24:12.000000Z",
+  "new_chap_at": "2021-09-16T14:18:36.000000Z",
+  "published_at": "2020-10-16T06:21:13.000000Z",
+  "published": 1,
+  "user_id": 1000046,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Từ Mạng Lưới Thần Hào Bắt Đầu",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 620,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000046,
+    "name": "Huyền Linh",
+    "avatar": [
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/200.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/100.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/50.jpg?1615709578"
+    ],
+    "level": 4,
+    "exp": 2395,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3951,
+    "name": "Lưu Ly Loan",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 6,
+      "name": "Đô Thị",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 5,
+      "name": "Nhẹ Nhàng",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 27,
+      "name": "Đô Thị Sinh Hoạt",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

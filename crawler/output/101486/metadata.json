@@ -1,0 +1,76 @@
+{
+  "id": 101486,
+  "name": "Vô Tận Ma Diễm",
+  "slug": "vo-tan-ma-diem",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/vo-tan-ma-diem",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 11516456,
+  "latest_chapter": 11516913,
+  "latest_index": 458,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/vo-tan-ma-diem/default.jpg?1585206175",
+    "600": "https://static.cdnno.com/poster/vo-tan-ma-diem/600.jpg?1585206175",
+    "300": "https://static.cdnno.com/poster/vo-tan-ma-diem/300.jpg?1585206175",
+    "150": "https://static.cdnno.com/poster/vo-tan-ma-diem/150.jpg?1585206175"
+  },
+  "synopsis": "Thiếu niên Thạch Đầu, cơ duyên ngẫu nhiên đạt được thần bí sói châu, tu tuyệt thế thần thông, tập ma, phật, đạo ba nhà công pháp vào một thân, từ đó nghịch thiên cải mệnh, thành tựu vĩnh hằng truyền thuyết.  \n\nNVC số đào hoa đi đến đâu gái theo tới đó :)\nTruyện đã full 458c\n✨Truyện convert by : ܨღ๖ۣۜHuyền✫๖ۣۜLinh\n---------Cầu chấm điiểm 100 điểm mỗi khi đọc 50 chương---------\nĐây là động lực để Converter  làm việc!Tks!\n✨Xem truyện khác mình convert tại đây: http://truyencv.com/member/58829/\n\n✨Chân thành cảm ơn!",
+  "vote_count": 0,
+  "review_score": "5.000",
+  "review_count": 1,
+  "comment_count": 2,
+  "chapter_count": 458,
+  "view_count": 0,
+  "word_count": 1884556,
+  "created_at": "2020-03-26T07:02:55.000000Z",
+  "updated_at": "2026-02-16T13:32:29.000000Z",
+  "new_chap_at": "2018-06-08T15:00:18.000000Z",
+  "published_at": "2020-03-26T07:02:55.000000Z",
+  "published": 1,
+  "user_id": 1000046,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Vô Tận Ma Diễm",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 31,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000046,
+    "name": "Huyền Linh",
+    "avatar": [
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/200.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/100.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/50.jpg?1615709578"
+    ],
+    "level": 4,
+    "exp": 2395,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1237,
+    "name": "Lư Châu Tiểu Nhị",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

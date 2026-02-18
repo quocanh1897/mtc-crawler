@@ -1,0 +1,102 @@
+{
+  "id": 119406,
+  "name": "Ta Muốn Thua Thiệt Thành Ngành Giải Trí Cự Đầu",
+  "slug": "noi-xong-muoi-tam-tuyen-thien-hau-cai-quy-gi",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/noi-xong-muoi-tam-tuyen-thien-hau-cai-quy-gi",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 16485595,
+  "latest_chapter": 19247561,
+  "latest_index": 543,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/noi-xong-muoi-tam-tuyen-thien-hau-cai-quy-gi/default.jpg?1689013796",
+    "600": "https://static.cdnno.com/poster/noi-xong-muoi-tam-tuyen-thien-hau-cai-quy-gi/600.jpg?1689013796",
+    "300": "https://static.cdnno.com/poster/noi-xong-muoi-tam-tuyen-thien-hau-cai-quy-gi/300.jpg?1689013796",
+    "150": "https://static.cdnno.com/poster/noi-xong-muoi-tam-tuyen-thien-hau-cai-quy-gi/150.jpg?1689013796"
+  },
+  "synopsis": "说好十八线，全成顶流了？\n\t【  khôi hài, tương phản, nhẹ nhõm, không phải truyền thống vui chơi giải trí. Muốn nhìn một ít không giống vui chơi giải trí độc giả bằng hữu có thể điểm tiến đến nhìn xem ~ 】\n\n\tVị Quang giải trí làm một nhà thành lập bất quá mấy năm xí nghiệp, từ gần như phá sản vọt biến thành ngành giải trí đầu rồng, dưới cờ đầu dẫn chương trình tụ tập, bản gốc sao ca nhạc tụ tập, ảnh đế ảnh hậu thành đàn.\n\n\tTruyền thuyết ở bên trong nghệ nhân:\n\n\tThương đơn, nghĩ không tiếp liền không tiếp.\n\n\tTống nghệ, nghĩ không tham gia liền không tham gia.\n\n\tXã giao tài khoản?\n\n\tNghệ nhân chính mình chưởng khống, thích chia tay chia tay, thích kết hôn kết hôn.\n\n\tCó thể xưng ngành giải trí đất đá trôi.\n\n\tLàm bọn hắn lão bản, Dương Nhược Khiêm tự nhiên liền bị coi là nội ngu phía sau màn chi vương.\n\n\t\"Dương tổng, ngài có thể chia sẻ một chút ngài thành công bí quyết sao?\"\n\n\tDương Nhược Khiêm che cái trán:\n\n\t\"Có hay không một loại khả năng, ta cho tới bây giờ liền không nghĩ tới bọn hắn có thể lửa cháy đến. . . . .\"\n\n\t\"Ta ban đầu liền là nghĩ bày nát mà thôi a.\"",
+  "vote_count": 202,
+  "review_score": "5.000",
+  "review_count": 3,
+  "comment_count": 69,
+  "chapter_count": 543,
+  "view_count": 0,
+  "word_count": 1651826,
+  "created_at": "2023-07-10T18:29:33.000000Z",
+  "updated_at": "2026-02-16T13:27:14.000000Z",
+  "new_chap_at": "2024-08-30T17:07:09.000000Z",
+  "published_at": "2023-07-10T18:29:33.000000Z",
+  "published": 1,
+  "user_id": 1000046,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Muốn Thua Thiệt Thành Ngành Giải Trí Cự Đầu",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 381,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000046,
+    "name": "Huyền Linh",
+    "avatar": [
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/200.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/100.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/50.jpg?1615709578"
+    ],
+    "level": 4,
+    "exp": 2395,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 9704,
+    "name": "Tiễn Hành Tiễn Viễn",
+    "avatar": null,
+    "local_name": "践行践远",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 6,
+      "name": "Đô Thị",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 27,
+      "name": "Đô Thị Sinh Hoạt",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}
