@@ -1,0 +1,102 @@
+{
+  "id": 119872,
+  "name": "Khí Lực Của Ta Mỗi Ngày Gia Tăng 100 Cân",
+  "slug": "khi-luc-cua-ta-moi-ngay-gia-tang-100-can",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/khi-luc-cua-ta-moi-ngay-gia-tang-100-can",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 16591994,
+  "latest_chapter": 17509412,
+  "latest_index": 477,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/khi-luc-cua-ta-moi-ngay-gia-tang-100-can/default.jpg?1691208471",
+    "600": "https://static.cdnno.com/poster/khi-luc-cua-ta-moi-ngay-gia-tang-100-can/600.jpg?1691208471",
+    "300": "https://static.cdnno.com/poster/khi-luc-cua-ta-moi-ngay-gia-tang-100-can/300.jpg?1691208471",
+    "150": "https://static.cdnno.com/poster/khi-luc-cua-ta-moi-ngay-gia-tang-100-can/150.jpg?1691208471"
+  },
+  "synopsis": "Giang Thạch xuyên việt rồi, tiến vào một cái loạn quân nổi lên bốn phía, yêu tà tàn phá bừa bãi, nhân sinh bình thường sống ăn bữa nay lo bữa mai vương triều những năm cuối.\n\n\tBất quá may mà chính là, hắn đã thức tỉnh một cái thiên phú, mỗi ngày cũng sẽ tăng thêm 100 cân khí lực.\n\n\tCứ như vậy, hắn nghiêm túc cẩu ở, sống qua ngày, dù là không thông tu luyện chi pháp, tự thân lực lượng cũng tại mỗi ngày gia tăng mãnh liệt.\n\n\t3 năm về sau.\n\n\tGiang Thạch nhìn trước mắt một vị đeo kiếm lăng không mà đến vô thượng kiếm khách, nhặt lên một khỏa hòn đá nhỏ, tiện tay quăng ra, giống như sao băng một dạng, đem tại chỗ đánh rơi.\n\n\t\"Liền cái này? Liền cái này? Còn nói là cao thủ? Ngay cả ta một khỏa hòn đá nhỏ đều ngăn cản không nổi.\"\n\n\tGiang Thạch nói ra.",
+  "vote_count": 3225,
+  "review_score": "4.702",
+  "review_count": 43,
+  "comment_count": 1157,
+  "chapter_count": 475,
+  "view_count": 0,
+  "word_count": 1274913,
+  "created_at": "2023-08-05T04:05:07.000000Z",
+  "updated_at": "2026-02-18T04:52:46.000000Z",
+  "new_chap_at": "2024-03-02T08:20:30.000000Z",
+  "published_at": "2023-08-05T04:05:07.000000Z",
+  "published": 1,
+  "user_id": 1000020,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Khí Lực Của Ta Mỗi Ngày Gia Tăng 100 Cân",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2463,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000020,
+    "name": "Vô Ưu",
+    "avatar": [
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/200.jpg?1635993328",
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/100.jpg?1635993328",
+      "https://static.cdnno.com/user/e66174c2d569a2e847a94f7d1042cbd3/50.jpg?1635993328"
+    ],
+    "level": 3,
+    "exp": 1649,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 9911,
+    "name": "Giang Hồ Phong Trần Khách",
+    "avatar": null,
+    "local_name": "江湖风尘客",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "Vô Sỉ",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

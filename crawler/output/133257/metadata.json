@@ -1,0 +1,90 @@
+{
+  "id": 133257,
+  "name": "Dị Giới Thương Nhân",
+  "slug": "di-gioi-thuong-nhan",
+  "kind": 2,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://vtruyen.com/truyen/di-gioi-thuong-nhan",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 19651800,
+  "latest_chapter": 26866856,
+  "latest_index": 459,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/di-gioi-thuong-nhan/default.jpg?1767837010",
+    "600": "https://static.cdnno.com/poster/di-gioi-thuong-nhan/600.jpg?1767837010",
+    "300": "https://static.cdnno.com/poster/di-gioi-thuong-nhan/300.jpg?1767837010",
+    "150": "https://static.cdnno.com/poster/di-gioi-thuong-nhan/150.jpg?1767837010"
+  },
+  "synopsis": "Một thanh niên thời hiện đại 3 không: Không tiền, không nhà , không người thân, bởi vì làm thêm quá sức cho nên đột tử mà chết, linh hồn xuyên qua dị giới. Đây chính là khởi đầu của câu chuyện!\n\nXuyên tới dị giới, hắn vẫn không có tiền, không có nhà, nhưng người thân hắn có rồi, hơn nữa còn có tận 2 người, vì vậy hắn phải liều mạng phấn đấu.\n\nDị giới không giống thế giới trước kia, vương triều ngàn năm tranh đấu, động một chút là xác người chất thành núi, trong rừng rậm kia có con thú biết nói tiếng người, mỗi lần rời khỏi rừng là máu chảy thành sông. Hắn bắt đầu buôn bán cũng chỉ vì muốn kiếm chút tiền nuôi gia đình, cúi đầu mà tiến lên, lần nữa ngẩng đầu đã là người giàu có nhất một tòa thiên hạ.\n.......\n\n\" Cái gì?! Ngươi muốn mua cái ghế rồng của nhà họ Chu ư? Không ổn không ổn, thiên tử là do trời định không thể làm bậy, phải tăng giá mới được!\" \n\n\" Cái gì?! Ngươi muốn mua Thiết Xa? Còn có Hỏa Tiễn, Súng Hỏa Mai? Còn nhiều như vậy? Muốn tạo phản à, không được!!! Phải tăng giá.\"\n......\n\n* Quan trọng: Truyện chủ yếu là tu hành thám hiếm, đánh quái lên cấp, vương triều tranh bá ạ. Còn kinh doanh chỉ là yếu tố phụ thôi. Các bạn đọc lưu ý đừng để tên truyện làm nhầm lẫn nhé!!!\n\n* Hệ thống tu luyện:\n\n- Luyện Thể Sĩ( nhân loại): Phàm Huyết Cảnh- Kim Huyết Cảnh- Lục Huyết Cảnh- Tử Huyết Cảnh. \n\n-  Luyện Khí Sĩ( nhân loại): Nhất Châu Cảnh- Nhị Châu Cảnh- Tam Châu Cảnh- Tứ Châu Cảnh\n\n- Yêu thú: Dã Thú- Hung Thú- Linh Thú- Thần Thú.",
+  "vote_count": 749,
+  "review_score": "5.000",
+  "review_count": 5,
+  "comment_count": 177,
+  "chapter_count": 428,
+  "view_count": 0,
+  "word_count": 745688,
+  "created_at": "2024-10-03T01:15:53.000000Z",
+  "updated_at": "2026-02-18T14:53:39.000000Z",
+  "new_chap_at": "2026-02-09T12:53:22.000000Z",
+  "published_at": "2024-10-04T05:40:13.000000Z",
+  "published": 1,
+  "user_id": 1549873,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Dị Giới Thương Nhân",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 945,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 9600,
+  "discount": 0,
+  "creator": {
+    "id": 1549873,
+    "name": "Bất Phục",
+    "avatar": [
+      "https://static.cdnno.com/user/ed4ba8ab05c90bd6fb098cb641735d08/200.jpg?1726993752",
+      "https://static.cdnno.com/user/ed4ba8ab05c90bd6fb098cb641735d08/100.jpg?1726993752",
+      "https://static.cdnno.com/user/ed4ba8ab05c90bd6fb098cb641735d08/50.jpg?1726993752"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": null,
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 85,
+      "name": "Xuyên Không",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

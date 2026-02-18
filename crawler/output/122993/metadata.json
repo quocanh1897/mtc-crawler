@@ -1,0 +1,95 @@
+{
+  "id": 122993,
+  "name": "Ma Chủng",
+  "slug": "ma-chung-1",
+  "kind": 2,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://vtruyen.com/truyen/ma-chung-1",
+  "note": "Mọi thông báo của tác giả sẽ đăng lên đây, mọi người tham gia để tiếp tục đọc truyện nha: https://www.facebook.com/share/g/16qWRhVLVn/",
+  "status_name": "Còn tiếp",
+  "first_chapter": 17310347,
+  "latest_chapter": 26882118,
+  "latest_index": 1449,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ma-chung-1/default.jpg?1764563647",
+    "600": "https://static.cdnno.com/poster/ma-chung-1/600.jpg?1764563647",
+    "300": "https://static.cdnno.com/poster/ma-chung-1/300.jpg?1764563647",
+    "150": "https://static.cdnno.com/poster/ma-chung-1/150.jpg?1764563647"
+  },
+  "synopsis": "Thế có âm dương, đạo chia chính ma.\n\nChính, lấy linh khí thiên địa, cố bản bồi nguyên.\n\nMa, trộm cơ sinh tử, cấp công cận lợi.\n\nHai bên đều là đại đạo nhưng lại không chung đường. Từ thuở xa xưa, chính ma đã sớm bất lưỡng lập, gặp nhau ở đâu liền đánh giết tại đó.\n\nThiếu niên Hứa Tử Du bước ra từ Lò Luyện Cổ, tinh thông sinh tồn, trầm luân ma đạo, từng bước lên đỉnh cao, ngự ma nhìn chúng sinh.\n\nPS: Mọi tình tiết trong truyện đều là hư cấu.",
+  "vote_count": 13358,
+  "review_score": "4.990",
+  "review_count": 33,
+  "comment_count": 881,
+  "chapter_count": 1449,
+  "view_count": 0,
+  "word_count": 3257091,
+  "created_at": "2024-01-14T03:09:50.000000Z",
+  "updated_at": "2026-02-18T14:30:20.000000Z",
+  "new_chap_at": "2026-02-14T10:07:37.000000Z",
+  "published_at": "2024-01-16T03:59:11.000000Z",
+  "published": 1,
+  "user_id": 1000216,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ma Chủng",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 3294,
+  "chapter_per_week": 5,
+  "ready_for_sale": 0,
+  "discount_price": 1026260,
+  "discount": 0,
+  "creator": {
+    "id": 1000216,
+    "name": "Vệ Huyền Hy",
+    "avatar": [
+      "https://static.cdnno.com/user/121e381940d73fba9422eace1ce3b126/200.jpg?1762490161",
+      "https://static.cdnno.com/user/121e381940d73fba9422eace1ce3b126/100.jpg?1762490161",
+      "https://static.cdnno.com/user/121e381940d73fba9422eace1ce3b126/50.jpg?1762490161"
+    ],
+    "level": 4,
+    "exp": 4464,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3167,
+    "name": "",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 10,
+      "name": "Giảo Hoạt",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 25,
+      "name": "Cổ Điển Tiên Hiệp",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 61,
+      "name": "Phàm Nhân",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

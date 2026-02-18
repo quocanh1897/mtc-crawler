@@ -1,0 +1,101 @@
+{
+  "id": 121026,
+  "name": "Lol: Thời Đại Quang Vinh",
+  "slug": "lol-thoi-dai-quang-vinh",
+  "kind": 2,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://vtruyen.com/truyen/lol-thoi-dai-quang-vinh",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 16849455,
+  "latest_chapter": 26727920,
+  "latest_index": 411,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/lol-thoi-dai-quang-vinh/default.jpg?1719932052",
+    "600": "https://static.cdnno.com/poster/lol-thoi-dai-quang-vinh/600.jpg?1719932052",
+    "300": "https://static.cdnno.com/poster/lol-thoi-dai-quang-vinh/300.jpg?1719932052",
+    "150": "https://static.cdnno.com/poster/lol-thoi-dai-quang-vinh/150.jpg?1719932052"
+  },
+  "synopsis": "Đây là thời đại của Liên Minh Huyền Thoại, là đấu trường của tuổi trẻ, của nhiệt huyết, của khát khao bất tận...\nTrạch nam Trần Lục Cảnh không biết tại sao lại hữu ý vô tình trùng sinh trở về hơn mười năm trước, thời kỳ mà trò chơi điện tử đang phát triển mãnh liệt.\nTrở về thời niên thiếu với sự nuối tiếc của quá khứ, nếu trời cao đã cho hắn một cơ hội, Lục Cảnh lần này quyết tâm muốn để cho tên của mình được khắc lên trên lịch sử bằng một truyền kì sử thi, sáng tạo cuộc tranh phong vĩ đại chưa từng có.\nNiềm vui, chiến thắng, có thất bại và cả nước mắt...\nNhưng ở thời đại vinh quang, mộng tưởng, cùng nhiệt huyết của tuổi trẻ, những thứ này đều là không thể ngăn cản.\nMột đấu trường thi đấu thể thao điện tử!\nMột thiếu niên mang trong mình giấc mộng lên đỉnh quán quân!",
+  "vote_count": 4517,
+  "review_score": "4.889",
+  "review_count": 54,
+  "comment_count": 625,
+  "chapter_count": 411,
+  "view_count": 0,
+  "word_count": 787657,
+  "created_at": "2023-10-02T23:50:06.000000Z",
+  "updated_at": "2026-02-17T18:30:14.000000Z",
+  "new_chap_at": "2026-01-26T03:32:44.000000Z",
+  "published_at": "2023-10-06T10:18:47.000000Z",
+  "published": 1,
+  "user_id": 1148146,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Lol: Thời Đại Quang Vinh",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 749,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 117258,
+  "discount": 15,
+  "creator": {
+    "id": 1148146,
+    "name": "Tiểu Lang Quânn",
+    "avatar": [
+      "https://static.cdnno.com/user/92540aa51f8db448d835f07811ef3c67/200.jpg?1701433909",
+      "https://static.cdnno.com/user/92540aa51f8db448d835f07811ef3c67/100.jpg?1701433909",
+      "https://static.cdnno.com/user/92540aa51f8db448d835f07811ef3c67/50.jpg?1701433909"
+    ],
+    "level": 3,
+    "exp": 502,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3167,
+    "name": "",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 6,
+      "name": "Đô Thị",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 38,
+      "name": "Điện Tử Cạnh Kỹ",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    },
+    {
+      "id": 89,
+      "name": "Ngọt Sủng",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

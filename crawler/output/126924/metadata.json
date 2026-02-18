@@ -1,0 +1,90 @@
+{
+  "id": 126924,
+  "name": "Trở Lại 2009 Ta Làm Lại Cuộc Đời",
+  "slug": "tro-lai-2009-ta-lam-lai-cuoc-doi",
+  "kind": 2,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://vtruyen.com/truyen/tro-lai-2009-ta-lam-lai-cuoc-doi",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 18112007,
+  "latest_chapter": 26890327,
+  "latest_index": 1046,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tro-lai-2009-ta-lam-lai-cuoc-doi/default.jpg?1757155874",
+    "600": "https://static.cdnno.com/poster/tro-lai-2009-ta-lam-lai-cuoc-doi/600.jpg?1757155874",
+    "300": "https://static.cdnno.com/poster/tro-lai-2009-ta-lam-lai-cuoc-doi/300.jpg?1757155874",
+    "150": "https://static.cdnno.com/poster/tro-lai-2009-ta-lam-lai-cuoc-doi/150.jpg?1757155874"
+  },
+  "synopsis": "Thanh Xuân là gì?\n\nTuổi Trẻ là gi?\n\nAi trong cuộc đời này cũng trải qua cái độ tuổi thanh xuân, thời gian nhiệt huyết của tuổi trẻ?\n\nNếu bạn được Trùng Sinh trở về tuổi Thanh Xuân - Bạn sẽ làm gì?\n\nMột câu chuyện kể về một đời Thanh Xuân của tuổi trẻ.\n\nMang lại cảm giác giống như chúng ta đi trên con đường trước kia từng tới trường, đứng lại trước bức tường loang lổ quen thuộc, hiện lên thoáng tiếng cười đừa trong ký ức. Hoặc ngẫu nhiên đi trên đường gặp bạn thuở nhỏ, không hẹn mà cùng làm động tác ngốc nghếch nào đó khi nhỏ hay làm. Hoặc trong đêm mất ngủ, ký ức trong lòng lại đột nhiên hiện ra theo làn khói thuốc mịt mù. Những thứ tình cảm đã phai mờ theo sự trưởng thành của chúng ta...\n\nTuổi trẻ trôi qua không bao giờ trở lại, không muốn hối hận vì không dám vươn tay nắm lấy bàn tay người yêu thương. Bình đạm mới hạnh phúc, dung tục mới càng trân quý....",
+  "vote_count": 6179,
+  "review_score": "4.931",
+  "review_count": 52,
+  "comment_count": 756,
+  "chapter_count": 1046,
+  "view_count": 0,
+  "word_count": 2206084,
+  "created_at": "2024-05-11T08:20:30.000000Z",
+  "updated_at": "2026-02-18T15:00:21.000000Z",
+  "new_chap_at": "2026-02-17T17:55:09.000000Z",
+  "published_at": "2024-05-13T07:07:57.000000Z",
+  "published": 1,
+  "user_id": 1073744,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Trở Lại 2009 Ta Làm Lại Cuộc Đời",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1391,
+  "chapter_per_week": 2,
+  "ready_for_sale": 0,
+  "discount_price": 772300,
+  "discount": 0,
+  "creator": {
+    "id": 1073744,
+    "name": "Lão Gấu Mập",
+    "avatar": [
+      "https://static.cdnno.com/user/85bf650d21455746287dd17a73961c0a/200.jpg?1750857194",
+      "https://static.cdnno.com/user/85bf650d21455746287dd17a73961c0a/100.jpg?1750857194",
+      "https://static.cdnno.com/user/85bf650d21455746287dd17a73961c0a/50.jpg?1750857194"
+    ],
+    "level": 2,
+    "exp": 358,
+    "object_type": "User"
+  },
+  "author": null,
+  "genres": [
+    {
+      "id": 6,
+      "name": "Đô Thị",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 27,
+      "name": "Đô Thị Sinh Hoạt",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 66,
+      "name": "Trọng Sinh",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

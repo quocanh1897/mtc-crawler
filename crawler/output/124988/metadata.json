@@ -1,0 +1,102 @@
+{
+  "id": 124988,
+  "name": "Gia Tộc Quật Khởi: Từ Làm Gia Gia Bắt Đầu",
+  "slug": "gia-toc-quat-khoi-tu-lam-gia-gia-bat-dau",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/gia-toc-quat-khoi-tu-lam-gia-gia-bat-dau",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 17702216,
+  "latest_chapter": 25926109,
+  "latest_index": 1689,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/gia-toc-quat-khoi-tu-lam-gia-gia-bat-dau/default.jpg?1718677581",
+    "600": "https://static.cdnno.com/poster/gia-toc-quat-khoi-tu-lam-gia-gia-bat-dau/600.jpg?1718677581",
+    "300": "https://static.cdnno.com/poster/gia-toc-quat-khoi-tu-lam-gia-gia-bat-dau/300.jpg?1718677581",
+    "150": "https://static.cdnno.com/poster/gia-toc-quat-khoi-tu-lam-gia-gia-bat-dau/150.jpg?1718677581"
+  },
+  "synopsis": "Dương Chính Sơn xuyên qua sau, thực hiện siêu cấp thêm bối phận, từ một cái rất tốt thanh niên biến thành gia gia.\n\n28 biến 38, còn nhặt ba cái nhi tử, hai cái nữ nhi, hai cái con dâu, hai cái đại tôn tử, một cái đại tôn nữ, trở thành chân chính nhất gia chi chủ.\n\nNhà của ta ta làm chủ, để xem Dương Chính Sơn như thế nào dẫn dắt một cái nông hộ đi hướng vinh hoa phú quý.",
+  "vote_count": 4671,
+  "review_score": "4.919",
+  "review_count": 63,
+  "comment_count": 729,
+  "chapter_count": 1677,
+  "view_count": 0,
+  "word_count": 3614802,
+  "created_at": "2024-03-26T14:17:25.000000Z",
+  "updated_at": "2026-02-18T14:06:29.000000Z",
+  "new_chap_at": "2025-12-11T17:30:21.000000Z",
+  "published_at": "2024-03-26T15:54:01.000000Z",
+  "published": 1,
+  "user_id": 1000065,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Gia Tộc Quật Khởi: Từ Làm Gia Gia Bắt Đầu",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 4276,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000065,
+    "name": "KiếmTiềnMuaSữa",
+    "avatar": [
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/200.jpg?1769515356",
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/100.jpg?1769515356",
+      "https://static.cdnno.com/user/a30dc2967fa5929ea0492911f6b90ba7/50.jpg?1769515356"
+    ],
+    "level": 2,
+    "exp": 456,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 9236,
+    "name": "Bất Tri Vị Danh",
+    "avatar": null,
+    "local_name": "不知未名",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 5,
+      "name": "Nhẹ Nhàng",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 12,
+      "name": "Dị Thế Đại Lục",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 63,
+      "name": "Xuyên Qua",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

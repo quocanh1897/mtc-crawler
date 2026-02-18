@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { AuthorLink } from "@/components/rankings/AuthorLink";
+import { AuthorLink, ClickableRow } from "@/components/rankings/AuthorLink";
 import { getRankedBooks, getGenresWithCounts } from "@/lib/queries";
 import { BookCover } from "@/components/books/BookCover";
 import { StatusBadge } from "@/components/ui/Badge";
@@ -130,10 +130,10 @@ export default async function RankingsPage({ searchParams }: Props) {
             </p>
           ) : (
             books.map((book, i) => (
-              <Link
+              <ClickableRow
                 key={book.id}
                 href={`/doc-truyen/${book.slug}`}
-                className="flex items-center gap-3 px-4 py-3 hover:bg-gray-50 transition-colors"
+                className="flex items-center gap-3 px-4 py-3 hover:bg-gray-50 transition-colors cursor-pointer"
               >
                 <span
                   className={cn(
@@ -180,7 +180,7 @@ export default async function RankingsPage({ searchParams }: Props) {
                     {METRIC_LABELS[metric]}
                   </div>
                 </div>
-              </Link>
+              </ClickableRow>
             ))
           )}
         </div>

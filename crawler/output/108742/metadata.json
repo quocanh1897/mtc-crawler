@@ -1,0 +1,95 @@
+{
+  "id": 108742,
+  "name": "Sắt Thép Ma Pháp",
+  "slug": "sat-thep-ma-phap",
+  "kind": 2,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://vtruyen.com/truyen/sat-thep-ma-phap",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 13912333,
+  "latest_chapter": 26860838,
+  "latest_index": 965,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/sat-thep-ma-phap/default.jpg?1630371098",
+    "600": "https://static.cdnno.com/poster/sat-thep-ma-phap/600.jpg?1630371098",
+    "300": "https://static.cdnno.com/poster/sat-thep-ma-phap/300.jpg?1630371098",
+    "150": "https://static.cdnno.com/poster/sat-thep-ma-phap/150.jpg?1630371098"
+  },
+  "synopsis": "Hùng, một người đàn ông thành đạt và quyền lực, nhưng vì một sai lầm ông trở thành tội phạm truy nã, cuối cùng bị chính người mình yêu hành quyết.\nHùng tỉnh lại trong thân xác của lục hoàng tử Ngô Chấn Long của vương quốc Nam Tinh.\nTrong một thế giới ma pháp là chân lý.\nTrong một thế giới mà con người, thần linh, ma quỷ và vô số chủng tộc khác cùng tồn tại, Hùng sẽ làm gì để một hoàng tử bị ép vào đường cùng như hắn có thể sống sót.\n...\nTất cả nhân vật, sự kiện trong truyện hoàn toàn hư cấu, không phản ánh sự thật lịch sử.",
+  "vote_count": 5167,
+  "review_score": "5.000",
+  "review_count": 19,
+  "comment_count": 580,
+  "chapter_count": 964,
+  "view_count": 0,
+  "word_count": 1702938,
+  "created_at": "2021-08-15T13:12:01.000000Z",
+  "updated_at": "2026-02-17T09:34:48.000000Z",
+  "new_chap_at": "2026-02-08T14:30:00.000000Z",
+  "published_at": "2021-08-31T00:51:48.000000Z",
+  "published": 1,
+  "user_id": 1118458,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Sắt Thép Ma Pháp",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 724,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1118458,
+    "name": "Một bàn tay",
+    "avatar": [
+      "https://static.cdnno.com/user/141e927bd035ff40e460f02dda767f1e/200.jpg?1762080422",
+      "https://static.cdnno.com/user/141e927bd035ff40e460f02dda767f1e/100.jpg?1762080422",
+      "https://static.cdnno.com/user/141e927bd035ff40e460f02dda767f1e/50.jpg?1762080422"
+    ],
+    "level": 1,
+    "exp": 53,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3167,
+    "name": "",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 4,
+      "name": "Khoa Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 13,
+      "name": "Vương Triều Tranh Bá",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

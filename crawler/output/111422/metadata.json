@@ -1,0 +1,101 @@
+{
+  "id": 111422,
+  "name": "Thịnh Thế Diên Ninh",
+  "slug": "thinh-the-dien-ninh",
+  "kind": 2,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://vtruyen.com/truyen/thinh-the-dien-ninh",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 14519068,
+  "latest_chapter": 26873028,
+  "latest_index": 1491,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/thinh-the-dien-ninh/default.jpg?1663219120",
+    "600": "https://static.cdnno.com/poster/thinh-the-dien-ninh/600.jpg?1663219120",
+    "300": "https://static.cdnno.com/poster/thinh-the-dien-ninh/300.jpg?1663219120",
+    "150": "https://static.cdnno.com/poster/thinh-the-dien-ninh/150.jpg?1663219120"
+  },
+  "synopsis": "Văn án: Dương Ninh xui xẻo bị Ngưu đầu Mã diện bắt nhầm. Hắn chưa tới số nhưng lại không thể trở về dương gian. Để che đậy tội lỗi, hai vị này cấu kết Phán quan để cho hắn trọng sinh lần nữa để chữa cháy. Kết quả 8 lần trọng sinh hắn đều chết bất đắc kỳ tử đều không sống quá năm năm: làm kỹ sư nông nghiệp bị ngộ độc thực phẩm chết; làm kỹ sư quân khí nhà máy bị nổ chết; xuyên qua Lộc Đỉnh Ký làm thuộc hạ Đa Long cũng bị Vi Tiểu Bảo hố chết, thậm chí trở về làm con của Hưng Đạo vương cũng hi sinh luôn trong kháng chiến chống Nguyên rồi...thật mẹ nó ta phải chết đến mấy lần nữa đây?\nPhán quan: \"con người có cửu mệnh, ngươi chết đã chín lần. Ta chỉ có thể giúp ngươi lần này nữa\".\nNgưu đầu: \"Ninh đại ca, đây là lần cuối rồi, xin ngươi cố gắng giữ mệnh\".\nMã diện: \"Đồng ý x2\".\nDương Ninh vô cùng phiền muộn. Hắn cũng rất muốn sống mà. \n\n======++\n\nĐể tránh trường hợp hiểu lầm, ta xin nói trước tất cả những nhân vật, đất nước, tôn giáo trong truyện đều là hư cấu, nếu có giống nhau hoặc tương tự thì chỉ là ngẫu nhiên. Tất cả nhân vật, sự kiện trong truyện hoàn toàn hư cấu, không phản ánh sự thật lịch sử.\n----------------------------\nTruyện đã hoàn: Đế chế Đại Việt\nCầu đề cử, cầu buff, cầu vote 10*",
+  "vote_count": 71624,
+  "review_score": "4.959",
+  "review_count": 254,
+  "comment_count": 5421,
+  "chapter_count": 1491,
+  "view_count": 0,
+  "word_count": 3473361,
+  "created_at": "2022-03-03T08:45:07.000000Z",
+  "updated_at": "2026-02-18T15:00:21.000000Z",
+  "new_chap_at": "2026-02-10T07:08:43.000000Z",
+  "published_at": "2022-03-07T01:54:03.000000Z",
+  "published": 1,
+  "user_id": 1000014,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Thịnh Thế Diên Ninh",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 3149,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 717490,
+  "discount": 0,
+  "creator": {
+    "id": 1000014,
+    "name": "Hàm Ngư",
+    "avatar": [
+      "https://static.cdnno.com/user/7bef20627bb50052e352b9653c3bca53/200.jpg?1596985905",
+      "https://static.cdnno.com/user/7bef20627bb50052e352b9653c3bca53/100.jpg?1596985905",
+      "https://static.cdnno.com/user/7bef20627bb50052e352b9653c3bca53/50.jpg?1596985905"
+    ],
+    "level": 4,
+    "exp": 3839,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3167,
+    "name": "",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 8,
+      "name": "Dã Sử",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 33,
+      "name": "Lịch Sử Quân Sự",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 80,
+      "name": "Xây Dựng Thế Lực",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

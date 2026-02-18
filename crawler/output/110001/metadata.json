@@ -1,0 +1,102 @@
+{
+  "id": 110001,
+  "name": "Một Vạn Loại Phương Pháp Thanh Trừ Người Chơi",
+  "slug": "mot-van-loai-phuong-phap-thanh-tru-nguoi-choi",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/mot-van-loai-phuong-phap-thanh-tru-nguoi-choi",
+  "note": "✨CẦU HOA✨ CẦU ĐÁNH GIÁ✨CẦU NÉM GẠCH VÀO MẶT✨",
+  "status_name": "Hoàn thành",
+  "first_chapter": 14211222,
+  "latest_chapter": 15618374,
+  "latest_index": 491,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/mot-van-loai-phuong-phap-thanh-tru-nguoi-choi/default.jpg?1638325901",
+    "600": "https://static.cdnno.com/poster/mot-van-loai-phuong-phap-thanh-tru-nguoi-choi/600.jpg?1638325901",
+    "300": "https://static.cdnno.com/poster/mot-van-loai-phuong-phap-thanh-tru-nguoi-choi/300.jpg?1638325901",
+    "150": "https://static.cdnno.com/poster/mot-van-loai-phuong-phap-thanh-tru-nguoi-choi/150.jpg?1638325901"
+  },
+  "synopsis": "Ta xuyên qua thế giới trải rộng người chơi, sinh tồn vốn cũng không dễ, mà ta tức thì bị hệ thống quấn thân, thành NPC bên trong chói mắt nhất cái kia...\n\n\tThổ dân nhìn ta không vừa mắt, người chơi xem ta là cái đinh trong mắt.\n\n\tVì tại dị thế giới cuộc sống tốt đẹp, vì không bị người chơi khi nhục, ta chỉ có thể dốc hết toàn lực, đem trải qua khổ ách biến thành người khác khổ ách, đem tất cả thu hoạch lưu cho mình, khỏe mạnh trưởng thành, trở thành một cái vĩnh viễn không cách nào bị người chơi đánh bại BOSS...\n\n\tĐây là một bản Đệ Tứ Thiên Tai bị thiên tai cố sự.\n\n\tĐã hoàn tất vạn đặt trước tác phẩm « vạn giới Giải Mộng sư », nhân phẩm cam đoan, xin yên tâm nhập hố.\n\np/s: vẫn phong cách cũ, hài hước cười sảng khoái ",
+  "vote_count": 1261,
+  "review_score": "4.858",
+  "review_count": 20,
+  "comment_count": 374,
+  "chapter_count": 491,
+  "view_count": 0,
+  "word_count": 1362028,
+  "created_at": "2021-11-26T09:01:21.000000Z",
+  "updated_at": "2026-02-17T16:49:12.000000Z",
+  "new_chap_at": "2022-12-15T16:53:56.000000Z",
+  "published_at": "2021-11-26T10:02:25.000000Z",
+  "published": 1,
+  "user_id": 1000046,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Một Vạn Loại Phương Pháp Thanh Trừ Người Chơi",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1270,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000046,
+    "name": "Huyền Linh",
+    "avatar": [
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/200.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/100.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/50.jpg?1615709578"
+    ],
+    "level": 4,
+    "exp": 2395,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1263,
+    "name": "Miên Y Vệ",
+    "avatar": null,
+    "local_name": "棉衣卫",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 36,
+      "name": "Hư Nghĩ Võng Du",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

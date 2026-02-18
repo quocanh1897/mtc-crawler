@@ -1,6 +1,6 @@
 # Book Download Audit
 
-Generated: 2026-02-18 21:08
+Generated: 2026-02-18 22:23
 
 ## Summary
 
@@ -8,11 +8,11 @@ Generated: 2026-02-18 21:08
 | -------------------- | ------: | -------------: |
 | Done                 |     294 |        297,474 |
 | Partial              |       0 |              0 |
-| Empty folder         |       8 |              0 |
+| Empty folder         |      20 |              0 |
 | Not started          |       0 |              0 |
-| **Total bookmarked** | **302** | **297,474** |
+| **Total bookmarked** | **314** | **297,474** |
 
-Output: 302 folders, 297,474 chapters saved, 6.3GB on disk.
+Output: 314 folders, 297,474 chapters saved, 6.5GB on disk.
 
 ## Done (294)
 
@@ -313,7 +313,7 @@ Output: 302 folders, 297,474 chapters saved, 6.3GB on disk.
 | 127016 |        -- |    77 | Mỹ Thực Gia Tại Tu Tiên Giới |
 | 106532 |        -- |    23 | Tiên Võ Đế Tôn |
 
-## Empty Folder (8)
+## Empty Folder (20)
 
 |     ID | API Chaps | Name |
 | -----: | --------: | ---- |
@@ -321,7 +321,19 @@ Output: 302 folders, 297,474 chapters saved, 6.3GB on disk.
 | 101481 |        -- | Siêu Thần Chế Tạp Sư |
 | 101486 |        -- | Vô Tận Ma Diễm |
 | 109098 |        -- | Si Tình Thánh Nữ Theo Đuổi Tạp Dịch Tông Môn |
+| 109099 |        -- | Nhất Kiếp Tiên Phàm |
+| 111422 |        -- | Thịnh Thế Diên Ninh |
+| 113404 |        -- | Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu |
+| 114607 |        -- | Toàn Dân Chuyển Chức: Tử Linh Pháp Sư! Ta Tức Là Thiên Tai |
+| 114716 |        -- | Ngự Thú Từ Số 0 Bắt Đầu |
 | 115282 |        -- | Cái Này Trời Đẹp Đội Người Chơi Siêu Không Đứng Đắn! |
-| 117590 |        -- | Book 117590 |
+| 115313 |        -- | Ngôi Sao Hi Vọng |
+| 117590 |        -- | Bác Sĩ Tâm Lý Có Thể Đoán Mệnh Rất Hợp Lý A |
+| 121835 |        -- | Theo Người Ở Rể Bắt Đầu Thành Lập Trường Sinh Gia Tộc |
 | 122376 |        -- | Cao Võ: Một Bài Hiệp Khách Hành Bắt Đầu Lĩnh Ngộ Thái Huyền Kinh |
+| 122993 |        -- | Ma Chủng |
+| 126924 |        -- | Trở Lại 2009 Ta Làm Lại Cuộc Đời |
+| 131184 |        -- | Vô Địch Thiên Mệnh |
+| 133656 |        -- | Nô Lệ Bóng Tối |
+| 137201 |        -- | Sớm Đăng Lục Thế Giới Trò Chơi, Bắt Đầu Thông Gia Nữ Đế |
 | 151531 |        -- | Hồng Hoang: Ta, Tử Vi Tinh Chủ |

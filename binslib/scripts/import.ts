@@ -362,6 +362,8 @@ function runImport(fullMode: boolean): ImportReport {
       }
 
       const meta = JSON.parse(fs.readFileSync(metaPath, "utf-8"));
+      // Use directory name as canonical ID (meta.id can differ after meta-puller updates)
+      meta.id = bookId;
 
       // Skip unchanged in incremental mode
       if (!fullMode) {
@@ -400,32 +402,18 @@ function runImport(fullMode: boolean): ImportReport {
 
       bookBar?.update({ detail: meta.name });
 
-      // Author
-      if (meta.author) {
-        insertAuthor.run(
-          meta.author.id,
-          meta.author.name,
-          meta.author.local_name || null,
-          meta.author.avatar || null
-        );
+      // Cover (run meta-puller before transaction if needed)
+      const coverSrc = path.join(bookDir, "cover.jpg");
+      const coverDest = path.join(COVERS_DIR, `${bookId}.jpg`);
+      let coverUrl: string | null = null;
+      if (!fs.existsSync(coverSrc)) {
+        report.metaPullerRuns++;
+        tryRunMetaPuller(bookId);
       }
-
-      // Genres
-      if (meta.genres && Array.isArray(meta.genres)) {
-        for (const g of meta.genres) {
-          insertGenre.run(g.id, g.name, slugify(g.name));
-        }
-      }
-
-      // Tags
-      if (meta.tags && Array.isArray(meta.tags)) {
-        for (const t of meta.tags) {
-          insertTag.run(
-            t.id,
-            t.name,
-            t.type_id ? parseInt(t.type_id, 10) : null
-          );
-        }
+      if (fs.existsSync(coverSrc)) {
+        fs.copyFileSync(coverSrc, coverDest);
+        coverUrl = `/covers/${bookId}.jpg`;
+        report.coversCopied++;
       }
 
       // book.json
@@ -442,115 +430,131 @@ function runImport(fullMode: boolean): ImportReport {
         }
       }
 
-      // Cover
-      const coverSrc = path.join(bookDir, "cover.jpg");
-      const coverDest = path.join(COVERS_DIR, `${bookId}.jpg`);
-      let coverUrl: string | null = null;
-      if (!fs.existsSync(coverSrc)) {
-        report.metaPullerRuns++;
-        tryRunMetaPuller(bookId);
-      }
-      if (fs.existsSync(coverSrc)) {
-        fs.copyFileSync(coverSrc, coverDest);
-        coverUrl = `/covers/${bookId}.jpg`;
-        report.coversCopied++;
-      }
-
-      // Insert book
-      insertBook.run(
-        meta.id,
-        meta.name,
-        meta.slug,
-        meta.synopsis || null,
-        meta.status || 1,
-        meta.status_name || null,
-        meta.view_count || 0,
-        meta.comment_count || 0,
-        meta.bookmark_count || 0,
-        meta.vote_count || 0,
-        meta.review_score ? parseFloat(meta.review_score) : 0,
-        meta.review_count || 0,
-        meta.chapter_count || 0,
-        meta.word_count || 0,
-        coverUrl,
-        meta.author?.id || null,
-        meta.created_at || null,
-        meta.updated_at || null,
-        meta.published_at || null,
-        meta.new_chap_at || null,
-        chaptersSaved
-      );
-
-      // Junctions
-      if (meta.genres && Array.isArray(meta.genres)) {
-        for (const g of meta.genres) insertBookGenre.run(meta.id, g.id);
-      }
-      if (meta.tags && Array.isArray(meta.tags)) {
-        for (const t of meta.tags) insertBookTag.run(meta.id, t.id);
-      }
-
-      // Chapters
+      // Pre-read chapter files list
       const chapterFiles = fs
         .readdirSync(bookDir)
         .filter((f) => f.endsWith(".txt") && /^\d{4}_/.test(f))
         .sort();
 
-      if (chapterFiles.length > 0) {
-        // Chapter progress (inline, not a separate bar to avoid terminal flicker)
-        let chapDone = 0;
-        const chapTotal = chapterFiles.length;
+      // Import everything in a single transaction for atomicity
+      let chaptersThisBook = 0;
+      const importBook = sqlite.transaction(() => {
+        // Author
+        if (meta.author) {
+          insertAuthor.run(
+            meta.author.id,
+            meta.author.name,
+            meta.author.local_name || null,
+            meta.author.avatar || null
+          );
+        }
 
-        let chaptersThisBook = 0;
-        const importChapters = sqlite.transaction(() => {
-          for (const filename of chapterFiles) {
-            const match = filename.match(/^(\d+)_(.+)\.txt$/);
-            if (!match) {
-              chapDone++;
-              continue;
-            }
-            const indexNum = parseInt(match[1], 10);
-            const chapterSlug = match[2];
-
-            if (!fullMode) {
-              const existing = chapterExistsStmt.get(bookId, indexNum);
-              if (existing) {
-                chapDone++;
-                continue;
-              }
-            }
-
-            const filePath = path.join(bookDir, filename);
-            const content = fs.readFileSync(filePath, "utf-8");
-            const lines = content.split("\n");
-            const title = lines[0]?.trim() || `Chương ${indexNum}`;
-            let bodyStart = 1;
-            while (
-              bodyStart < lines.length &&
-              lines[bodyStart].trim() === ""
-            )
-              bodyStart++;
-            if (
-              bodyStart < lines.length &&
-              lines[bodyStart].trim() === title
-            )
-              bodyStart++;
-            const body = lines.slice(bodyStart).join("\n").trim();
-            const wordCount = body.split(/\s+/).filter(Boolean).length;
-
-            insertChapter.run(
-              bookId,
-              indexNum,
-              title,
-              chapterSlug,
-              body,
-              wordCount
-            );
-            chaptersThisBook++;
-            chapDone++;
+        // Genres
+        if (meta.genres && Array.isArray(meta.genres)) {
+          for (const g of meta.genres) {
+            insertGenre.run(g.id, g.name, slugify(g.name));
           }
-        });
-        importChapters();
-        report.chaptersAdded += chaptersThisBook;
+        }
+
+        // Tags
+        if (meta.tags && Array.isArray(meta.tags)) {
+          for (const t of meta.tags) {
+            insertTag.run(
+              t.id,
+              t.name,
+              t.type_id ? parseInt(t.type_id, 10) : null
+            );
+          }
+        }
+
+        // Delete conflicting slug book before INSERT OR REPLACE to avoid cascade issues
+        const existingBySlug = sqlite
+          .prepare("SELECT id FROM books WHERE slug = ? AND id != ?")
+          .get(meta.slug, meta.id) as { id: number } | undefined;
+        if (existingBySlug) {
+          sqlite.prepare("DELETE FROM chapters WHERE book_id = ?").run(existingBySlug.id);
+          sqlite.prepare("DELETE FROM book_genres WHERE book_id = ?").run(existingBySlug.id);
+          sqlite.prepare("DELETE FROM book_tags WHERE book_id = ?").run(existingBySlug.id);
+          sqlite.prepare("DELETE FROM books WHERE id = ?").run(existingBySlug.id);
+        }
+
+        // Insert book
+        insertBook.run(
+          meta.id,
+          meta.name,
+          meta.slug,
+          meta.synopsis || null,
+          meta.status || 1,
+          meta.status_name || null,
+          meta.view_count || 0,
+          meta.comment_count || 0,
+          meta.bookmark_count || 0,
+          meta.vote_count || 0,
+          meta.review_score ? parseFloat(meta.review_score) : 0,
+          meta.review_count || 0,
+          meta.chapter_count || 0,
+          meta.word_count || 0,
+          coverUrl,
+          meta.author?.id || null,
+          meta.created_at || null,
+          meta.updated_at || null,
+          meta.published_at || null,
+          meta.new_chap_at || null,
+          chaptersSaved
+        );
+
+        // Junctions
+        if (meta.genres && Array.isArray(meta.genres)) {
+          for (const g of meta.genres) insertBookGenre.run(meta.id, g.id);
+        }
+        if (meta.tags && Array.isArray(meta.tags)) {
+          for (const t of meta.tags) insertBookTag.run(meta.id, t.id);
+        }
+
+        // Chapters
+        for (const filename of chapterFiles) {
+          const match = filename.match(/^(\d+)_(.+)\.txt$/);
+          if (!match) continue;
+          const indexNum = parseInt(match[1], 10);
+          const chapterSlug = match[2];
+
+          if (!fullMode) {
+            const existing = chapterExistsStmt.get(bookId, indexNum);
+            if (existing) continue;
+          }
+
+          const filePath = path.join(bookDir, filename);
+          const content = fs.readFileSync(filePath, "utf-8");
+          const lines = content.split("\n");
+          const title = lines[0]?.trim() || `Chương ${indexNum}`;
+          let bodyStart = 1;
+          while (
+            bodyStart < lines.length &&
+            lines[bodyStart].trim() === ""
+          )
+            bodyStart++;
+          if (
+            bodyStart < lines.length &&
+            lines[bodyStart].trim() === title
+          )
+            bodyStart++;
+          const body = lines.slice(bodyStart).join("\n").trim();
+          const wordCount = body.split(/\s+/).filter(Boolean).length;
+
+          insertChapter.run(
+            bookId,
+            indexNum,
+            title,
+            chapterSlug,
+            body,
+            wordCount
+          );
+          chaptersThisBook++;
+        }
+      });
+      importBook();
+      report.chaptersAdded += chaptersThisBook;
+      if (chaptersThisBook > 0) {
         bookBar?.update({ detail: `${meta.name} (${chaptersThisBook} chaps)` });
       }
 

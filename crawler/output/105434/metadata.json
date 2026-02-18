@@ -1,0 +1,101 @@
+{
+  "id": 105434,
+  "name": "Vạn Biến Hồn Đế",
+  "slug": "ta-dao-ngoan-nhan",
+  "kind": 2,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://vtruyen.com/truyen/ta-dao-ngoan-nhan",
+  "note": "Truyện hậu cung ai không thích nhẹ nhàng giúp mình .",
+  "status_name": "Còn tiếp",
+  "first_chapter": 13244058,
+  "latest_chapter": 26891791,
+  "latest_index": 3250,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-dao-ngoan-nhan/default.jpg?1712904233",
+    "600": "https://static.cdnno.com/poster/ta-dao-ngoan-nhan/600.jpg?1712904233",
+    "300": "https://static.cdnno.com/poster/ta-dao-ngoan-nhan/300.jpg?1712904233",
+    "150": "https://static.cdnno.com/poster/ta-dao-ngoan-nhan/150.jpg?1712904233"
+  },
+  "synopsis": "(Phần tiếp theo sẽ đăng ở metruyensangtac.com mọi người qua ủng hộ giúp tác, truyện mới tiếp theo cũng sẽ đăng ở đó .)\n\n(Truyện hậu cung ngựa giống, ngứa mắt tránh giùm, chúng ta không tổn thương nhau .)\n\nThiên Tiếu là một cái tiểu thiên tài, nhưng lại sở hữu một cái phế hồn khí, tưởng rằng cuộc sống sẽ trôi qua một cách nhạt nhẽo . Thế nhưng ông trời không phụ lòng người, trong lúc trộm vợ người ta vô tình lấy được cơ duyên, chuyển đổi năng lượng từ tâm tình của người khác thành sức mạnh, đi lên con đường nghịch tập . \n\nTính cách nhân vật : Chuyển biển chậm rãi từ thanh niên ba tốt trở thành người tàn nhẫn, đặc biệt yêu thích nữ tính trong gia đình kẻ thù, so với Tào Tháo còn quá đáng hơn . \n\nThế giới : Tiểu thế giới\n\nCảnh giới : Luyện Thể Cảnh - Vũ Sĩ - Vũ Sinh - Vũ Đồ, Vũ Sư - Vũ Vương - Vũ Hoàng - Vũ Tông - Vũ Tướng - Vũ Tôn - Vũ Đế - Vũ Thánh - Vũ Thần - Siêu Phàm - Siêu Thần - Tái Tạo - Hư Vô - Loạn Tượng - Hồng Hoang - Viễn Cổ - Chấn Thiên - Thế thần - Chuẩn thần - Chân Thần - Thần Vương - Thần Đế - Sáng Thế .",
+  "vote_count": 13318,
+  "review_score": "4.806",
+  "review_count": 110,
+  "comment_count": 1835,
+  "chapter_count": 3250,
+  "view_count": 0,
+  "word_count": 5933267,
+  "created_at": "2020-09-29T20:32:24.000000Z",
+  "updated_at": "2026-02-18T15:00:21.000000Z",
+  "new_chap_at": "2026-02-18T14:10:00.000000Z",
+  "published_at": "2020-12-18T07:00:16.000000Z",
+  "published": 1,
+  "user_id": 1000061,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Vạn Biến Hồn Đế",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 4003,
+  "chapter_per_week": 11,
+  "ready_for_sale": 0,
+  "discount_price": 604200,
+  "discount": 0,
+  "creator": {
+    "id": 1000061,
+    "name": "Thập Vĩ Hồ",
+    "avatar": [
+      "https://static.cdnno.com/user/65a225a2feee6ff5e0ce9020d7a89dc6/200.jpg?1596904250",
+      "https://static.cdnno.com/user/65a225a2feee6ff5e0ce9020d7a89dc6/100.jpg?1596904250",
+      "https://static.cdnno.com/user/65a225a2feee6ff5e0ce9020d7a89dc6/50.jpg?1596904250"
+    ],
+    "level": 3,
+    "exp": 1009,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3167,
+    "name": "",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    },
+    {
+      "id": 3,
+      "name": "Vô Sỉ",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 84,
+      "name": "Sảng Văn",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

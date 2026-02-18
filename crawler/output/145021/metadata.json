@@ -1,0 +1,90 @@
+{
+  "id": 145021,
+  "name": "Trường Sinh Có Nến",
+  "slug": "truong-sinh-co-nen",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 3,
+  "link": "https://metruyencv.com/truyen/truong-sinh-co-nen",
+  "note": "",
+  "status_name": "Tạm dừng",
+  "first_chapter": 23685854,
+  "latest_chapter": 24013718,
+  "latest_index": 149,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/truong-sinh-co-nen/default.jpg?1752428128",
+    "600": "https://static.cdnno.com/poster/truong-sinh-co-nen/600.jpg?1752428128",
+    "300": "https://static.cdnno.com/poster/truong-sinh-co-nen/300.jpg?1752428128",
+    "150": "https://static.cdnno.com/poster/truong-sinh-co-nen/150.jpg?1752428128"
+  },
+  "synopsis": "Giang Chúc xuyên qua đến mênh mông thế giới tiên hiệp, thành một chiếc thanh đăng. \n\nKhi thanh đăng hấp thu đầy đủ  ánh nắng cùng ánh trăng, hắn liền có thể mở mắt nhìn xem thế gian này. \n\nĐế vương cầu tiên, tiên sư trục đạo, sơn tinh dã quái hưởng ăn hương hỏa, kỳ diệu mà mộng ảo. \n\nHắn dốc hết toàn lực muốn đi tham dự, cái này mộng ảo giống như  thế giới, nhưng lại cái gì cũng không làm được. \n\nKhuynh thành hồng nhan, giang hồ hiệp khách, tiên sư đạo giả, cổ kim đế vương, đều là khó địch nổi năm tháng dằng dặc. \n\nÁnh nến chập chờn, giống như tại trình bày quá khứ  huy hoàng, lại như tại kể ra, cầu tiên  thê lương. \n\nChiếu sáng u huỳnh, tuyên cổ bất dịch. \n\nKéo một sợi ánh nến, tố một đoạn quá khứ, khắp nơi tìm không thấy bóng dáng cố nhân xưa. . .",
+  "vote_count": 57,
+  "review_score": "5.000",
+  "review_count": 1,
+  "comment_count": 17,
+  "chapter_count": 149,
+  "view_count": 0,
+  "word_count": 384071,
+  "created_at": "2025-07-13T17:35:09.000000Z",
+  "updated_at": "2026-02-16T07:17:09.000000Z",
+  "new_chap_at": "2025-08-03T13:30:19.000000Z",
+  "published_at": "2025-07-13T17:35:09.000000Z",
+  "published": 1,
+  "user_id": 1000044,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Trường Sinh Có Nến",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 60,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000044,
+    "name": "HadesLoki",
+    "avatar": [
+      "https://static.cdnno.com/user/072ab14696657b46a86febd461e999f0/200.jpg?1718619913",
+      "https://static.cdnno.com/user/072ab14696657b46a86febd461e999f0/100.jpg?1718619913",
+      "https://static.cdnno.com/user/072ab14696657b46a86febd461e999f0/50.jpg?1718619913"
+    ],
+    "level": 4,
+    "exp": 2080,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 25053,
+    "name": "Hữu Vận",
+    "avatar": null,
+    "local_name": "有运",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 22,
+      "name": "Huyễn Tưởng Tu Tiên",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

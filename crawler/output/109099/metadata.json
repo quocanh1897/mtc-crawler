@@ -1,0 +1,101 @@
+{
+  "id": 109099,
+  "name": "Nhất Kiếp Tiên Phàm",
+  "slug": "nhat-kiep-tien-pham",
+  "kind": 2,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://vtruyen.com/truyen/nhat-kiep-tien-pham",
+  "note": "Nếu thấy không hay xin vui lòng bấm back, truyện việt nên mọi người cân nhắc trước khi đọc",
+  "status_name": "Còn tiếp",
+  "first_chapter": 13983456,
+  "latest_chapter": 26862234,
+  "latest_index": 1697,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/nhat-kiep-tien-pham/default.jpg?1631624640",
+    "600": "https://static.cdnno.com/poster/nhat-kiep-tien-pham/600.jpg?1631624640",
+    "300": "https://static.cdnno.com/poster/nhat-kiep-tien-pham/300.jpg?1631624640",
+    "150": "https://static.cdnno.com/poster/nhat-kiep-tien-pham/150.jpg?1631624640"
+  },
+  "synopsis": "Bạn đã chán ngán truyện tu tiên não tàn?\r\nBạn đã quá ngán với khí vận chi tử, đi tới đâu cũng gặp cơ duyên?\r\nBạn đã quá chán NVC có bàn tay vàng, úp cảnh giới như hít thuốc lắc?\r\nBạn muốn thử trải nghiệm cảm giác khổ tu?\r\nBạn muốn thử trải nghiệm một không gian u tối, nơi mọi thứ đều có thể là một trận bày mưu nghĩ kế?\r\nBạn muốn thử trải nghiệm cái cảm giác, đè khí vận chi tử ra đánh? Vậy còn chờ gì nữa mà không bắt đầu tìm hiểu \"Nhất Kiếp Tiên Phàm\"?\r\nMain không não tàn, không bàn tay vàng, không khí vận nghịch thiên, mọi thứ phải tự mình giành giật, khắp nơi đều là cạm bẫy cùng mưu mô. Main xông vào bí cảnh, chưa chắc đã là người thu được thành quả lớn nhất, thế nhưng người chịu thiệt chắc chắn sẽ có hắn. Hãy đón xem con đường tu đạo gập ghềnh của Thiên Vân sẽ phải trải qua những gì nhé.\r\n\r\nCảnh giới trong truyện: \r\nVõ giả: Bất nhập lưu, nhập lưu, tam lưu cao thủ, nhị lưu cao thủ, nhất lưu cao thủ, tuyệt đỉnh cao thủ, hóa cảnh.\r\nThuận tu: Khai Linh, Phân Chi, Phong Thân, Sinh Hoa, Tứ Tiết, Nguyệt Mệnh, Nhật Mệnh, Tinh Mệnh, Đạo Quả...\r\nNghịch tu: Luyện Khí, Trúc Cơ, Kết Đan, Nguyên Anh, Hóa Thần, Luyện Hư, Hợp Thể, Đại Thừa. Chân Tiên...\r\n\r\nTiên môn nào giấu huyền cơ\r\nVĩnh sinh trường cửu biết đâu mà tìm\r\nNhớ người lệ nuốt vào tim\r\nMột đời một kiếp nổi chìm long đong",
+  "vote_count": 11319,
+  "review_score": "4.978",
+  "review_count": 89,
+  "comment_count": 1525,
+  "chapter_count": 1697,
+  "view_count": 0,
+  "word_count": 3655374,
+  "created_at": "2021-09-10T13:37:55.000000Z",
+  "updated_at": "2026-02-18T14:30:20.000000Z",
+  "new_chap_at": "2026-02-08T18:15:12.000000Z",
+  "published_at": "2021-09-12T13:14:44.000000Z",
+  "published": 1,
+  "user_id": 1167210,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Nhất Kiếp Tiên Phàm",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2852,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 413050,
+  "discount": 0,
+  "creator": {
+    "id": 1167210,
+    "name": "TâmLạnhNhưĐao",
+    "avatar": [
+      "https://static.cdnno.com/user/7c74faf40c5ffd5d55e9c3c4389dbbc3/200.jpg?1758807782",
+      "https://static.cdnno.com/user/7c74faf40c5ffd5d55e9c3c4389dbbc3/100.jpg?1758807782",
+      "https://static.cdnno.com/user/7c74faf40c5ffd5d55e9c3c4389dbbc3/50.jpg?1758807782"
+    ],
+    "level": 3,
+    "exp": 611,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3167,
+    "name": "",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 24,
+      "name": "Thần Thoại Tu Chân",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 61,
+      "name": "Phàm Nhân",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

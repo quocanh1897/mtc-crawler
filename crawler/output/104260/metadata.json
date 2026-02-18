@@ -1,0 +1,95 @@
+{
+  "id": 104260,
+  "name": "Huyền Lục",
+  "slug": "huyen-luc",
+  "kind": 2,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://vtruyen.com/truyen/huyen-luc",
+  "note": "Mọi người tham gia Group của tác giả nha.\nhttps://www.facebook.com/share/g/16qWRhVLVn/",
+  "status_name": "Hoàn thành",
+  "first_chapter": 12774498,
+  "latest_chapter": 15068873,
+  "latest_index": 2077,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/huyen-luc/default.jpg?1652019253",
+    "600": "https://static.cdnno.com/poster/huyen-luc/600.jpg?1652019253",
+    "300": "https://static.cdnno.com/poster/huyen-luc/300.jpg?1652019253",
+    "150": "https://static.cdnno.com/poster/huyen-luc/150.jpg?1652019253"
+  },
+  "synopsis": "Huyền Đô Đại Lục,  tu chân giới thịnh hành.\n\nTu vi hóa ngược trở về thành phàm nhân. Nếm trải đủ đắng, cay, ngọt, bùi của nhân sinh.\n\nNgươi có muốn tu luyện lại không? - Không.\n\nTại sao? - Vì ta chết một lần rồi.\n\nVậy sao ngươi lại tu? - Vì ta sợ chết.\n\nMột câu chuyện tu chân đan xen giữa sinh hoạt đời sống của phàm nhân liền bắt đầu từ đây.\n\n. . .\n\nPS: Truyện thu phí từ chương 466 - 656 (250 kẹo), chương 657 trở đi (400 kẹo).\n\nLưu ý: Qua 170 chương đầu mới được tính là nhập môn. Và tất cả nhân vật, sự kiện trong truyện hoàn toàn hư cấu, không phản ánh sự thật lịch sử.",
+  "vote_count": 104979,
+  "review_score": "4.938",
+  "review_count": 533,
+  "comment_count": 8968,
+  "chapter_count": 2077,
+  "view_count": 0,
+  "word_count": 4967312,
+  "created_at": "2020-06-15T06:35:40.000000Z",
+  "updated_at": "2026-02-18T16:00:20.000000Z",
+  "new_chap_at": "2022-07-28T14:00:00.000000Z",
+  "published_at": "2020-06-15T07:07:40.000000Z",
+  "published": 1,
+  "user_id": 1000216,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Huyền Lục",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 5101,
+  "chapter_per_week": 0,
+  "ready_for_sale": 1,
+  "discount_price": 461813,
+  "discount": 25,
+  "creator": {
+    "id": 1000216,
+    "name": "Vệ Huyền Hy",
+    "avatar": [
+      "https://static.cdnno.com/user/121e381940d73fba9422eace1ce3b126/200.jpg?1762490161",
+      "https://static.cdnno.com/user/121e381940d73fba9422eace1ce3b126/100.jpg?1762490161",
+      "https://static.cdnno.com/user/121e381940d73fba9422eace1ce3b126/50.jpg?1762490161"
+    ],
+    "level": 4,
+    "exp": 4464,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3167,
+    "name": "",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 25,
+      "name": "Cổ Điển Tiên Hiệp",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 66,
+      "name": "Trọng Sinh",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

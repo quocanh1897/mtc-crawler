@@ -1,0 +1,102 @@
+{
+  "id": 125803,
+  "name": "Tuyệt Đối Vận Mệnh Trò Chơi",
+  "slug": "tuyet-doi-van-menh-tro-choi",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/tuyet-doi-van-menh-tro-choi",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 17878244,
+  "latest_chapter": 26824293,
+  "latest_index": 1032,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tuyet-doi-van-menh-tro-choi/default.jpg?1761024999",
+    "600": "https://static.cdnno.com/poster/tuyet-doi-van-menh-tro-choi/600.jpg?1761024999",
+    "300": "https://static.cdnno.com/poster/tuyet-doi-van-menh-tro-choi/300.jpg?1761024999",
+    "150": "https://static.cdnno.com/poster/tuyet-doi-van-menh-tro-choi/150.jpg?1761024999"
+  },
+  "synopsis": "Vô danh khách: \"Nếu như ngươi có thể đem trong trò chơi học được võ công, nội công, đạo pháp, thần thông các loại năng lực. . . Đưa vào đến trong hiện thực, dạng này trò chơi ngươi sẽ chơi a?\"\n\n\tTrò chơi người chơi: \"Đương nhiên sẽ chơi, còn có loại chuyện tốt này?\"\n\n\tVô danh khách: \" vậy nếu như ngươi trong trò chơi chết đi, trong hiện thực ngươi cũng sẽ đi theo chết đi, dạng này trò chơi ngươi sẽ còn chơi a?\"\n\n\tTrò chơi người chơi: \"Để ta suy nghĩ cân nhắc ân, ta hẳn là sẽ chơi, chỉ cần ta cẩn thận một chút không đi gây đẳng cấp cao quái liền tốt.\"\n\n\tVô danh khách: \"Vậy nếu như cái trò chơi này độ khó cao đến một cái cửa thôn tiểu quái đều có thể nhẹ nhõm ném lăn ngươi, vậy ngươi còn chơi a?\"\n\n\tTrò chơi người chơi: \". . .\"\n\n\tPS: Đã có sáu bản trăm vạn chữ trở lên tinh phẩm văn, có thể yên tâm đọc.",
+  "vote_count": 3997,
+  "review_score": "4.983",
+  "review_count": 47,
+  "comment_count": 688,
+  "chapter_count": 1024,
+  "view_count": 0,
+  "word_count": 2316391,
+  "created_at": "2024-04-15T05:19:19.000000Z",
+  "updated_at": "2026-02-18T15:00:11.000000Z",
+  "new_chap_at": "2026-02-04T15:28:49.000000Z",
+  "published_at": "2024-04-15T07:19:43.000000Z",
+  "published": 1,
+  "user_id": 1074961,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Tuyệt Đối Vận Mệnh Trò Chơi",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 3079,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1074961,
+    "name": "Why05you",
+    "avatar": [
+      "https://static.cdnno.com/user/9f51e7edd0c530fefba0651d2810a2ed/200.jpg?1607423150",
+      "https://static.cdnno.com/user/9f51e7edd0c530fefba0651d2810a2ed/100.jpg?1607423150",
+      "https://static.cdnno.com/user/9f51e7edd0c530fefba0651d2810a2ed/50.jpg?1607423150"
+    ],
+    "level": 0,
+    "exp": 6,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1780,
+    "name": "Bảo Nguyệt Lưu Quang",
+    "avatar": null,
+    "local_name": "宝月流光",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 5,
+      "name": "Võng Du",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Nhiệt Huyết",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 37,
+      "name": "Du Hí Dị Giới",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

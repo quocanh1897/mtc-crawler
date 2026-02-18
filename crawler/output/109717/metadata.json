@@ -1,0 +1,90 @@
+{
+  "id": 109717,
+  "name": "Ta Vô Địch Lúc Nào",
+  "slug": "ta-vo-dich-luc-nao",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ta-vo-dich-luc-nao",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 14144075,
+  "latest_chapter": 15114061,
+  "latest_index": 1685,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-vo-dich-luc-nao/default.jpg?1635856617",
+    "600": "https://static.cdnno.com/poster/ta-vo-dich-luc-nao/600.jpg?1635856617",
+    "300": "https://static.cdnno.com/poster/ta-vo-dich-luc-nao/300.jpg?1635856617",
+    "150": "https://static.cdnno.com/poster/ta-vo-dich-luc-nao/150.jpg?1635856617"
+  },
+  "synopsis": "【 vô địch + chọc cười + đơn nữ chủ + cẩu lương + hằng ngày 】 xuyên qua đến Tu Tiên giới, Trần Bình An cho là chính mình là phàm nhân, thế là chỉ có thể cẩu tại phàm nhân trong tiểu trấn, thanh tịnh sinh hoạt, lại không biết chính mình nuôi gà là phượng hoàng, trong hồ nước cá là Thần Long, liền trong sân tất cả đồ vật, vậy mà đều là thần khí! Thẳng đến tại phàm nhân tiểu trấn sinh hoạt năm năm, bị ép muốn bước ra phàm nhân tiểu trấn phía sau, hắn gặp được người tu tiên, lúc này hắn mới phát hiện, người tu tiên đều rất là kỳ quái, vừa thấy được hắn, nhất định quỳ xuống đất hô to tiền bối! (sách này sa điêu chọc cười, chuyên trị không vui, có chút chút ít không rời đầu, ăn cơm ngàn vạn đừng nhìn! )\n\nPS: Hơn 1k chương, đã có manhua",
+  "vote_count": 331,
+  "review_score": "4.922",
+  "review_count": 17,
+  "comment_count": 373,
+  "chapter_count": 1685,
+  "view_count": 0,
+  "word_count": 3143706,
+  "created_at": "2021-11-02T12:36:58.000000Z",
+  "updated_at": "2026-02-16T06:59:20.000000Z",
+  "new_chap_at": "2022-08-08T19:29:19.000000Z",
+  "published_at": "2021-11-02T12:36:57.000000Z",
+  "published": 1,
+  "user_id": 1000080,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Vô Địch Lúc Nào",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2562,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000080,
+    "name": "Sakamata",
+    "avatar": [
+      "https://static.cdnno.com/user/8fc9d212f9f412f19ae669d54e1341a0/200.jpg?1711307097",
+      "https://static.cdnno.com/user/8fc9d212f9f412f19ae669d54e1341a0/100.jpg?1711307097",
+      "https://static.cdnno.com/user/8fc9d212f9f412f19ae669d54e1341a0/50.jpg?1711307097"
+    ],
+    "level": 2,
+    "exp": 147,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 5484,
+    "name": "Hí Liễu Tiên Sinh",
+    "avatar": null,
+    "local_name": "戏柳先生",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 5,
+      "name": "Nhẹ Nhàng",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 62,
+      "name": "Vô Địch",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

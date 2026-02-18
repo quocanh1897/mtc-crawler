@@ -1,0 +1,102 @@
+{
+  "id": 109334,
+  "name": "Huấn Luyện Gia Tầng Lớp Thấp Nhất Của Thế Giới Pokemon",
+  "slug": "huan-luyen-gia-tang-lop-thap-nhat-cua-the-gioi-pokemon",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/huan-luyen-gia-tang-lop-thap-nhat-cua-the-gioi-pokemon",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 14038944,
+  "latest_chapter": 16319927,
+  "latest_index": 1361,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/huan-luyen-gia-tang-lop-thap-nhat-cua-the-gioi-pokemon/default.jpg?1632913069",
+    "600": "https://static.cdnno.com/poster/huan-luyen-gia-tang-lop-thap-nhat-cua-the-gioi-pokemon/600.jpg?1632913069",
+    "300": "https://static.cdnno.com/poster/huan-luyen-gia-tang-lop-thap-nhat-cua-the-gioi-pokemon/300.jpg?1632913069",
+    "150": "https://static.cdnno.com/poster/huan-luyen-gia-tang-lop-thap-nhat-cua-the-gioi-pokemon/150.jpg?1632913069"
+  },
+  "synopsis": "Cảm ơn Liên Minh trả lại thế giới Pokemon yên tĩnh tường hòa, bởi vì ta cái này Trainer \"Tầng lớp thấp nhất\", nhảy phản.\r\n\r\n\t—— nguồn gốc từ \"Tầng lớp thấp nhất\" Trainer, nhà chăn nuôi Natsuhiko « tự thuật »\r\n--------------------------------\r\nThời gian trước nguyên tác 8~10 năm.",
+  "vote_count": 21908,
+  "review_score": "4.914",
+  "review_count": 114,
+  "comment_count": 3562,
+  "chapter_count": 1361,
+  "view_count": 0,
+  "word_count": 3451522,
+  "created_at": "2021-09-29T10:57:51.000000Z",
+  "updated_at": "2026-02-17T16:49:49.000000Z",
+  "new_chap_at": "2023-06-04T12:02:26.000000Z",
+  "published_at": "2021-09-29T10:57:49.000000Z",
+  "published": 1,
+  "user_id": 1000062,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Huấn Luyện Gia Tầng Lớp Thấp Nhất Của Thế Giới Pokemon",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2438,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000062,
+    "name": "Inoha",
+    "avatar": [
+      "https://static.cdnno.com/user/c4a42410c3616e9520ee5fe71f39a377/200.jpg?1744105895",
+      "https://static.cdnno.com/user/c4a42410c3616e9520ee5fe71f39a377/100.jpg?1744105895",
+      "https://static.cdnno.com/user/c4a42410c3616e9520ee5fe71f39a377/50.jpg?1744105895"
+    ],
+    "level": 4,
+    "exp": 3641,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 5327,
+    "name": "Thuyết Xướng Cáp",
+    "avatar": null,
+    "local_name": "疯狂沉默",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 7,
+      "name": "Đồng Nhân",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 47,
+      "name": "Kỳ Diệu Thế Giới",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 75,
+      "name": "Dưỡng Thành",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

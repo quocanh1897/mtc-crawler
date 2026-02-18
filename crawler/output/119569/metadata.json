@@ -1,0 +1,101 @@
+{
+  "id": 119569,
+  "name": "Xuyên Về Thời Lê Làm Quân Phiệt",
+  "slug": "xuyen-ve-thoi-le-hon-quan-phiet",
+  "kind": 2,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://vtruyen.com/truyen/xuyen-ve-thoi-le-hon-quan-phiet",
+  "note": "Mong mọi người đón đọc, ủng hộ và đề cử. Có góp ý thì mọi người có thể bình luận bên dưới, mình luôn đón đọc và sửa chữa để tác phẩm hoàn thiện hơn",
+  "status_name": "Còn tiếp",
+  "first_chapter": 16519587,
+  "latest_chapter": 26824230,
+  "latest_index": 1004,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/xuyen-ve-thoi-le-hon-quan-phiet/default.jpg?1694672528",
+    "600": "https://static.cdnno.com/poster/xuyen-ve-thoi-le-hon-quan-phiet/600.jpg?1694672528",
+    "300": "https://static.cdnno.com/poster/xuyen-ve-thoi-le-hon-quan-phiet/300.jpg?1694672528",
+    "150": "https://static.cdnno.com/poster/xuyen-ve-thoi-le-hon-quan-phiet/150.jpg?1694672528"
+  },
+  "synopsis": "Xuyên không trở lại loạn triều,\n\nQuân phiệt thống trị, bao điều trái ngang.\n\nChiến trường khói lửa miên mai,\n\nÂm mưu gối mộng, đảo điên hồng trần.\n\nHiện thân kẻ lạ giữa đời,\n\nTrí khôn vượt thế, chơi vơi giữa dòng.\n\nCông danh, nghĩa khí, tấm lòng,\n\nChọn đường chính nghĩa hay vòng lợi danh?\n\nCung son, chiến trận vây quanh,\n\nTình yêu, trách nhiệm, đấu tranh chẳng ngừng.\n\nBút hoa dệt chuyện hưng vong,\n\nKhép trang vẫn thấy bềnh bồng cõi nhân...\n\nHoàng Ái Quốc, chàng trai trẻ tuổi, xuyên không về thời Lê, trở thành hoàng tử thứ 4 của vua Lê Hiến Tông, Mẹ là Bùi Quý Phi, sủng phi. Họ ngoại là Bùi Xương Trạch, cầm quyền sáu bộ, kiêm Đô Ngự Sứ. Vậy Quốc sẽ chọn con đường nào đây? Tranh giành ngôi báu, hay an nhàn hưởng thụ?\n\nMời các bạn đón đọc truyện để theo chân Quốc khám phá về một trong những thời kỳ bất ổn nhất trong lịch sử Đại Việt.\n\nP/s: Truyện dã sử, tất cả nhân vật sự kiện trong truyện hoàn toàn hư cấu, không phản ánh sự thật lịch sử. Nếu có trùng lặp, chỉ là vô tình, không cố ý.\n\nKhông đả động ai cũng như bất kỳ tổ chức cá nhân nào. Thế giới trong truyện toàn bộ là hư cấu.\n\nTác giả có truyện Dòng Máu Lạch Hồng dài 1.4 triệu chữ. Uy tín có đảm bảo.",
+  "vote_count": 15062,
+  "review_score": "5.000",
+  "review_count": 27,
+  "comment_count": 725,
+  "chapter_count": 1004,
+  "view_count": 0,
+  "word_count": 1847297,
+  "created_at": "2023-07-19T10:14:35.000000Z",
+  "updated_at": "2026-02-18T14:30:20.000000Z",
+  "new_chap_at": "2026-02-04T15:17:20.000000Z",
+  "published_at": "2023-07-20T08:35:17.000000Z",
+  "published": 1,
+  "user_id": 1001402,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Xuyên Về Thời Lê Làm Quân Phiệt",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1073,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 662465,
+  "discount": 10,
+  "creator": {
+    "id": 1001402,
+    "name": "Sóc nhỏ",
+    "avatar": [
+      "https://static.cdnno.com/user/e4abfcfec8afa971d5ec7081c5fa078a/200.jpg?1758685359",
+      "https://static.cdnno.com/user/e4abfcfec8afa971d5ec7081c5fa078a/100.jpg?1758685359",
+      "https://static.cdnno.com/user/e4abfcfec8afa971d5ec7081c5fa078a/50.jpg?1758685359"
+    ],
+    "level": 4,
+    "exp": 5154,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3167,
+    "name": "",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 8,
+      "name": "Dã Sử",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    },
+    {
+      "id": 80,
+      "name": "Xây Dựng Thế Lực",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 13,
+      "name": "Vương Triều Tranh Bá",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+Chương 37: Ai Cũng Từng Là Dê Béo
+
+Chương 37: Ai Cũng Từng Là Dê Béo
+
+Về cơ bản thì một con trâu cày Bitcoin chính là một siêu máy tính chứa nhiều card đồ họa nhưng không có màn. Các thành phần bên trong bao gồm: Card đồ họa, bộ cấp nguồn, bo mạch chủ cùng hệ thống làm mát.
+
+Cụ thể hơn, một máy đào bao gồm:
+
+Một bo mạch chủ thông thường, có đầu nối cho card GPU.
+
+Ổ cứng SSD hoặc HDD có bộ nhớ từ 100 đến 250 GB để chứa ví tiền điện tử, với ví Ether thường chiếm 25GB và ví BTC yêu cầu 50GB trở lên.
+
+Những card GPU là thành phần quan trọng nhất trong một máy đào vì chúng là cơ sở xác định số lượng coin mà người dùng sẽ khai thác, cùng với lợi nhuận trong tương lai của họ và thời gian thực hiện.
+
+Nguồn phát điện. Một máy đào có bốn GPU thường yêu cầu nhiều hơn một bộ nguồn. Thông thường, các thợ đào có một vài bộ nguồn điện 750 watt được kết nối với nhau.
+
+Bộ chuyển đổi nguồn cho thẻ GPU. Các card video được kết nối với bo mạch chủ bằng các thẻ mở rộng đặc biệt được gọi là riser. Có rất nhiều loại và mẫu riser khác nhau, nhưng PCI-E 1x phiên bản 006 là phổ biến nhất.
+
+Một công tắc nguồn.
+
+Hệ thống làm mát. Tốt hơn hết là có nhiều bộ làm mát để cung cấp thêm luồng không khí.
+
+Khung máy đào. Tốt hơn là khung bằng gỗ hoặc nhôm. Kích thước của máy đào sẽ lớn hơn một chút so với khung của nó do các bộ phận nhô ra, bộ chuyển đổi và hệ thống làm mát. Ví dụ: một máy đào bảy GPU sẽ rộng khoảng 53 cm, chiều cao 30 cm và chiều dài 30 cm.
+
+Nhưng vấn đề đặt ra ở đây chính là vào thời điểm này là năm 2009, hệ điều hành windows phiên bản mới nhất là hệ điều hành win 2008. Mà cái hệ điều hành này là một cái hệ điều hành lỗi nhất của window. Hệ điều hành dùng ổn định nhất lúc này chỉ hà hệ điều hành win 2007 mà thôi.
+
+Nhưng hệ điều hành win 2007 lại chỉ có thể nhận tối đa là 4 card đồ họa. mà một con trâu cày tối thiểu là phải cần đến 10 card đồ họa.
+
+Có thể nói vào thời điểm này khi công nghệ tin học chưa phát triển và tiền vốn khởi động ban đầu không được sung túc thì đây chính là điểm khó khăn nhất gặp phải lúc này. Nhưng những khó khăn này cũng không thể cản phá kế hoạch của Phạm Long cho dù chỉ một chút.
+
+Nên nhớ sau lưng Phạm Long vẫn còn một tiểu phú bà, 100 triệu đối với tiểu phú bà này chỉ là một con số nhỏ nhoi. Kỳ thực nếu xét về địa vị, tại lực, cùng chức quyền thì Đặng Minh Phương xác thực chính là tiểu thư phú nhị đại. Chỉ cần nàng nói một câu trước mặt cha nàng thôi thì nàng muốn cái gì mà chẳng có, muốn bao nhiêu mà chẳng được.
+
+Nhưng Minh Phương không hề như thế, nàng sống một cuộc sống bình dị, không xa hoa, không ganh đua như những thiếu gia, công tử nhà giàu khác. Thậm chí nàng càng tỏ ra bản thân bình thường như bao người. Đi học vẫn đi bằng xe đạp, nàng ăn sáng chỉ với một quả trứng ốp la cùng một ổ bánh mì dưới căn tin, uống nước lọc. cuộc sống của nàng không khác là bao với những học sinh bình thường khác. Cho dù nàng chính là con gái của một trong những người phụ nữ quyền lực nhất thị trấn. cho dù ba nàng có là ông trùm bất động sản tại vùng Đông Nam Bộ thì nàng vẫn như thế vẫn bình dị, vẫn hòa đồng, vẫn thân thuộc với mọi người.
+
+Tuy nàng bình dị như thế, Nhưng không hiểu tại sao trên người nàng luôn có một cái ánh hào quang nào đó khiến tất cả mọi người đến hướng về nàng, lắng nghe nàng và tôn trọng nàng.
+
+Tạm thời gác lại cái gia thế khủng phía sau Minh Phương, Phạm Long tiếp tục chú tâm vào kế hoạch tiếp theo của mình.
+
+Dựa theo tiến độ thì vào thứ sáu tuần sau vừa đúng vào ngày 20/9 chính là ngày cửa hàng đầu tiên của Phạm Long chính thức khai trương. Đương nhiên để chuẩn bị cho ngày quan trọng này Phạm Long cũng đã chuẩn bị rất là tươm tất và đầy đủ.
+
+Ngay từ mấy ngày trước tài khắp các ngã tư có đông người qua lại như tượng đài Chiến Thắng, Chợ Long Khang, trước cửa trường học cấp 3 Phạm Long đều đã cho người phát tờ rơi cùng phiếu giảm giá rồi.
+
+Vẫn như cũ với phương châm một tuần đầu tiên khai trương mua 4 tặng 1, đi hai người tặng một ly nước mơ.
+
+Vì chỉ còn hơn 10 ngày nữa là cửa tiệm của Phạm Long sẽ khai trương cho nên dù lúc này Phạm Long có muốn làm một con trâu cày Bitcoin cũng không có khả năng. Thứ nhất là cửa hàng của hắn sắp khai trương, tuy hắn đã có bản kế hoạch đầy đủ nhưng vẫn cần phải có rất nhiều việc quan trọng cần đích thân Phạm Long chủ trì cùng chỉ đạo. đặc biệt quan trọng nhất là cách huấn luyện và hướng dẫn nhân viên phục vụ.
+
+Và nguyên nhân thứ hai đó chính là thị trấn Long Khang lúc này tuy cũng là một thị trấn phát triển đứng thứ hai trong tỉnh. Thế nhưng nó vẫn không phát triển đến mức có đầy đủ các công cụ, thiết bị để Phạm Long có thể lắp ráp một con trâu cày Bitcoin được. thứ khó kiếm lúc này chính là card đồ họa đủ mạnh để có thể xử lý dữ liệu Blockchain, giải các thuật toán để khai thác bitcoin. Mà cho dù có đi chăng nữa thì cũng bị các cửa hàng máy tính đội giá trên trời. giá có thể đắt gấp 4 – 5 lần. thậm chí là 10 lần.
+
+Ở cái thời đại này nào có mấy người hiểu về công nghệ thông tin. Thậm chí Phạm Long còn nhớ ngày trước trong lúc hắn đi dọn, thanh lý trâu cày tiền ảo. Thì có ông chú, ông chú này tên Thanh. Ông chú này từng kể rằng vào những năm 2008 tới 2011 là thời điểm ông làm ăn phát đạt nhất. mấy chiếc máy tính chẳng có hỏng cái gì hết chỉ đơn giản là lỏng Ram, hỏng nguồn. máy mở không lên. Gặp dân chuyện rành về máy tính thí mấy cái lỗi này có thể tự xử lý thì không nói làm gì.
+
+Nhưng gặp cái dạng mù công nghệ thì trong mắt ông chú ấy không khác gì một con dê béo chờ làm thịt. Chỉ cần trương ra cái mặt cực kỳ thận trọng, chú tâm tháo lắp rồi lắc đầu. nói hư cái này, hư cái kia, cần phải thay, phải sửa, phải sấy, phải chạy lại mạch nguồn các kiểu là có thể ăn với giá cắt cổ tử vài trăm ngàn cho đến cả triệu.
+
+Rồi còn có một ông chú tên là Phong, ông này là dân chuyên sửa máy tính, lắp đặt camera bảo trì máy tính. Trong một lần nhậu thì ổng có kể rằng. vào năm 2008 ổng có bán một chiếc laptop cũ cho con bé sinh viên năm nhất. cái laptop đó là ổng mua hàng ve chai với cái giá 300. 000. sau đó ổng mang về sửa lại một chút, tân trang lại một chút rồi bán với giá 8 triệu. thậm chí còn bảo hành 3 năm.
+
+Mà cái Laptop kia đúng là hàng ve chai có khác, cứ 5 bữa thì bảo hành một trận nhỏ, nửa tháng bảo hành một trận lớn. ổng bảo hành riết xong ổng bảo hành luôn con bé sinh viên kia luôn. Thế là lão ấy vừa bán được laptop vừa có được vợ.
+
+Lúc lão kể cho Phạm Long thì lúc đó lão ấy cũng đã gần 60 rồi. nhưng lúc đó lão ta vẫn rất là tự hào về câu chuyện của mình. Mà đến khi Phạm Long tận mắt nhìn thấy vợ của lão thì hắn cũng biết tại sao lão ta lại tự hào đến như thế. Nguyên nhân rất đơn giản vợ lão ấy vừa xinh đẹp lại vừa là con nhà giàu điền sản dưới quê cũng mấy chục hecta đất.
+
+Phạm Long nghe mấy câu chuyện đó ban đầu cũng có chút hoài nghi, còn cho rằng mấy lão kia bốc phét nói dóc. Thế nhưng sự thật bên trong lại vô cùng chuẩn xác, ởi cái thế đạo này, người hiểu biết rất ít, đặt biệt là cái mặt hàng công nghệ này. và hắn cũng không muốn là một con dê béo trong mắt bọn sửa máy tính vô lương tâm kia đâu. Ít ra Phạm Long cũng biết một chút về công nghệ, tuy không chuyên nhưng cũng không dễ bị lừa.
+
+Phạm Long sớm đã có kế hoạch của mình rồi, ngay sau khi cửa hàng của hắn khai trương thuận lợi và có chút ổn định hắn sẽ đích thân lên Sài Thành để mua những vật dụng và thiết bị cần thiết.
+
+Ở Sài Thành thì có hai nơi chuyên mua bán các trang thiết bị điện tử. nổi tiếng nhất có thể nói đến điện máy Nguyễn Kim. Có thể nói Nguyễn Kim trong những năm 2008 – 2010 là một trong những trung tâm điện máy uy tín và nổi tiếng nhất Thành Phố. Nhưng kèm theo đó là giá cả có chút chát.
+
+Và địa điểm thứ hai chính là chợ Nhật Tảo. Khu chợ này về độ nổi tiếng của nói thì khỏi phải bàn, đây là khu chợ đồ củ, đồ công nghệ lớn nhất khu vực phía nam. Nơi này không có thứ gì là không có, chỉ sợ bạn không có tiền mà thôi.
+
+Chỉ cần có một chút ánh mắt, một chút cái nhìn, và trình độ hiểu biết về đồ điện tử, đồ công nghệ thì bạn có thể nhặt nhạnh được không ít chỗ tốt từ ngôi chợ này.
+
+p/s: Hai cái ví dụ trên là câu chuyện hoàn toàn có thật. và cái ông Phong kia chính là cột chèo của tác. . . kkk. ..

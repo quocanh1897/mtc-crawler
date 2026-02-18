@@ -1,0 +1,101 @@
+{
+  "id": 110493,
+  "name": "Ta Bán Hủ Tiếu Tại Dị Giới",
+  "slug": "di-ban-hu-tieu-tai-di-gioi",
+  "kind": 2,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://vtruyen.com/truyen/di-ban-hu-tieu-tai-di-gioi",
+  "note": "Hãy quăng bông, tặng hoa và đánh giá truyện khi đạt 30c nha các bác. Cho ta miếng dộng lực để ra chương nhanh hơn và chất lượng hơn. Hãy cmt nhiệt tình ở dưới.",
+  "status_name": "Còn tiếp",
+  "first_chapter": 14313291,
+  "latest_chapter": 26550772,
+  "latest_index": 1049,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/di-ban-hu-tieu-tai-di-gioi/default.jpg?1662206489",
+    "600": "https://static.cdnno.com/poster/di-ban-hu-tieu-tai-di-gioi/600.jpg?1662206489",
+    "300": "https://static.cdnno.com/poster/di-ban-hu-tieu-tai-di-gioi/300.jpg?1662206489",
+    "150": "https://static.cdnno.com/poster/di-ban-hu-tieu-tai-di-gioi/150.jpg?1662206489"
+  },
+  "synopsis": "Một ông chú hơn ba mươi tuổi, như bao thằng đàn ông ngoài ba mươi khác. Hắn ta có ba không: Không nhà, không tiền, không bạn gái. Từ nhỏ sống trong một khu ổ chuột, lớn lên trong thành thành phố xa hoa không thuộc về mình.\n\nThế giới phát triển quá mức, khiến cho các xe bán hàng lưu động bắt buộc phải thay đổi từ xe chạy xăng dầu đổi thành xe điện. Ma Tùng Quân vét sạch của cải, bán luôn cả xe hủ tiếu theo hắn mười mấy năm để mua một con xe tải bán hàng lưu động.\n\nVào ngày hắn mua xe, có một thông báo cập nhật phiên bản mới của bảng máy tính trong xe. Và khi vừa ấn nút cập nhật, hắn lập tức bị xuyên không đến một thế giới loạn lạc, nguy hiểm đầy sự phân tranh và lòng người thối nát. Hắn đi bán hủ tiếu để nuôi sống bản thân, không may bị kéo vào một đống rắc rối, nhưng hắn vẫn kiên định với nghề bán hủ tiếu, không hề có ý muốn tranh giành phân tranh với ai.\n\nNhưng sự đời chẳng phải như mong ước. Hắn sở hữu được sức mạnh, hắn ý thức được rằng bản thân phải có trách nhiệm với chính sức mạnh mình đang có. Thế là hắn vừa bán hủ tiếu dạo, vừa đi hoàn thành trách nhiệm với bản thân.\n\nLời tác: Đây không phải là tác phẩm văn học, cũng không phải là tác phẩm giành cho các bạn thích nghiêm túc. Xin hết.",
+  "vote_count": 74456,
+  "review_score": "4.945",
+  "review_count": 139,
+  "comment_count": 2952,
+  "chapter_count": 1049,
+  "view_count": 0,
+  "word_count": 2266065,
+  "created_at": "2021-12-28T05:03:43.000000Z",
+  "updated_at": "2026-02-18T15:30:16.000000Z",
+  "new_chap_at": "2026-01-14T19:59:55.000000Z",
+  "published_at": "2021-12-28T13:02:42.000000Z",
+  "published": 1,
+  "user_id": 1000036,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Bán Hủ Tiếu Tại Dị Giới",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 3303,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 291550,
+  "discount": 2,
+  "creator": {
+    "id": 1000036,
+    "name": "Gấu Tung Tăng",
+    "avatar": [
+      "https://static.cdnno.com/user/18a96165d6f87d8ad7d87300f0a61840/200.jpg?1663946493",
+      "https://static.cdnno.com/user/18a96165d6f87d8ad7d87300f0a61840/100.jpg?1663946493",
+      "https://static.cdnno.com/user/18a96165d6f87d8ad7d87300f0a61840/50.jpg?1663946493"
+    ],
+    "level": 4,
+    "exp": 2071,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3167,
+    "name": "",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 20,
+      "name": "Kỳ Ảo",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 12,
+      "name": "Dị Thế Đại Lục",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    },
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": 107477,
+  "name": "Bầy Trùng Pháp Tắc",
+  "slug": "bay-trung-phap-tac",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/bay-trung-phap-tac",
+  "note": "✨CẦU HOA✨ CẦU ĐÁNH GIÁ✨CẦU NÉM GẠCH VÀO MẶT✨",
+  "status_name": "Hoàn thành",
+  "first_chapter": 13618007,
+  "latest_chapter": 13650401,
+  "latest_index": 744,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/bay-trung-phap-tac/default.jpg?1620724817",
+    "600": "https://static.cdnno.com/poster/bay-trung-phap-tac/600.jpg?1620724817",
+    "300": "https://static.cdnno.com/poster/bay-trung-phap-tac/300.jpg?1620724817",
+    "150": "https://static.cdnno.com/poster/bay-trung-phap-tac/150.jpg?1620724817"
+  },
+  "synopsis": "Sistrom, dịch âm từ system, phiên dịch thành tiếng Trung là hệ thống.\n\n\tQuên đi danh tự hắn, sau khi tỉnh lại thành một con tên là Sistrom tiểu châu chấu, nhảy lên có thể nhảy đến mấy mét xa cái chủng loại kia châu chấu.\n\n\tHơn mười ngày qua đi, ngay tại hắn thích ứng châu chấu sinh hoạt, nhảy nhót vui sướng thời điểm, hắn đột nhiên phát hiện trên bầu trời rơi xuống một mảnh khô héo lá cây\n\n\t—— mùa thu tới.\n\n\t...\n\n\tĐây là một con thu được về châu chấu mang theo một tổ con kiến làm ruộng cố sự, cố sự bắt đầu tại Lilt rừng rậm một cái mười phần bình thường cuối mùa hè đầu mùa thu...\n\nP/S: có đọc giả giới thiệu mình check thấy cũng hay nên làm luôn.\nTruyện đã full 750 chương,truyện kể về 1 con châu chấu từng bước thôn phệ biến dị...\nCvt: Truyện hay, cảm động , ý nghĩa ...\n\"Thế giới lớn như vậy, mang nàng đi xem một chút !\"  /cry༼☯﹏☯༽\n\nĐẳng cấp : Thuế Phàm, Ma Huyễn, Siêu Phàm,truyền kỳ, huyễn tưởng\n\n✨CẦU HOA✨ CẦU ĐÁNH GIÁ✨CẦU NÉM GẠCH VÀO MẶT✨",
+  "vote_count": 354,
+  "review_score": "4.708",
+  "review_count": 16,
+  "comment_count": 128,
+  "chapter_count": 744,
+  "view_count": 0,
+  "word_count": 1364442,
+  "created_at": "2021-05-11T09:20:20.000000Z",
+  "updated_at": "2026-02-16T13:25:09.000000Z",
+  "new_chap_at": "2021-05-21T17:09:08.000000Z",
+  "published_at": "2021-05-11T09:20:17.000000Z",
+  "published": 1,
+  "user_id": 1000046,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Bầy Trùng Pháp Tắc",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 530,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000046,
+    "name": "Huyền Linh",
+    "avatar": [
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/200.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/100.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/50.jpg?1615709578"
+    ],
+    "level": 4,
+    "exp": 2395,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 4677,
+    "name": "Cha Đích Tiểu Đao",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 20,
+      "name": "Kỳ Ảo",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 47,
+      "name": "Kỳ Diệu Thế Giới",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 80,
+      "name": "Xây Dựng Thế Lực",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

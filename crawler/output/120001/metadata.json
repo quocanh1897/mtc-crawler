@@ -1,0 +1,101 @@
+{
+  "id": 120001,
+  "name": "Mộng Tiên",
+  "slug": "dai-nao-tu-1960",
+  "kind": 2,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://vtruyen.com/truyen/dai-nao-tu-1960",
+  "note": "Chúc mừng năm mới... bom 5 chương đêm nay và 5 chương đêm mai... cảm ơn mọi người rất nhiều, chúc đọc vui và vạn sự như ý! \n31/12/2025\nMạc Gia",
+  "status_name": "Còn tiếp",
+  "first_chapter": 16624352,
+  "latest_chapter": 26861805,
+  "latest_index": 2097,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/dai-nao-tu-1960/default.jpg?1765885692",
+    "600": "https://static.cdnno.com/poster/dai-nao-tu-1960/600.jpg?1765885692",
+    "300": "https://static.cdnno.com/poster/dai-nao-tu-1960/300.jpg?1765885692",
+    "150": "https://static.cdnno.com/poster/dai-nao-tu-1960/150.jpg?1765885692"
+  },
+  "synopsis": "Hố mới\n\nLiên vũ trụ IV: Mộng Tiên \n\n[đô thị 2025] [tu tiên mộng cảnh] [Nhiều map]\n\ntừ chương 1888 trở đi\n\nMain: lão Mạc (và nhiều người khác trong mộng)\n\nVăn án: mọi thứ bắt đầu từ một ông già lang thang vô gia cư có được chiếc nhẫn kỳ lạ (ảnh bìa) giúp lạc vào mộng cảnh khi ngủ. Trong giấc mộng mọi thứ đều có thể xảy ra và khi thức tỉnh chủ nhân chiếc nhẫn có thể lấy được \"chút gì đó\" từ giấc mộng. Nên đọc thêm chương 1887 tiền truyện chuyển từ Liên Vũ Trụ III qua IV nha ace!!!\n\n=====\n\nLiên Vũ Trụ III: Va Phải Sáng Thế Thần: Đời Ta Từ Đây Xui Có Thưởng\n\n[Đô thị 2025] [Hệ thống] [Tiểu lưu manh] [Nhiều map] [Huyền huyễn]\n\nĐã full chương: 1275-1888\n\nMain: Trần Văn Trụi 18 t\n\n=====\n\nLiên Vũ Trụ II: Bạn Gái Bắt Ta Thành Tỷ Phú \n\n[đô thị 2025] [Mộc hệ siêu năng 1-max cấp] [1 nữ chính]\n\nĐã full chương: 801-1274\n\nMain: Ngọc Trung Thạch 18 t vừa thi rớt đại học \n\n=====\n\nLiên Vũ Trụ I: Đại Náo Từ 1960 \n\n[xuyên không vào Tứ Hợp Viện] [hệ thống giao dịch liên vũ trụ] [thành tựu sáng thế thần] [Nhiều nữ chính] [Thành tựu sáng thế thần]\n\nĐã full chương: 1-800\n\nMain: Giang Bình An 30 tuổi độc thân cẩu, công nhân nghèo.",
+  "vote_count": 11510,
+  "review_score": "4.932",
+  "review_count": 22,
+  "comment_count": 2449,
+  "chapter_count": 2097,
+  "view_count": 0,
+  "word_count": 4127765,
+  "created_at": "2023-08-12T14:11:48.000000Z",
+  "updated_at": "2026-02-18T10:10:06.000000Z",
+  "new_chap_at": "2026-02-08T14:25:53.000000Z",
+  "published_at": "2023-08-14T04:20:55.000000Z",
+  "published": 1,
+  "user_id": 1386700,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Mộng Tiên",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1415,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 417150,
+  "discount": 0,
+  "creator": {
+    "id": 1386700,
+    "name": "Mạc Gia",
+    "avatar": [
+      "https://static.cdnno.com/user/e379fa301a0fc34f004960cf5571d0e5/200.jpg?1740630242",
+      "https://static.cdnno.com/user/e379fa301a0fc34f004960cf5571d0e5/100.jpg?1740630242",
+      "https://static.cdnno.com/user/e379fa301a0fc34f004960cf5571d0e5/50.jpg?1740630242"
+    ],
+    "level": 4,
+    "exp": 3696,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3167,
+    "name": "",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 6,
+      "name": "Đô Thị",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    },
+    {
+      "id": 28,
+      "name": "Đô Thị Dị Năng",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 84,
+      "name": "Sảng Văn",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

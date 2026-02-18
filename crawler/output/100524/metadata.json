@@ -1,0 +1,77 @@
+{
+  "id": 100524,
+  "name": "Trọng Sinh Làm Ma Giáo Giáo Chủ",
+  "slug": "trong-sinh-chi-ma-giao-giao-chu",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/trong-sinh-chi-ma-giao-giao-chu",
+  "note": "Giới thiệu truyện hay:\n- Mạnh nhất Boss hệ thống\n- Trọng sinh làm mạnh nhất kiếm thần\n- Ta có một tòa khí vận tế đàn\n- Trọng sinh chi ma giáo giáo chủ\n- Ta, Ma Nữ Chi Vương\n- Ta có một thân bị động kỹ\n- Ta thật không phải khí vận chi tử\n- Vô địch sư thúc tổ\n- Colorfast Pháp Thần",
+  "status_name": "Hoàn thành",
+  "first_chapter": 10495614,
+  "latest_chapter": 12136568,
+  "latest_index": 1473,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/trong-sinh-chi-ma-giao-giao-chu/default.jpg?1585205655",
+    "600": "https://static.cdnno.com/poster/trong-sinh-chi-ma-giao-giao-chu/600.jpg?1585205655",
+    "300": "https://static.cdnno.com/poster/trong-sinh-chi-ma-giao-giao-chu/300.jpg?1585205655",
+    "150": "https://static.cdnno.com/poster/trong-sinh-chi-ma-giao-giao-chu/150.jpg?1585205655"
+  },
+  "synopsis": "Ngoài ý muốn chết đi, Sở Hưu phát hiện mình vậy mà xuyên qua đến thế giới trò chơi 《 Đại Giang Hồ 》 bên trong, trở thành trong trò chơi còn không có trưởng thành, màn thứ ba sau cùng nhân vật phản diện đại Boss, họa loạn giang hồ Ma giáo giáo chủ!\n\n《 Đại Giang Hồ 》 ở trong dung hội vô số võ hiệp bối cảnh, có Đông Đảo chi vương Thiên Tử vọng khí, cười nói giết người. Có Cái Bang chi chủ chưởng ra Hàng Long, uy chấn giang hồ. Cũng có phi đao truyền nhân đao toái hư không, thành tựu tuyệt hưởng.\n\nTrùng sinh một thế, Sở Hưu đến tột cùng là lại đi một lần số mệnh an bài nhân vật phản diện con đường, vẫn là đạp lên như núi xương trắng viết lên một đoạn ma diễm ngập trời giang hồ truyền thuyết?\n\n\"Giết người tru tâm, trảm thảo trừ căn. Ta gọi Sở Hưu, vạn sự đều yên hưu.\" \n\nPhong Thất Nguyệt quyển thứ hai tác phẩm sau Tối Cường Phản Phái Hệ Thống.",
+  "vote_count": 337,
+  "review_score": "4.814",
+  "review_count": 33,
+  "comment_count": 264,
+  "chapter_count": 1473,
+  "view_count": 0,
+  "word_count": 6085697,
+  "created_at": "2020-03-26T06:54:15.000000Z",
+  "updated_at": "2026-02-18T09:44:37.000000Z",
+  "new_chap_at": "2019-11-19T12:00:04.000000Z",
+  "published_at": "2020-03-26T06:54:14.000000Z",
+  "published": 1,
+  "user_id": 1000016,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Trọng Sinh Làm Ma Giáo Giáo Chủ",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2312,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000016,
+    "name": "Giấy Trắng",
+    "avatar": [
+      "https://static.cdnno.com/user/f67d389ebfb89c9a47d196e0ef2b9aae/200.jpg?1611135951",
+      "https://static.cdnno.com/user/f67d389ebfb89c9a47d196e0ef2b9aae/100.jpg?1611135951",
+      "https://static.cdnno.com/user/f67d389ebfb89c9a47d196e0ef2b9aae/50.jpg?1611135951"
+    ],
+    "level": 4,
+    "exp": 2983,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 469,
+    "name": "Phong Thất Nguyệt",
+    "avatar": null,
+    "local_name": "封七月",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": []
+}

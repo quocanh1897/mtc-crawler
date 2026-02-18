@@ -1,0 +1,135 @@
+Chương 297. Thanh năng lượng siêu cấp
+
+Chương 297. Thanh năng lượng siêu cấp
+
+Giang Bình An rờ cằm áy náy:
+
+- Vậy không lẽ ta trách lầm nhà sản xuất rồi sao?
+
+Venus: - Hi hi hi... Có và không. "Có" là vì chiếc phi thuyền xấu hoắc này thật sự có những điều xuất sắc độc nhất vô nhị, ví dụ như vừa an toàn vừa thực hiện được bước nhảy không gian với giá cả rẻ nhất liên vũ trụ...
+
+- Thật sự rẻ nhất?
+
+- Thật ra chỉ là rẻ nhất trong hệ thống giao dịch Thịnh Vượng mà thôi. Còn bên ngoài hệ thống, có rẻ hơn nhưng không an toàn.
+
+- Ta đã hiểu! Ngươi nhắc ta mới nhớ cửa hàng ảo chỉ là giao dịch nội bộ giữa các khách hàng. Giờ ngươi nói tiếp ý khi nãy đi.
+
+Venus: - Chủ nhân "không" trách lầm nhà sản xuất là vì 100 aHP giá cả, đến tay nhà sản xuất là 50 aHP (cửa hàng ảo lời phân nửa) và trong đó ít nhất nhà sản xuất sẽ có tiền lời 15-20 aHP... Với số tiền lời nhiều như vậy nhưng nhà sản xuất lại không bỏ ra dù chỉ 0,1-0,5 aHP để trang bị tốt hơn cho phi thuyền này, ít nhất là hệ thống vũ khí để tự vệ, hệ thống vệ sinh...
+
+- Ôi dào... lời to thế mà keo kiệt thế! Đúng là phi gian bất thương. Nếu không tốn nhiều tiền, chúng ta có thể tự trang bị được hay không?
+
+- Chúng ta có thể trang bị thêm giường ngủ, nhà tắm... nhưng e rằng không thể thêm hệ thống vũ khí.
+
+- ???
+
+- Nhà sản xuất đã thiết kế rất chặt chẽ để đạt được hiệu quả phòng ngự cao nhất cũng như đủ sức để thực hiện "Bước nhảy không gian". Nếu giờ ta tự ý trang bị thêm thì hiệu quả phòng ngự không bằng thậm chí ảnh hưởng cả việc thực hiện bước nhảy.
+
+- Má ơi! Tên thiết kế phi thuyền này ghê gớm vậy sao? Thôi chịu chứ biết làm sao, cứ trang bị chỗ ngủ và nhà tắm, toilet. Ta có một loại nhà tắm rời tiện dụng mua đã lâu, giờ ngươi thử lắp đặt xem như thế nào!
+
+(lúc ở Bắc Kinh, Giang Bình An có mua hai phòng tắm đa năng, sau đó bỏ đi vẫn mang theo chúng đến giờ)
+
+Venus nũng nịu chớp chớp đôi mắt:
+
+- Chủ nhân à, người ta chỉ là người ảo 3D, làm sao mà động thủ được?
+
+- Đừng có thả thính ta nữa, tha cho ta đi! Chỉ cần hai người máy bảo trì là dư sức phụ giúp ngươi rồi chứ gì!
+
+...
+
+Chỉ hơn nửa giờ, nội thất bên trong phi thuyền vũ trụ đã rực rỡ hẳn lên với đầy đủ bàn ghế, giường gối, phòng tắm đa năng.
+
+- Giỏi lắm Venus, giờ đây ta mới có cảm giác phi thuyền là một căn nhà phiêu lưu ngoài vũ trụ.
+
+Venus: - Đáng tiếc là nó nhỏ hẹp quá nên trang trí xong thấy giống như một căn gác xép. Nếu rộng rãi hơn thì ta đã có thể nâng cấp nó thành phòng khách sạn 4-5 sao rồi. Cũng may chủ nhân có không gian trữ vật, có thể chứa rất nhiều thực phẩm, nước uống, trang phục cũng như thiết bị nên dù nhỏ hẹp như vầy vẫn dễ dàng tồn tại rất lâu dài ngoài không gian.
+
+- Vậy giờ chúng ta xuất phát thử nghiệm đi ra ngoài không gian được chưa?
+
+- E rằng vẫn chưa được đâu chủ nhân!
+
+- Lại chuyện gì nữa đây Venus? Có trục trặc à?
+
+- Chủ nhân ơi, không trục trặc nhưng không có năng lượng, làm sao mà bay?
+
+Giang Bình An tức giận đỏ mặt tía tai:
+
+- Thật là đồ keo kiệt chết bầm! Bán phi thuyền mà không cho năng lượng luôn! Vậy được rồi, thanh năng lượng ta không thiếu, ngươi cần bao nhiêu thanh năng lượng sơ cấp?
+
+- Phi thuyền này yêu cầu một trăm thanh năng lượng để hoạt động, nhưng lại cần cấp bậc: siêu cấp.
+
+- Hả? Cần 100 thanh năng lượng siêu cấp. Đâu, để ta xem thử giá cả.
+
+Mở cửa hàng ảo, Giang Bình An tra cứu, không tra không biết, tra xong giật mình:
+
+* Thanh năng lượng sơ cấp:
+
+Giá thu mua: 5 HP/ thanh
+
+Giá bán ra: 10 HP/ thanh
+
+Trung cấp gấp 1000 lần sơ cấp.
+
+Cao cấp gấp 1000 lần trung cấp.
+
+Siêu cấp gấp 1000 lần cao cấp.
+
+Như vậy giá mua thanh năng lượng siêu cấp từ cửa hàng ảo là: 10 tỷ HP/ thanh.
+
+Giang Bình An cắn răng dùng 1 aHP mua 100 thanh năng lượng siêu cấp đưa cho Venus. Hắn vừa đưa vừa lầu bầu đau đớn trong lòng:
+
+- Venus, đắt tiền quá đi mất. Hèn chi nhà sản xuất không đưa tặng năng lượng hoạt động.
+
+Venus vẻ mặt mê say nhìn các thanh năng lượng đẹp mắt.
+
+- Wa... nó có màu tím đẹp long lanh như đá quý luôn, đây là lần đầu tiên ta được tiếp xúc với loại năng lượng cao cấp này đó chủ nhân. Ta còn nghe nói các cấp năng lượng sẽ có màu sắc khác nhau phải không chủ nhân?
+
+- Phải, thanh sơ cấp có màu xanh trắng, thanh trung cấp có màu vàng chanh, thanh cao cấp có màu đỏ và siêu cấp thì màu tím. Ta không ngờ phi thuyền không gian lại sử dụng đến loại năng lượng quá cao cấp này!
+
+- Hì hì... chủ nhân à, hoạt động của phi thuyền hầu như là hoạt động quan trọng và thường xuyên nhất trong các nền văn minh cấp vũ trụ, và nó cũng đòi hỏi các loại năng lượng cao cấp nhất để thực hiện các bước nhảy không gian, giúp con người cũng như những loài sinh vật khác chinh phục vũ trụ. Có thể nói việc nghiên cứu về năng lượng hầu như đều để phục vụ cho nhu cầu du hành vũ trụ.
+
+- Rất có lý. Nhưng đắt quá, 100 thanh này sử dụng được bao lâu? Nếu chỉ vài ngày là hết thì chắc chủ nhân của ngươi phải đi bán máu quá!
+
+- Hi hi hi... chủ nhân yên tâm. Tiền nào của đó. 100 thanh năng lượng siêu cấp này có thể cho chiếc phi thuyền này dễ dàng hoạt động cả trăm năm khi bình thường. Còn nhảy vọt không gian thì có thể trên cả ngàn lần mới hết.
+
+- Vậy là ổn rồi.
+
+- Chưa chắc đâu chủ nhân. Năng lượng này còn phải chia sẻ cho hệ thống phòng thủ của phi thuyền. Nếu gặp kẻ địch bắn phá hoặc gặp các cơn bão vũ trụ... thì năng lượng có thể hết rất nhanh đấy.
+
+- Ôi trời, quá tốn kém.
+
+- Chinh phục vũ trụ chưa bao giờ rẻ tiền cả đâu chủ nhân.
+
+- Thôi, mua cũng mua rồi, than thở cũng vậy. Venus, hãy cho ta trải nghiệm chuyến đi đầu tiên ra vũ trụ đi.
+
+- Rất hân hạnh được phục vụ ngài!
+
+Venus trong bộ đồ phi hành bó sát người rất điệu nghệ thực hiện động tác cúi chào đầy ưu nhã, sau đó nàng cho khởi động phi thuyền, nó lập tức khép kín tất cả các cửa, và từ từ bay bổng lên trời như một quả bóng bay không trọng lực.
+
+- Quái lạ, ta thấy chẳng khác gì Hắc Phi Long của ta là mấy.
+
+- Hi hi... Hắc Phi Long của chủ nhân đã phục chế thiết kế từ các phi thuyền vũ trụ nên ngài thấy giống là điều tất nhiên thôi.
+
+Hai câu nói của hai người chỉ mất 2-3 giây mà phi thuyền đã bay thẳng ra ngoài bầu khí quyển của trái đất. Lúc xuyên qua bầu khí quyển, bên ngoài vỏ phi thuyền có tia lửa chói lóa nhưng phi thuyền có một lớp màn năng lượng bao bọc bảo vệ nên nó chẳng hề hấn gì, điều này làm Giang Bình An yên tâm rất nhiều.
+
+- Chủ nhân, hiện tại chúng ta vừa thoát khỏi khí quyển địa cầu, xem như đã ở trong vũ trụ, ngài muốn bay đi đâu?
+
+Giang Bình An si mê nhìn lại trái đất, hắn không thể rời mắt nên đành ra lệnh:
+
+- Tạm dừng chút đi! Để ta xem cảnh trái đất nhìn từ không gian lần đầu tiên trong đời đã!
+
+Một hành tinh xanh hiện ra trơ trọi trong vũ trụ bao la tĩnh mịch, lớp khí quyển bao bọc bảo vệ cho toàn bộ sự sống trên trái đất giờ bỗng nhiên thấy nó mới mỏng manh làm sao.
+
+Giang Bình An nhớ lại lời của các phi hành gia khi đi ra vũ trụ lần đầu tiên, khi ấy ai cũng cảm thấy trái đất rất yếu ớt, mỏng manh, cô đơn trong vũ trụ, họ rút ra một kết luận:
+
+Con người nên ưu tiên:
+
+Trái Đất > Xã Hội > Kinh Tế
+
+Nhưng lời nói của các phi hành gia này đâu có ai nghe, đặc biệt là các nhà trùm tài phiệt, các chính trị gia, những người này luôn xếp sự quan trọng ưu tiên theo thứ tự ngược lại:
+
+Kinh Tế > Xã Hội > Trái Đất.
+
+Ai đúng? Ai sai? Không quan trọng, vì các trùm tài phiệt và các chính trị gia luôn có quyền quyết định tất cả.
+
+Giang Bình An lẩm bẩm một mình:
+
+- Kiếp trước thấp cổ bé miệng, kiếp này tay nắm cửa hàng ảo, tính tình lại nhập "ma"... Khà khà khà... để xem chuyện gì sẽ xảy ra....

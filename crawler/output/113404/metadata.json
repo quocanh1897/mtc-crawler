@@ -1,0 +1,102 @@
+{
+  "id": 113404,
+  "name": "Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+  "slug": "tu-luyen-gian-luoc-hoa-cong-phap-bat-dau",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/tu-luyen-gian-luoc-hoa-cong-phap-bat-dau",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 15034786,
+  "latest_chapter": 26886731,
+  "latest_index": 2724,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tu-luyen-gian-luoc-hoa-cong-phap-bat-dau/default.jpg?1719733771",
+    "600": "https://static.cdnno.com/poster/tu-luyen-gian-luoc-hoa-cong-phap-bat-dau/600.jpg?1719733771",
+    "300": "https://static.cdnno.com/poster/tu-luyen-gian-luoc-hoa-cong-phap-bat-dau/300.jpg?1719733771",
+    "150": "https://static.cdnno.com/poster/tu-luyen-gian-luoc-hoa-cong-phap-bat-dau/150.jpg?1719733771"
+  },
+  "synopsis": "Kẻ yếu giơ thẳng lên trời gào thét, không người hỏi thăm, cường giả nhẹ giọng thì thầm, người khác tất cung tất kính.\n\n\tTừ tiệm thuốc tạp dịch bắt đầu, Trần Phỉ từng bước một đi về phía trước, cho đến chuyển âm dương, định càn khôn, quét ngang đương thời!",
+  "vote_count": 9249,
+  "review_score": "4.776",
+  "review_count": 63,
+  "comment_count": 1907,
+  "chapter_count": 2718,
+  "view_count": 0,
+  "word_count": 6148584,
+  "created_at": "2022-07-19T14:34:18.000000Z",
+  "updated_at": "2026-02-18T14:24:56.000000Z",
+  "new_chap_at": "2026-02-16T03:10:09.000000Z",
+  "published_at": "2022-07-19T14:34:18.000000Z",
+  "published": 1,
+  "user_id": 1000076,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Tu Luyện Giản Lược Hóa Công Pháp Bắt Đầu",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 10761,
+  "chapter_per_week": 14,
+  "ready_for_sale": 0,
+  "discount_price": 1000,
+  "discount": 0,
+  "creator": {
+    "id": 1000076,
+    "name": "Shin Đzai",
+    "avatar": [
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/200.jpg?1750327701",
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/100.jpg?1750327701",
+      "https://static.cdnno.com/user/48ef09f5bdb4965828c942a09b738490/50.jpg?1750327701"
+    ],
+    "level": 4,
+    "exp": 3360,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 6951,
+    "name": "Nỗ Lực Cật Ngư",
+    "avatar": null,
+    "local_name": "努力吃鱼",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 62,
+      "name": "Vô Địch",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

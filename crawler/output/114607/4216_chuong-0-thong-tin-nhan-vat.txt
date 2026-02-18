@@ -1,0 +1,2323 @@
+Chương 0 Thông Tin Nhân Vật
+
+Chương 0 Thông Tin Nhân Vật
+
+Mục Lục:
+
+Nhân vật chính thuộc tính (cấp 50 )
+
+Triệu hoán vật thuộc tính (cấp 50 )
+
+Nhân vật chính thuộc tính (cấp 60 )
+
+Triệu hoán vật thuộc tính (cấp 60 )
+
+Nhân vật chính thuộc tính (cấp 70 )
+
+Triệu hoán vật thuộc tính (cấp 70 )
+
+Nhân vật chính thuộc tính (cấp 80 )
+
+Triệu hoán vật thuộc tính (cấp 80 )
+
+Chân Thần cảnh thiên phú thuật pháp tư liệu
+
+Nhân vật chính thuật pháp (Thần Vương cảnh )
+
+Vong linh quân đoàn (Thần Vương cảnh )
+
+Thần Tôn cảnh tư liệu
+
+Bỉ Ngạn cảnh tư liệu
+
+Chí Tôn cảnh tư liệu
+
+Thiên Tôn cảnh tư liệu
+
+Đạo Tôn cảnh tài liệu tương quan
+
+Đại Đạo cảnh tư liệu
+
+Nói rõ Bản Nguyên tổ địa, Quy Nguyên chi địa, Đạo Chủ. .
+
+Vĩnh Hằng tầng thứ tư liệu
+
+Nhân vật chính thuộc tính (cấp 50 )
+
+« tính danh: Lâm Mặc Ngữ »
+
+« chức nghiệp: Tử linh Quân Chủ (duy nhất ) »
+
+« đẳng cấp: 50(1.00% ) »
+
+« lực lượng: 74735 »
+
+« nhanh nhẹn: 74735 »
+
+« tinh thần: 198610 »
+
+« thể chất: 90735 »
+
+« thuộc tính đặc biệt: Vật lý tổn thương giảm bớt 50% Độc Nguyên Tố tổn thương giảm bớt 50% Hỏa Nguyên Tố tổn thương giảm bớt 50% Thủy Nguyên Tố tổn thương giảm bớt 50% Phong Nguyên Tố tổn thương giảm bớt 50% quang nguyên tố tổn thương giảm bớt 80% điện nguyên tố tổn thương giảm bớt 80% sinh mệnh lực gia tăng 50% »
+
+« trang bị: Không có »
+
+« triệu hoán không gian: 900/900, »
+
+« tử linh quân đoàn: 30/30 »
+
+« Vu Yêu không gian: 6/6 »
+
+« đặc tính: Thần tính lực lượng (cấp 50 ) »
+
+« thiên phú: Toàn diện tăng phúc (cấp 6, duy nhất tính ) toàn diện kết nối (duy nhất tính ) »
+
+« kỹ năng bị động: Trạng thái miễn dịch, tổn thương dời đi, nguyên tố chống cự (cấp 1 ) vật lý chống cự (cấp 1 ) »
+
+« kỹ năng chủ động: Linh Hồn Hỏa Diễm (cấp 50 ) thi thể bạo liệt (cấp 7 ) hài cốt bọc thép (cấp 50 ) hài cốt răng nanh (cấp 50 ) triệu hoán khô lâu Cuồng Chiến Sĩ (cấp 50 ) triệu hoán khô lâu Đại Pháp Sư (cấp 50 ) triệu hoán khô lâu Thần Xạ Thủ (cấp 50 ) triệu hoán Vu Yêu tướng quân (cấp 50 ) triệu hoán Nguyên Tố Vu Yêu (cấp 50 ) l già yếu trớ chú (cấp 50 ) kịch độc trớ chú (cấp 50 ) hài cốt lao ngục (cấp 50 ) thiểm điện Vong Linh cánh (cấp 2 ) Cường Binh, Sát Lục Lĩnh Vực (không thể dùng ) »
+
+« thần tính lực lượng (cấp 50 ): Thăng cấp lúc tất cả thuộc tính ngoài định mức gia tăng 50% tinh thần lực tốc độ khôi phục gia tăng 5000% mệt nhọc tốc độ khôi phục tăng lên 5000%. »
+
+« toàn diện tăng phúc (cấp 6 ): Tất cả kỹ năng hiệu quả tăng lên 60 lần. »
+
+« toàn diện kết nối: Cùng triệu hoán vật toàn diện tiến hành kết nối, cộng đồng gánh chịu tổn thương, cộng đồng tiếp thu khôi phục, cộng đồng chia sẻ tinh thần tiêu hao. »
+
+« trạng thái miễn dịch: Miễn dịch tất cả mặt trái trạng thái. »
+
+« tổn thương dời đi: Pháp sư bản thân bị tất cả tổn thương đều từ triệu hoán vật gánh chịu. »
+
+« nguyên tố chống cự (cấp 1 ): Kỹ năng bị động, tự thân cùng triệu hoán vật đối nguyên tố công kích sức chống cự tăng lên 10%. »
+
+« vật lý chống cự (cấp 1 ): Kỹ năng bị động, tự thân cùng triệu hoán vật đối vật lý công kích sức chống cự tăng lên 10%. »
+
+« Linh Hồn Hỏa Diễm (cấp 50 ): Thiêu đốt mục tiêu linh hồn, lực công kích căn cứ tự thân tinh thần lực cùng kỹ năng đẳng cấp mà định ra. »
+
+« thi thể bạo liệt (cấp 7 ) dẫn nổ thi thể, đối 7 mét phạm vi bên trong địch nhân tạo thành thi thể HP 40% tổn thương. »
+
+« hài cốt bọc thép (cấp 50 ): Triệu hoán hài cốt tạo thành bọc thép, cung cấp tương đương với 500 0 điểm thể chất lực phòng ngự, cái này kỹ năng cũng có thể đối người khác sử dụng. »
+
+« hài cốt răng nanh (cấp 50 ): Phóng thích hài cốt răng nanh công kích địch nhân, hài cốt răng nanh số lượng cùng uy lực căn cứ kỹ năng đẳng cấp cùng tự thân tinh thần lực mà định ra. »
+
+« triệu hoán khô lâu Cuồng Chiến Sĩ (cấp 50 ): Triệu hoán một cái Bạch Kim cấp khô lâu Cuồng Chiến Sĩ. »
+
+« triệu hoán khô lâu Đại Pháp Sư (cấp 50 ): Triệu hoán một cái Bạch Kim cấp khô lâu Đại Pháp Sư. »
+
+« triệu hoán khô lâu Thần Xạ Thủ (cấp 50 ): Triệu hoán một cái Bạch Kim cấp khô lâu Thần Xạ Thủ. »
+
+« triệu hoán Vu Yêu tướng quân (cấp 50 ): Triệu hoán một cái Vu Yêu tướng quân, tạo thành vong linh quân đoàn, mỗi vị Vu Yêu tướng quân có thể mang theo thành viên số lượng giống như là triệu hoán không gian. »
+
+« già yếu trớ chú (cấp 50 ): Đối 200 mét phạm vi bên trong tất cả địch nhân tiến hành trớ chú, khiến địch nhân tốc độ giảm bớt 3 lần, nhận đến tổn thương gia tăng 40% duy trì liên tục thời gian 1 phút. »
+
+« kịch độc Tinh Bạo (cấp 50 ): Đối 200 mét phạm vi bên trong tất cả địch nhân tiến hành Độc Hệ công kích, khiến địch nhân mỗi giây nhận đến tương đương với 500 điểm lực lượng tổn thương, duy trì liên tục thời gian 100 giây. »
+
+« Cường Binh: 30 giây bên trong tự thân cùng triệu hoán vật, tất cả thuộc tính cơ sở tăng lên 200% tất cả công kích tạo thành tổn thương ngoài định mức tăng lên 500%. Thời gian cooldown 1 giờ. »
+
+« thiểm điện Vong Linh cánh (cấp 2 ): Tự thân cùng triệu hoán vật tại 20 giây bên trong nắm giữ năng lực phi hành, thời gian cooldown 9 phút. Kỹ năng đẳng cấp càng cao, tốc độ phi hành càng nhanh, thời gian cooldown càng ngắn. »
+
+« hài cốt lao ngục (cấp 50 ): Đối một cái mục tiêu hoặc nhiều cái địch nhân tiến hành gò bó, tạo thành tê liệt hiệu quả. Bị trói buộc địch nhân, không cách nào hành động phản kích, nhận đến tổn thương giảm bớt 50% gò bó duy trì liên tục thời gian 50 giây (sẽ căn cứ địch nhân đẳng cấp thuộc tính, gò bó số lượng mà biến hóa ). »
+
+« triệu hoán Nguyên Tố Vu Yêu (cấp 50 ): Lợi dụng khác biệt nguyên tố đạo cụ, triệu hồi ra tương ứng Nguyên Tố Vu Yêu, đạo cụ đẳng cấp càng cao, Vu Yêu thuộc tính thì càng mạnh. Đồng loại loại hình Vu Yêu chỉ có thể đồng thời tồn tại một cái, kỹ năng đẳng cấp càng cao, có thể đồng thời tồn tại Vu Yêu số lượng cũng càng nhiều. »*
+
+Triệu hoán vật thuộc tính (cấp 50 )
+
+« Bạch Kim cấp khô lâu Cuồng Chiến Sĩ »
+
+« đẳng cấp: 50 »
+
+« lực lượng: 252000 »
+
+« nhanh nhẹn: 252000 »
+
+« tinh thần: 252000 »
+
+« thể chất: 252000 »
+
+« kỹ năng: Cuồng bạo oanh sát (cấp 2 ) »
+
+« cuồng bạo oanh sát (cấp 2 ): Đối mục tiêu tạo thành tự thân lực lượng 600% tổn thương, thời gian cooldown 10 phút. »
+
+« Bạch Kim cấp khô lâu Đại Pháp Sư »
+
+« đẳng cấp: 50 »
+
+« lực lượng: 5 4000 »
+
+« nhanh nhẹn: 5 4000 »
+
+« tinh thần: 7 80.000 »
+
+« thể chất: 5 4000 »
+
+« kỹ năng: Nguyên tố bạo tạc »
+
+« nguyên tố bạo tạc: Đối mục tiêu tạo thành hỗn hợp nguyên tố tổn thương. »
+
+« Bạch Kim cấp khô lâu Thần Xạ Thủ »
+
+« đẳng cấp: 50 »
+
+« lực lượng: 14 4000 »
+
+« nhanh nhẹn: 21 6000 »
+
+« tinh thần: 14 4000 »
+
+« thể chất: 14 4000 »
+
+« kỹ năng: Linh hồn khóa chặt »
+
+« linh hồn khóa chặt (bị động ): Công kích tất nhiên trúng đích. »
+
+« Bạch Kim cấp Vu Yêu tướng quân »
+
+« đẳng cấp: 50 »
+
+« lực lượng: 16800 »
+
+« nhanh nhẹn: 16800 »
+
+« tinh thần: 16800 »
+
+« thể chất: 420000 »
+
+« kỹ năng: Quân đoàn cường hóa (cấp 5 ) »
+
+« quân đoàn cường hóa (cấp 5 ): Toàn thuộc tính tăng lên 50% tốc độ công kích tăng lên 50% thi pháp tốc độ tăng lên 50% lực phòng ngự vật lý tăng lên 50% nguyên tố lực phòng ngự tăng lên 50% khống chế sức chống cự tăng lên 50%. »
+
+« kỹ năng: Quân đoàn khôi phục (cấp 5 ) »
+
+« quân đoàn điều trị (cấp 4 ): Đối quân đoàn thành viên tiến hành điều trị, khôi phục tổn thương. »
+
+« kỹ năng: Loại bỏ (cấp 5 ) »
+
+« loại bỏ (cấp 5 ): Loại bỏ quân đoàn thành viên nhận đến tất cả dị thường trạng thái. (cấp 70 trở lên dị thường trạng thái không có hiệu quả ) »
+
+« Bạch Kim cấp Nguyên Tố Vu Yêu »
+
+« đẳng cấp: 50 »
+
+« lực lượng: 90000 »
+
+« nhanh nhẹn: 90000 »
+
+« tinh thần: 90000 »
+
+« thể chất: 90000 »
+
+Liệt diễm Vu Yêu.
+
+« liệt hỏa quang hoàn: Tại tất cả vong linh quân đoàn thành viên trên thân gia trì liệt hỏa quang hoàn, đối tất cả 1000 mét phạm vi bên trong địch nhân tạo thành hỏa diễm tổn thương, lực tổn thương căn cứ kỹ năng đẳng cấp cùng với Vu Yêu thuộc tính mà định ra. »
+
+Bạo Phong Vu yêu.
+
+« gió bão quang hoàn: Tại tất cả vong linh quân đoàn thành viên trên thân gia trì gió bão quang hoàn, biên độ lớn tăng lên vong linh quân đoàn tốc độ. Hiệu quả căn cứ kỹ năng đẳng cấp cùng với Vu Yêu thuộc tính mà định ra »
+
+Hàn băng Vu Yêu.
+
+« đóng băng quang hoàn: Tại tất cả vong linh quân đoàn thành viên trên thân gia trì đóng băng quang hoàn, đối tất cả 1000 mét phạm vi bên trong địch nhân tạo thành đóng băng hiệu quả, đóng băng hiệu quả căn cứ kỹ năng đẳng cấp cùng với Vu Yêu thuộc tính mà định ra. »
+
+Lớn Địa Vu yêu.
+
+« lớn Địa Quang vòng: Tại tất cả vong linh quân đoàn trên thân gia trì lớn Địa Quang vòng, biên độ lớn tăng lên vong linh quân đoàn lực phòng ngự. Hiệu quả căn cứ kỹ năng đẳng cấp lấy Vu Yêu thuộc tính mà định ra. »
+
+Lôi điện Vu Yêu.
+
+« thiểm điện quang hoàn: Tại tất cả vong linh quân đoàn trên thân gia trì thiểm điện quang hoàn, đối tất cả 1000 mét phạm vi bên trong địch nhân tạo thành thiểm điện tổn thương, có tỉ lệ chế tạo tê liệt hiệu quả. Lực tổn thương căn cứ kỹ năng đẳng cấp cùng với Vu Yêu thuộc tính mà định ra. »
+
+Quang minh Vu Yêu.
+
+« thánh quang quang hoàn: Tại tất cả vong linh quân đoàn trên thân gia trì thánh quang quang hoàn, tăng cường vong linh quân đoàn đối quang nguyên tố tổn thương sức chống cự, gia tăng vong linh quân đoàn đối Hắc Ám Hệ quái vật lực công kích. Hiệu quả căn cứ kỹ năng đẳng cấp lấy Vu Yêu thuộc tính mà định ra. »*
+
+Nhân vật chính thuộc tính (cấp 60 )
+
+« tính danh: Lâm Mặc Ngữ »
+
+« chức nghiệp: Tử linh Quân Chủ (duy nhất ) »
+
+« đẳng cấp: 60 »
+
+« lực lượng: 100946 »
+
+« nhanh nhẹn: 100946 »
+
+« tinh thần: 36 2380 »
+
+« thể chất: 116946 »
+
+« thuộc tính đặc biệt: Độc Nguyên Tố miễn dịch, điện nguyên tố miễn dịch, vật lý tổn thương giảm bớt 50% Hỏa Nguyên Tố tổn thương giảm bớt 50% Thủy Nguyên Tố tổn thương giảm bớt 50% Phong Nguyên Tố tổn thương giảm bớt 50% quang nguyên tố tổn thương giảm bớt 80% sinh mệnh lực gia tăng 50% »
+
+« trang bị: Không có »
+
+« triệu hoán không gian: 1230/1230 »
+
+« vong linh quân đoàn: 40/40 »
+
+« Vu Yêu không gian: 7/7 »
+
+« đặc tính: Thần tính lực lượng (cấp 60 ) »
+
+« thiên phú: Toàn diện tăng phúc (cấp 7, duy nhất tính ) toàn diện kết nối (duy nhất tính ) »
+
+« kỹ năng bị động: Trạng thái miễn dịch, tổn thương dời đi, nguyên tố chống cự (cấp 1 ) vật lý chống cự (cấp 1 ) Bất Tử Vong Linh »
+
+« kỹ năng chủ động: Linh Hồn Hỏa Diễm (cấp 60 ) thi thể bạo liệt (cấp 7 ) hài cốt bọc thép (cấp 60 ) hài cốt răng nanh (cấp 60 ) triệu hoán khô lâu Cuồng Chiến Sĩ (cấp 60 ) triệu hoán khô lâu Đại Pháp Sư (cấp 60 ) triệu hoán khô lâu Thần Xạ Thủ (cấp 60 ) triệu hoán Vu Yêu tướng quân (cấp 60 ) triệu hoán Nguyên Tố Vu Yêu (cấp 60 ) l già yếu trớ chú (cấp 60 ) kịch độc trớ chú (cấp 60 ) hài cốt lao ngục (cấp 60 ) thiểm điện Vong Linh cánh (cấp 4 ) triệu hoán Khô Lâu Vương, Cường Binh, Tụ Lực, Sát Lục Lĩnh Vực (không thể dùng ) »
+
+« thần tính lực lượng (cấp 60 ): Thăng cấp lúc tất cả thuộc tính ngoài định mức gia tăng 60% tinh thần lực tốc độ khôi phục gia tăng 6000% mệt nhọc tốc độ khôi phục tăng lên 6000%. »
+
+« toàn diện tăng phúc (cấp 7 ): Kỹ năng hiệu quả tăng lên 70 lần. »
+
+« toàn diện kết nối: Cùng triệu hoán vật toàn diện tiến hành kết nối, cộng đồng gánh chịu tổn thương, cộng đồng tiếp thu khôi phục, cộng đồng chia sẻ tinh thần tiêu hao. »
+
+« trạng thái miễn dịch: Miễn dịch tất cả mặt trái trạng thái. »
+
+« tổn thương dời đi: Bản thân bị tất cả tổn thương đều từ triệu hoán vật gánh chịu. »
+
+« nguyên tố chống cự (cấp 1 ): Kỹ năng bị động, tự thân cùng triệu hoán vật đối nguyên tố công kích sức chống cự tăng lên 10%. »
+
+« vật lý chống cự (cấp 1 ): Kỹ năng bị động, tự thân cùng triệu hoán vật đối vật lý công kích sức chống cự tăng lên 10%. »
+
+« Bất Tử Vong Linh (bị động ): Vong linh quân đoàn thành viên nhận đến đả kích trí mạng lúc sẽ không tử vong, sẽ trở về triệu hoán không gian, tại một giây phía sau hoàn toàn khôi phục, có thể một lần nữa đầu nhập chiến đấu. Mỗi cái Vong Linh tại trong vòng năm phút đồng hồ có thể tiến hành hai lần phục sinh, trong vòng năm phút đồng hồ nếu là lần thứ ba tử vong, mới sẽ chân chính tử vong. »
+
+« Linh Hồn Hỏa Diễm (cấp 60 ): Thiêu đốt mục tiêu linh hồn, lực công kích căn cứ tự thân tinh thần lực cùng kỹ năng đẳng cấp mà định ra. »
+
+« thi thể bạo liệt (cấp 7 ) dẫn nổ thi thể, đối 7 mét phạm vi bên trong địch nhân tạo thành thi thể HP 40% tổn thương. »
+
+« hài cốt bọc thép (cấp 60 ): Triệu hoán hài cốt tạo thành bọc thép, cung cấp tương đương với 6000 điểm thể chất lực phòng ngự, cái này kỹ năng cũng có thể đối người khác sử dụng. »
+
+« hài cốt răng nanh (cấp 60 ): Phóng thích hài cốt răng nanh công kích địch nhân, hài cốt răng nanh số lượng cùng uy lực căn cứ kỹ năng đẳng cấp cùng tự thân tinh thần lực mà định ra. »
+
+« triệu hoán khô lâu Cuồng Chiến Sĩ (cấp 60 ): Triệu hoán một cái Bạch Kim cấp khô lâu Cuồng Chiến Sĩ. »
+
+« triệu hoán khô lâu Đại Pháp Sư (cấp 60 ): Triệu hoán một cái Bạch Kim cấp khô lâu Đại Pháp Sư. »
+
+« triệu hoán khô lâu Thần Xạ Thủ (cấp 60 ): Triệu hoán một cái Bạch Kim cấp khô lâu Thần Xạ Thủ. »
+
+« triệu hoán Vu Yêu tướng quân (cấp 60 ): Triệu hoán một cái Vu Yêu tướng quân, tạo thành vong linh quân đoàn, mỗi vị Vu Yêu tướng quân có thể mang theo thành viên số lượng giống như là triệu hoán không gian. »
+
+« già yếu trớ chú (cấp 60 ): Đối 210 mét phạm vi bên trong tất cả địch nhân tiến hành trớ chú, khiến địch nhân tốc độ giảm bớt 4 lần, nhận đến tổn thương gia tăng 50% duy trì liên tục thời gian 1 phút. »
+
+« kịch độc Tinh Bạo (cấp 60 ): Đối 200 mét phạm vi bên trong tất cả địch nhân tiến hành Độc Hệ công kích, khiến địch nhân mỗi giây nhận đến tương đương với 600 điểm lực lượng tổn thương, duy trì liên tục thời gian 100 giây. »
+
+« Cường Binh: 30 giây bên trong tự thân cùng triệu hoán vật, tất cả thuộc tính cơ sở tăng lên 200% tất cả công kích tạo thành tổn thương ngoài định mức tăng lên 500%. Thời gian cooldown 60 phút. »
+
+« Tụ Lực: Tập hợp xác định triệu hoán vật lực lượng, kế thừa triệu hoán vật tất cả kỹ năng, dung hợp triệu hoán vật bộ phận thuộc tính. Duy trì liên tục thời gian 5 phút, thời gian cooldown 60 phút. »
+
+« thiểm điện Vong Linh cánh (cấp 4 ): Tự thân cùng triệu hoán vật tại 40 giây bên trong nắm giữ năng lực phi hành, thời gian cooldown 7 phút. Kỹ năng đẳng cấp càng cao, tốc độ phi hành càng nhanh, thời gian cooldown càng ngắn. »
+
+« hài cốt lao ngục (cấp 60 ): Đối một cái mục tiêu hoặc nhiều cái địch nhân tiến hành gò bó, tạo thành tê liệt hiệu quả. Bị trói buộc địch nhân, không cách nào hành động phản kích, nhận đến tổn thương giảm bớt 50% gò bó duy trì liên tục thời gian 60 giây (sẽ căn cứ địch nhân đẳng cấp thuộc tính, gò bó số lượng mà biến hóa ). »
+
+« triệu hoán Nguyên Tố Vu Yêu (cấp 60 ): Lợi dụng khác biệt nguyên tố đạo cụ, triệu hồi ra tương ứng Nguyên Tố Vu Yêu, đạo cụ đẳng cấp càng cao, Vu Yêu thuộc tính thì càng mạnh. Đồng loại loại hình Vu Yêu chỉ có thể đồng thời tồn tại một cái, kỹ năng đẳng cấp càng cao, có thể đồng thời tồn tại Vu Yêu số lượng cũng càng nhiều. »
+
+« triệu hoán Khô Lâu Vương: Tập hợp vong linh quân đoàn bên trong khô lâu triệu hồi ra cường đại Khô Lâu Vương, Khô Lâu Vương thấp nhất để cho 10000 tên khô lâu thành viên tập hợp mà thành. »*
+
+Triệu hoán vật thuộc tính (cấp 60 )
+
+« Bạch Kim cấp khô lâu Cuồng Chiến Sĩ »
+
+Đẳng cấp 60
+
+« lực lượng 490000 »
+
+« nhanh nhẹn 490000 »
+
+« tinh thần 490000 »
+
+« thể chất 490000 »
+
+« kỹ năng: Cuồng bạo oanh sát (cấp 3 ) »
+
+« cuồng bạo oanh sát (cấp 3 ): Đối mục tiêu tạo thành tự thân lực lượng 700% tổn thương, thời gian cooldown 10 phút. »
+
+« Bạch Kim cấp khô lâu Đại Pháp Sư »
+
+« đẳng cấp 60 »
+
+« lực lượng 95200 »
+
+« nhanh nhẹn 95200 »
+
+« tinh thần 1750000 »
+
+« thể chất 95200 »
+
+« kỹ năng: Nguyên tố bạo tạc »
+
+« nguyên tố bạo tạc: Đối mục tiêu tạo thành hỗn hợp nguyên tố tổn thương. »
+
+« Bạch Kim cấp khô lâu Thần Xạ Thủ »
+
+« đẳng cấp 60 »
+
+« lực lượng 26 6000 »
+
+« nhanh nhẹn 29 4000 »
+
+« tinh thần 26 6000 »
+
+« thể chất 26 6000 »
+
+« kỹ năng: Linh hồn khóa chặt »
+
+« linh hồn khóa chặt (bị động ): Công kích tất nhiên trúng đích. »
+
+« Bạch Kim cấp Vu Yêu tướng quân »
+
+« đẳng cấp 60 »
+
+« lực lượng 30100 »
+
+« nhanh nhẹn 30100 »
+
+« tinh thần 30100 »
+
+« thể chất 7 00000 »
+
+« kỹ năng: Quân đoàn cường hóa (cấp 6 ) »
+
+« quân đoàn cường hóa (cấp 6 ): Toàn thuộc tính tăng lên 60% tốc độ công kích tăng lên 60% thi pháp tốc độ tăng lên 60% lực phòng ngự vật lý tăng lên 60% nguyên tố lực phòng ngự tăng lên 60% khống chế sức chống cự tăng lên 60%. »
+
+« kỹ năng: Quân đoàn khôi phục (cấp 6 ) »
+
+« quân đoàn điều trị (cấp 6 ): Đối quân đoàn thành viên tiến hành điều trị, khôi phục tổn thương. »
+
+« kỹ năng: Loại bỏ (cấp 6 ) »
+
+« loại bỏ (cấp 6 ): Loại bỏ quân đoàn thành viên nhận đến tất cả dị thường trạng thái. (cấp 80 trở lên dị thường trạng thái không có hiệu quả ) »
+
+« Khô Lâu Vương »
+
+« khô lâu số lượng: 40.000 »
+
+« lực lượng 2100000 »
+
+« nhanh nhẹn 2100000 »
+
+« tinh thần 2100000 »
+
+« thể chất 2100000 »
+
+« kỹ năng: Chém thần, nguyên tố bạo loạn, Tuyệt Đối Phòng Ngự »
+
+« đặc tính: Sinh mệnh lực cường hóa, lực công kích cường hóa, tốc độ cường hóa »
+
+« chém thần: Bộc phát tự thân lực lượng thuộc tính 10 lần lực tổn thương, đối đơn thể hoặc phạm vi tạo thành đả kích, thời gian cooldown 1 phút. »
+
+« nguyên tố bạo loạn: Bộc phát tự thân tinh thần thuộc tính 10 lần nguyên tố tổn thương, đối đơn thể rơi phạm vi tạo thành đả kích, thời gian cooldown 1 phút. »
+
+« Tuyệt Đối Phòng Ngự: Đối tất cả công kích giảm tổn thương 99% miễn dịch tất cả mặt trái trạng thái, duy trì liên tục thời gian 1 phút, thời gian cooldown 10 phút. »
+
+« Bạch Kim cấp Nguyên Tố Vu Yêu »
+
+« đẳng cấp 60 »
+
+« lực lượng 210000 »
+
+« nhanh nhẹn 210000 »
+
+« tinh thần 210000 »
+
+« thể chất 210000 »
+
+Liệt diễm Vu Yêu.
+
+« liệt hỏa quang hoàn: Tại tất cả vong linh quân đoàn thành viên trên thân gia trì liệt hỏa quang hoàn, đối tất cả 1000 mét phạm vi bên trong địch nhân tạo thành hỏa diễm tổn thương, lực tổn thương căn cứ kỹ năng đẳng cấp cùng với Vu Yêu thuộc tính mà định ra. »
+
+Bạo Phong Vu yêu.
+
+« gió bão quang hoàn: Tại tất cả vong linh quân đoàn thành viên trên thân gia trì gió bão quang hoàn, biên độ lớn tăng lên vong linh quân đoàn tốc độ. Hiệu quả căn cứ kỹ năng đẳng cấp cùng với Vu Yêu thuộc tính mà định ra »
+
+Hàn băng Vu Yêu.
+
+« đóng băng quang hoàn: Tại tất cả vong linh quân đoàn thành viên trên thân gia trì đóng băng quang hoàn, đối tất cả 1000 mét phạm vi bên trong địch nhân tạo thành đóng băng hiệu quả, đóng băng hiệu quả căn cứ kỹ năng đẳng cấp cùng với Vu Yêu thuộc tính mà định ra. »
+
+Lớn Địa Vu yêu.
+
+« lớn Địa Quang vòng: Tại tất cả vong linh quân đoàn trên thân gia trì lớn Địa Quang vòng, biên độ lớn tăng lên vong linh quân đoàn lực phòng ngự. Hiệu quả căn cứ kỹ năng đẳng cấp lấy Vu Yêu thuộc tính mà định ra. »
+
+Lôi điện Vu Yêu.
+
+« thiểm điện quang hoàn: Tại tất cả vong linh quân đoàn trên thân gia trì thiểm điện quang hoàn, đối tất cả 1000 mét phạm vi bên trong địch nhân tạo thành thiểm điện tổn thương, có tỉ lệ chế tạo tê liệt hiệu quả. Lực tổn thương căn cứ kỹ năng đẳng cấp cùng với Vu Yêu thuộc tính mà định ra. »
+
+Quang minh Vu Yêu.
+
+« thánh quang quang hoàn: Tại tất cả vong linh quân đoàn trên thân gia trì thánh quang quang hoàn, tăng cường vong linh quân đoàn đối quang nguyên tố tổn thương sức chống cự, gia tăng vong linh quân đoàn đối Hắc Ám Hệ quái vật lực công kích. Hiệu quả căn cứ kỹ năng đẳng cấp lấy Vu Yêu thuộc tính mà định ra. »
+
+Bất Tử Vu Yêu
+
+« Bất Tử Quang Hoàn: Tất cả vong linh quân đoàn thành viên, tại lần đầu nhận đến đả kích trí mạng lúc sẽ không chết đi, quang hoàn sẽ vì đó khôi phục 50% sinh mệnh lực. Quang hoàn thời gian cooldown: 24 giờ »
+
+Kịch Độc Vu yêu
+
+« kịch độc quang hoàn: Tại tất cả vong linh quân đoàn thành viên trên thân gia trì liệt hỏa quang hoàn, đối tất cả 1000 mét phạm vi bên trong địch nhân tạo thành mỗi giây 10 điểm lực lượng tổn thương, có thể không hạn điệp gia. »*
+
+Nhân vật chính thuộc tính (cấp 70 )
+
+« tính danh: Lâm Mặc Ngữ »
+
+« chức nghiệp: Bất Tử Thánh Vương (duy nhất ) »
+
+« đẳng cấp: 70 »
+
+« lực lượng: 3 00000+ 500000 »
+
+« nhanh nhẹn: 3 00000+ 500000 »
+
+« tinh thần: 1000000+ 500000 »
+
+« thể chất: 40.0000+ 500000 »
+
+« trang bị: Quân Chủ quyền trượng »
+
+« thuộc tính đặc biệt: Độc Nguyên Tố miễn dịch, điện nguyên tố miễn dịch, vật lý tổn thương giảm bớt 50% Hỏa Nguyên Tố tổn thương giảm bớt 50% Thủy Nguyên Tố tổn thương giảm bớt 50% Phong Nguyên Tố tổn thương giảm bớt 50% quang nguyên tố tổn thương giảm bớt 80% sinh mệnh lực gia tăng 50% »
+
+« triệu hoán không gian: 2400/2400, »
+
+« vong linh quân đoàn: 50/50 »
+
+« Vu Yêu không gian: 8/8 »
+
+« đặc tính: Thần tính lực lượng (cấp 70 ) »
+
+« thiên phú: Toàn diện tăng phúc (cấp 8, duy nhất tính ) toàn diện kết nối (duy nhất tính ) toàn diện tân sinh (duy nhất tính ) »
+
+« linh hồn kỹ năng: Tổn thương dời đi (độ dung hợp 50% ) thi thể bạo liệt (độ dung hợp 20% ) »
+
+« kỹ năng bị động: Trạng thái miễn dịch, nguyên tố chống cự (cấp 1 ) vật lý chống cự (cấp 1 ) Bất Tử Vong Linh »
+
+« kỹ năng chủ động: Linh Hồn Hỏa Diễm (cấp 70 ) hài cốt bọc thép (cấp 70 ) hài cốt răng nanh (cấp 70 ) triệu hoán khô lâu Cuồng Chiến Sĩ (cấp 70 ) triệu hoán khô lâu Đại Pháp Sư (cấp 70 ) triệu hoán khô lâu Thần Xạ Thủ (cấp 70 ) triệu hoán Vu Yêu tướng quân (cấp 70 ) triệu hoán Nguyên Tố Vu Yêu (cấp 70 ) triệu hoán Không Đầu Kỵ Sĩ (cấp 70 ) triệu hoán Khô Lâu Vương, già yếu trớ chú (cấp 70 ) kịch độc trớ chú (cấp 70 ) hài cốt lao ngục (cấp 70 ) thiểm điện Vong Linh cánh (cấp 4 ) Vong Linh nhìn chăm chú (cấp 70 ) hài cốt trường mâu (cấp 70 ) Cường Binh, Tụ Lực, Sát Lục Lĩnh Vực (không thể dùng ) »
+
+« thần tính lực lượng (cấp 70 ): Thăng cấp lúc tất cả thuộc tính ngoài định mức gia tăng 70% tinh thần lực tốc độ khôi phục gia tăng 7000% mệt nhọc tốc độ khôi phục tăng lên 7000%. »
+
+« toàn diện tăng phúc (cấp 8 ): Tất cả kỹ năng hiệu quả tăng lên 80 lần. »
+
+« toàn diện kết nối: Cùng triệu hoán vật toàn diện tiến hành kết nối, cộng đồng gánh chịu tổn thương, cộng đồng tiếp thu khôi phục, cộng đồng chia sẻ tinh thần tiêu hao. »
+
+« toàn diện tân sinh: Triệu Hoán Sư cùng triệu hoán vật tại chính thức tử vong lúc sẽ thu hoạch được tân sinh, khôi phục lại trạng thái đỉnh phong, tất cả kỹ năng đều đem thu hoạch được làm lạnh thiết lập lại, vốn thiên phú mỗi phút có thể một lần phát động. »
+
+« tổn thương dời đi (độ dung hợp 50% ): Bản thân bị tất cả tổn thương đem yếu bớt một lần, lại từ triệu hoán vật gánh chịu. »
+
+« thi thể bạo liệt (độ dung hợp 20% ) dẫn nổ thi thể hoặc là Hài Cốt, đối 100 mét phạm vi bên trong xác định mục tiêu tạo thành thi thể khi còn sống HP 20% tổn thương. »
+
+« trạng thái miễn dịch: Miễn dịch tất cả mặt trái trạng thái. »
+
+« nguyên tố chống cự (cấp 1 ): Kỹ năng bị động, tự thân cùng triệu hoán vật đối nguyên tố công kích sức chống cự tăng lên 10%. »
+
+« vật lý chống cự (cấp 1 ): Kỹ năng bị động, tự thân cùng triệu hoán vật đối vật lý công kích sức chống cự tăng lên 10%. »
+
+« Bất Tử Vong Linh (bị động ): Vong linh quân đoàn thành viên nhận đến đả kích trí mạng lúc sẽ không tử vong, sẽ trở về triệu hoán không gian đồng thời hoàn toàn khôi phục, có thể một lần nữa đầu nhập chiến đấu. Mỗi cái Vong Linh tại trong vòng năm phút đồng hồ có thể tiến hành hai lần phục sinh, trong vòng năm phút đồng hồ nếu là lần thứ ba tử vong, mới sẽ chân chính tử vong. »
+
+« Linh Hồn Hỏa Diễm (cấp 70 ): Thiêu đốt mục tiêu linh hồn, lực công kích căn cứ tự thân tinh thần lực cùng kỹ năng đẳng cấp mà định ra. »
+
+« hài cốt bọc thép (cấp 70 ): Triệu hoán hài cốt tạo thành bọc thép, cung cấp tương đương với 700 0 điểm thể chất lực phòng ngự, cái này kỹ năng cũng có thể đối người khác sử dụng. »
+
+« hài cốt răng nanh (cấp 70 ): Phóng thích hài cốt răng nanh công kích địch nhân, hài cốt răng nanh số lượng cùng uy lực căn cứ kỹ năng đẳng cấp cùng tự thân tinh thần lực mà định ra. »
+
+« triệu hoán khô lâu Cuồng Chiến Sĩ (cấp 70 ): Triệu hoán một cái Bạch Kim cấp khô lâu Cuồng Chiến Sĩ. »
+
+« triệu hoán khô lâu Đại Pháp Sư (cấp 70 ): Triệu hoán một cái Bạch Kim cấp khô lâu Đại Pháp Sư. »
+
+« triệu hoán khô lâu Thần Xạ Thủ (cấp 70 ): Triệu hoán một cái Bạch Kim cấp khô lâu Thần Xạ Thủ. »
+
+« triệu hoán Không Đầu Kỵ Sĩ (cấp 70 ): Triệu hoán một cái Truyền Thuyết cấp Không Đầu Kỵ Sĩ. »
+
+« triệu hoán Vu Yêu tướng quân (cấp 70 ): Triệu hoán một cái Vu Yêu tướng quân, tạo thành vong linh quân đoàn, mỗi vị Vu Yêu tướng quân có thể mang theo thành viên số lượng giống như là triệu hoán không gian. »
+
+« già yếu trớ chú (cấp 70 ): Đối 250 mét phạm vi bên trong tất cả địch nhân tiến hành trớ chú, khiến địch nhân tốc độ giảm bớt 5 lần, nhận đến tổn thương gia tăng 60% duy trì liên tục thời gian 1 phút. »
+
+« kịch độc Tinh Bạo (cấp 70 ): Đối 250 mét phạm vi bên trong tất cả địch nhân tiến hành Độc Hệ công kích, khiến địch nhân mỗi giây nhận đến tương đương với 700 điểm lực lượng tổn thương, duy trì liên tục thời gian 100 giây. »
+
+« Cường Binh: 30 giây bên trong tự thân cùng triệu hoán vật, tất cả thuộc tính cơ sở tăng lên 200% tất cả công kích tạo thành tổn thương ngoài định mức tăng lên 500%. Thời gian cooldown 1 giờ. »
+
+« Tụ Lực: Tập hợp xác định triệu hoán vật lực lượng, kế thừa triệu hoán vật tất cả kỹ năng, dung hợp triệu hoán vật bộ phận thuộc tính. Duy trì liên tục thời gian 5 phút, thời gian cooldown 60 phút. »
+
+« thiểm điện Vong Linh cánh (cấp 4 ): Tự thân cùng triệu hoán vật tại 40 giây bên trong nắm giữ năng lực phi hành, thời gian cooldown 7 phút. Kỹ năng đẳng cấp càng cao, tốc độ phi hành càng nhanh, thời gian cooldown càng ngắn. »
+
+« hài cốt lao ngục (cấp 70 ): Đối một cái mục tiêu hoặc nhiều cái địch nhân tiến hành gò bó, tạo thành tê liệt hiệu quả. Bị trói buộc địch nhân, không cách nào hành động phản kích, nhận đến tổn thương giảm bớt 50% gò bó duy trì liên tục thời gian 70 giây (sẽ căn cứ địch nhân đẳng cấp thuộc tính, gò bó số lượng mà biến hóa ). »
+
+« triệu hoán Nguyên Tố Vu Yêu (cấp 70 ): Lợi dụng khác biệt nguyên tố đạo cụ, triệu hồi ra tương ứng Nguyên Tố Vu Yêu, đạo cụ đẳng cấp càng cao, Vu Yêu thuộc tính thì càng mạnh. Đồng loại loại hình Vu Yêu chỉ có thể đồng thời tồn tại một cái, kỹ năng đẳng cấp càng cao, có thể đồng thời tồn tại Vu Yêu số lượng cũng càng nhiều. »
+
+« triệu hoán Khô Lâu Vương: Tập hợp vong linh quân đoàn bên trong khô lâu triệu hồi ra cường đại Khô Lâu Vương, Khô Lâu Vương thấp nhất để cho 10000 tên khô lâu thành viên tập hợp mà thành. »
+
+« Vong Linh nhìn chăm chú (cấp 70 ): Triệu hoán Vong Linh Chi Nhãn, đốt cháy Bất Tử Hỏa Diễm, đối mục tiêu tạo thành linh hồn tổn thương, lực tổn thương từ kỹ năng đẳng cấp cùng linh hồn cường độ quyết định. »
+
+« hài cốt trường mâu (cấp 70 ): Phóng thích hài cốt trường mâu công kích địch nhân tạo thành vật lý tổn thương, trường mâu nắm giữ cường đại xuyên thấu tính, uy lực từ kỹ năng đẳng cấp cùng tinh thần lực thuộc tính quyết định. »*
+
+Triệu hoán vật thuộc tính (cấp 70 )
+
+« Bạch Kim cấp khô lâu Cuồng Chiến Sĩ »
+
+Đẳng cấp 70
+
+Lực lượng 9 60000
+
+Nhanh nhẹn 9 60000
+
+Tinh thần 9 60000
+
+Thể chất 9 60000
+
+« kỹ năng: Cuồng bạo oanh sát (cấp 4 ) »
+
+« cuồng bạo oanh sát (cấp 4 ): Đối mục tiêu tạo thành tự thân lực lượng 800% tổn thương, thời gian cooldown 10 phút. »
+
+« Bạch Kim cấp khô lâu Đại Pháp Sư »
+
+Đẳng cấp 70
+
+Lực lượng 1 60000
+
+Nhanh nhẹn 1 60000
+
+Tinh thần 3 200000
+
+Thể chất 1 60000
+
+« kỹ năng: Nguyên tố bạo loạn »
+
+« nguyên tố bạo tạc: Tạo thành phạm vi lớn hỗn hợp nguyên tố tổn thương. »
+
+« Bạch Kim cấp khô lâu Thần Xạ Thủ »
+
+Đẳng cấp 70
+
+Lực lượng 40.0000
+
+Nhanh nhẹn 6 40.000
+
+Tinh thần 40.0000
+
+Thể chất 40.0000
+
+« kỹ năng: Linh hồn bắn giết »
+
+« linh hồn bắn giết: Khóa chặt linh hồn, tạo thành Linh Hồn công kích. »
+
+« Bạch Kim cấp Vu Yêu tướng quân »
+
+Đẳng cấp 70
+
+Lực lượng 5 4000
+
+Nhanh nhẹn 5 4000
+
+Tinh thần 5 4000
+
+Thể chất 14 40.000
+
+« kỹ năng: Quân đoàn cường hóa (cấp 7 ) »
+
+« quân đoàn cường hóa (cấp 7 ): Toàn thuộc tính tăng lên 70% tốc độ công kích tăng lên 70% thi pháp tốc độ tăng lên 70% lực phòng ngự vật lý tăng lên 70% nguyên tố lực phòng ngự tăng lên 70% khống chế sức chống cự tăng lên 70%. »
+
+« kỹ năng: Quân đoàn khôi phục (cấp 7 ) »
+
+« quân đoàn điều trị (cấp 7 ): Đối quân đoàn thành viên tiến hành điều trị, khôi phục tổn thương. »
+
+« kỹ năng: Loại bỏ (cấp 7 ) »
+
+« loại bỏ (cấp 7 ): Loại bỏ quân đoàn thành viên nhận đến tất cả dị thường trạng thái. (90 cấp trở lên dị thường trạng thái không có hiệu quả ) »
+
+« Khô Lâu Vương »(chịu nhân vật chính đẳng cấp hạn chế, không cách nào đạt tới ngàn vạn thuộc tính )
+
+Khô lâu số lượng: 100000
+
+Lực lượng 24 99999
+
+Nhanh nhẹn 24 99999
+
+Tinh thần 24 99999
+
+Thể chất 24 99999
+
+« kỹ năng: Chém thần, nguyên tố bạo loạn, Tuyệt Đối Phòng Ngự »
+
+« đặc tính: Sinh mệnh lực cường hóa, lực công kích cường hóa, tốc độ cường hóa »
+
+« chém thần: Bộc phát tự thân lực lượng thuộc tính 10 lần lực tổn thương, đối đơn thể hoặc phạm vi tạo thành đả kích, thời gian cooldown 1 phút. »
+
+« nguyên tố bạo loạn: Bộc phát tự thân tinh thần thuộc tính 10 lần nguyên tố tổn thương, đối đơn thể hoặc phạm vi tạo thành đả kích, thời gian cooldown 1 phút. »
+
+« Tuyệt Đối Phòng Ngự: Đối tất cả tổn thương miễn dịch 99% miễn dịch tất cả mặt trái trạng thái, duy trì liên tục thời gian 1 phút, thời gian cooldown 10 phút. »
+
+« Không Đầu Kỵ Sĩ »
+
+Đẳng cấp 70
+
+Lực lượng 10 80.000
+
+Nhanh nhẹn 6 40.000
+
+Tinh thần 6 40.000
+
+Thể chất 1 280000
+
+« kỹ năng: Xung phong »
+
+« xung phong: Lấy mỗi giây 3000 mét tốc độ tiến hành xung phong, đối ven đường địch nhân tạo thành tự thân lực lượng thuộc tính 5 lần tổn thương. Thời gian cooldown 1 phút »
+
+« kỹ năng: Đoàn thể phòng ngự »
+
+« đoàn thể phòng ngự: Tạo thành đoàn đội phòng ngự, có thể cùng cùng binh chủng tiến hành điệp gia, tăng cường lực phòng ngự »
+
+« kỹ năng: Miễn trừ »
+
+« miễn trừ (kỹ năng bị động ): Miễn trừ tất cả mặt trái trạng thái »
+
+« Bạch Kim cấp Nguyên Tố Vu Yêu »
+
+Đẳng cấp 70
+
+Lực lượng 40.0000
+
+Nhanh nhẹn 40.0000
+
+Tinh thần 40.0000
+
+Thể chất 40.0000
+
+Liệt diễm Vu Yêu.
+
+« liệt hỏa quang hoàn: Tại tất cả vong linh quân đoàn thành viên trên thân gia trì liệt hỏa quang hoàn, đối tất cả 1000 mét phạm vi bên trong địch nhân tạo thành hỏa diễm tổn thương, lực tổn thương căn cứ kỹ năng đẳng cấp cùng với Vu Yêu thuộc tính mà định ra. »
+
+Bạo Phong Vu yêu.
+
+« gió bão quang hoàn: Tại tất cả vong linh quân đoàn thành viên trên thân gia trì gió bão quang hoàn, biên độ lớn tăng lên vong linh quân đoàn tốc độ. Hiệu quả căn cứ kỹ năng đẳng cấp cùng với Vu Yêu thuộc tính mà định ra »
+
+Hàn băng Vu Yêu.
+
+« đóng băng quang hoàn: Tại tất cả vong linh quân đoàn thành viên trên thân gia trì đóng băng quang hoàn, đối tất cả 1000 mét phạm vi bên trong địch nhân tạo thành đóng băng hiệu quả, đóng băng hiệu quả căn cứ kỹ năng đẳng cấp cùng với Vu Yêu thuộc tính mà định ra. »
+
+Lớn Địa Vu yêu.
+
+« lớn Địa Quang vòng: Tại tất cả vong linh quân đoàn trên thân gia trì lớn Địa Quang vòng, biên độ lớn tăng lên vong linh quân đoàn lực phòng ngự. Hiệu quả căn cứ kỹ năng đẳng cấp lấy Vu Yêu thuộc tính mà định ra. »
+
+Lôi điện Vu Yêu.
+
+« thiểm điện quang hoàn: Tại tất cả vong linh quân đoàn trên thân gia trì thiểm điện quang hoàn, đối tất cả 1000 mét phạm vi bên trong địch nhân tạo thành thiểm điện tổn thương, có tỉ lệ chế tạo tê liệt hiệu quả. Lực tổn thương căn cứ kỹ năng đẳng cấp cùng với Vu Yêu thuộc tính mà định ra. »
+
+Quang minh Vu Yêu.
+
+« thánh quang quang hoàn: Tại tất cả vong linh quân đoàn trên thân gia trì thánh quang quang hoàn, tăng cường vong linh quân đoàn đối quang nguyên tố tổn thương sức chống cự, gia tăng vong linh quân đoàn đối Hắc Ám Hệ quái vật lực công kích. Hiệu quả căn cứ kỹ năng đẳng cấp lấy Vu Yêu thuộc tính mà định ra. »
+
+Bất Tử Vu Yêu
+
+« Bất Tử Quang Hoàn: Tất cả vong linh quân đoàn thành viên, tại lần đầu nhận đến đả kích trí mạng lúc sẽ không chết đi, quang hoàn sẽ vì đó khôi phục 50% sinh mệnh lực. Quang hoàn thời gian cooldown: 24 giờ »
+
+Kịch Độc Vu yêu
+
+« kịch độc quang hoàn: Tại tất cả vong linh quân đoàn thành viên trên thân gia trì liệt hỏa quang hoàn, đối tất cả 1000 mét phạm vi bên trong địch nhân tạo thành mỗi giây 10 điểm lực lượng tổn thương, có thể không hạn điệp gia. »*
+
+Nhân vật chính thuộc tính (cấp 80 )
+
+« tính danh: Lâm Mặc Ngữ »
+
+« chức nghiệp: Bất Tử Thánh Vương (duy nhất ) »
+
+« đẳng cấp: 80 »
+
+« lực lượng: 737900+ 500000 »
+
+« nhanh nhẹn: 737900+ 500000 »
+
+« tinh thần: 2459550+ 500000 »
+
+« thể chất: 837900+ 500000 »
+
+« trang bị: Quân Chủ quyền trượng »
+
+« thuộc tính đặc biệt: Độc Nguyên Tố miễn dịch, điện nguyên tố miễn dịch, vật lý tổn thương giảm bớt 50% Hỏa Nguyên Tố tổn thương giảm bớt 50% Thủy Nguyên Tố tổn thương giảm bớt 50% Phong Nguyên Tố tổn thương giảm bớt 50% quang nguyên tố tổn thương giảm bớt 80% sinh mệnh lực gia tăng 50% »
+
+« triệu hoán không gian: 4400/4400, »
+
+« vong linh quân đoàn: 60/60 »
+
+« Vu Yêu không gian: 8/9 »
+
+« cự long sào huyệt: 1000/1000 »
+
+« đặc tính: Thần tính lực lượng (cấp 80 ) »
+
+« thiên phú: Toàn diện tăng phúc (cấp 8, duy nhất tính ) toàn diện kết nối (duy nhất tính ) toàn diện tân sinh (duy nhất tính ) »
+
+« linh hồn kỹ năng: Tổn thương dời đi (độ dung hợp 50% ) thi thể bạo liệt (độ dung hợp 20% ) »
+
+« kỹ năng bị động: Trạng thái miễn dịch, nguyên tố chống cự (cấp 1 ) vật lý chống cự (cấp 1 ) Bất Tử Vong Linh »
+
+« kỹ năng chủ động: Linh Hồn Hỏa Diễm (cấp 80 ) hài cốt bọc thép (cấp 80 ) hài cốt răng nanh (cấp 80 ) triệu hoán khô lâu Cuồng Chiến Sĩ (cấp 80 ) triệu hoán khô lâu Đại Pháp Sư (cấp 80 ) triệu hoán khô lâu Thần Xạ Thủ (cấp 80 ) triệu hoán Vu Yêu tướng quân (cấp 80 ) triệu hoán Nguyên Tố Vu Yêu (cấp 80 ) triệu hoán Không Đầu Kỵ Sĩ (cấp 80 ) triệu hoán Khô Lâu Vương, già yếu trớ chú (cấp 80 ) kịch độc trớ chú (cấp 80 ) hài cốt lao ngục (cấp 80 ) thiểm điện Vong Linh cánh (cấp 4 ) Vong Linh nhìn chăm chú (cấp 80 ) hài cốt trường mâu (cấp 80 ) Cường Binh, Tụ Lực, Sát Lục Lĩnh Vực (không thể dùng ) »
+
+« thần tính lực lượng (cấp 80 ): Thăng cấp lúc tất cả thuộc tính ngoài định mức gia tăng 80% tinh thần lực tốc độ khôi phục gia tăng 8000% mệt nhọc tốc độ khôi phục tăng lên 8000%. »
+
+Thiên phú:
+
+« toàn diện tăng phúc (cấp 9 ): Tất cả kỹ năng hiệu quả tăng lên 90 lần. »
+
+« toàn diện kết nối: Cùng triệu hoán vật toàn diện tiến hành kết nối, cộng đồng gánh chịu tổn thương, cộng đồng tiếp thu khôi phục, cộng đồng chia sẻ tinh thần tiêu hao. »
+
+« toàn diện tân sinh: Triệu Hoán Sư cùng triệu hoán vật tại chính thức tử vong lúc sẽ thu hoạch được tân sinh, khôi phục lại trạng thái đỉnh phong, tất cả kỹ năng đều đem thu hoạch được làm lạnh thiết lập lại, vốn thiên phú mỗi phút có thể một lần phát động. »
+
+Bình thường kỹ năng:
+
+« trạng thái miễn dịch: Miễn dịch tất cả mặt trái trạng thái. »
+
+« nguyên tố chống cự (cấp 1 ): Kỹ năng bị động, tự thân cùng triệu hoán vật đối nguyên tố công kích sức chống cự tăng lên 10%. »
+
+« vật lý chống cự (cấp 1 ): Kỹ năng bị động, tự thân cùng triệu hoán vật đối vật lý công kích sức chống cự tăng lên 10%. »
+
+« Bất Tử Vong Linh (bị động ): Vong linh quân đoàn thành viên nhận đến đả kích trí mạng lúc sẽ không tử vong, sẽ trở về triệu hoán không gian đồng thời hoàn toàn khôi phục, có thể một lần nữa đầu nhập chiến đấu. Mỗi cái Vong Linh tại trong vòng năm phút đồng hồ có thể tiến hành hai lần phục sinh, trong vòng năm phút đồng hồ nếu là lần thứ ba tử vong, mới sẽ chân chính tử vong. »
+
+« hài cốt răng nanh (cấp 80 ): Phóng thích hài cốt răng nanh công kích địch nhân, hài cốt răng nanh số lượng cùng uy lực căn cứ kỹ năng đẳng cấp cùng tự thân tinh thần lực mà định ra. »
+
+« hài cốt trường mâu (cấp 80 ): Phóng thích hài cốt trường mâu công kích địch nhân tạo thành vật lý tổn thương, trường mâu nắm giữ cường đại xuyên thấu tính, uy lực từ kỹ năng đẳng cấp cùng tinh thần lực thuộc tính quyết định. »
+
+« hài cốt lao ngục (cấp 80 ): Đối một cái mục tiêu hoặc nhiều cái địch nhân tiến hành gò bó, tạo thành tê liệt hiệu quả. Bị trói buộc địch nhân, không cách nào hành động phản kích, nhận đến tổn thương giảm bớt 50% gò bó duy trì liên tục thời gian 80 giây (sẽ căn cứ địch nhân đẳng cấp thuộc tính, gò bó số lượng mà biến hóa ). »
+
+« hài cốt bọc thép (cấp 80 ): Triệu hoán hài cốt tạo thành bọc thép, cung cấp tương đương với 8000 điểm thể chất lực phòng ngự, cái này kỹ năng cũng có thể đối người khác sử dụng. »
+
+« triệu hoán khô lâu Cuồng Chiến Sĩ (cấp 80 ): Triệu hoán một cái khô lâu Cuồng Chiến Sĩ. »
+
+« triệu hoán khô lâu Đại Pháp Sư (cấp 80 ): Triệu hoán một cái khô lâu Đại Pháp Sư. »
+
+« triệu hoán khô lâu Thần Xạ Thủ (cấp 80 ): Triệu hoán một cái khô lâu Thần Xạ Thủ. »
+
+« triệu hoán Không Đầu Kỵ Sĩ (cấp 80 ): Triệu hoán một cái Không Đầu Kỵ Sĩ. »
+
+« triệu hoán Hài Cốt Cự Long (cấp 80 ): Triệu hồi ra một đầu Hài Cốt Cự Long. »
+
+« triệu hoán Vu Yêu tướng quân (cấp 80 ): Triệu hoán một cái Vu Yêu tướng quân, tạo thành vong linh quân đoàn, mỗi vị Vu Yêu tướng quân có thể mang theo thành viên số lượng giống như là triệu hoán không gian. »
+
+« triệu hoán Nguyên Tố Vu Yêu (cấp 80 ): Lợi dụng khác biệt nguyên tố đạo cụ, triệu hồi ra tương ứng Nguyên Tố Vu Yêu, đạo cụ đẳng cấp càng cao, Vu Yêu thuộc tính thì càng mạnh. Đồng loại loại hình Vu Yêu chỉ có thể đồng thời tồn tại một cái, kỹ năng đẳng cấp càng cao, có thể đồng thời tồn tại Vu Yêu số lượng cũng càng nhiều. »
+
+« già yếu trớ chú (cấp 80 ): Đối 300 mét phạm vi bên trong tất cả địch nhân tiến hành trớ chú, khiến địch nhân tốc độ giảm bớt 6 lần, nhận đến tổn thương gia tăng 60% duy trì liên tục thời gian 1 phút. »
+
+« kịch độc Tinh Bạo (cấp 80 ): Đối 300 mét phạm vi bên trong tất cả địch nhân tiến hành Độc Hệ công kích, khiến địch nhân mỗi giây nhận đến tương đương với 800 điểm lực lượng tổn thương, duy trì liên tục thời gian 100 giây. »
+
+« Linh Hồn Hỏa Diễm (cấp 80 ): Thiêu đốt mục tiêu linh hồn, lực công kích căn cứ tự thân tinh thần lực cùng kỹ năng đẳng cấp mà định ra. »
+
+« Vong Linh nhìn chăm chú (cấp 80 ): Triệu hoán Vong Linh Chi Nhãn, đốt cháy Bất Tử Hỏa Diễm, đối mục tiêu tạo thành linh hồn tổn thương, lực tổn thương từ kỹ năng đẳng cấp cùng linh hồn cường độ quyết định. »
+
+« người chết phục sinh: Lấy thi thể hoặc linh hồn làm môi giới, trong khoảng thời gian ngắn phục sinh đối phương  khiến cho trở thành thủ hạ của mình, đồng thời tăng cường đối phương chiến lực, phục sinh duy trì liên tục thời gian: 24 giờ. »
+
+« vô hạn dung hợp: Đối Vong Linh hoặc kỹ năng tiến hành dung hợp, sáng tạo ra mới Vong Linh cùng kỹ năng. Dung hợp hiệu quả dựa theo dung hợp Vong Linh cùng kỹ năng khác biệt, có thể yếu bớt cũng có thể trên phạm vi lớn tăng cường. »
+
+Linh hồn kỹ năng (thuật pháp ):
+
+« tổn thương dời đi (độ dung hợp 50% ): Bản thân bị tất cả tổn thương đem yếu bớt một lần, lại từ triệu hoán vật gánh chịu. »
+
+« thi thể bạo liệt (độ dung hợp 20% ) dẫn nổ thi thể hoặc là Hài Cốt, đối 100 mét phạm vi bên trong xác định mục tiêu tạo thành thi thể khi còn sống HP 20% tổn thương. »
+
+« triệu hoán Khô Lâu Vương (độ dung hợp 30% ): Dung hợp khô lâu lực lượng triệu hồi ra Khô Lâu Vương, thấp nhất cần dung hợp 1 vạn khô lâu, cao nhất có thể dung hợp 10 vạn khô lâu. Triệu hoán Khô Lâu Vương, cũng không để khô lâu biến mất, cũng sẽ không để khô lâu lực lượng yếu đi. »
+
+« Tụ Lực (độ dung hợp 99% ): Tiêu hao Linh Hồn Chi Lực, tập hợp triệu hoán vật lực lượng, kế thừa triệu hoán vật tất cả kỹ năng, sau khi sử dụng kỹ năng thuộc tính chỉ chịu người sử dụng bản thân linh hồn tầng thứ hạn chế. Ở vào Tụ Lực trạng thái lúc đánh giết địch nhân, có thể thu hoạch địch nhân linh hồn, bổ sung tự thân linh hồn tiêu hao, tăng lên tự thân linh hồn tầng thứ. »
+
+« Cường Binh (độ dung hợp 50% ): Tiêu hao Linh Hồn Lực, tự thân cùng tất cả triệu hoán vật, thuộc tính cơ sở tăng lên 200% tất cả công kích tạo thành tổn thương ngoài định mức tăng lên 500%. Thuộc tính tăng lên biên độ chỉ chịu người sử dụng bản thân linh hồn tầng thứ hạn chế. Tại kỹ năng duy trì liên tục trạng thái lúc đánh giết địch nhân, có thể thu hoạch địch nhân linh hồn, bổ sung tự thân linh hồn tiêu hao, tăng lên tự thân linh hồn tầng thứ. »
+
+« Vong Linh Chi Dực (độ dung hợp 100% ): Triệu hoán Vong Linh Chi Dực, lấy mỗi giây 10000 mét tốc độ bay đi, không cái gì tiêu hao. Như ngoài định mức tiêu hao Linh Hồn Chi Lực, có thể tăng nhanh tốc độ phi hành, vô thượng hạn. »*
+
+Triệu hoán vật thuộc tính (cấp 80 )
+
+« Bạch Kim cấp khô lâu Cuồng Chiến Sĩ »
+
+Đẳng cấp 80
+
+Lực lượng 14 40.000
+
+Nhanh nhẹn 14 40.000
+
+Tinh thần 14 40.000
+
+Thể chất 14 40.000
+
+« kỹ năng: Cuồng bạo oanh sát (cấp 5 ) »
+
+« cuồng bạo oanh sát (cấp 5 ): Đối mục tiêu tạo thành tự thân lực lượng 900% tổn thương, thời gian cooldown 10 phút. »
+
+« Bạch Kim cấp khô lâu Đại Pháp Sư »
+
+Đẳng cấp 80
+
+Lực lượng 2 25000
+
+Nhanh nhẹn 2 25000
+
+Tinh thần 5 40.0000
+
+Thể chất 2 25000
+
+« kỹ năng: Nguyên tố bạo loạn »
+
+« nguyên tố bạo loạn: Tạo thành phạm vi lớn hỗn hợp nguyên tố tổn thương. »
+
+« Bạch Kim cấp khô lâu Thần Xạ Thủ »
+
+Đẳng cấp 80
+
+Lực lượng 630000
+
+Nhanh nhẹn 1170000
+
+Tinh thần 630000
+
+Thể chất 630000
+
+« kỹ năng: Linh hồn bắn giết »
+
+« linh hồn bắn giết: Khóa chặt linh hồn, tạo thành Linh Hồn công kích. »
+
+« Bạch Kim cấp Vu Yêu tướng quân »
+
+Đẳng cấp 80
+
+Lực lượng 9 00000
+
+Nhanh nhẹn 9 00000
+
+Tinh thần 9 00000
+
+Thể chất 2 250000
+
+« kỹ năng: Quân đoàn cường hóa (cấp 8 ) »
+
+« quân đoàn cường hóa (cấp 8 ): Toàn thuộc tính tăng lên 80% tốc độ công kích tăng lên 80% thi pháp tốc độ tăng lên 80% lực phòng ngự vật lý tăng lên 80% nguyên tố lực phòng ngự tăng lên 80% khống chế sức chống cự tăng lên 80%. »
+
+« kỹ năng: Quân đoàn khôi phục (cấp 8 ) »
+
+« quân đoàn điều trị (cấp 8 ): Đối quân đoàn thành viên tiến hành điều trị, khôi phục tổn thương. »
+
+« kỹ năng: Loại bỏ (cấp 8 ) »
+
+« loại bỏ (cấp 8 ): Loại bỏ quân đoàn thành viên nhận đến tất cả dị thường trạng thái. (cấp 96 trở lên dị thường trạng thái không có hiệu quả ) »
+
+« Khô Lâu Vương » 10000
+
+Lực lượng 1050000
+
+Nhanh nhẹn 1050000
+
+Tinh thần 1050000
+
+Thể chất 1050000
+
+« kỹ năng: Chém thần, nguyên tố bạo loạn, Tuyệt Đối Phòng Ngự »
+
+« đặc tính: Sinh mệnh lực cường hóa, lực công kích cường hóa, tốc độ cường hóa »
+
+« chém thần: Bộc phát tự thân lực lượng thuộc tính 10 lần lực tổn thương, đối đơn thể hoặc phạm vi tạo thành đả kích, thời gian cooldown 1 phút. »
+
+« nguyên tố bạo loạn: Bộc phát tự thân tinh thần thuộc tính 10 lần nguyên tố tổn thương, đối đơn thể hoặc phạm vi tạo thành đả kích, thời gian cooldown 1 phút. »
+
+« Tuyệt Đối Phòng Ngự: Đối tất cả tổn thương miễn dịch 99% miễn dịch tất cả mặt trái trạng thái, duy trì liên tục thời gian 1 phút, thời gian cooldown 10 phút. »
+
+« Không Đầu Kỵ Sĩ »
+
+Đẳng cấp 80
+
+Lực lượng 1 800.000
+
+Nhanh nhẹn 10 80.000
+
+Tinh thần 10 80.000
+
+Thể chất 19 80.000
+
+« kỹ năng: Xung phong »
+
+« xung phong: Lấy mỗi giây 5000 mét tốc độ tiến hành xung phong, đối ven đường địch nhân tạo thành tự thân lực lượng thuộc tính 5 lần tổn thương. Thời gian cooldown 1 phút »
+
+« kỹ năng: Đoàn thể phòng ngự »
+
+« đoàn thể phòng ngự: Tạo thành đoàn đội phòng ngự, có thể cùng cùng binh chủng tiến hành điệp gia, tăng cường lực phòng ngự »
+
+« kỹ năng: Miễn trừ »
+
+« miễn trừ (kỹ năng bị động ): Miễn trừ tất cả mặt trái trạng thái »
+
+« Bạch Kim cấp Nguyên Tố Vu Yêu »
+
+Đẳng cấp 80
+
+Lực lượng 8 10000
+
+Nhanh nhẹn 8 10000
+
+Tinh thần 8 10000
+
+Thể chất 8 10000
+
+Liệt diễm Vu Yêu.
+
+« liệt hỏa quang hoàn: Tại tất cả vong linh quân đoàn thành viên trên thân gia trì liệt hỏa quang hoàn, đối tất cả 1000 mét phạm vi bên trong địch nhân tạo thành hỏa diễm tổn thương, lực tổn thương căn cứ kỹ năng đẳng cấp cùng với Vu Yêu thuộc tính mà định ra. »
+
+Bạo Phong Vu yêu.
+
+« gió bão quang hoàn: Tại tất cả vong linh quân đoàn thành viên trên thân gia trì gió bão quang hoàn, biên độ lớn tăng lên vong linh quân đoàn tốc độ. Hiệu quả căn cứ kỹ năng đẳng cấp cùng với Vu Yêu thuộc tính mà định ra »
+
+Hàn băng Vu Yêu.
+
+« đóng băng quang hoàn: Tại tất cả vong linh quân đoàn thành viên trên thân gia trì đóng băng quang hoàn, đối tất cả 1000 mét phạm vi bên trong địch nhân tạo thành đóng băng hiệu quả, đóng băng hiệu quả căn cứ kỹ năng đẳng cấp cùng với Vu Yêu thuộc tính mà định ra. »
+
+Lớn Địa Vu yêu.
+
+« lớn Địa Quang vòng: Tại tất cả vong linh quân đoàn trên thân gia trì lớn Địa Quang vòng, biên độ lớn tăng lên vong linh quân đoàn lực phòng ngự. Hiệu quả căn cứ kỹ năng đẳng cấp lấy Vu Yêu thuộc tính mà định ra. »
+
+Lôi điện Vu Yêu.
+
+« thiểm điện quang hoàn: Tại tất cả vong linh quân đoàn trên thân gia trì thiểm điện quang hoàn, đối tất cả 1000 mét phạm vi bên trong địch nhân tạo thành thiểm điện tổn thương, có tỉ lệ chế tạo tê liệt hiệu quả. Lực tổn thương căn cứ kỹ năng đẳng cấp cùng với Vu Yêu thuộc tính mà định ra. »
+
+Quang minh Vu Yêu.
+
+« thánh quang quang hoàn: Tại tất cả vong linh quân đoàn trên thân gia trì thánh quang quang hoàn, tăng cường vong linh quân đoàn đối quang nguyên tố tổn thương sức chống cự, gia tăng vong linh quân đoàn đối Hắc Ám Hệ quái vật lực công kích. Hiệu quả căn cứ kỹ năng đẳng cấp lấy Vu Yêu thuộc tính mà định ra. »
+
+Bất Tử Vu Yêu
+
+« Bất Tử Quang Hoàn: Tất cả vong linh quân đoàn thành viên, tại lần đầu nhận đến đả kích trí mạng lúc sẽ không chết đi, quang hoàn sẽ vì đó khôi phục 50% sinh mệnh lực. Quang hoàn thời gian cooldown: 24 giờ »
+
+Kịch Độc Vu yêu
+
+« kịch độc quang hoàn: Tại tất cả vong linh quân đoàn thành viên trên thân gia trì liệt hỏa quang hoàn, đối tất cả 1000 mét phạm vi bên trong địch nhân tạo thành mỗi giây 10 điểm lực lượng tổn thương, có thể không hạn điệp gia. »
+
+« Hài Cốt Cự Long »
+
+Đẳng cấp 80
+
+Lực lượng 1 800.000
+
+Nhanh nhẹn 1 800.000
+
+Tinh thần 1 800.000
+
+Thể chất 1 800.000
+
+« kỹ năng: Tử vong Long Tức (cấp 1 ) »
+
+« tử vong Long Tức (cấp 1 ): Phun ra tràn đầy Tử Vong Chi Khí Long Tức, đối mục tiêu tạo thành mục nát tổn thương hại. »*
+
+Chân Thần cảnh thiên phú thuật pháp tư liệu
+
+« tính danh: Lâm Mặc Ngữ »
+
+Thiên phú:
+
+« chí cường (tam giai ): Thuật pháp tăng phúc ba trăm lần, vong linh quân đoàn tất cả thành viên cộng đồng gánh chịu tổn thương, cùng hưởng sinh mệnh cùng tinh thần, bị tổn thương giảm bớt ba lần. Vong linh quân đoàn cùng chủ nhân nhận được dẫn đến tử vong tổn thương lúc lại thu hoạch được tân sinh, nháy mắt khôi phục đến trạng thái đỉnh phong, tất cả thuật pháp thiết lập lại làm lạnh, mỗi 40 giây có thể tân sinh một lần. »
+
+Hằng Tinh cấp thuật pháp:
+
+« trạng thái miễn dịch (độ dung hợp 110% ): Chủ nhân cùng với triệu hoán vật miễn dịch tất cả mặt trái trạng thái, bao gồm thuật pháp, trận pháp, kết giới, trớ chú, mặt trái pháp tắc. »
+
+« Bất Tử Vong Linh (độ dung hợp 110% ): Vong linh quân đoàn thành viên, nhận được trí mạng công kích phía sau đồng thời sẽ không tử vong, đem trọng sinh đến trạng thái đỉnh phong. Mỗi vị Vong Linh tại 150 giây bên trong nắm giữ năm lần cơ hội sống lại. »
+
+« vật lý chống cự (độ dung hợp 110% ): Bị động thuật pháp, tự thân cùng triệu hoán vật đối tất cả vật lý công kích miễn dịch, đối vật sở hữu lý loại pháp tắc tổn thương giảm bớt hai lần. »
+
+« nguyên tố chống cự (độ dung hợp 110% ): Bị động thuật pháp, tự thân cùng triệu hoán vật đối tất cả nguyên tố công kích miễn dịch, đối tất cả nguyên tố loại pháp tắc tổn thương giảm bớt hai lần. »
+
+« Vong Linh nhìn chăm chú (độ dung hợp 110% ): Từ Bất Tử thế giới bên trong triệu hoán Vong Linh Chi Nhãn, đối mục tiêu tạo thành linh hồn tổn thương, lực tổn thương từ linh hồn cường độ quyết định. »
+
+« vô hạn dung hợp (độ dung hợp 110% ): Có thể đối tất cả thuật pháp, tất cả pháp tắc tiến hành dung hợp, sáng tạo ra mới thuật pháp, mới pháp tắc. »
+
+« người chết phục sinh (độ dung hợp 110% ): Lấy thi thể hoặc linh hồn làm môi giới, tại thời gian nhất định bên trong phục sinh mục tiêu. Phục sinh người đem có được khi còn sống đỉnh phong thời kỳ thực lực, giữ lại khi còn sống ký ức, đồng thời nhận đến thuật pháp cùng thiên phú tăng thêm. Chủ nhân đối phục sinh người nắm giữ tuyệt đối quyền chi phối, có thể tùy ý thao túng người điều khiển tư tưởng hành động. Phục sinh người dài nhất thời gian tồn tại, từ chủ người linh hồn tầng thứ quyết định. »
+
+« triệu hoán Hài Cốt Cự Long (độ dung hợp 110% ): Triệu hoán Hài Cốt Cự Long, bình thường ẩn núp tại Hằng Tinh bên trong, kết nối Bất Tử thế giới, lúc cần phải có thể giáng lâm hiện thế. Tử Vong Kỵ Sĩ chiến lực sẽ căn cứ chủ người linh hồn tầng thứ mà định ra. »
+
+« triệu hoán Vu Yêu tướng quân (độ dung hợp 110% ): Triệu hoán Vu Yêu tướng quân, bình thường ẩn núp tại Hằng Tinh bên trong, kết nối Bất Tử thế giới, lúc cần phải có thể giáng lâm hiện thế. Vu Yêu tướng quân nắm giữ thống ngự chỉ huy vong linh quân đoàn năng lực, đồng thời tự thân cũng có thể đầu nhập chiến đấu. Vu Yêu tướng quân có thể thống ngự số lượng cùng chiến lực, sẽ căn cứ chủ người linh hồn tầng thứ mà định ra. »
+
+« triệu hoán Tử Vong Kỵ Sĩ (độ dung hợp 110% ): Triệu hoán Tử Vong Kỵ Sĩ, bình thường ẩn núp tại Hằng Tinh bên trong, kết nối Bất Tử thế giới, lúc cần phải có thể giáng lâm hiện thế. Tử Vong Kỵ Sĩ chiến lực sẽ căn cứ chủ người linh hồn tầng thứ mà định ra. »
+
+« triệu hoán khô lâu thần pháp sư (độ dung hợp 110% ): Triệu hoán khô lâu thần pháp sư, bình thường ẩn núp tại Hằng Tinh bên trong, kết nối Bất Tử thế giới, lúc cần phải có thể giáng lâm hiện thế. Khô lâu thần pháp sư chiến lực sẽ căn cứ chủ người linh hồn tầng thứ mà định ra. »
+
+« triệu hoán khô lâu linh hồn xạ thủ (độ dung hợp 110% ): Triệu hoán khô lâu linh hồn xạ thủ, bình thường ẩn núp tại Hằng Tinh bên trong, kết nối Bất Tử thế giới, lúc cần phải có thể giáng lâm hiện thế. Khô lâu linh hồn xạ thủ chiến lực sẽ căn cứ chủ người linh hồn tầng thứ mà định ra. »
+
+« triệu hoán khô lâu thần chiến sĩ (độ dung hợp 110% ): Triệu hoán khô lâu thần chiến sĩ, bình thường ẩn núp tại Hằng Tinh bên trong, kết nối Bất Tử thế giới, lúc cần phải có thể giáng lâm hiện thế. Khô lâu thần chiến sĩ chiến lực sẽ căn cứ chủ người linh hồn tầng thứ mà định ra. »
+
+« triệu hoán Nguyên Tố Vu Yêu (độ dung hợp 110% ): Sử dụng khác biệt nguyên tố tài liệu triệu hoán loại hình khác nhau Nguyên Tố Vu Yêu. Tài liệu phẩm chất đem quyết định Nguyên Tố Vu Yêu đẳng cấp cùng trưởng thành hạn mức cao nhất, Nguyên Tố Vu Yêu cũng có thể thông qua hấp thu càng cao phẩm chất tài liệu tăng lên trưởng thành hạn mức cao nhất. Nguyên Tố Vu Yêu sẽ không chân chính tử vong, nhận đến trí mạng công kích phía sau sẽ tại thuật pháp Hằng Tinh bên trong trọng sinh. Đồng loại loại hình Nguyên Tố Vu Yêu, đồng thời chỉ có thể tồn tại một cái. »
+
+« linh hồn đốt cháy (độ dung hợp 110% ): Thiêu đốt mục tiêu linh hồn, duy trì liên tục thời gian, hiệu quả, phạm vi từ linh hồn tầng thứ quyết định. »
+
+« linh hồn trớ chú (độ dung hợp 110% ): Đối xác định mục tiêu tiến hành trớ chú, toàn bộ phương hướng giảm xuống mục tiêu tất cả năng lực, mở rộng mục tiêu bị tất cả tổn thương. Duy trì liên tục thời gian, hiệu quả, phạm vi từ linh hồn tầng thứ quyết định. »
+
+« linh hồn kịch độc (độ dung hợp 110% ): Đối mục tiêu phóng ra linh hồn kịch độc, khiến mục tiêu nhận đến duy trì liên tục tính tổn thương. Duy trì liên tục thời gian, hiệu quả, phạm vi từ linh hồn tầng thứ quyết định »
+
+« hài cốt bọc thép (độ dung hợp 110% ): Từ Bất Tử thế giới triệu hoán hài cốt tạo thành bọc thép, bọc thép lực phòng ngự căn cứ linh hồn tầng thứ mà định ra, bọc thép cũng có thể đối người khác sử dụng. »
+
+« hài cốt lao ngục (độ dung hợp 110% ): Đối với địch nhân tiến hành gò bó, tạo thành tê liệt hiệu quả. Bị trói buộc địch nhân, không cách nào hành động phản kích, gò bó số lượng địch nhân cùng thời gian, căn cứ tiêu hao tinh thần lực mà định ra. »
+
+« hài cốt răng nanh (độ dung hợp 110% ): Phóng thích hài cốt răng nanh tiến hành công kích, số lượng cùng uy lực, từ tiêu hao tinh thần lực nhiều ít quyết định. »
+
+« hài cốt trường mâu (độ dung hợp 110% ): Phóng thích hài cốt trường mâu công kích địch nhân tạo thành vật lý tổn thương, trường mâu nắm giữ cường đại xuyên thấu tính, uy lực từ tiêu hao tinh thần lực nhiều ít quyết định. »
+
+« Vong Linh Chi Dực (độ dung hợp 110% ): Triệu hoán Vong Linh Chi Dực, lấy mỗi giây 100 km tốc độ bay đi, không cái gì tiêu hao. Như ngoài định mức tiêu hao Linh Hồn Chi Lực, có thể tăng nhanh tốc độ phi hành, vô thượng hạn. »
+
+Hành Tinh cấp thuật pháp:
+
+« Tụ Lực (độ dung hợp 99% ): Tiêu hao Linh Hồn Chi Lực, tập hợp triệu hoán vật lực lượng, kế thừa triệu hoán vật tất cả kỹ năng, sau khi sử dụng kỹ năng thuộc tính chỉ chịu người sử dụng bản thân linh hồn tầng thứ hạn chế. Ở vào Tụ Lực trạng thái lúc đánh giết địch nhân, có thể thu hoạch địch nhân linh hồn, bổ sung tự thân linh hồn tiêu hao, tăng lên tự thân linh hồn tầng thứ. »
+
+« Cường Binh (độ dung hợp 50% ): Tiêu hao Linh Hồn Lực, tự thân cùng tất cả triệu hoán vật, thuộc tính cơ sở tăng lên 200% tất cả công kích tạo thành tổn thương ngoài định mức tăng lên 500%. Thuộc tính tăng lên biên độ chỉ chịu người sử dụng bản thân linh hồn tầng thứ hạn chế. Tại kỹ năng duy trì liên tục trạng thái lúc đánh giết địch nhân, có thể thu hoạch địch nhân linh hồn, bổ sung tự thân linh hồn tiêu hao, tăng lên tự thân linh hồn tầng thứ. »
+
+« tổn thương dời đi (độ dung hợp 50% ): Bản thân bị tất cả tổn thương đem yếu bớt một lần, lại từ triệu hoán vật gánh chịu. »
+
+« triệu hoán Khô Lâu Vương (độ dung hợp 30% ): Dung hợp khô lâu lực lượng triệu hồi ra Khô Lâu Vương, thấp nhất cần dung hợp 1 vạn khô lâu, cao nhất có thể dung hợp 10 vạn khô lâu. Triệu hoán Khô Lâu Vương, cũng không để khô lâu biến mất, cũng sẽ không để khô lâu lực lượng yếu đi. »
+
+« thi thể bạo liệt (độ dung hợp 40% ): Dẫn nổ thi thể hoặc là Hài Cốt, đối 400 mét phạm vi bên trong xác định mục tiêu tạo thành thi thể khi còn sống HP 40% tổn thương. »
+
+« An Hồn pháp (độ dung hợp 20% ): Có thể phân liệt linh hồn, phân liệt số lượng căn cứ người sử dụng năng lực chưởng khống mà định ra. »
+
+Dung hợp thuật pháp:
+
+« Tử Vong Long Kỵ Sĩ: Từ Hài Cốt Cự Long cùng Tử Vong Kỵ Sĩ dung hợp, kết hợp cả hai ưu điểm mà sáng tạo Tân Thuật pháp »
+
+« Khô Lâu Thần Tướng: Từ khô lâu thần chiến sĩ, khô lâu thần pháp sư, khô lâu linh hồn xạ thủ dung hợp, kết hợp ba ưu điểm mà sáng tạo Tân Thuật pháp »
+
+« thời gian trớ chú: Từ linh hồn phạn đốt, linh hồn trớ chú, linh hồn kịch độc dung hợp mà thành. Vốn có ba loại kỹ năng riêng phần mình tác dụng cơ sở bên trên điều động Thời Gian Pháp Tắc, đối mục tiêu tiến hành trớ chú, tăng nhanh mục tiêu bản thân tốc độ thời gian trôi qua, thời gian lớn nhất tốc độ chảy từ linh hồn tầng thứ quyết định. »
+
+Bát tinh thuật pháp:
+
+« triệu hoán Hài Cốt Cự Long »- « triệu hoán Tử Vong Kỵ Sĩ »- « triệu hoán Nguyên Tố Vu Yêu »- « người chết phục sinh »- « triệu hoán Vu Yêu tướng quân »- « triệu hoán khô lâu thần chiến sĩ »- « triệu hoán khô lâu thần pháp sư »- « triệu hoán khô lâu linh hồn xạ thủ »
+
+Tứ tinh thuật pháp:
+
+« hài cốt trường mâu »- « hài cốt răng nanh »- « hài cốt lao ngục » « hài cốt bọc thép »
+
+Tam tinh thuật pháp
+
+« linh hồn đốt cháy »- « linh hồn trớ chú »- « linh hồn kịch độc »
+
+Vong linh quân đoàn số lượng:
+
+Khô lâu thần chiến sĩ: 100 vạn
+
+Khô lâu thần pháp sư: 100 vạn
+
+Khô lâu linh hồn xạ thủ: 100 vạn
+
+Vu Yêu tướng quân: 50 vạn
+
+Tử Vong Kỵ Sĩ: 50 vạn
+
+Hài Cốt Cự Long: 20 vạn
+
+Nguyên Tố Vu Yêu: 10 chỉ
+
+Người chết phục sinh: 100 vạn
+
+Dung hợp thuật pháp số lượng:
+
+Tử Vong Long Kỵ Sĩ: 20 vạn
+
+Khô Lâu Thần Tướng: 100 vạn *
+
+Nhân vật chính thuật pháp (Thần Vương cảnh )
+
+« tính danh: Lâm Mặc Ngữ »
+
+« cảnh giới: Thần Vương nhất giai »
+
+Thiên phú:
+
+« chí cường (tứ giai ): Thuật pháp tăng phúc bốn trăm lần, vong linh quân đoàn tất cả thành viên cộng đồng gánh chịu tổn thương, cùng hưởng sinh mệnh cùng tinh thần, bị tổn thương giảm bớt bốn lần. Vong linh quân đoàn cùng chủ nhân nhận được dẫn đến tử vong tổn thương lúc lại thu hoạch được tân sinh, nháy mắt khôi phục đến trạng thái đỉnh phong, tất cả thuật pháp thiết lập lại làm lạnh, mỗi 30 giây có thể tân sinh một lần. »
+
+Hằng Tinh cấp thuật pháp:
+
+« Tụ Lực (độ dung hợp 150% ): Tiêu hao Linh Hồn Chi Lực, tiến vào Tụ Lực trạng thái. Tụ Lực dưới trạng thái, đem kế thừa tất cả triệu hoán vật lực lượng cùng thuật pháp, đột phá vốn có tầng thứ, bộc phát ra siêu việt cực hạn lực lượng. Tụ Lực trạng thái đem duy trì liên tục tiêu hao Linh Hồn Lực, theo Linh Hồn Lực yếu bớt, Tụ Lực trạng thái cũng đem duy trì liên tục yếu đi, ở giữa có thể thông qua đánh giết sinh linh, thu hoạch được bọn họ lực lượng, lấy duy trì Tụ Lực trạng thái. Tụ Lực trạng thái đối nhục thân cùng linh hồn có áp lực cực lớn, vượt phụ tải sử dụng, có khả năng tự bạo mà chết. »
+
+« Cường Binh (độ dung hợp 150% ): Tiêu hao Linh Hồn Lực, tiến vào Cường Binh trạng thái. Cường Binh dưới trạng thái, tự thân lấy tất cả triệu hoán vật tạo thành tổn thương, mở rộng 10 lần. Cường Binh trạng thái sẽ kéo dài tiêu hao Linh Hồn Lực, có thể thông qua đánh giết địch nhân bổ sung tiêu hao Linh Hồn Lực. Cường Binh dưới trạng thái, có thể đem lấy được bộ phận Linh Hồn Lực, hấp thu giữ lại thành chính mình lực lượng. Bất quá ngoại lai Linh Hồn Lực nắm giữ tạp chất, tốt nhất là tinh luyện làm sạch phía sau lại đi hấp thu. »
+
+« trạng thái miễn dịch (độ dung hợp 150% ): Chủ nhân cùng với triệu hoán vật miễn dịch tất cả mặt trái trạng thái, bao gồm thuật pháp, trận pháp, kết giới, trớ chú, mặt trái pháp tắc. »
+
+« Bất Tử Vong Linh (độ dung hợp 150% ): Vong linh quân đoàn thành viên, nhận được trí mạng công kích phía sau đồng thời sẽ không tử vong, đem trọng sinh đến trạng thái đỉnh phong. Mỗi vị Vong Linh tại 120 giây bên trong nắm giữ năm lần cơ hội sống lại. »
+
+« vật lý chống cự (độ dung hợp 150% ): Bị động thuật pháp, tự thân cùng triệu hoán vật đối tất cả vật lý công kích miễn dịch, đối vật sở hữu lý loại pháp tắc tổn thương giảm bớt ba lần. »
+
+« nguyên tố chống cự (độ dung hợp 150% ): Bị động thuật pháp, tự thân cùng triệu hoán vật đối tất cả nguyên tố công kích miễn dịch, đối tất cả nguyên tố loại pháp tắc tổn thương giảm bớt ba lần. »
+
+« tổn thương dời đi (độ dung hợp 150% ): Bản thân bị tất cả tổn thương đem yếu bớt ba lần, lại từ triệu hoán vật gánh chịu. »
+
+« Vong Linh nhìn chăm chú (độ dung hợp 150% ): Từ Bất Tử thế giới bên trong triệu hoán Vong Linh Chi Nhãn, đối mục tiêu tạo thành linh hồn tổn thương, lực tổn thương từ linh hồn cường độ quyết định. »
+
+« vô hạn dung hợp (độ dung hợp 150% ): Có thể đối tất cả thuật pháp, tất cả pháp tắc tiến hành dung hợp, sáng tạo ra mới thuật pháp, mới pháp tắc. »
+
+« người chết phục sinh (độ dung hợp 150% ): Lấy thi thể hoặc linh hồn làm môi giới, tại thời gian nhất định bên trong phục sinh mục tiêu. Phục sinh người đem có được khi còn sống đỉnh phong thời kỳ thực lực, giữ lại khi còn sống ký ức, đồng thời nhận đến thuật pháp cùng thiên phú tăng thêm. Chủ nhân đối phục sinh người nắm giữ tuyệt đối quyền chi phối, có thể tùy ý thao túng người điều khiển tư tưởng hành động. Phục sinh người dài nhất thời gian tồn tại, từ chủ người linh hồn tầng thứ quyết định. »
+
+« triệu hoán Khô Lâu Vương (độ dung hợp 150% ): Dung hợp khô lâu lực lượng triệu hồi ra Khô Lâu Vương, thấp nhất cần dung hợp 100 vạn khô lâu, cao nhất có thể dung hợp 1 ức khô lâu. Triệu hoán Khô Lâu Vương, cũng không để khô lâu biến mất, cũng sẽ không để khô lâu lực lượng yếu đi. »
+
+« triệu hoán Hài Cốt Cự Long (độ dung hợp 150% ): Triệu hoán Hài Cốt Cự Long, bình thường ẩn núp tại Hằng Tinh bên trong, kết nối Bất Tử thế giới, lúc cần phải có thể giáng lâm hiện thế. Tử Vong Kỵ Sĩ chiến lực sẽ căn cứ chủ người linh hồn tầng thứ mà định ra. »
+
+« triệu hoán quân đoàn người thống trị (độ dung hợp 150% ): Triệu hoán quân đoàn người thống trị, bình thường ẩn núp tại Hằng Tinh bên trong, kết nối Bất Tử thế giới, lúc cần phải có thể giáng lâm hiện thế. Quân đoàn người thống trị nắm giữ thống ngự chỉ huy vong linh quân đoàn năng lực, đồng thời tự thân cũng có thể đầu nhập chiến đấu. Quân đoàn người thống trị quân có thể thống ngự số lượng cùng chiến lực, sẽ căn cứ chủ người linh hồn tầng thứ mà định ra. »
+
+« triệu hoán Tử Vong Kỵ Sĩ (độ dung hợp 150% ): Triệu hoán Tử Vong Kỵ Sĩ, bình thường ẩn núp tại Hằng Tinh bên trong, kết nối Bất Tử thế giới, lúc cần phải có thể giáng lâm hiện thế. Tử Vong Kỵ Sĩ chiến lực sẽ căn cứ chủ người linh hồn tầng thứ mà định ra. »
+
+« triệu hoán khô lâu thần pháp sư (độ dung hợp 150% ): Triệu hoán khô lâu thần pháp sư, bình thường ẩn núp tại Hằng Tinh bên trong, kết nối Bất Tử thế giới, lúc cần phải có thể giáng lâm hiện thế. Khô lâu thần pháp sư chiến lực sẽ căn cứ chủ người linh hồn tầng thứ mà định ra. »
+
+« triệu hoán khô lâu linh hồn xạ thủ (độ dung hợp 150% ): Triệu hoán khô lâu linh hồn xạ thủ, bình thường ẩn núp tại Hằng Tinh bên trong, kết nối Bất Tử thế giới, lúc cần phải có thể giáng lâm hiện thế. Khô lâu linh hồn xạ thủ chiến lực sẽ căn cứ chủ người linh hồn tầng thứ mà định ra. »
+
+« triệu hoán khô lâu thần chiến sĩ (độ dung hợp 150% ): Triệu hoán khô lâu thần chiến sĩ, bình thường ẩn núp tại Hằng Tinh bên trong, kết nối Bất Tử thế giới, lúc cần phải có thể giáng lâm hiện thế. Khô lâu thần chiến sĩ chiến lực sẽ căn cứ chủ người linh hồn tầng thứ mà định ra. »
+
+« triệu hoán Nguyên Tố Vu Yêu (độ dung hợp 150% ): Sử dụng khác biệt nguyên tố tài liệu triệu hoán loại hình khác nhau Nguyên Tố Vu Yêu. Tài liệu phẩm chất đem quyết định Nguyên Tố Vu Yêu đẳng cấp cùng trưởng thành hạn mức cao nhất, Nguyên Tố Vu Yêu cũng có thể thông qua hấp thu càng cao phẩm chất tài liệu tăng lên trưởng thành hạn mức cao nhất. Nguyên Tố Vu Yêu sẽ không chân chính tử vong, nhận đến trí mạng công kích phía sau sẽ tại thuật pháp Hằng Tinh bên trong trọng sinh. Đồng loại loại hình Nguyên Tố Vu Yêu, đồng thời chỉ có thể tồn tại một cái. »
+
+« linh hồn đốt cháy (độ dung hợp 150% ): Thiêu đốt mục tiêu linh hồn, duy trì liên tục thời gian, hiệu quả, phạm vi từ linh hồn tầng thứ quyết định. »
+
+« linh hồn trớ chú (độ dung hợp 150% ): Đối xác định mục tiêu tiến hành trớ chú, toàn bộ phương hướng giảm xuống mục tiêu tất cả năng lực, mở rộng mục tiêu bị tất cả tổn thương. Duy trì liên tục thời gian, hiệu quả, phạm vi từ linh hồn tầng thứ quyết định. »
+
+« linh hồn kịch độc (độ dung hợp 150% ): Đối mục tiêu phóng ra linh hồn kịch độc, khiến mục tiêu nhận đến duy trì liên tục tính tổn thương. Duy trì liên tục thời gian, hiệu quả, phạm vi từ linh hồn tầng thứ quyết định »
+
+« Vong Linh Chi Dực (độ dung hợp 150% ): Triệu hoán Vong Linh Chi Dực, lấy mỗi giây 1000 km tốc độ bay đi, không cái gì tiêu hao. Như ngoài định mức tiêu hao Linh Hồn Chi Lực, có thể tăng nhanh tốc độ phi hành, vô thượng hạn. »
+
+« thi thể bạo liệt (độ dung hợp 150% ): Dẫn nổ thi thể hoặc là Hài Cốt, đối khóa chặt mục tiêu tạo thành tương đương với thi thể khi còn sống sinh mệnh lực 150% tổn thương. Có thể đồng thời công kích nhiều cái mục tiêu, mục tiêu càng nhiều, tổn thương sẽ bị suy yếu gánh vác. »
+
+« Hài Cốt Địa Ngục (độ dung hợp 150% ): Đem chỉ định khu vực hóa thành Hài Cốt Địa Ngục, Hài Cốt Địa Ngục đem liên thông Vong Linh thế giới địa ngục, tất cả thân ở trong đó địch nhân đều đem nhận đến tới từ địa ngục lực lượng công kích. Nếu như tại Hài Cốt Địa Ngục bên trong chết đi, Chân Linh sẽ tiến vào địa ngục, sẽ thành địa ngục nô lệ. »
+
+« địa ngục nô lệ sẽ không chân chính chết đi, bọn họ lại không ngừng tại trong địa ngục trọng sinh, trừ phi địa ngục hủy diệt, nếu không bọn họ vĩnh viễn đều không thể thoát ly. »
+
+« thân là Hài Cốt Địa Ngục chủ nhân, ngươi sẽ được đến địa ngục bảo vệ, bị Hài Cốt Địa Ngục giết chết càng nhiều người, ngươi liền càng an toàn. »
+
+« Hài Cốt Địa Ngục sẽ tìm xuất xứ có công kích ngươi người, đồng thời đối với nó tiến hành tiêu ký, một khi bị tiêu ký, liền không cách nào thoát ly ngươi linh hồn khóa chặt. »
+
+Hành Tinh cấp thuật pháp:
+
+« An Hồn pháp (độ dung hợp 20% ): Có thể phân liệt linh hồn, phân liệt số lượng căn cứ người sử dụng năng lực chưởng khống mà định ra. »
+
+Dung hợp thuật pháp:
+
+« Khô Lâu Thần Tướng: Từ khô lâu thần chiến sĩ, khô lâu thần pháp sư, khô lâu linh hồn xạ thủ dung hợp, kết hợp ba ưu điểm mà sáng tạo Tân Thuật pháp »
+
+« thời gian trớ chú: Từ linh hồn phạn đốt, linh hồn trớ chú, linh hồn kịch độc dung hợp mà thành. Vốn có ba loại kỹ năng riêng phần mình tác dụng cơ sở bên trên điều động Thời Gian Pháp Tắc, đối mục tiêu tiến hành trớ chú, tăng nhanh mục tiêu bản thân tốc độ thời gian trôi qua, thời gian lớn nhất tốc độ chảy từ linh hồn tầng thứ quyết định. »
+
+Tam tinh thuật pháp
+
+« linh hồn đốt cháy »- « linh hồn trớ chú »- « linh hồn kịch độc »
+
+Cửu tinh thuật pháp:
+
+« triệu hoán Hài Cốt Cự Long »- « triệu hoán Tử Vong Kỵ Sĩ »- « triệu hoán Nguyên Tố Vu Yêu »- « người chết phục sinh »- « triệu hoán Vu Yêu tướng quân »- « triệu hoán khô lâu thần chiến sĩ »- « triệu hoán khô lâu thần pháp sư »- « triệu hoán khô lâu linh hồn xạ thủ »- « triệu hoán Khô Lâu Vương »*
+
+Vong linh quân đoàn (Thần Vương cảnh )
+
+Vong linh quân đoàn số lượng:
+
+Khô lâu thần chiến sĩ: 5000 vạn
+
+Khô lâu thần pháp sư: 5000 vạn
+
+Khô lâu linh hồn xạ thủ: 5000 vạn
+
+Quân đoàn người thống trị: 100 vạn
+
+Tử Vong Kỵ Sĩ: 1000 vạn
+
+Hài Cốt Cự Long: 1000 vạn
+
+Nguyên Tố Vu Yêu: 10 chỉ
+
+Người chết phục sinh: 1000 vạn
+
+« khô lâu thần chiến sĩ »
+
+« đẳng cấp: Thần Vương tam giai »
+
+« khô lâu thần pháp sư »
+
+« đẳng cấp: Thần Vương tam giai »
+
+« khô lâu linh hồn xạ thủ »
+
+« đẳng cấp: Thần Vương tam giai »
+
+« Tử Vong Kỵ Sĩ »
+
+« đẳng cấp: Thần Vương tứ giai »
+
+« Hài Cốt Cự Long »
+
+« đẳng cấp: Thần Vương tứ giai »
+
+« quân đoàn người thống trị »
+
+« đẳng cấp: Thần Vương cửu giai »
+
+« thống ngự đơn vị: 10 vạn »
+
+« năng lực: Thống ngự »
+
+« thống ngự: Có thể thống ngự vong linh quân đoàn, độc lập thành quân. »
+
+« một, có thể đối chính mình quân đoàn tiến hành điều trị, bao gồm độc thương, linh hồn tổn thương, nhục thân tổn hại làm, các loại dị thường trạng thái. »
+
+« hai, có thể mượn giúp Bất Tử Hỏa Diễm phục sinh chính mình chỗ thống trị quân đoàn. »
+
+« bốn, có thể tập hợp toàn bộ quân đoàn lực lượng, đánh ra một kích trí mạng, thời gian cooldown 10 phút. »
+
+« Khô Lâu Thần Tướng »
+
+« đẳng cấp: Thần Vương Bát cấp »
+
+« năng lực: Kiếm khí »
+
+« kiếm khí lực công kích đạt tới Khô Lâu Thần Tướng cảnh giới đỉnh phong, Bất Tử Pháp Tắc Tử chi lực bao trùm kiếm khí bên trên, có thể ăn mòn các loại phòng ngự. »
+
+« Khô Lâu Vương »
+
+« đẳng cấp: Tiểu thần tôn »
+
+« năng lực: Chém thần »
+
+« chém thần: Có thể khóa định mục tiêu tiến hành công kích, bị khóa định mục tiêu không cách nào tiến hành né tránh, đại bộ phận Phòng Ngự Pháp Bảo cũng vô hiệu, đồng thời công kích mục tiêu càng nhiều, lực công kích tương ứng yếu bớt. »
+
+« tốc độ ánh sáng pháp tắc Vu Yêu »
+
+« cảnh giới: Thần Vương cửu giai »
+
+« phẩm giai: Cao đẳng. »
+
+« trưởng thành hạn mức cao nhất: Không có. »
+
+« thuật pháp: Hóa quang (bị động ) »
+
+« hóa quang (bị động ): Chủ nhân cùng cái khác triệu hoán vật, đem hóa thân thành ánh sáng, miễn dịch đại bộ phận vật lý công kích, tốc độ tăng lên đến mỗi giây 15 vạn km. »
+
+« Tinh Quang pháp tắc Vu Yêu »
+
+« cảnh giới: Thần Vương cửu giai »
+
+« phẩm giai: Cao đẳng. »
+
+« trưởng thành hạn mức cao nhất: Không có. »
+
+« thuật pháp: Mộng ảo tinh không »
+
+« mộng ảo tinh không: Đan dệt ra tinh không huyễn cảnh, huyễn cảnh phạm vi lớn nhất 1 vạn cây số. Huyễn cảnh nắm giữ khốn địch mê hoặc tác dụng, cao nhất nhưng khốn ở Thần Vương cảnh đỉnh phong. »
+
+« Hỏa Diễm Pháp Tắc Vu Yêu »
+
+« cảnh giới: Thần Vương cửu giai »
+
+« phẩm giai: Cao đẳng. »
+
+« trưởng thành hạn mức cao nhất: Không có. »
+
+« thuật pháp: Hỏa diễm tinh hà. »
+
+« hỏa diễm tinh hà: Lấy tự thân làm môi giới, triệu hồi ra Hỏa Diễm Pháp Tắc tinh hà hình chiếu tiến hành công kích. »
+
+« người chết phục sinh »
+
+« thời gian tồn tại: 100 ngày »
+
+« khôi phục lại khi còn sống đỉnh phong thực lực, hoàn toàn nghe theo chủ nhân mệnh lệnh làm việc, sẽ không chống lại. »*
+
+Thần Tôn cảnh tư liệu
+
+« tính danh: Lâm Mặc Ngữ »
+
+« cảnh giới: Thần Tôn nhất giai »
+
+Thiên phú:
+
+« Thế Giới Thụ (Ấu Sinh Kỳ ) »
+
+« năng lực một, tăng phúc: Thuật pháp hiệu quả tăng phúc nghìn lần. »
+
+« năng lực hai, kết nối: Vong linh quân đoàn tất cả thành viên cộng đồng gánh chịu tổn thương, cùng hưởng sinh mệnh cùng tinh thần, bị tổn thương giảm bớt gấp mười. »
+
+« năng lực ba, tân sinh: Vong linh quân đoàn cùng chủ nhân nhận được dẫn đến tử vong tổn thương lúc lại thu hoạch được tân sinh, nháy mắt khôi phục đến trạng thái đỉnh phong, tất cả thuật pháp thiết lập lại làm lạnh. Năng lực này có thể liên tục phát động ba lần, phát động ba lần sau tiến nhập làm lạnh trạng thái, thời gian cooldown: 20 giây. »
+
+« năng lực bốn, trái cây: Thế Giới Thụ đem kết ra thế giới quả, dùng thế giới quả, có thể gia tốc thế giới quy tắc diễn hóa, tăng cường thế giới quy tắc. Nếu là Thánh Tôn phía dưới dùng, có xác suất cực nhỏ sinh ra thế giới quy tắc hình thức ban đầu. »
+
+« năng lực năm, linh hoa: Nở rộ đóa hoa có thể đối vong linh quân đoàn thành viên tiến hành hai lần thai nghén, có thể giao cho linh trí. Cần Bỉ Ngạn cảnh trở lên thành viên mới có thể tiến hành hai lần thai nghén. »
+
+Thuật pháp:
+
+« vô hạn dung hợp (độ dung hợp 200% ): Có thể đối tất cả thuật pháp, tất cả pháp tắc tiến hành dung hợp, sáng tạo ra mới thuật pháp, mới pháp tắc. »
+
+« Tụ Lực (độ dung hợp 200% ): Tiêu hao Linh Hồn Chi Lực, tiến vào Tụ Lực trạng thái. Tụ Lực dưới trạng thái, đem kế thừa tất cả triệu hoán vật lực lượng cùng thuật pháp, đột phá vốn có tầng thứ, bộc phát ra siêu việt cực hạn lực lượng. Tụ Lực trạng thái đem duy trì liên tục tiêu hao Linh Hồn Lực, theo Linh Hồn Lực yếu bớt, Tụ Lực trạng thái cũng đem duy trì liên tục yếu đi, ở giữa có thể thông qua đánh giết sinh linh, thu hoạch được bọn họ lực lượng, lấy duy trì Tụ Lực trạng thái. Tụ Lực trạng thái đối nhục thân cùng linh hồn có áp lực cực lớn, vượt phụ tải sử dụng, có khả năng tự bạo mà chết. »
+
+« Cường Binh (độ dung hợp 200% ): Tiêu hao Linh Hồn Lực, tiến vào Cường Binh trạng thái. Cường Binh dưới trạng thái, tự thân lấy tất cả triệu hoán vật tạo thành tổn thương, mở rộng 10 lần. Cường Binh trạng thái sẽ kéo dài tiêu hao Linh Hồn Lực, có thể thông qua đánh giết địch nhân bổ sung tiêu hao Linh Hồn Lực. Cường Binh dưới trạng thái, có thể đem lấy được bộ phận Linh Hồn Lực, hấp thu giữ lại thành chính mình lực lượng. Bất quá ngoại lai Linh Hồn Lực nắm giữ tạp chất, tốt nhất là tinh luyện làm sạch phía sau lại đi hấp thu. »
+
+« trạng thái miễn dịch (Bạch Tinh Cấp ): Chủ nhân cùng với triệu hoán vật miễn dịch tất cả mặt trái trạng thái. »
+
+« Bất Tử Vong Linh (Bạch Tinh Cấp ): Vong linh quân đoàn thành viên, nhận được trí mạng công kích phía sau cũng không chân chính tử vong, có thể theo chủ nhân ý chí lựa chọn tại chỗ phục sinh, hoặc trở lại thuật pháp Shirahoshi. Mỗi vị thành viên tại 90 giây bên trong nắm giữ sáu lần cơ hội sống lại. »
+
+« vật lý chống cự (Bạch Tinh Cấp ): Bị động thuật pháp, triệu hoán vật miễn dịch bình thường vật lý công kích, đối tất cả pháp tắc loại vật lý tổn thương giảm bớt gấp năm lần, đối quy tắc loại vật lý tổn thương giảm bớt một lần. »
+
+« nguyên tố chống cự (Bạch Tinh Cấp ): Bị động thuật pháp, triệu hoán vật miễn dịch bình thường nguyên tố tổn thương, đối tất cả pháp tắc loại nguyên tố tổn thương giảm bớt gấp năm lần, đối quy tắc loại nguyên tố tổn thương giảm bớt một lần. »
+
+« tổn thương dời đi (Bạch Tinh Cấp ): Bản thân bị tất cả tổn thương đem yếu bớt gấp năm lần, lại từ triệu hoán vật gánh chịu. »
+
+« Vong Linh nhìn chăm chú (Bạch Tinh Cấp ): Từ Bất Tử thế giới triệu hồi ra Vong Linh Chi Nhãn, đối mục tiêu tạo thành linh hồn tổn thương. Triệu Hoán Giả linh hồn càng mạnh thì công kích càng mạnh, không nhận mục tiêu hạn chế số lượng, không nhìn tất cả chướng ngại, không nhìn thời gian giới hạn. »
+
+« triệu hoán quân đoàn người thống trị (Bạch Tinh Cấp: ) triệu hoán quân đoàn người thống trị tiến hành chiến đấu, quân đoàn người thống trị bình thường ẩn núp tại Hằng Tinh bên trong, lúc cần phải có thể giáng lâm hiện thế. Quân đoàn người thống trị nắm giữ thống ngự chỉ huy vong linh quân đoàn năng lực, đồng thời tự thân cũng có thể đầu nhập chiến đấu, là vong linh quân đoàn tướng lĩnh. »
+
+« triệu hoán Khô Lâu Vương (Bạch Tinh Cấp ): Dung hợp dung hợp khô lâu lực lượng triệu hồi ra Khô Lâu Vương, thấp nhất cần dung hợp 100 vạn khô lâu, cao nhất có thể dung hợp 1 ức khô lâu. Triệu hoán Khô Lâu Vương phía sau cũng không khiến khô lâu biến mất, cũng sẽ không để khô lâu lực lượng yếu đi, Khô Lâu Vương là vong linh quân đoàn bên trong đỉnh cấp chiến lực. »
+
+« triệu hoán Khô Lâu Thần Tướng (Bạch Tinh Cấp ): Bình thường ẩn núp tại Shirahoshi bên trong, lúc cần phải có thể giáng lâm hiện thế. Khô Lâu Thần Tướng nắm giữ cực mạnh sức chiến đấu, là vong linh quân đoàn bên trong chủ chiến lực lượng. »
+
+« triệu hoán Tử Vong Long Kỵ Sĩ (Bạch Tinh Cấp ): Triệu hoán Tử Vong Long Kỵ Sĩ tiến hành chiến đấu, Tử Vong Long Kỵ Sĩ bình thường ẩn núp tại Shirahoshi bên trong, lúc cần phải có thể giáng lâm hiện thế. Tử Vong Long Kỵ Sĩ nắm giữ cực mạnh sức chiến đấu, là vong linh quân đoàn bên trong cao giai chiến lực. »
+
+« triệu hoán Nguyên Tố Vu Yêu (Bạch Tinh Cấp ): Sử dụng các loại tài liệu triệu hoán tương ứng loại hình Nguyên Tố Vu Yêu, triệu hoán đi ra Vu Yêu, có thể tại triệu hoán tài liệu cơ sở bên trên có tăng lên. Nguyên Tố Vu Yêu sẽ không chân chính tử vong, nhận đến trí mạng công kích phía sau sẽ tại Shirahoshi bên trong trọng sinh, đồng dạng Vu Yêu, chỉ có thể tồn tại một cái. »
+
+« người chết phục sinh (Bạch Tinh Cấp ): Lấy thi thể hoặc linh hồn làm môi giới phục sinh mục tiêu, đem mục tiêu chuyển hóa thành phục sinh người. Phục sinh người đem tồn tại 100 ngày, nắm giữ khi còn sống đỉnh phong thời kỳ thực lực, giữ lại khi còn sống ký ức, chủ nhân đối phục sinh người nắm giữ tuyệt đối quyền chi phối. Phục sinh vượt qua chủ nhân một cái đại cảnh giới mục tiêu, có khả năng sẽ gây nên mục tiêu phản kháng, cuối cùng dẫn đến mục tiêu mất khống chế. »
+
+« Hài Cốt Địa Ngục (Bạch Tinh Cấp ): Đem chỉ định khu vực hóa thành Hài Cốt Địa Ngục, Hài Cốt Địa Ngục nối liền chân thật ngục, tất cả thân ở trong đó địch nhân đều đem nhận đến tới từ địa ngục lực lượng công kích. Hài Cốt Địa Ngục bên trong đem sinh ra đến từ chân thật ngục đáng sợ Hung Linh, tất cả chết tại Hài Cốt Địa Ngục bên trong người, Chân Linh đều đem bị Hung Linh hấp thu. Hấp thu lực lượng càng nhiều, Hung Linh liền càng cường đại, số lượng cũng sẽ tùy theo gia tăng. »
+
+« chỉ cần chân thật ngục không có hủy diệt, Hài Cốt Địa Ngục đem vĩnh viễn không hủy, dù cho bị đánh nát cũng sẽ tại thời gian nhất định phía sau lần nữa khôi phục. »
+
+« thân là Hài Cốt Địa Ngục chủ nhân, ngươi đem mỗi giờ mỗi khắc nhận đến địa ngục bảo vệ. Hài Cốt Địa Ngục tiêu chí nhớ tất cả người công kích, một khi bị tiêu ký, liền không cách nào thoát ly ngươi linh hồn khóa chặt. »
+
+« thi thể bạo liệt (Bạch Tinh Cấp ): Dẫn nổ thi thể hoặc là Hài Cốt, đối khóa chặt mục tiêu tạo thành tương đương với thi thể khi còn sống sinh mệnh lực 100% tổn thương. Có thể đồng thời công kích nhiều cái mục tiêu, mục tiêu càng nhiều, tổn thương sẽ bị suy yếu gánh vác. Công kích không nhìn tất cả chướng ngại vật, không nhìn thời gian giới hạn. »
+
+« Vong Linh Chi Dực (Bạch Tinh Cấp ): Triệu hoán Vong Linh Chi Dực, lấy Linh Hồn Lực khởi động tiến hành phi hành, tốc độ từ Linh Hồn Lực mạnh yếu quyết định, không có lên hạn. Đạt tới trình độ nhất định về sau, có thể phát động Không Gian Pháp Tắc. »
+
+« thời gian trớ chú (Bạch Tinh Cấp ): Tại 24 giờ bên trong, duy trì liên tục thiêu đốt mục tiêu linh hồn, đồng thời khiến cho linh hồn tiến vào trúng độc trạng thái, duy trì liên tục bị thương tổn. Đồng thời toàn bộ phương hướng giảm xuống mục tiêu các hạng năng lực. »
+
+« thi chú người có thể khiến mục tiêu tiến vào Thời Gian Gia Tốc trạng thái, cao nhất có thể gia tốc đến 1000 lần. »
+
+Vong linh quân đoàn:
+
+Khô Lâu Thần Tướng: 5 ức
+
+Tử Vong Long Kỵ Sĩ: 1 ức
+
+Quân đoàn người thống trị: 200 vạn
+
+Người chết phục sinh: 1 ức
+
+Nguyên Tố Vu Yêu: 10
+
+« Khô Lâu Thần Tướng »
+
+« đẳng cấp: Thần Tôn Lục Giai »
+
+« năng lực: Kiếm khí »
+
+« kiếm khí lực công kích đạt tới Khô Lâu Thần Tướng cảnh giới đỉnh phong, Bất Tử Pháp Tắc Tử chi lực bao trùm kiếm khí bên trên, có thể ăn mòn các loại phòng ngự. »
+
+« Tử Vong Long Kỵ Sĩ »
+
+« đẳng cấp: Thần Tôn Thất Giai »
+
+« năng lực một: Long Tức, phun ra ẩn chứa mãnh liệt tính ăn mòn Long Tức, đối với địch nhân tạo thành to lớn tổn thương. »
+
+« năng lực hai: Công kích, có thể đối mục tiêu phát động công kích, công kích cực hạn khoảng cách là 100 vạn km, tốc độ cực hạn là 30 vạn km mỗi giây. »
+
+« quân đoàn người thống trị »
+
+« đẳng cấp: Thần Tôn bát giai »
+
+« thống ngự đơn vị: 10 vạn »
+
+« năng lực: Thống ngự »
+
+« thống ngự: Có thể thống ngự vong linh quân đoàn, độc lập thành quân. »
+
+« một, có thể đối chính mình quân đoàn tiến hành điều trị. »
+
+« hai, có thể mượn giúp Bất Tử Hỏa Diễm phục sinh chính mình chỗ thống trị quân đoàn. »
+
+« ba, có thể tập hợp toàn bộ quân đoàn lực lượng, đánh ra một kích trí mạng, thời gian cooldown 1 phút. »
+
+« Khô Lâu Vương »
+
+« đẳng cấp: Thần Tôn cửu giai »
+
+« năng lực: Chém thần »
+
+« chém thần: Có thể khóa định mục tiêu tiến hành công kích, bị khóa định mục tiêu không cách nào tiến hành né tránh, đại bộ phận Phòng Ngự Pháp Bảo cũng vô hiệu, đồng thời công kích mục tiêu càng nhiều, lực công kích tương ứng yếu bớt. »*
+
+Bỉ Ngạn cảnh tư liệu
+
+« tính danh: Lâm Mặc Ngữ »
+
+« cảnh giới: Bỉ Ngạn cảnh »
+
+Thiên phú:
+
+« Thế Giới Thụ (Ấu Sinh Kỳ ) »
+
+« năng lực một, tăng phúc: Thuật pháp hiệu quả tăng phúc nghìn lần. »
+
+« năng lực hai, kết nối: Vong linh quân đoàn tất cả thành viên cộng đồng gánh chịu tổn thương, cùng hưởng sinh mệnh cùng tinh thần, bị tổn thương giảm bớt gấp mười. »
+
+« năng lực ba, tân sinh: Vong linh quân đoàn cùng chủ nhân nhận được dẫn đến tử vong tổn thương lúc lại thu hoạch được tân sinh, nháy mắt khôi phục đến trạng thái đỉnh phong, tất cả thuật pháp thiết lập lại làm lạnh. Năng lực này có thể liên tục phát động ba lần, thời gian cooldown: 20 giây. »
+
+« năng lực bốn, trái cây: Thế Giới Thụ đem kết ra thế giới quả, dùng thế giới quả, có thể gia tốc thế giới quy tắc diễn hóa, tăng cường thế giới quy tắc, có tỉ lệ để thế giới quy tắc tấn thăng, đến đạt hoàn mỹ. Nếu là Thánh Tôn phía dưới dùng, thì có tỉ lệ sinh ra thế giới quy tắc hình thức ban đầu. »
+
+« năng lực năm, linh hoa: Nở rộ đóa hoa có thể đối vong linh quân đoàn thành viên tiến hành hai lần thai nghén, có thể giao cho linh trí. Cần Bỉ Ngạn cảnh trở lên thành viên mới có thể tiến hành hai lần thai nghén. »
+
+« năng lực sáu, lá cây: Thế Giới Thụ lá ẩn chứa Thế Giới Bổn Nguyên lực lượng, có thể dùng để luyện khí luyện đan. »
+
+Thuật pháp:
+
+« vô hạn dung hợp (độ dung hợp 200% ): Có thể đối tất cả thuật pháp, tất cả pháp tắc tiến hành dung hợp, sáng tạo ra mới thuật pháp, mới pháp tắc. »
+
+« Tụ Lực (độ dung hợp 200% ): Tiêu hao Linh Hồn Chi Lực, tiến vào Tụ Lực trạng thái. Tụ Lực dưới trạng thái, đem kế thừa tất cả triệu hoán vật lực lượng cùng thuật pháp, đột phá vốn có tầng thứ, bộc phát ra siêu việt cực hạn lực lượng. Tụ Lực trạng thái đem duy trì liên tục tiêu hao Linh Hồn Lực, theo Linh Hồn Lực yếu bớt, Tụ Lực trạng thái cũng đem duy trì liên tục yếu đi, ở giữa có thể thông qua đánh giết sinh linh, thu hoạch được bọn họ lực lượng, lấy duy trì Tụ Lực trạng thái. Tụ Lực trạng thái đối nhục thân cùng linh hồn có áp lực cực lớn, vượt phụ tải sử dụng, có khả năng tự bạo mà chết. »
+
+« Cường Binh (độ dung hợp 200% ): Tiêu hao Linh Hồn Lực, tiến vào Cường Binh trạng thái. Cường Binh dưới trạng thái, tự thân lấy tất cả triệu hoán vật tạo thành tổn thương, mở rộng 10 lần. Cường Binh trạng thái sẽ kéo dài tiêu hao Linh Hồn Lực, có thể thông qua đánh giết địch nhân bổ sung tiêu hao Linh Hồn Lực. Cường Binh dưới trạng thái, có thể đem lấy được bộ phận Linh Hồn Lực, hấp thu giữ lại thành chính mình lực lượng. Bất quá ngoại lai Linh Hồn Lực nắm giữ tạp chất, tốt nhất là tinh luyện làm sạch phía sau lại đi hấp thu. »
+
+« người chết phục sinh (bản nguyên cấp ): Lấy thi thể hoặc linh hồn làm môi giới phục sinh mục tiêu, đem mục tiêu chuyển hóa thành phục sinh người. Phục sinh người thời gian tồn tại sẽ căn cứ chủ nhân cảnh giới mà định ra (2000 ngày ) phục sinh người có thể tiến vào trạng thái ngủ đông, ngủ đông bên trong thời gian tồn tại sẽ không giảm bớt. »
+
+« phục sinh người thực lực sẽ siêu việt khi còn sống, cụ thể siêu việt tầng thứ, sẽ căn cứ phục sinh người tiềm lực mà định ra. »
+
+« phục sinh người tại chết trận lúc lại tự bạo, tự bạo uy lực siêu việt bản thân cực hạn. »
+
+« phục sinh người sẽ giữ lại khi còn sống ký ức, chủ nhân đối phục sinh người nắm giữ tuyệt đối quyền chi phối. Phục sinh vượt qua chủ nhân hai cái đại cảnh giới mục tiêu, có khả năng sẽ gây nên mục tiêu phản kháng, cuối cùng dẫn đến mục tiêu mất khống chế. »
+
+« phục sinh người số lượng sẽ căn cứ chủ nhân cảnh giới mà định ra, hiện nay cao nhất số lượng: 10 ức. »
+
+« trạng thái miễn dịch (Bạch Tinh Cấp ): Chủ nhân cùng với triệu hoán vật miễn dịch tất cả mặt trái trạng thái. »
+
+« Bất Tử Vong Linh (Bạch Tinh Cấp ): Vong linh quân đoàn thành viên, nhận được trí mạng công kích phía sau cũng không chân chính tử vong, có thể theo chủ nhân ý chí lựa chọn tại chỗ phục sinh, hoặc trở lại thuật pháp Shirahoshi. Mỗi vị thành viên tại 90 giây bên trong nắm giữ sáu lần cơ hội sống lại. »
+
+« vật lý chống cự (Bạch Tinh Cấp ): Bị động thuật pháp, triệu hoán vật miễn dịch bình thường vật lý công kích, đối tất cả pháp tắc loại vật lý tổn thương giảm bớt gấp năm lần, đối quy tắc loại vật lý tổn thương giảm bớt một lần. »
+
+« nguyên tố chống cự (Bạch Tinh Cấp ): Bị động thuật pháp, triệu hoán vật miễn dịch bình thường nguyên tố tổn thương, đối tất cả pháp tắc loại nguyên tố tổn thương giảm bớt gấp năm lần, đối quy tắc loại nguyên tố tổn thương giảm bớt một lần. »
+
+« tổn thương dời đi (Bạch Tinh Cấp ): Bản thân bị tất cả tổn thương đem yếu bớt gấp năm lần, lại từ triệu hoán vật gánh chịu. »
+
+« Vong Linh nhìn chăm chú (Bạch Tinh Cấp ): Từ Bất Tử thế giới triệu hồi ra Vong Linh Chi Nhãn, đối mục tiêu tạo thành linh hồn tổn thương. Triệu Hoán Giả linh hồn càng mạnh thì công kích càng mạnh, không nhận mục tiêu hạn chế số lượng, không nhìn tất cả chướng ngại, không nhìn thời gian giới hạn. »
+
+« triệu hoán quân đoàn người thống trị (Bạch Tinh Cấp: ) triệu hoán quân đoàn người thống trị tiến hành chiến đấu, quân đoàn người thống trị bình thường ẩn núp tại Hằng Tinh bên trong, lúc cần phải có thể giáng lâm hiện thế. Quân đoàn người thống trị nắm giữ thống ngự chỉ huy vong linh quân đoàn năng lực, đồng thời tự thân cũng có thể đầu nhập chiến đấu, là vong linh quân đoàn tướng lĩnh. »
+
+« triệu hoán Khô Lâu Vương (Bạch Tinh Cấp ): Dung hợp dung hợp khô lâu lực lượng triệu hồi ra Khô Lâu Vương, thấp nhất cần dung hợp 100 vạn khô lâu, cao nhất có thể dung hợp 1 ức khô lâu. Triệu hoán Khô Lâu Vương phía sau cũng không khiến khô lâu biến mất, cũng sẽ không để khô lâu lực lượng yếu đi, Khô Lâu Vương là vong linh quân đoàn bên trong đỉnh cấp chiến lực. »
+
+« triệu hoán Khô Lâu Thần Tướng (Bạch Tinh Cấp ): Bình thường ẩn núp tại Shirahoshi bên trong, lúc cần phải có thể giáng lâm hiện thế. Khô Lâu Thần Tướng nắm giữ cực mạnh sức chiến đấu, là vong linh quân đoàn bên trong chủ chiến lực lượng. »
+
+« triệu hoán Tử Vong Long Kỵ Sĩ (Bạch Tinh Cấp ): Triệu hoán Tử Vong Long Kỵ Sĩ tiến hành chiến đấu, Tử Vong Long Kỵ Sĩ bình thường ẩn núp tại Shirahoshi bên trong, lúc cần phải có thể giáng lâm hiện thế. Tử Vong Long Kỵ Sĩ nắm giữ cực mạnh sức chiến đấu, là vong linh quân đoàn bên trong cao giai chiến lực. »
+
+« triệu hoán Nguyên Tố Vu Yêu (Bạch Tinh Cấp ): Sử dụng các loại tài liệu triệu hoán tương ứng loại hình Nguyên Tố Vu Yêu, triệu hoán đi ra Vu Yêu, có thể tại triệu hoán tài liệu cơ sở bên trên có tăng lên. Nguyên Tố Vu Yêu sẽ không chân chính tử vong, nhận đến trí mạng công kích phía sau sẽ tại Shirahoshi bên trong trọng sinh, đồng dạng Vu Yêu, chỉ có thể tồn tại một cái. »
+
+« Hài Cốt Địa Ngục (Bạch Tinh Cấp ): Đem chỉ định khu vực hóa thành Hài Cốt Địa Ngục, Hài Cốt Địa Ngục nối liền chân thật ngục, tất cả thân ở trong đó địch nhân đều đem nhận đến tới từ địa ngục lực lượng công kích. Hài Cốt Địa Ngục bên trong đem sinh ra đến từ chân thật ngục đáng sợ Hung Linh, tất cả chết tại Hài Cốt Địa Ngục bên trong người, Chân Linh đều đem bị Hung Linh hấp thu. Hấp thu lực lượng càng nhiều, Hung Linh liền càng cường đại, số lượng cũng sẽ tùy theo gia tăng. »
+
+« chỉ cần chân thật ngục không có hủy diệt, Hài Cốt Địa Ngục đem vĩnh viễn không hủy, dù cho bị đánh nát cũng sẽ tại thời gian nhất định phía sau lần nữa khôi phục. »
+
+« thân là Hài Cốt Địa Ngục chủ nhân, ngươi đem mỗi giờ mỗi khắc nhận đến địa ngục bảo vệ. Hài Cốt Địa Ngục tiêu chí nhớ tất cả người công kích, một khi bị tiêu ký, liền không cách nào thoát ly ngươi linh hồn khóa chặt. »
+
+« thi thể bạo liệt (Bạch Tinh Cấp ): Dẫn nổ thi thể hoặc là Hài Cốt, đối khóa chặt mục tiêu tạo thành tương đương với thi thể khi còn sống sinh mệnh lực 100% tổn thương. Có thể đồng thời công kích nhiều cái mục tiêu, mục tiêu càng nhiều, tổn thương sẽ bị suy yếu gánh vác. Công kích không nhìn tất cả chướng ngại vật, không nhìn thời gian giới hạn. »
+
+« Vong Linh Chi Dực (Bạch Tinh Cấp ): Triệu hoán Vong Linh Chi Dực, gánh chịu Không Gian Pháp Tắc, mở ra Không Gian Chi Môn, Không Gian Chi Môn có thể vượt qua khoảng cách lấy cảnh giới mà định ra. »
+
+« thời gian trớ chú (Bạch Tinh Cấp ): Duy trì liên tục thiêu đốt mục tiêu linh hồn, đồng thời khiến cho linh hồn duy trì liên tục bị thương tổn, đồng thời toàn bộ phương hướng giảm xuống mục tiêu các hạng năng lực. »
+
+« thi chú người có thể khống chế linh hồn thiêu đốt thời gian cùng tốc độ, dài nhất có thể đạt tới 100 năm »
+
+Vong linh quân đoàn số lượng:
+
+Khô Lâu Thần Tướng: 25 ức
+
+Tử Vong Long Kỵ Sĩ: 5 ức
+
+Quân đoàn người thống trị: 500 vạn
+
+Người chết phục sinh: 20 ức
+
+Nguyên Tố Vu Yêu: 10 chỉ
+
+« Khô Lâu Thần Tướng »
+
+« đẳng cấp: Bỉ Ngạn cảnh »
+
+« năng lực: Kiếm khí »
+
+« kiếm khí lực công kích đạt tới Khô Lâu Thần Tướng cảnh giới đỉnh phong, Bất Tử Pháp Tắc Tử chi lực bao trùm kiếm khí bên trên, có thể ăn mòn các loại phòng ngự. »
+
+« Tử Vong Long Kỵ Sĩ »
+
+« đẳng cấp: Bỉ Ngạn cảnh »
+
+« năng lực một: Long Tức, phun ra ẩn chứa mãnh liệt tính ăn mòn Long Tức, đối với địch nhân tạo thành to lớn tổn thương. »
+
+« năng lực hai: Công kích, có thể đối mục tiêu phát động công kích, công kích cực hạn khoảng cách là 1 ức km, tốc độ cực hạn là mỗi giây 1 ức km. »
+
+« quân đoàn người thống trị »
+
+« đẳng cấp: Bỉ Ngạn cảnh »
+
+« thống ngự đơn vị: 10 vạn »
+
+« năng lực: Thống ngự »
+
+« thống ngự: Có thể thống ngự vong linh quân đoàn, độc lập thành quân. »
+
+« một, có thể đối chính mình quân đoàn tiến hành điều trị. »
+
+« hai, có thể mượn giúp Bất Tử Hỏa Diễm phục sinh chính mình chỗ thống trị quân đoàn. »
+
+« ba, có thể tập hợp toàn bộ quân đoàn lực lượng, đánh ra một kích trí mạng, thời gian cooldown 1 phút. »
+
+« Khô Lâu Vương »
+
+« đẳng cấp: Thánh Tôn »
+
+« năng lực: Chém thần (không có thế giới quy tắc ) »
+
+« chém thần: Có thể khóa định mục tiêu tiến hành công kích, bị khóa định mục tiêu không cách nào tiến hành né tránh, đại bộ phận Phòng Ngự Pháp Bảo cũng vô hiệu, đồng thời công kích mục tiêu càng nhiều, lực công kích tương ứng yếu bớt. »*
+
+Chí Tôn cảnh tư liệu
+
+« tính danh: Lâm Mặc Ngữ »
+
+« cảnh giới: Chí Tôn cảnh »
+
+Thiên phú:
+
+« Thế Giới Thụ (Ấu Sinh Kỳ ) »
+
+« năng lực một, tăng phúc: Thuật pháp hiệu quả tăng phúc nghìn lần. »
+
+« năng lực hai, kết nối: Vong linh quân đoàn tất cả thành viên cộng đồng gánh chịu tổn thương, cùng hưởng sinh mệnh cùng tinh thần, bị tổn thương giảm bớt gấp mười. »
+
+« năng lực ba, tân sinh: Vong linh quân đoàn cùng chủ nhân nhận được dẫn đến tử vong tổn thương lúc lại thu hoạch được tân sinh, nháy mắt khôi phục đến trạng thái đỉnh phong, tất cả thuật pháp thiết lập lại làm lạnh. Năng lực này có thể liên tục phát động ba lần, phát động ba lần sau tiến nhập làm lạnh trạng thái, thời gian cooldown: 20 giây. »
+
+« năng lực bốn, trái cây: Thế Giới Thụ đem kết ra thế giới quả, dùng thế giới quả, có thể gia tốc thế giới quy tắc diễn hóa, tăng cường thế giới quy tắc, có tỉ lệ để thế giới quy tắc tấn thăng, đạt tới hoàn mỹ. Nếu là Thánh Tôn phía dưới dùng, thì có tỉ lệ sinh ra thế giới quy tắc hình thức ban đầu. »
+
+« năng lực năm, linh hoa: Nở rộ đóa hoa có thể đối vong linh quân đoàn thành viên tiến hành hai lần thai nghén, có thể giao cho linh trí. Cần Bỉ Ngạn cảnh trở lên thành viên mới có thể tiến hành hai lần thai nghén. »
+
+« năng lực sáu, lá cây: Thế Giới Thụ lá có thể dùng để luyện khí luyện đan. »
+
+Thuật pháp:
+
+« vô hạn dung hợp: Có thể đối tất cả thuật pháp, tất cả pháp tắc tiến hành dung hợp, sáng tạo ra mới thuật pháp, mới pháp tắc. »
+
+« Tụ Lực (bản nguyên ): Tiêu hao Linh Hồn Chi Lực, tiến vào Tụ Lực trạng thái. Tụ Lực dưới trạng thái, đem kế thừa tất cả triệu hoán vật lực lượng cùng thuật pháp, đột phá vốn có tầng thứ, bộc phát ra siêu việt cực hạn lực lượng. Tụ Lực trạng thái đem duy trì liên tục tiêu hao Linh Hồn Lực, theo Linh Hồn Lực yếu bớt, Tụ Lực trạng thái cũng đem duy trì liên tục yếu đi, ở giữa có thể thông qua đánh giết sinh linh, thu hoạch được bọn họ lực lượng, lấy duy trì Tụ Lực trạng thái. Tụ Lực trạng thái đối nhục thân cùng linh hồn có áp lực cực lớn, vượt phụ tải sử dụng, có khả năng tự bạo mà chết. »
+
+« Cường Binh (bản nguyên ): Tiêu hao Linh Hồn Lực, tiến vào Cường Binh trạng thái. Cường Binh dưới trạng thái, tự thân lấy tất cả triệu hoán vật tạo thành tổn thương, mở rộng 10 lần. Cường Binh trạng thái sẽ kéo dài tiêu hao Linh Hồn Lực, có thể thông qua đánh giết địch nhân bổ sung tiêu hao Linh Hồn Lực. Cường Binh dưới trạng thái, có thể đem lấy được bộ phận Linh Hồn Lực, hấp thu giữ lại thành chính mình lực lượng. Bất quá ngoại lai Linh Hồn Lực nắm giữ tạp chất, tốt nhất là tinh luyện làm sạch phía sau lại đi hấp thu. »
+
+« người chết phục sinh (bản nguyên cấp ): Lấy thi thể hoặc linh hồn làm môi giới phục sinh mục tiêu, đem mục tiêu chuyển hóa thành phục sinh người. Phục sinh người thời gian tồn tại sẽ căn cứ chủ nhân cảnh giới mà định ra (2000 ngày ) phục sinh người có thể tiến vào trạng thái ngủ đông, ngủ đông bên trong thời gian tồn tại sẽ không giảm bớt. »
+
+« phục sinh người thực lực sẽ siêu việt khi còn sống, cụ thể siêu việt tầng thứ, sẽ căn cứ phục sinh người tiềm lực mà định ra. »
+
+« phục sinh người tại chết trận lúc lại tự bạo, tự bạo uy lực siêu việt bản thân cực hạn. »
+
+« phục sinh người sẽ giữ lại khi còn sống ký ức, chủ nhân đối phục sinh người nắm giữ tuyệt đối quyền chi phối. Phục sinh vượt qua chủ nhân hai cái đại cảnh giới mục tiêu, có khả năng sẽ gây nên mục tiêu phản kháng, cuối cùng dẫn đến mục tiêu mất khống chế. »
+
+« phục sinh người số lượng sẽ căn cứ chủ nhân cảnh giới mà định ra, hiện nay cao nhất số lượng: 50 ức. »
+
+« triệu hoán Khô Lâu Vương (bản nguyên cấp ): Dung hợp dung hợp khô lâu lực lượng triệu hồi ra Khô Lâu Vương, thấp nhất cần dung hợp 50 vạn khô lâu, cao nhất có thể dung hợp 5000 vạn khô lâu. Triệu hoán Khô Lâu Vương phía sau cũng không khiến khô lâu biến mất, Khô Lâu Vương tồn tại lúc, có thể tăng cường còn lại khô lâu chiến lực. Khô Lâu Vương thuật pháp, có thể để còn lại khô lâu cùng hưởng. Đồng thời triệu hoán Khô Lâu Vương số lượng càng nhiều, Khô Lâu Vương chiến lực liền càng mạnh. »
+
+« trạng thái miễn dịch (Bạch Tinh Cấp ): Chủ nhân cùng với triệu hoán vật miễn dịch tất cả mặt trái trạng thái. »
+
+« Bất Tử Vong Linh (Bạch Tinh Cấp ): Vong linh quân đoàn thành viên, nhận được trí mạng công kích phía sau cũng không chân chính tử vong, có thể theo chủ nhân ý chí lựa chọn tại chỗ phục sinh, hoặc trở lại thuật pháp Shirahoshi. Mỗi vị thành viên tại 80 giây bên trong nắm giữ bảy lần cơ hội sống lại. »
+
+« vật lý chống cự (Bạch Tinh Cấp ): Bị động thuật pháp, triệu hoán vật miễn dịch bình thường vật lý công kích, đối tất cả pháp tắc loại vật lý tổn thương giảm bớt gấp sáu lần, đối quy tắc loại vật lý tổn thương giảm bớt hai lần. »
+
+« nguyên tố chống cự (Bạch Tinh Cấp ): Bị động thuật pháp, triệu hoán vật miễn dịch bình thường nguyên tố tổn thương, đối tất cả pháp tắc loại nguyên tố tổn thương giảm bớt gấp sáu lần, đối quy tắc loại nguyên tố tổn thương giảm bớt hai lần. »
+
+« tổn thương dời đi (Bạch Tinh Cấp ): Bản thân bị tất cả tổn thương đem yếu bớt gấp năm lần, lại từ triệu hoán vật gánh chịu. »
+
+« Vong Linh nhìn chăm chú (Bạch Tinh Cấp ): Từ Bất Tử thế giới triệu hồi ra Vong Linh Chi Nhãn, đối mục tiêu tạo thành linh hồn tổn thương. Triệu Hoán Giả linh hồn càng mạnh thì công kích càng mạnh, không nhận mục tiêu hạn chế số lượng, không nhìn tất cả chướng ngại, không nhìn thời gian giới hạn. »
+
+« triệu hoán quân đoàn người thống trị (Bạch Tinh Cấp: ) triệu hoán quân đoàn người thống trị tiến hành chiến đấu, quân đoàn người thống trị bình thường ẩn núp tại Hằng Tinh bên trong, lúc cần phải có thể giáng lâm hiện thế. Quân đoàn người thống trị nắm giữ thống ngự chỉ huy vong linh quân đoàn năng lực, đồng thời tự thân cũng có thể đầu nhập chiến đấu, là vong linh quân đoàn tướng lĩnh. »
+
+« triệu hoán Khô Lâu Thần Tướng (Bạch Tinh Cấp ): Bình thường ẩn núp tại Shirahoshi bên trong, lúc cần phải có thể giáng lâm hiện thế. Khô Lâu Thần Tướng nắm giữ cực mạnh sức chiến đấu, là vong linh quân đoàn bên trong chủ chiến lực lượng. »
+
+« triệu hoán Tử Vong Long Kỵ Sĩ (Bạch Tinh Cấp ): Triệu hoán Tử Vong Long Kỵ Sĩ tiến hành chiến đấu, Tử Vong Long Kỵ Sĩ bình thường ẩn núp tại Shirahoshi bên trong, lúc cần phải có thể giáng lâm hiện thế. Tử Vong Long Kỵ Sĩ nắm giữ cực mạnh sức chiến đấu, là vong linh quân đoàn bên trong cao giai chiến lực. »
+
+« triệu hoán Nguyên Tố Vu Yêu (Bạch Tinh Cấp ): Sử dụng các loại tài liệu triệu hoán tương ứng loại hình Nguyên Tố Vu Yêu, triệu hoán đi ra Vu Yêu, có thể tại triệu hoán tài liệu cơ sở bên trên có tăng lên. Nguyên Tố Vu Yêu sẽ không chân chính tử vong, nhận đến trí mạng công kích phía sau sẽ tại Shirahoshi bên trong trọng sinh, đồng dạng Vu Yêu, chỉ có thể tồn tại một cái. »
+
+« Hài Cốt Địa Ngục (Sao Neutron cấp ): Đem chỉ định khu vực hóa thành Hài Cốt Địa Ngục, Hài Cốt Địa Ngục nối liền chân thật ngục, tất cả thân ở trong đó địch nhân đều đem nhận đến tới từ địa ngục lực lượng công kích. Hài Cốt Địa Ngục bên trong đem sinh ra đến từ chân thật ngục đáng sợ Hung Linh, tất cả chết tại Hài Cốt Địa Ngục bên trong người, Chân Linh đều đem bị Hung Linh hấp thu. Hấp thu lực lượng càng nhiều, Hung Linh liền càng cường đại, số lượng cũng sẽ tùy theo gia tăng. »
+
+« chỉ cần chân thật ngục không có hủy diệt, Hài Cốt Địa Ngục đem vĩnh viễn không hủy, dù cho bị đánh nát cũng sẽ tại thời gian nhất định phía sau lần nữa khôi phục. Thân là Hài Cốt Địa Ngục chủ nhân, ngươi đem mỗi giờ mỗi khắc nhận đến địa ngục bảo vệ. Hài Cốt Địa Ngục tiêu chí nhớ tất cả người công kích, một khi bị tiêu ký, liền không cách nào thoát ly ngươi linh hồn khóa chặt. »
+
+« thân là Hài Cốt Địa Ngục chủ nhân, ngươi đem mỗi giờ mỗi khắc nhận đến địa ngục bảo vệ. Hài Cốt Địa Ngục tiêu chí nhớ tất cả người công kích, một khi bị tiêu ký, liền không cách nào thoát ly ngươi khóa chặt. »
+
+« thi thể bạo liệt (Bạch Tinh Cấp ): Dẫn nổ thi thể hoặc là Hài Cốt, đối khóa chặt mục tiêu tạo thành tương đương với thi thể khi còn sống sinh mệnh lực 100% tổn thương. Có thể đồng thời công kích nhiều cái mục tiêu, mục tiêu càng nhiều, tổn thương sẽ bị suy yếu gánh vác. Công kích không nhìn tất cả chướng ngại vật, không nhìn thời gian giới hạn. »
+
+« Vong Linh Chi Dực (Bạch Tinh Cấp ): Triệu hoán Vong Linh Chi Dực, gánh chịu Không Gian Pháp Tắc, mở ra Không Gian Chi Môn, Không Gian Chi Môn có thể vượt qua khoảng cách lấy cảnh giới mà định ra. »
+
+« thời gian trớ chú (Bạch Tinh Cấp ): Duy trì liên tục thiêu đốt mục tiêu linh hồn, đồng thời khiến cho linh hồn duy trì liên tục bị thương tổn, đồng thời toàn bộ phương hướng giảm xuống mục tiêu các hạng năng lực. »
+
+« thi chú người có thể khống chế linh hồn thiêu đốt thời gian cùng tốc độ, dài nhất có thể đạt tới 100 năm »
+
+Vong linh quân đoàn số lượng:
+
+Khô Lâu Thần Tướng: 125 ức
+
+Tử Vong Long Kỵ Sĩ: 25 ức
+
+Quân đoàn người thống trị: 1000 vạn (ngậm Vong Linh thống soái: 50 )
+
+Người chết phục sinh: 50 ức
+
+Nguyên Tố Vu Yêu: 10 chỉ
+
+« Khô Lâu Thần Tướng »
+
+« đẳng cấp: Sơ giai chí tôn »
+
+« năng lực: Kiếm khí »
+
+« kiếm khí lực công kích đạt tới Khô Lâu Thần Tướng cảnh giới đỉnh phong, Bất Tử Pháp Tắc Tử chi lực bao trùm kiếm khí bên trên, có thể ăn mòn các loại phòng ngự. »
+
+« Tử Vong Long Kỵ Sĩ »
+
+« đẳng cấp: Trung giai Chí Tôn cảnh »
+
+« năng lực một: Long Tức, phun ra ẩn chứa mãnh liệt tính ăn mòn Long Tức, đối với địch nhân tạo thành to lớn tổn thương. »
+
+« năng lực hai: Công kích, có thể đối mục tiêu phát động công kích, công kích cực hạn khoảng cách là 1 ức km, tốc độ cực hạn là mỗi giây 1 ức km. »
+
+« quân đoàn người thống trị »
+
+« đẳng cấp: Trung giai Chí Tôn cảnh »
+
+« thống ngự đơn vị: 10 vạn »
+
+« năng lực: Thống ngự »
+
+« thống ngự: Có thể thống ngự vong linh quân đoàn, độc lập thành quân. »
+
+« một, có thể đối chính mình quân đoàn tiến hành điều trị. »
+
+« hai, có thể mượn giúp Bất Tử Hỏa Diễm phục sinh chính mình chỗ thống trị quân đoàn. »
+
+« ba, có thể tập hợp toàn bộ quân đoàn lực lượng, đánh ra một kích trí mạng, thời gian cooldown 1 phút. »
+
+« Khô Lâu Vương »
+
+« đẳng cấp: Đỉnh phong chí tôn »
+
+« thuật pháp: Bạch Cốt Trảm Thần (không có thế giới quy tắc ) »
+
+« Bạch Cốt Trảm Thần: Khóa chặt mục tiêu tiến hành công kích, đồng thời công kích nhục thân cùng linh hồn, bị khóa định mục tiêu không cách nào tiến hành né tránh, cũng vô pháp dùng Pháp Bảo tiến hành phòng ngự. Có thể công kích nhiều cái mục tiêu, mục tiêu thấp hơn mười cái lúc, cũng không giảm xuống tổn thương. Có thể cùng cái khác khô lâu cùng một chỗ tạo thành hợp kích, uy lực sẽ tiến một bước tăng cường. »
+
+« người chết phục sinh (bản nguyên cấp ): Lấy thi thể hoặc linh hồn làm môi giới phục sinh mục tiêu, đem mục tiêu chuyển hóa thành phục sinh người. Phục sinh người thời gian tồn tại sẽ căn cứ chủ nhân cảnh giới mà định ra (2000 ngày ) phục sinh người có thể tiến vào trạng thái ngủ đông, ngủ đông bên trong thời gian tồn tại sẽ không giảm bớt. »
+
+« phục sinh người thực lực sẽ siêu việt khi còn sống, cụ thể siêu việt tầng thứ, sẽ căn cứ phục sinh người tiềm lực mà định ra. »
+
+« phục sinh người tại chết trận lúc lại tự bạo, tự bạo uy lực siêu việt bản thân cực hạn. »
+
+« phục sinh người sẽ giữ lại khi còn sống ký ức, chủ nhân đối phục sinh người nắm giữ tuyệt đối quyền chi phối. Phục sinh vượt qua chủ nhân hai cái đại cảnh giới mục tiêu, có khả năng sẽ gây nên mục tiêu phản kháng, cuối cùng dẫn đến mục tiêu mất khống chế. »
+
+« phục sinh người số lượng sẽ căn cứ chủ nhân cảnh giới mà định ra, hiện nay cao nhất số lượng: 20 ức. »
+
+« Thần Lực Vu Yêu »
+
+« cảnh giới: Đỉnh phong chí tôn »
+
+« phẩm giai: Hoàn mỹ »
+
+« trưởng thành hạn mức cao nhất: Không có. »
+
+« thuật pháp: Nhất Quyền Phá Vạn Pháp, lực lượng đại đạo »
+
+« Nhất Quyền Phá Vạn Pháp: Đối mục tiêu thi triển thuần túy lực lượng công kích, có thể phá vạn pháp, diệt quy tắc, toái linh hồn, không có gì không thể phá! »
+
+« lực lượng đại đạo: Dẫn động Đại Đạo Chi Lực, tăng phúc tự thân, lực lượng đại đạo gia trì bên dưới, tiếp theo ba quyền, lực lượng đem phân biệt tăng phúc gấp mười, gấp trăm lần, nghìn lần. Ba quyền về sau rơi vào làm lạnh, thời gian cooldown phân biệt là mười phút đồng hồ, phần trăm chuông, ngàn phần chuông. »*
+
+Thiên Tôn cảnh tư liệu
+
+« tính danh: Lâm Mặc Ngữ »
+
+« cảnh giới: Thiên Tôn cảnh »
+
+Thiên phú:
+
+« Thế Giới Thụ (trưởng thành kỳ ) »
+
+« năng lực một, tân sinh: Nhận được dẫn đến tử vong tổn thương lúc lại thu hoạch được tân sinh, nháy mắt khôi phục đến trạng thái đỉnh phong, tất cả thuật pháp thiết lập lại làm lạnh. Có thể tại hai mươi giây bên trong liên tục phát động sáu lần, hai mươi giây về sau năng lực thiết lập lại thời gian cooldown. »
+
+« năng lực hai, trái cây: Thế Giới Thụ đem kết ra thế giới trái cây, dùng thế giới trái cây, có thể sinh ra thế giới quy tắc. Đã nắm giữ thế giới quy tắc người dùng, có thể tăng cường thế giới quy tắc. Dùng điều kiện: Bỉ Ngạn cảnh. »
+
+« năng lực ba, linh hoa: Thành thục linh hoa, trị được liệu bất luận cái gì thương thế, nếu là vong linh quân đoàn thành viên sử dụng, có thể dùng sinh ra linh trí. »
+
+« năng lực bốn, lá cây: Thế Giới Thụ lá là rất tốt tài liệu, có thể dùng để luyện khí luyện đan. »
+
+« năng lực năm, nhựa cây: Thế Giới Thụ nước có thể tăng cường cùng Đại Đạo Pháp Tắc độ dung hợp, tăng thêm tốc độ tu luyện, dùng lâu dài, có thể tăng cường thiên phú tu luyện. Mỗi ngày sản lượng: 1000 giọt. »
+
+Thuật pháp:
+
+« vô hạn dung hợp: Có thể đối tất cả thuật pháp, tất cả pháp tắc tiến hành dung hợp, sáng tạo ra mới thuật pháp, mới pháp tắc. »
+
+« Tụ Lực (bản nguyên ): Tiêu hao Linh Hồn Chi Lực, tiến vào Tụ Lực trạng thái. Tụ Lực dưới trạng thái, đem kế thừa tất cả triệu hoán vật lực lượng cùng thuật pháp, đột phá vốn có tầng thứ, bộc phát ra siêu việt cực hạn lực lượng. Tụ Lực trạng thái đem duy trì liên tục tiêu hao Linh Hồn Lực, theo Linh Hồn Lực yếu bớt, Tụ Lực trạng thái cũng đem duy trì liên tục yếu đi, ở giữa có thể thông qua đánh giết sinh linh, thu hoạch được bọn họ lực lượng, lấy duy trì Tụ Lực trạng thái. Tụ Lực trạng thái đối nhục thân cùng linh hồn có áp lực cực lớn, vượt phụ tải sử dụng, có khả năng tự bạo mà chết. »
+
+« Cường Binh (bản nguyên ): Tiêu hao Linh Hồn Lực, tiến vào Cường Binh trạng thái. Cường Binh dưới trạng thái, tự thân lấy tất cả triệu hoán vật tạo thành tổn thương, mở rộng 10 lần. Cường Binh trạng thái sẽ kéo dài tiêu hao Linh Hồn Lực, có thể thông qua đánh giết địch nhân bổ sung tiêu hao Linh Hồn Lực. Cường Binh dưới trạng thái, có thể đem lấy được bộ phận Linh Hồn Lực, hấp thu giữ lại thành chính mình lực lượng. Bất quá ngoại lai Linh Hồn Lực nắm giữ tạp chất, tốt nhất là tinh luyện làm sạch phía sau lại đi hấp thu. »
+
+« người chết phục sinh (bản nguyên cấp ): Lấy thi thể hoặc linh hồn làm môi giới phục sinh mục tiêu, đem mục tiêu chuyển hóa thành phục sinh người. Phục sinh người thời gian tồn tại sẽ căn cứ chủ nhân cảnh giới mà định ra (2000 ngày ) phục sinh người có thể tiến vào trạng thái ngủ đông, ngủ đông bên trong thời gian tồn tại sẽ không giảm bớt. »
+
+« phục sinh người thực lực sẽ siêu việt khi còn sống, cụ thể siêu việt tầng thứ, sẽ căn cứ phục sinh người tiềm lực mà định ra. »
+
+« phục sinh người tại chết trận lúc lại tự bạo, tự bạo uy lực siêu việt bản thân cực hạn. »
+
+« phục sinh người sẽ giữ lại khi còn sống ký ức, chủ nhân đối phục sinh người nắm giữ tuyệt đối quyền chi phối. Phục sinh vượt qua chủ nhân hai cái đại cảnh giới mục tiêu, có khả năng sẽ gây nên mục tiêu phản kháng, cuối cùng dẫn đến mục tiêu mất khống chế. »
+
+« phục sinh người số lượng sẽ căn cứ chủ nhân cảnh giới mà định ra, hiện nay cao nhất số lượng: 30 ức. »
+
+« triệu hoán Khô Lâu Vương (bản nguyên cấp ): Dung hợp dung hợp khô lâu lực lượng triệu hồi ra Khô Lâu Vương. Triệu hoán Khô Lâu Vương phía sau cũng không khiến khô lâu biến mất, Khô Lâu Vương tồn tại lúc, có thể tăng cường còn lại khô lâu chiến lực. »
+
+« Khô Lâu Vương thuật pháp, có thể để còn lại khô lâu cùng hưởng. Đồng thời triệu hoán Khô Lâu Vương số lượng càng nhiều, Khô Lâu Vương chiến lực liền càng mạnh. Nhiều nhất có thể đồng thời tồn tại Khô Lâu Vương số lượng: 1000. »
+
+« tạo thành bạch cốt thế giới quy tắc, bạch cốt thế giới quy tắc đem Vĩnh Hằng tồn tại, bị tất cả Khô Lâu Vương cùng hưởng. »
+
+« triệu hoán Khô Lâu Thần Tướng (bản nguyên cấp ): Thuật pháp Tinh Thần đem sáng tạo một cái bạch cốt thế giới quy tắc, bạch cốt thế giới quy tắc Vĩnh Hằng tồn tại, ngày bình thường Khô Lâu Thần Tướng tại thế giới quy tắc bên trong ẩn núp, lúc cần phải có thể giáng lâm hiện thế. Thế giới quy tắc lực lượng từ tất cả Khô Lâu Thần Tướng cùng hưởng, Khô Lâu Thần Tướng số lượng càng nhiều, thế giới quy tắc cũng đem càng cường đại. »
+
+« Khô Lâu Thần Tướng nắm giữ cực mạnh chiến lực, là vong linh quân đoàn chủ chiến lực lượng, nhiều nhất có thể nắm giữ số lượng: 300 ức. »
+
+« Bất Tử Vong Linh (bản nguyên cấp ): Vong linh quân đoàn thành viên, nhận được trí mạng công kích phía sau cũng không chân chính tử vong, có thể theo chủ nhân ý chí lựa chọn tại chỗ phục sinh, hoặc trở lại thuật pháp Shirahoshi. Mỗi vị thành viên tại bảy mươi giây bên trong nắm giữ bảy lần cơ hội sống lại. »
+
+« tổn thương dời đi (bản nguyên cấp ): Tất cả tổn thương sẽ bị yếu bớt gấp bảy, lại từ triệu hoán vật gánh chịu. »
+
+« trạng thái miễn dịch (bản nguyên cấp ): Chủ nhân cùng với triệu hoán vật miễn dịch tất cả mặt trái trạng thái. »
+
+« vật lý chống cự (bản nguyên cấp ): Bị động thuật pháp, miễn dịch thế giới này bên trong vật sở hữu lý tổn thương, tăng cường đối bản thế giới bên ngoài vật sở hữu lý loại tổn thương sức chống cự. »
+
+« nguyên tố chống cự (bản nguyên cấp ): Bị động thuật pháp, miễn dịch thế giới này bên trong tất cả nguyên tố tổn thương, tăng cường đối bản thế giới bên ngoài tất cả không có làm loại tổn thương sức chống cự. »
+
+« triệu hoán Long Kỵ quân đoàn (bản nguyên cấp ): Triệu hồi ra Long Kỵ quân đoàn, giáng lâm hiện thế, tiến hành chiến đấu! Long Kỵ quân đoàn hạn mức cao nhất: 3000. »
+
+« triệu hoán Nguyên Tố Vu Yêu (bản nguyên cấp ): Có thể sử dụng bản nguyên cấp tài liệu triệu hoán tương ứng loại hình Nguyên Tố Vu Yêu, Nguyên Tố Vu Yêu sẽ không chân chính tử vong, nhận đến trí mạng công kích phía sau sẽ tại thuật pháp Tinh Thần bên trong trọng sinh, đồng dạng Vu Yêu, chỉ có thể tồn tại một cái. Hạn mức cao nhất: 20 chỉ »
+
+« Hài Cốt Địa Ngục (bản nguyên cấp ): Đem chỉ định khu vực hóa thành Hài Cốt Địa Ngục, Hài Cốt Địa Ngục nối liền chân thật ngục, tất cả thân ở trong đó địch nhân đều đem nhận đến tới từ địa ngục lực lượng công kích. Hài Cốt Địa Ngục bên trong đem sinh ra đến từ chân thật ngục đáng sợ Hung Linh, tất cả chết tại Hài Cốt Địa Ngục bên trong người, Chân Linh đều đem bị Hung Linh hấp thu. Hấp thu lực lượng càng nhiều, Hung Linh liền càng cường đại, số lượng cũng sẽ tùy theo gia tăng. »
+
+« chỉ cần chân thật ngục không có hủy diệt, Hài Cốt Địa Ngục đem vĩnh viễn không hủy, dù cho bị đánh nát cũng sẽ tại thời gian nhất định phía sau lần nữa khôi phục. Thân là Hài Cốt Địa Ngục chủ nhân, ngươi đem mỗi giờ mỗi khắc nhận đến địa ngục bảo vệ. Hài Cốt Địa Ngục tiêu chí nhớ tất cả người công kích, một khi bị tiêu ký, liền không cách nào thoát ly ngươi linh hồn khóa chặt. »
+
+« thân là Hài Cốt Địa Ngục chủ nhân, ngươi đem mỗi giờ mỗi khắc nhận đến địa ngục bảo vệ. Hài Cốt Địa Ngục tiêu chí nhớ tất cả người công kích, một khi bị tiêu ký, liền không cách nào thoát ly ngươi khóa chặt. »
+
+« Địa Ngục Hung Linh số lượng: 1000 vạn, phạm vi bao trùm một ngàn km »
+
+« thi thể bạo liệt (bản nguyên cấp ): Dẫn nổ thi thể hoặc là Hài Cốt, đối khóa chặt mục tiêu tạo thành tương đương với thi thể khi còn sống sinh mệnh lực 100% tổn thương. Có thể đồng thời công kích nhiều cái mục tiêu, mục tiêu càng nhiều, tổn thương sẽ bị suy yếu gánh vác. Công kích không nhìn tất cả chướng ngại vật, không nhìn thời gian giới hạn. Có khống chế dẫn nổ thời gian, thời gian dài nhất không cao hơn một năm. »
+
+« Vong Linh Chi Dực (bản nguyên cấp ): Triệu hoán Vong Linh Chi Dực, gánh chịu không gian đại đạo, tiêu hao Linh Hồn Lực tiến hành phi hành, cung cấp Linh Hồn Lực càng mạnh, tốc độ liền càng nhanh. »
+
+« thời gian trớ chú (bản nguyên cấp ): Dẫn động thời gian đại đạo, lấy thời gian chi lực là lưỡi đao, đối mục tiêu tiến hành trớ chú, khiến mục tiêu linh hồn nhận đến trọng thương, đồng thời rơi vào thời gian hỗn loạn trạng thái. »
+
+Vong linh quân đoàn số lượng:
+
+Khô Lâu Thần Tướng: 300 ức
+
+Long Kỵ Sĩ: 300 ức
+
+Người chết phục sinh: 30 ức
+
+Nguyên Tố Vu Yêu: 20 chỉ
+
+« Khô Lâu Thần Tướng »
+
+« đẳng cấp: Đê giai Thiên Tôn »
+
+« năng lực: Bạch Cốt kiếm khí »
+
+« Bạch Cốt kiếm khí ẩn chứa bạch cốt quy tắc lực lượng, đồng thời lại gánh chịu lấy Bất Tử Pháp Tắc, có thể đối mục tiêu tiến hành nhục thân cùng linh hồn song trọng đả kích, đồng thời ăn mòn mục tiêu phòng ngự. »
+
+« Long Kỵ quân đoàn »
+
+« thành viên số lượng: Một ngàn vạn »
+
+« thành viên chiến lực: Đê giai Thiên Tôn »
+
+« đội trưởng chiến lực: Trung giai Thiên Tôn »
+
+« Quân Đoàn Trưởng chiến lực: Trung giai Thiên Tôn »
+
+« quân đoàn năng lực: Bạch cốt chiến trận, thống ngự, Tử Vong Trùng Phong, tử vong thổ tức »
+
+« hai, có thể mượn giúp Bất Tử Hỏa Diễm phục sinh chính mình chỗ thống trị quân đoàn. »
+
+« ba, có thể tập hợp toàn bộ quân đoàn lực lượng, đánh ra một kích trí mạng, thời gian cooldown 1 phút. »
+
+« Khô Lâu Vương »
+
+« đẳng cấp: Trung giai Thiên Tôn »
+
+« thuật pháp: Bạch Cốt Trảm Thần »
+
+« Bạch Cốt Trảm Thần: Khóa chặt mục tiêu tiến hành công kích, đồng thời công kích nhục thân cùng linh hồn, bị khóa định mục tiêu không cách nào tiến hành né tránh, cũng vô pháp dùng Pháp Bảo tiến hành phòng ngự. Có thể công kích nhiều cái mục tiêu, mục tiêu thấp hơn mười cái lúc, cũng không giảm xuống tổn thương. Có thể cùng cái khác khô lâu cùng một chỗ tạo thành hợp kích, uy lực sẽ tiến một bước tăng cường. »
+
+« người chết phục sinh (bản nguyên cấp ): Lấy thi thể hoặc linh hồn làm môi giới phục sinh mục tiêu, đem mục tiêu chuyển hóa thành phục sinh người. Phục sinh người thời gian tồn tại sẽ căn cứ chủ nhân cảnh giới mà định ra (1000 ngày ) phục sinh người có thể tiến vào trạng thái ngủ đông, ngủ đông bên trong thời gian tồn tại sẽ không giảm bớt. »
+
+« phục sinh người thực lực sẽ siêu việt khi còn sống, cụ thể siêu việt tầng thứ, sẽ căn cứ phục sinh người tiềm lực mà định ra. »
+
+« phục sinh người tại chết trận lúc lại tự bạo, tự bạo uy lực siêu việt bản thân cực hạn. »
+
+« phục sinh người sẽ giữ lại khi còn sống ký ức, chủ nhân đối phục sinh người nắm giữ tuyệt đối quyền chi phối. Phục sinh vượt qua chủ nhân hai cái đại cảnh giới mục tiêu, có khả năng sẽ gây nên mục tiêu phản kháng, cuối cùng dẫn đến mục tiêu mất khống chế. »
+
+« phục sinh người số lượng sẽ căn cứ chủ nhân cảnh giới mà định ra, hiện nay cao nhất số lượng: 10 ức. »
+
+« Thần Lực Vu Yêu »
+
+« cảnh giới: Đỉnh phong chí tôn »
+
+« phẩm giai: Hoàn mỹ »
+
+« trưởng thành hạn mức cao nhất: Không có. »
+
+« thuật pháp: Nhất Quyền Phá Vạn Pháp, lực lượng đại đạo »
+
+« Nhất Quyền Phá Vạn Pháp: Đối mục tiêu thi triển thuần túy lực lượng công kích, có thể phá vạn pháp, diệt quy tắc, toái linh hồn, không có gì không thể phá! »
+
+« lực lượng đại đạo: Dẫn động Đại Đạo Chi Lực, tăng phúc tự thân, lực lượng đại đạo gia trì bên dưới, tiếp theo ba quyền, lực lượng đem phân biệt tăng phúc gấp mười, gấp trăm lần, nghìn lần. Ba quyền về sau rơi vào làm lạnh, thời gian cooldown phân biệt là mười phút đồng hồ, phần trăm chuông, ngàn phần chuông. »
+
+« Phật Quốc Vu Yêu »
+
+« cảnh giới: Đỉnh phong chí tôn »
+
+« phẩm giai: Hoàn mỹ »
+
+« trưởng thành hạn mức cao nhất: Không có. »
+
+« thuật pháp: Vĩnh Hằng Phật Quốc, vận mệnh đại đạo »
+
+« Vĩnh Hằng Phật Quốc: Chế tạo một tòa Vĩnh Hằng Phật Quốc, Phật Quốc có thể thu nạp linh hồn, trở thành Phật Quốc tín đồ. Tín đồ càng nhiều, Phật Quốc Vu Yêu chiến lực càng mạnh. »
+
+« vận mệnh đại đạo: Dẫn động Đại Đạo Chi Lực, nhìn trộm tương lai chi mệnh chuyển, có thể tại vận mệnh bên trong phát động công kích, mỗi ngày có thể sử dụng ba lần. »
+
+« Cẩm Y Vu Yêu »
+
+« cảnh giới: Đê giai Thiên Tôn »
+
+« phẩm giai: Hoàn mỹ »
+
+« trưởng thành hạn mức cao nhất: Không có. »
+
+« thuật pháp: Cẩm Y Dạ Hành, đại đạo che chở »
+
+« Cẩm Y Dạ Hành: Có thể dùng Vu Yêu tiến vào ẩn thân trạng thái, tránh được quá lớn bộ phận thăm dò thủ đoạn, có thể không xem tuyệt đại đa số trận pháp. »
+
+« đại đạo che chở: Dẫn động Đại Đạo Chi Lực, lợi dụng đại đạo cái này lực che chở chính mình cùng chủ nhân, có thể chống đỡ ngăn Đạo Tôn phía dưới các loại công kích. Đại đạo che chở không cần triệu hoán, tại chính mình cùng chủ nhân gặp phải nguy hiểm lúc, có thể tự động kích hoạt, tiếp nhận công kích sẽ bị tích lũy, đạt tới cực hạn về sau, đại đạo che chở sẽ mất đi tác dụng, khôi phục thời gian: 24 giờ. »
+
+« Tinh Mị Vu Yêu »
+
+« cảnh giới: Đê giai Thiên Tôn »
+
+« phẩm giai: Hoàn mỹ »
+
+« trưởng thành hạn mức cao nhất: Không có. »
+
+« thuật pháp: Tinh quang mị hoặc, huyễn đại đạo »
+
+« tinh quang mị hoặc: Có thể ảnh hưởng linh hồn, dẫn ra nguyên thủy nhất dục vọng, khiến người rơi vào huyễn cảnh khó mà tự kiềm chế, huyễn cảnh có thể chịu chủ nhân ý chí khống chế. »
+
+« huyễn đại đạo: Dẫn động Đại Đạo Chi Lực, lợi dụng Đại Đạo Chi Lực để linh hồn rơi vào vô biên huyễn cảnh, nếu vô pháp thoát ly huyễn cảnh, sẽ bị vây chết tại huyễn cảnh bên trong. Huyễn đại đạo hiệu quả đem nhận đến các loại điều kiện ảnh hưởng, cao nhất có thể ảnh hưởng cao giai Thiên Tôn. »*
+
+Đạo Tôn cảnh tài liệu tương quan
+
+« tính danh: Lâm Mặc Ngữ »
+
+« cảnh giới: Đạo Tôn cảnh »
+
+Thiên phú:
+
+« Thế Giới Thụ (trưởng thành kỳ ) »
+
+« năng lực một, tân sinh: Nhận được dẫn đến tử vong tổn thương lúc lại thu hoạch được tân sinh, nháy mắt khôi phục đến trạng thái đỉnh phong, tất cả thuật pháp thiết lập lại làm lạnh. Có thể tại hai mươi giây bên trong liên tục phát động tám lần, hai mươi giây về sau năng lực thiết lập lại thời gian cooldown. »
+
+« năng lực hai, trái cây: Thế Giới Thụ đem kết ra thế giới trái cây, dùng thế giới trái cây, có thể sinh ra thế giới quy tắc. Đã nắm giữ thế giới quy tắc người dùng, có thể tăng cường thế giới quy tắc. Dùng điều kiện: Bỉ Ngạn cảnh. »
+
+« năng lực ba, linh hoa: Thành thục linh hoa, có thể chữa trị bất luận cái gì thương thế, nếu là vong linh quân đoàn thành viên sử dụng, có thể dùng sinh ra linh trí. »
+
+« năng lực bốn, lá cây: Thế Giới Thụ lá là cực kì ưu tú vật liệu luyện khí, bộ phận phát sinh dị biến Thế Giới Thụ lá, bọn họ có lẽ có thể diễn hóa ra linh tính, thành linh tính tài liệu. »
+
+« năng lực năm, màu bạc nhựa cây: Màu bạc nhựa cây có thể biên độ lớn tăng lên tốc độ tu luyện, sau khi phục dụng tu luyện, có thể tăng thêm tốc độ tu luyện một đến mười lần không giống nhau, dùng lâu dài, có thể biên độ lớn tăng lên cùng đại đạo độ dung hợp, tăng lên tu luyện tư chất. Mỗi ngày sản lượng: 1000 giọt. »
+
+Thuật pháp:
+
+« vô hạn dung hợp: Có thể đối tất cả thuật pháp, tất cả pháp tắc tiến hành dung hợp, sáng tạo ra mới thuật pháp, mới pháp tắc. »
+
+« Tụ Lực (bản nguyên ): Tiêu hao Linh Hồn Chi Lực, tiến vào Tụ Lực trạng thái. Tụ Lực dưới trạng thái, đem kế thừa tất cả triệu hoán vật lực lượng cùng thuật pháp, đột phá vốn có tầng thứ, bộc phát ra siêu việt cực hạn lực lượng. Tụ Lực trạng thái đem duy trì liên tục tiêu hao Linh Hồn Lực, theo Linh Hồn Lực yếu bớt, Tụ Lực trạng thái cũng đem duy trì liên tục yếu đi, ở giữa có thể thông qua đánh giết sinh linh, thu hoạch được bọn họ lực lượng, lấy duy trì Tụ Lực trạng thái. Tụ Lực trạng thái đối nhục thân cùng linh hồn có áp lực cực lớn, vượt phụ tải sử dụng, có khả năng tự bạo mà chết. »
+
+« Cường Binh (bản nguyên ): Tiêu hao Linh Hồn Lực, tiến vào Cường Binh trạng thái. Cường Binh dưới trạng thái, tự thân cùng tất cả triệu hoán vật tạo thành tổn thương, mở rộng 10 lần. Cường Binh trạng thái sẽ kéo dài tiêu hao Linh Hồn Lực, có thể thông qua đánh giết địch nhân bổ sung tiêu hao Linh Hồn Lực. Cường Binh dưới trạng thái, có thể đem lấy được bộ phận Linh Hồn Lực, hấp thu giữ lại thành chính mình lực lượng. Bất quá ngoại lai Linh Hồn Lực nắm giữ tạp chất, tốt nhất là tinh luyện làm sạch phía sau lại đi hấp thu. »
+
+« người chết phục sinh (bản nguyên cấp ): Lấy thi thể hoặc linh hồn làm môi giới phục sinh mục tiêu, đem mục tiêu chuyển hóa thành phục sinh người. Phục sinh người thời gian tồn tại sẽ căn cứ chủ nhân cảnh giới mà định ra (2000 ngày ) phục sinh người có thể tiến vào trạng thái ngủ đông, ngủ đông bên trong thời gian tồn tại sẽ không giảm bớt. »
+
+« triệu hoán Khô Lâu Vương (bản nguyên cấp ): Triệu hồi ra nắm giữ đạo văn Khô Lâu Vương. Khô Lâu Vương thuật pháp, có thể để cái khác khô lâu cùng hưởng. »
+
+« triệu hoán Khô Lâu Thần Tướng (bản nguyên cấp ): Thuật pháp Tinh Thần đem sáng tạo một cái thế giới quy tắc, tiếp dẫn huyết tinh bạch cốt đại đạo, Khô Lâu Thần Tướng thu hoạch được huyết tinh bạch cốt đại đạo gia trì, đem có thể điều động Đại Đạo Chi Lực tiến hành công kích. »
+
+« triệu hoán Long Kỵ quân đoàn (bản nguyên cấp ): Tại huyết tinh bạch cốt đại đạo làm cơ sở, sáng tạo huyết tinh bạch cốt thế giới, cung cấp Long Kỵ tĩnh dưỡng. Tất cả Long Kỵ quân đoàn trưởng thành, tại huyết tinh bạch cốt thế giới đóa lúc, thương thế sẽ lấy tốc độ nhanh nhất khôi phục. Long Kỵ quân đoàn nhiều nhất có thể nắm giữ số lượng: 10000 »
+
+« triệu hoán Nguyên Tố Vu Yêu (bản nguyên cấp ): Có thể sử dụng bản nguyên cấp tài liệu triệu hoán tương ứng loại hình Nguyên Tố Vu Yêu, Nguyên Tố Vu Yêu sẽ không chân chính tử vong, nhận đến trí mạng công kích phía sau sẽ tại thuật pháp Tinh Thần bên trong trọng sinh, đồng dạng Vu Yêu, chỉ có thể tồn tại một cái. Hạn mức cao nhất: 20 chỉ »
+
+« Bất Tử Vong Linh (bản nguyên cấp ): Vong linh quân đoàn thành viên, nhận được trí mạng công kích phía sau cũng không chân chính tử vong, có thể theo chủ nhân ý chí lựa chọn tại chỗ phục sinh, hoặc trở lại thuật pháp Shirahoshi. Mỗi vị thành viên tại bảy mươi giây bên trong nắm giữ bảy lần cơ hội sống lại. »
+
+« tổn thương dời đi (bản nguyên cấp ): Tất cả tổn thương sẽ bị yếu bớt gấp bảy, lại từ triệu hoán vật gánh chịu. »
+
+« trạng thái miễn dịch (bản nguyên cấp ): Chủ nhân cùng với triệu hoán vật miễn dịch tất cả mặt trái trạng thái. »
+
+« vật lý chống cự (bản nguyên cấp ): Bị động thuật pháp, miễn dịch thế giới này bên trong vật sở hữu lý tổn thương, tăng cường đối bản thế giới bên ngoài vật sở hữu lý loại tổn thương sức chống cự. »
+
+« nguyên tố chống cự (bản nguyên cấp ): Bị động thuật pháp, miễn dịch thế giới này bên trong tất cả nguyên tố tổn thương, tăng cường đối bản thế giới bên ngoài tất cả không có làm loại tổn thương sức chống cự. »
+
+« Hài Cốt Địa Ngục (bản nguyên cấp ): Đem chỉ định khu vực hóa thành Hài Cốt Địa Ngục, Hài Cốt Địa Ngục nối liền chân thật ngục, tất cả thân ở trong đó địch nhân đều đem nhận đến tới từ địa ngục lực lượng công kích. Hài Cốt Địa Ngục bên trong đem sinh ra đến từ chân thật ngục đáng sợ Hung Linh, tất cả chết tại Hài Cốt Địa Ngục bên trong người, Chân Linh đều đem bị Hung Linh hấp thu. Hấp thu lực lượng càng nhiều, Hung Linh liền càng cường đại, số lượng cũng sẽ tùy theo gia tăng. »
+
+« thi thể bạo liệt (bản nguyên cấp ): Dẫn nổ thi thể hoặc là Hài Cốt, đối khóa chặt mục tiêu tạo thành tương đương với thi thể khi còn sống sinh mệnh lực 110% tổn thương. Có thể đồng thời công kích nhiều cái mục tiêu, mục tiêu càng nhiều, tổn thương sẽ bị suy yếu gánh vác. Công kích không nhìn tất cả chướng ngại vật, không nhìn thời gian giới hạn. Có khống chế dẫn nổ thời gian, thời gian dài nhất không cao hơn một năm. »
+
+« Vong Linh Chi Dực (bản nguyên cấp ): Triệu hoán Vong Linh Chi Dực, gánh chịu không gian đại đạo, tiêu hao Linh Hồn Lực tiến hành phi hành, cung cấp Linh Hồn Lực càng mạnh, tốc độ liền càng nhanh. »
+
+« thời gian trớ chú (bản nguyên cấp ): Dẫn động thời gian đại đạo, lấy thời gian chi lực là lưỡi đao, đối mục tiêu tiến hành trớ chú, khiến mục tiêu linh hồn nhận đến trọng thương, đồng thời rơi vào thời gian hỗn loạn trạng thái. »
+
+« Khô Lâu Thần Tướng »
+
+« đẳng cấp: Đạo Tôn hai cảnh »
+
+« đại đạo thuật pháp: Bạch Cốt Huyết kiếm »
+
+« Bạch Cốt Huyết kiếm nắm giữ huyết tinh bạch cốt Đại Đạo Chi Lực, có thể đối mục tiêu nhục thân cùng linh hồn tiến hành song trọng đả kích. »
+
+« Long Kỵ quân đoàn »
+
+« thành viên số lượng: 1000 vạn »
+
+« thành viên chiến lực: Đạo Tôn hai cảnh »
+
+« Quân Đoàn Trưởng chiến lực: Đạo Tôn hai cảnh »
+
+« quân đoàn năng lực: Đại đạo chiến trận, huyết tinh công kích, huyết tinh thổ tức »
+
+« Quân Đoàn Trưởng năng lực: Một kích trí mạng, phục sinh »
+
+« đại đạo chiến trận: Tạo thành chiến trận, gia trì Đại Đạo Chi Lực, khiến quân đoàn chiến lực biên độ lớn tăng lên, có thể tụ tập nhiều cái quân đoàn, quân đoàn số lượng càng nhiều, chiến lực càng mạnh »
+
+« huyết tinh công kích: Điều động Đại Đạo Chi Lực tiến hành công kích, công kích trạng thái lúc, tốc độ đem tăng lên gấp mười, đối với địch nhân tạo thành mãnh liệt va chạm. »
+
+« huyết tinh thổ tức: Điều động Đại Đạo Chi Lực, phun ra huyết tinh Long Tức, đối Long Tức phạm vi bên trong địch nhân, tạo thành nhục thân cùng linh hồn song trọng đả kích. »
+
+« một kích trí mạng: Long Kỵ Quân Đoàn Trưởng độc nhất thuật pháp, lấy huyết tinh bạch cốt đại đạo là mối quan hệ, tập hợp toàn bộ quân đoàn tất cả lực lượng, đánh ra một kích trí mạng. Thời gian cooldown: 1 phút »
+
+« phục sinh: Long Kỵ Quân Đoàn Trưởng độc nhất thuật pháp, vận dụng Bất Tử Hỏa Diễm, phục sinh Long Kỵ quân đoàn thành viên, mỗi vị thành viên, mỗi mười phút đồng hồ, có thể tiến hành một lần phục sinh. »
+
+« Khô Lâu Vương »
+
+« đẳng cấp: Đạo Tôn Tam cảnh »
+
+« đại đạo thuật pháp: Huyết sát! »
+
+« thuật pháp: Bạch Cốt Trảm Thần »
+
+« huyết sát: Thiêu đốt mục tiêu chi huyết, lấy Đại Đạo Chi Lực đem dẫn nổ, uy lực sẽ căn cứ mục tiêu khí huyết mạnh yếu đến định, mục tiêu khí huyết càng mạnh, huyết sát uy lực cũng liền càng mạnh. »
+
+« Bạch Cốt Trảm Thần: Khóa chặt mục tiêu tiến hành công kích, đồng thời công kích nhục thân cùng linh hồn, bị khóa định mục tiêu không cách nào tiến hành né tránh, cũng vô pháp dùng Pháp Bảo tiến hành phòng ngự. Có thể công kích nhiều cái mục tiêu, mục tiêu thấp hơn trăm cái lúc, cũng không giảm xuống tổn thương. Có thể cùng cái khác khô lâu cùng một chỗ tạo thành hợp kích, uy lực sẽ tiến một bước tăng cường. »
+
+Vong linh quân đoàn số lượng:
+
+Khô Lâu Vương: 3000 chỉ
+
+Khô Lâu Thần Tướng: 1000 ức
+
+Long Kỵ Sĩ: 1000 ức
+
+Người chết phục sinh: 30 ức
+
+Nguyên Tố Vu Yêu: 20 chỉ
+
+« người chết phục sinh (bản nguyên cấp ): Lấy thi thể hoặc linh hồn làm môi giới phục sinh mục tiêu, đem mục tiêu chuyển hóa thành phục sinh người. Phục sinh người thời gian tồn tại sẽ căn cứ chủ nhân cảnh giới mà định ra (1000 ngày ) phục sinh người có thể tiến vào trạng thái ngủ đông, ngủ đông bên trong thời gian tồn tại sẽ không giảm bớt. »
+
+« phục sinh người thực lực sẽ siêu việt khi còn sống, cụ thể siêu việt tầng thứ, sẽ căn cứ phục sinh người tiềm lực mà định ra. »
+
+« phục sinh người tại chết trận lúc lại tự bạo, tự bạo uy lực siêu việt bản thân cực hạn. »
+
+« phục sinh người sẽ giữ lại khi còn sống ký ức, chủ nhân đối phục sinh người nắm giữ tuyệt đối quyền chi phối. Phục sinh vượt qua chủ nhân hai cái đại cảnh giới mục tiêu, có khả năng sẽ gây nên mục tiêu phản kháng, cuối cùng dẫn đến mục tiêu mất khống chế. »
+
+« phục sinh người số lượng sẽ căn cứ chủ nhân cảnh giới mà định ra, hiện nay cao nhất số lượng: 10 ức. »
+
+« Phật Quốc Vu Yêu »
+
+« cảnh giới: Đạo Tôn Tam cảnh »
+
+« phẩm giai: Hoàn mỹ »
+
+« trưởng thành hạn mức cao nhất: Không có. »
+
+« thuật pháp: Vĩnh Hằng Phật Quốc, vận mệnh đại đạo, quy y »
+
+« Vĩnh Hằng Phật Quốc: Chế tạo một tòa Vĩnh Hằng Phật Quốc, Phật Quốc có thể thu nạp linh hồn, trở thành Phật Quốc tín đồ. Tín đồ càng nhiều, Phật Quốc Vu Yêu chiến lực càng mạnh, tín đồ hạn mức cao nhất: 5000 vạn. »
+
+« vận mệnh đại đạo: Dẫn động Đại Đạo Chi Lực, nhìn trộm tương lai chi mệnh chuyển, có thể tại vận mệnh bên trong tìm kiếm địch nhân nhược điểm, tiến tới phát động công kích, mỗi ngày có thể sử dụng ba lần. »
+
+« quy y: Cưỡng ép khiến địch nhân quy y, trở thành Vĩnh Hằng Phật Quốc tín đồ, trở thành Phật Quốc Vu Yêu lực lượng chi nguyên! »*
+
+Đại Đạo cảnh tư liệu
+
+« tính danh: Lâm Mặc Ngữ »
+
+« cảnh giới: Đại Đạo cảnh »
+
+Thiên phú: « Thế Giới Thụ (trưởng thành kỳ ) »
+
+« năng lực một, tân sinh: Nhận được dẫn đến tử vong tổn thương lúc lại thu hoạch được tân sinh, nháy mắt khôi phục đến trạng thái đỉnh phong, tất cả thuật pháp thiết lập lại làm lạnh. Có thể tại hai mươi giây bên trong liên tục phát động mười lần, lần đầu phát động hai mươi giây về sau năng lực thiết lập lại thời gian cooldown. »
+
+« năng lực hai, trái cây: Thế Giới Thụ đem kết ra thế giới trái cây, dùng thế giới trái cây, có thể sinh ra thế giới quy tắc, đã có thế giới quy tắc người, có thể tăng cường thế giới quy tắc. »
+
+« năng lực ba, linh hoa: Thành thục linh hoa, có thể chữa trị bất luận cái gì thương thế, nếu là vong linh quân đoàn thành viên sử dụng, có thể dùng sinh ra linh trí. »
+
+« năng lực bốn, lá cây: Thế Giới Thụ lá là cực kì ưu tú vật liệu luyện khí, bộ phận phát sinh dị biến Thế Giới Thụ lá, bọn họ có lẽ có thể diễn hóa ra linh tính, thành linh tính tài liệu. »
+
+« năng lực năm, vàng bạc nhựa cây: Vàng bạc nhựa cây có thể tăng lên đại đạo độ dung hợp, tăng lên tu luyện tư chất, tăng lên tốc độ tu luyện, tăng lên linh hồn tầng thứ. Mỗi ngày sản lượng: 10000 giọt. »
+
+« năng lực sáu, giới linh: Lấy thế giới trái cây là vỏ, lá cây là xương, linh hoa làm huyết nhục muốn, phụ Aether dương Thái Âm bổn nguyên chi lực, tại vàng bạc cây mồ hôi bên trong diễn hóa ra giới linh. Giới linh có thể hóa thành Thái Dương Thái Âm bản nguyên, hai cái trở lên giới linh lẫn nhau dung hợp, có thể diễn hóa độc lập thế giới. »
+
+Thuật pháp:
+
+« vô hạn dung hợp: Có thể đối tất cả thuật pháp, tất cả pháp tắc tiến hành dung hợp, sáng tạo ra mới thuật pháp, mới pháp tắc. »
+
+« Tụ Lực (bản nguyên ): Tiêu hao Linh Hồn Chi Lực, tiến vào Tụ Lực trạng thái. Tụ Lực dưới trạng thái, đem kế thừa tất cả triệu hoán vật lực lượng cùng thuật pháp, đột phá vốn có tầng thứ, bộc phát ra siêu việt cực hạn lực lượng. Tụ Lực trạng thái đem duy trì liên tục tiêu hao Linh Hồn Lực, theo Linh Hồn Lực yếu bớt, Tụ Lực trạng thái cũng đem duy trì liên tục yếu đi, ở giữa có thể thông qua đánh giết sinh linh, thu hoạch được bọn họ lực lượng, lấy duy trì Tụ Lực trạng thái. Tụ Lực trạng thái đối nhục thân cùng linh hồn có áp lực cực lớn, vượt phụ tải sử dụng, có khả năng tự bạo mà chết. »
+
+« Cường Binh (bản nguyên ): Tiêu hao Linh Hồn Lực, tiến vào Cường Binh trạng thái. Cường Binh dưới trạng thái, tự thân cùng tất cả triệu hoán vật tạo thành tổn thương, mở rộng 10 lần. Cường Binh trạng thái sẽ kéo dài tiêu hao Linh Hồn Lực, có thể thông qua đánh giết địch nhân bổ sung tiêu hao Linh Hồn Lực. Cường Binh dưới trạng thái, có thể đem lấy được bộ phận Linh Hồn Lực, hấp thu giữ lại thành chính mình lực lượng. Bất quá ngoại lai Linh Hồn Lực có tạp chất, tốt nhất là tinh luyện làm sạch phía sau lại đi hấp thu. »
+
+« người chết phục sinh (bản nguyên cấp ): Lấy thi thể hoặc linh hồn làm môi giới phục sinh mục tiêu, đem mục tiêu chuyển hóa thành phục sinh người. Phục sinh người thời gian tồn tại sẽ căn cứ chủ nhân cảnh giới mà định ra (19000 ngày ) phục sinh người có thể tiến vào trạng thái ngủ đông, ngủ đông bên trong thời gian tồn tại sẽ không giảm bớt. »
+
+« phục sinh người thực lực sẽ siêu việt khi còn sống, cụ thể siêu việt tầng thứ, sẽ căn cứ phục sinh người tiềm lực mà định ra. »
+
+« phục sinh người tại chết trận lúc lại tự bạo, tự bạo uy lực siêu việt bản thân cực hạn. »
+
+« phục sinh người sẽ giữ lại khi còn sống ký ức, chủ nhân đối phục sinh người nắm giữ tuyệt đối quyền chi phối. Phục sinh vượt qua chủ nhân hai cái đại cảnh giới mục tiêu, có khả năng sẽ gây nên mục tiêu phản kháng, cuối cùng dẫn đến mục tiêu mất khống chế. »
+
+« phục sinh người số lượng sẽ căn cứ chủ nhân cảnh giới mà định ra, hiện nay cao nhất số lượng: 100 ức. »
+
+« triệu hoán Khô Lâu Vương (bản nguyên cấp ): Triệu hồi ra nắm giữ đạo văn Khô Lâu Vương. Khô Lâu Vương thuật pháp, có thể để cái khác khô lâu cùng hưởng. »
+
+« đồng thời triệu hoán Khô Lâu Vương số lượng càng nhiều, Khô Lâu Vương cùng cái khác khô lâu chiến lực liền càng mạnh. » «
+
+Khô Lâu Vương có khả năng điều động huyết tinh bạch cốt đại đạo bộ phận lực lượng, lúc công kích đem bổ sung Đại Đạo Chi Lực, đối địch người linh hồn tạo thành tổn thương. »
+
+« đạo văn sẽ bị tất cả Khô Lâu Vương cùng hưởng, đạo văn nắm giữ thuật pháp không cách nào bị cái khác khô lâu cùng hưởng. »
+
+« nhiều nhất có thể đồng thời tồn tại Khô Lâu Vương số lượng: 10000. »
+
+« triệu hoán Khô Lâu Thần Tướng (bản nguyên cấp ): Thuật pháp Tinh Thần đem sáng tạo một cái thế giới quy tắc, tiếp dẫn huyết tinh bạch cốt đại đạo, Khô Lâu Thần Tướng thu hoạch được huyết tinh bạch cốt đại đạo gia trì, đem có thể điều động Đại Đạo Chi Lực tiến hành công kích. »
+
+« nhiều nhất có thể nắm giữ số lượng: 3000 ức. »
+
+« triệu hoán Long Kỵ quân đoàn (bản nguyên cấp ): Tại huyết tinh bạch cốt đại đạo làm cơ sở, sáng tạo huyết tinh bạch cốt thế giới, cung cấp Long Kỵ tĩnh dưỡng. Tất cả Long Kỵ quân đoàn trưởng thành, tại huyết tinh bạch cốt thế giới lúc, thương thế sẽ lấy tốc độ nhanh nhất khôi phục. Long Kỵ quân đoàn nhiều nhất có thể nắm giữ số lượng: 30000 »
+
+« triệu hoán Nguyên Tố Vu Yêu (bản nguyên cấp ): Có thể sử dụng bản nguyên cấp tài liệu triệu hoán tương ứng loại hình Nguyên Tố Vu Yêu, Nguyên Tố Vu Yêu sẽ không chân chính tử vong, nhận đến trí mạng công kích phía sau sẽ tại thuật pháp Tinh Thần bên trong trọng sinh, đồng dạng Vu Yêu, chỉ có thể tồn tại một cái. Hạn mức cao nhất: 30 chỉ »
+
+« Bất Tử Vong Linh (bản nguyên cấp ): Vong linh quân đoàn thành viên, nhận được trí mạng công kích phía sau cũng không chân chính tử vong, có thể theo chủ nhân ý chí lựa chọn tại chỗ phục sinh, hoặc trở lại thuật pháp Shirahoshi. Mỗi vị thành viên tại sáu mươi giây bên trong nắm giữ tám lần cơ hội sống lại. »
+
+« tổn thương dời đi (bản nguyên cấp ): Tất cả tổn thương sẽ bị yếu bớt gấp bảy, lại từ triệu hoán vật gánh chịu. »
+
+« miễn dịch (bản nguyên cấp ): Chủ nhân cùng triệu hoán vật miễn dịch tất cả trớ chú cùng cái khác mặt trái trạng thái, miễn dịch tất cả cùng cảnh giới hoặc thấp hơn cảnh giới công kích mang tới tổn thương, đối tất cả vượt qua bản thân cảnh giới tổn thương, tiến hành trên phạm vi lớn suy yếu. » «
+
+Hài Cốt Địa Ngục (bản nguyên cấp ): Đem chỉ định khu vực hóa thành Hài Cốt Địa Ngục, Hài Cốt Địa Ngục nối liền chân thật ngục, tất cả thân ở trong đó địch nhân đều đem nhận đến tới từ địa ngục lực lượng công kích. Hài Cốt Địa Ngục bên trong đem sinh ra đến từ chân thật ngục đáng sợ Hung Linh, tất cả chết tại Hài Cốt Địa Ngục bên trong người, Chân Linh đều đem bị Hung Linh hấp thu. Hấp thu lực lượng càng nhiều, Hung Linh liền càng cường đại, số lượng cũng sẽ tùy theo gia tăng. »
+
+« chỉ cần chân thật ngục không có hủy diệt, Hài Cốt Địa Ngục đem vĩnh viễn không hủy, dù cho bị đánh nát cũng sẽ tại thời gian nhất định phía sau lần nữa khôi phục. Thân là Hài Cốt Địa Ngục chủ nhân, ngươi đem mỗi giờ mỗi khắc nhận đến địa ngục bảo vệ. Hài Cốt Địa Ngục tiêu chí nhớ tất cả người công kích, một khi bị tiêu ký, liền không cách nào thoát ly ngươi linh hồn khóa chặt. »
+
+« thân là Hài Cốt Địa Ngục chủ nhân, ngươi đem mỗi giờ mỗi khắc nhận đến địa ngục bảo vệ. Hài Cốt Địa Ngục tiêu chí nhớ tất cả người công kích, một khi bị tiêu ký, liền không cách nào thoát ly ngươi khóa chặt. »
+
+« Địa Ngục Hung Linh số lượng: 1000 vạn, thất đẳng tiên thiên hồn Đại Đạo cảnh, phạm vi bao trùm 10000 km »
+
+« thi thể bạo liệt (bản nguyên cấp ): Dẫn nổ thi thể hoặc là Hài Cốt, đối khóa chặt mục tiêu tạo thành tương đương với thi thể khi còn sống sinh mệnh lực 300% tổn thương. Có thể đồng thời công kích nhiều cái mục tiêu, mục tiêu càng nhiều, tổn thương sẽ bị suy yếu gánh vác. Công kích không nhìn tất cả chướng ngại vật, không nhìn thời gian giới hạn. Có khống chế dẫn nổ thời gian, thời gian dài nhất không cao hơn trăm năm. »
+
+« thời gian trớ chú chi dực (bản nguyên cấp ): Thời gian đại đạo cùng Trớ Chú đại đạo hoàn mỹ dung hợp, thời gian chi dực mở rộng, có thể vặn vẹo thời gian, đạt tới vô hạn tốc độ, trạng thái mạnh nhất có thể nhập thời gian trường hà, rong chơi thời gian. » « trớ chú chi dực có thể hạ xuống trớ chú, chỗ đến, thời gian hỗn loạn, trớ chú lan tràn, trạng thái mạnh nhất có thể ảnh hưởng đại đạo, cùng thời gian chi dực dung hợp, vặn vẹo đại đạo thời gian, khiến đại đạo Băng Diệt. »
+
+« Khô Lâu Thần Tướng »
+
+« đẳng cấp: Đại Đạo cảnh (thất đẳng tiên thiên hồn cao giai ) »
+
+« đại đạo thuật pháp: Bạch Cốt Huyết kiếm »
+
+« Bạch Cốt Huyết kiếm nắm giữ huyết tinh bạch cốt Đại Đạo Chi Lực, có thể đối mục tiêu nhục thân cùng linh hồn tiến hành song trọng đả kích. »
+
+« Long Kỵ quân đoàn » « thành viên số lượng: 1000 vạn »
+
+« đẳng cấp: Đại Đạo cảnh (thất đẳng tiên thiên hồn cao giai ) »
+
+« Quân Đoàn Trưởng chiến lực: Đại Đạo cảnh (lục đẳng tiên thiên hồn đê giai ) »
+
+« quân đoàn năng lực: Đại đạo chiến trận, huyết tinh công kích, huyết tinh thổ tức »
+
+« Quân Đoàn Trưởng năng lực: Một kích trí mạng, phục sinh »
+
+« đại đạo chiến trận: Tạo thành chiến trận, gia trì Đại Đạo Chi Lực, khiến quân đoàn chiến lực biên độ lớn tăng lên, có thể tụ tập nhiều cái quân đoàn, quân đoàn số lượng càng nhiều, chiến lực càng mạnh »
+
+« huyết tinh công kích: Điều động Đại Đạo Chi Lực tiến hành công kích, công kích trạng thái lúc, tốc độ đem tăng lên gấp mười, đối với địch nhân tạo thành mãnh liệt va chạm. »
+
+« huyết tinh thổ tức: Điều động Đại Đạo Chi Lực, phun ra huyết tinh Long Tức, đối Long Tức phạm vi bên trong địch nhân, tạo thành nhục thân cùng linh hồn song trọng đả kích. »
+
+« một kích trí mạng: Long Kỵ Quân Đoàn Trưởng độc nhất thuật pháp, lấy huyết tinh bạch cốt đại đạo là mối quan hệ, tập hợp toàn bộ quân đoàn tất cả lực lượng, đánh ra một kích trí mạng. Thời gian cooldown: 1 phút »
+
+« phục sinh: Long Kỵ Quân Đoàn Trưởng độc nhất thuật pháp, vận dụng Bất Tử Hỏa Diễm, phục sinh Long Kỵ quân đoàn thành viên, mỗi vị thành viên, mỗi mười phút đồng hồ, có thể tiến hành một lần phục sinh. »
+
+« Khô Lâu Vương »
+
+« đẳng cấp: Đại Đạo cảnh (lục đẳng tiên thiên hồn trung giai ) »
+
+« đại đạo thuật pháp: Huyết sát! »
+
+« thuật pháp: Bạch Cốt Trảm Thần »
+
+« huyết sát: Thiêu đốt mục tiêu chi huyết, lấy Đại Đạo Chi Lực đem dẫn nổ, uy lực sẽ căn cứ mục tiêu khí huyết mạnh yếu đến định, mục tiêu khí huyết càng mạnh, huyết sát uy lực cũng liền càng mạnh. »
+
+« Bạch Cốt Trảm Thần: Khóa chặt mục tiêu tiến hành công kích, đồng thời công kích nhục thân cùng linh hồn, bị khóa định mục tiêu không cách nào tiến hành né tránh, cũng vô pháp dùng Pháp Bảo tiến hành phòng ngự. Có thể công kích nhiều cái mục tiêu, mục tiêu thấp hơn trăm cái lúc, cũng không giảm xuống tổn thương. Có thể cùng cái khác khô lâu cùng một chỗ tạo thành hợp kích, uy lực sẽ tiến một bước tăng cường. »
+
+Vong linh quân đoàn số lượng:
+
+Khô Lâu Vương: 10000 chỉ
+
+Khô Lâu Thần Tướng: 3000 ức
+
+Long Kỵ Sĩ: 3000 ức
+
+Người chết phục sinh: 100 ức
+
+Nguyên Tố Vu Yêu: 30 chỉ
+
+« Phật Quốc Vu Yêu »
+
+« cảnh giới: Đạo Tôn Lục Cảnh »
+
+« phẩm giai: Hoàn mỹ »
+
+« trưởng thành hạn mức cao nhất: Không có. »
+
+« thuật pháp: Vĩnh Hằng Phật Quốc, vận mệnh đại đạo, quy y »
+
+« Vĩnh Hằng Phật Quốc: Chế tạo một tòa Vĩnh Hằng Phật Quốc, Phật Quốc có thể thu nạp linh hồn, trở thành Phật Quốc tín đồ. Tín đồ càng nhiều, Phật Quốc Vu Yêu chiến lực càng mạnh, tín đồ hạn mức cao nhất: 5000 vạn. »
+
+« vận mệnh đại đạo: Dẫn động Đại Đạo Chi Lực, nhìn trộm tương lai chi mệnh chuyển, có thể tại vận mệnh bên trong tìm kiếm địch nhân nhược điểm, tiến tới phát động công kích, mỗi ngày có thể sử dụng ba lần. »
+
+« quy y: Cưỡng ép khiến địch nhân quy y, trở thành Vĩnh Hằng Phật Quốc tín đồ, trở thành Phật Quốc Vu Yêu lực lượng chi nguyên! »
+
+« vận mệnh Vu Yêu »
+
+« cảnh giới: Ngụy Đại Đạo cảnh »
+
+« phẩm giai: Hoàn mỹ »
+
+« trưởng thành hạn mức cao nhất: Không có. »
+
+« thuật pháp: Vận mệnh chỉ dẫn, vận mệnh tước đoạt, vận mệnh Thiên Cơ »
+
+« vận mệnh chỉ dẫn: Khóa chặt địch nhân, tại vận mệnh đại đạo bên trong tìm kiếm địch nhân nhược điểm, vì đó nó Vu Yêu cung cấp chỉ dẫn, nhằm vào nhược điểm tiến hành công kích. »
+
+« vận mệnh tước đoạt: Lấy vận mệnh Đại Đạo Chi Lực, tạm thời tước đoạt địch nhân tồn tại vết tích, bị lột Đoạt Mệnh chuyển địch nhân, sẽ bị đại đạo bài xích, so sánh chính mình cảnh giới địch nhân hiệu quả tương đối tốt, cùng cảnh giới hiệu quả bình thường, đối cao hơn chính mình cảnh giới địch nhân không có hiệu quả. »
+
+« vận mệnh Thiên Cơ: Thông qua vận mệnh đại đạo tìm kiếm cơ duyên, mỗi mười ngày có thể một lần phát động. Tương lai đang không ngừng biến hóa bên trong, cơ duyên cũng có thể là vận rủi. »
+
+« lôi đình Vu Yêu »
+
+« cảnh giới: Đạo Tôn Thất Cảnh »
+
+« phẩm giai: Hoàn mỹ »
+
+« trưởng thành hạn mức cao nhất: Không có. »
+
+« thuật pháp: Mắt xích lôi đình, lôi đình đại đạo. »
+
+« Liên Tỏa Thiểm Điện: Khóa chặt địch nhân, hạ xuống lôi đình. Lôi đình trúng đích địch nhân về sau, nếu là địch nhân phụ cận có những địch nhân khác, lôi đình có thể tùy theo lan tràn, tạo thành mắt xích công kích. Có thể từ huyết mạch, linh hồn, đại đạo, chủ động khóa chặt chờ nhiều loại phương thức tiến hành tổ hợp phán định. »
+
+« lôi đình đại đạo: Mượn nhờ lôi đình Đại Đạo Chi Lực, tăng lên tự thân công kích, đồng thời tại lôi đình phạm vi bao phủ bên trong, có thể tự do thuấn di. »
+
+« vận rủi Vu Yêu »
+
+« cảnh giới: Đạo Tôn Cửu Cảnh »
+
+« phẩm giai: Hoàn mỹ »
+
+« trưởng thành hạn mức cao nhất: Không có. »
+
+« thuật pháp: Vận rủi liên tục. »
+
+« vận rủi liên tục: Lấy khí vận là mục tiêu, có thể thuấn di đến trên người địch nhân, thôn phệ địch nhân khí vận, đồng thời chuyển đổi thành vận rủi. Vận rủi có thể thời gian dài duy trì liên tục, thời gian dài nhất có thể duy trì liên tục trăm năm. »*
+
+Nói rõ Bản Nguyên tổ địa, Quy Nguyên chi địa, Đạo Chủ cảnh giới, cùng với đạo yêu
+
+Bản Nguyên tổ địa bên trong có ngàn vạn đại đạo, gần như giữa thiên địa tất cả đại đạo đều ở bên trong.
+
+Các đầu đại đạo từ Bản Nguyên tổ địa hình chiếu đến ngàn vạn thế giới, cho nên thế giới bên trong đại đạo đều là hình chiếu.
+
+Tại các thế giới bên trong thành Đạo Chủ về sau, chính là hình chiếu Đạo Chủ (đại đạo từ mạnh yếu chia làm bản nguyên cùng chi nhánh ) liền tiến hành đại đạo tranh phong, mãi đến trở thành Bản Thể Đạo Chủ, cũng chính là Đại Đạo Chi Chủ.
+
+Sau đó có một ít Đại Đạo Chi Chủ rất cường đại, bọn họ đem chính mình bản thể đại đạo hình chiếu vào Quy Nguyên chi địa, Quy Nguyên chi địa là thiên địa mới bắt đầu sinh ra địa phương, so Bản Nguyên tổ địa cao hơn một tầng.
+
+Nhưng Quy Nguyên chi địa bên trong tổng cộng chỉ có thể tiếp nhận hai mươi đầu đại đạo.
+
+Có thể đi vào Quy Nguyên chi địa Đại Đạo Chi Chủ, liền đạt tới khác một cảnh giới, Vĩnh Hằng.
+
+Vĩnh Hằng vẫn như cũ là Đạo Chủ, có thể tính là Đạo Chủ bên trong đứng đầu tồn tại.
+
+Đạo Chủ cơ bản cứ như vậy phân chia, hình chiếu Đạo Chủ, Đại Đạo Chi Chủ, Vĩnh Hằng.
+
+Trong đó một đầu đại đạo đặc thù nhất, chính là nhân vật chính Bất Tử đại đạo. Tại Quy Nguyên chi địa bên trong, là Quy Nguyên chi địa thứ hai mươi mốt đầu đại đạo, phá vỡ hai mươi đầu cực hạn.
+
+Mà còn Bất Tử đại đạo tại Bản Nguyên tổ địa bên trong không có, cũng chính là chỉ có nhân vật chính một người có thể tu luyện, người khác không tu luyện được.
+
+Kiếm Đạo Yêu là thông qua Tiên Thiên Bản Nguyên Bảo Tài triệu hoán đi ra, Tiên Thiên Bản Nguyên Bảo Tài đến từ chỗ nào, về sau sẽ nói, loại này Nguyên Tố Vu Yêu bản thân chính là nghịch thiên tồn tại, bọn họ trực tiếp phục chế một đầu đại đạo bản thể đi ra, cho nên sẽ dẫn tới Thiên Phạt, mà còn sẽ có một chút hạn chế.
+
+Kiếm Đạo Yêu là phục chế kiếm chi đại đạo bản thể Nguyên Tố Vu Yêu, phía sau còn sẽ có đạo khác nhau yêu, đây là nhân vật chính một cái cường lực thuật pháp. *
+
+Vĩnh Hằng tầng thứ tư liệu
+
+« tính danh: Lâm Mặc Ngữ »
+
+« cảnh giới: Vĩnh Hằng (Đạo Chủ cảnh ) »
+
+Thiên phú: « Thế Giới Thụ (thuế biến kỳ ) »
+
+« năng lực một, tân sinh: Nhận được dẫn đến tử vong tổn thương lúc lại thu hoạch được tân sinh, nháy mắt khôi phục đến trạng thái đỉnh phong, tất cả thuật pháp thiết lập lại làm lạnh. Có thể tại hai mươi giây bên trong liên tục phát động hai mươi lần, lần đầu phát động hai mươi giây về sau năng lực thiết lập lại thời gian cooldown. » «
+
+Năng lực hai, trái cây: Thế Giới Thụ đem kết ra thế giới trái cây, dùng thế giới trái cây, có thể sinh ra thế giới quy tắc, đã có thế giới quy tắc người, có thể tăng cường thế giới quy tắc. (thuế biến bên trong ) »
+
+« năng lực ba, linh hoa: Thành thục linh hoa, có thể chữa trị bất luận cái gì thương thế, nếu là vong linh quân đoàn thành viên sử dụng, có thể dùng sinh ra linh trí. (thuế biến bên trong ) »
+
+« năng lực bốn, lá cây: Thế Giới Thụ lá là cực kì ưu tú vật liệu luyện khí, bộ phận phát sinh dị biến Thế Giới Thụ lá, bọn họ có lẽ có thể diễn hóa ra linh tính, thành linh tính tài liệu. (thuế biến bên trong ) »
+
+« năng lực năm, vàng bạc nhựa cây: Vàng bạc nhựa cây có thể tăng lên đại đạo độ dung hợp, tăng lên tu luyện tư chất, tăng lên tốc độ tu luyện, tăng lên linh hồn tầng thứ. Mỗi ngày sản lượng: 10000 giọt. (thuế biến bên trong ) »
+
+« năng lực sáu, giới linh: Lấy thế giới trái cây là vỏ, lá cây là xương, linh hoa làm huyết nhục, phụ Aether dương Thái Âm bổn nguyên chi lực, tại vàng bạc cây mồ hôi bên trong diễn hóa ra giới linh. Giới linh có thể hóa thành Thái Dương Thái Âm bản nguyên, hai cái trở lên giới linh lẫn nhau dung hợp, có thể diễn hóa độc lập thế giới. (thuế biến bên trong ) »
+
+Thần thông:
+
+Không phải là sinh tức tử: Nhất niệm định sinh nhất niệm định chết thuật pháp:
+
+Thuật pháp:
+
+« vô hạn dung hợp: Có thể đối tất cả thuật pháp, tất cả pháp tắc tiến hành dung hợp, sáng tạo ra mới thuật pháp, mới pháp tắc. »
+
+« giới vực (bị động Bản Nguyên thuật pháp ): Lấy độc lập thế giới là lĩnh vực, trên phạm vi lớn suy yếu địch nhân công kích, tất cả công kích để cho độc lập thế giới đại đạo, vạn linh, vong linh quân đoàn chờ cộng đồng chia sẻ. »
+
+« Vô Hạn Triệu Hoán (hỗn độn ): Tại hỗn độn khu vực triệu hoán Vong Linh tôi tớ, số lượng từ hỗn độn khu vực quy mô quyết định, mạnh yếu từ độc lập thế giới quyết định. »
+
+« có thể đem giới vực bên trong hoặc hỗn độn bên trong linh sinh linh, bằng Chân Linh, linh hồn, thi thể đem phục sinh trở thành phục sinh người, phục sinh người như nhiều lần Luân Hồi, sẽ lấy tối cường một đời phục sinh. »
+
+« Vong Linh tôi tớ cùng phục sinh người sau khi chết có thể tại chỗ phục sinh, trong thời gian ngắn có thể liên tục phục sinh mười lần. Như vượt quá mười lần, Vong Linh tôi tớ sẽ tại hỗn độn khu vực bên trong tái sinh, đồng thời thiết lập lại phục sinh số lần, phục sinh người thì sẽ tại chỗ tự bạo. »
+
+« Tụ Lực (hỗn độn ): Có thể ngưng tụ tất cả triệu hoán vật cùng nắm giữ giới vực lực lượng, dùng để tăng lên tự thân cảnh giới, không thể siêu việt tự thân cực hạn, nếu không sẽ bạo thể mà chết. »
+
+« Cường Binh (hỗn độn ): Tất cả triệu hoán vật chiến lực tăng lên một cảnh. »
+
+« triệu hoán Nguyên Tố Vu Yêu (bản nguyên ): Có thể sử dụng bản nguyên cấp tài liệu triệu hoán tương ứng loại hình Nguyên Tố Vu Yêu, Nguyên Tố Vu Yêu sẽ không chân chính tử vong, nhận đến trí mạng công kích phía sau sẽ tại thuật pháp Tinh Thần bên trong trọng sinh, đồng dạng Vu Yêu, chỉ có thể tồn tại một cái. Hạn mức cao nhất: 50 chỉ »
+
+« Hài Cốt Địa Ngục (bản nguyên cấp ): Đem chỉ định khu vực hóa thành Hài Cốt Địa Ngục, Hài Cốt Địa Ngục nối liền chân thật ngục, tất cả thân ở trong đó địch nhân đều đem nhận đến tới từ địa ngục lực lượng công kích. Hài Cốt Địa Ngục bên trong đem sinh ra đến từ chân thật ngục đáng sợ Hung Linh, tất cả chết tại Hài Cốt Địa Ngục bên trong người, Chân Linh đều đem bị Hung Linh hấp thu. Hấp thu lực lượng càng nhiều, Hung Linh liền càng cường đại, số lượng cũng sẽ tùy theo gia tăng. »
+
+« chỉ cần chân thật ngục không có hủy diệt, Hài Cốt Địa Ngục đem vĩnh viễn không hủy, dù cho bị đánh nát cũng sẽ tại thời gian nhất định phía sau lần nữa khôi phục. Thân là Hài Cốt Địa Ngục chủ nhân, ngươi đem mỗi giờ mỗi khắc nhận đến địa ngục bảo vệ. Hài Cốt Địa Ngục tiêu chí nhớ tất cả người công kích, một khi bị tiêu ký, liền không cách nào thoát ly ngươi linh hồn khóa chặt. »
+
+« Hài Cốt Địa Ngục tiêu chí nhớ tất cả người công kích, một khi bị tiêu ký, liền không cách nào thoát ly ngươi khóa chặt. »
+
+« Địa Ngục Hung Linh số lượng: Năm ngàn vạn, phạm vi bao trùm mười vạn dặm »
+
+« thi thể bạo liệt (bản nguyên cấp ): Dẫn nổ thi thể hoặc là Hài Cốt, đối khóa chặt mục tiêu tạo thành tương đương với thi thể khi còn sống sinh mệnh lực 300% tổn thương. Có thể đồng thời công kích nhiều cái mục tiêu, mục tiêu càng nhiều, tổn thương sẽ bị suy yếu gánh vác. Công kích không nhìn tất cả chướng ngại vật, không nhìn thời gian giới hạn. Có khống chế dẫn nổ thời gian, thời gian dài nhất không cao hơn trăm năm. »
+
+« thời gian trớ chú chi dực (bản nguyên cấp ): Thời gian đại đạo cùng Trớ Chú đại đạo hoàn mỹ dung hợp, thời gian chi dực mở rộng, có thể vặn vẹo thời gian, đạt tới vô hạn tốc độ, trạng thái mạnh nhất có thể nhập thời gian trường hà, rong chơi thời gian. »
+
+« trớ chú chi dực có thể hạ xuống trớ chú, chỗ đến, thời gian hỗn loạn, trớ chú lan tràn, trạng thái mạnh nhất có thể trớ chú ngày, cùng thời gian chi dực dung hợp, vặn vẹo đại đạo thời gian, khiến thiên địa đại đạo Băng Diệt. »
+
+« Vong Linh tôi tớ »
+
+« chiến lực: Nửa bước Vĩnh Hằng »
+
+« kỹ pháp: Thao túng Đại Đạo Chi Lực tiến hành công kích, có thể căn cứ địch nhân khác biệt, thao túng khác biệt đại đạo tiến hành khắc chế. Có thể cùng còn lại Vong Linh tôi tớ tiến hành phối hợp, lợi dụng đại đạo tương sinh tương khắc tạo thành càng mạnh chiến pháp. Có thể từ bỏ phục sinh cơ hội tiến hành tự bạo, tự bạo uy lực đem vượt qua tự thân cảnh giới gấp mười. »
+
+« năng lực: Có thể biến đổi đổi dáng dấp, chấp hành chủ nhân các loại mệnh lệnh, hoàn thành các loại nhiệm vụ. »
+
+« Kiếm Đạo Yêu »
+
+« chiến lực: Đại Đạo Chi Chủ »
+
+« phục chế kiếm chi đại đạo, nắm giữ Tuyệt Cường lực sát thương, sắc bén không thể đỡ. »
+
+« Không Gian Đạo Yêu »
+
+« chiến lực: Đại Đạo Chi Chủ »
+
+« phục chế không gian đại đạo, nắm giữ không gian đại đạo các loại năng lực. »
+
+« Chân Hỏa Đạo Yêu »
+
+« chiến lực: Đại Đạo Chi Chủ »
+
+« phục chế chân hỏa đại đạo, có thể đốt đốt Chân Linh, đối Đạo Chủ cảnh phía dưới sinh linh có tuyệt sát hiệu quả. »
+
+« Xích Huyết đạo yêu »
+
+« chiến lực: Đại Đạo Chi Chủ »
+
+« phục chế Xích Huyết đại đạo, có thể ô nhiễm suy yếu địch nhân lực lượng, có thể công có thể thủ. »
+
+« Nghịch Đạo yêu »
+
+« chiến lực: Đại Đạo Chi Chủ »
+
+« phục chế trái phải đại đạo, có thể nghịch chuyển hành động, đối Đạo Chủ cảnh phía dưới tồn tại, còn có thể nghịch chuyển tư tưởng. »*.

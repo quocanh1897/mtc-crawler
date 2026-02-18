@@ -1,0 +1,101 @@
+{
+  "id": 100739,
+  "name": "Gamer Xưng Bá Dị Giới",
+  "slug": "gamer-xung-ba-di-gioi",
+  "kind": 2,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://vtruyen.com/truyen/gamer-xung-ba-di-gioi",
+  "note": "Cầu hoa tươi, cầu kẹo miễn phí !\nTham gia nhóm tác giả Katsuragi Keima tại fb để đọc chương .5",
+  "status_name": "Hoàn thành",
+  "first_chapter": 12067616,
+  "latest_chapter": 14397119,
+  "latest_index": 1056,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/gamer-xung-ba-di-gioi/default.jpg?1623149607",
+    "600": "https://static.cdnno.com/poster/gamer-xung-ba-di-gioi/600.jpg?1623149607",
+    "300": "https://static.cdnno.com/poster/gamer-xung-ba-di-gioi/300.jpg?1623149607",
+    "150": "https://static.cdnno.com/poster/gamer-xung-ba-di-gioi/150.jpg?1623149607"
+  },
+  "synopsis": "Phạm Thiên: Hệ thống ! Cho ta vài trăm viên Cửu Chuyển Kim Đan cắn chơi.\n\nHệ thống: Có tiền thì quay lại.\n...\n\nPhạm Thiên: Hệ thống ! Cho ta mấy chục cây thần binh đi đập người coi.\n\nHệ thống: Có tiền thì quay lại.\n...\n\nPhạm Thiên: Hệ thống ! Cho ta mấy trăm môn Thiên Cấp Võ Kỹ để ta đi đánh người nào.\n\nHệ thống: Có tiền thì quay lại.\n...\n\nPhạm Thiên: Hệ thống...\n\nHệ thống: Không có tiền không có nhân quyền, bản hệ thống là Pay To Win !\n.........\n\nBộ truyện thứ 2 của tác giả Katsuragi Keima, tác giả bộ The Gamer Hệ Thống. Bản tác giả đã hoàn thành 1 bộ truyện với hơn 2,4 triệu chữ (1010 chương), nhân phẩm đảm bảo, tuyệt đối không drop !\n\nCảnh giới trong truyện:\n\nVõ Đồ cửu cấp.\n\nHậu Thiên Tam Cảnh: Võ Sĩ, Võ Sư, Đại Võ Sư.\n\nTiên Thiên Tam Cảnh: Võ Linh, Võ Vương, Võ Hoàng.\n\nSiêu Phàm Tam Cảnh: Võ Tông, Võ Tôn, Võ Đế.\n\nThánh Cảnh: Võ Thánh... (còn update)\n----------\nTất cả nhân vật, sự kiện trong truyện hoàn toàn hư cấu, không phản ánh sự thật lịch sử.",
+  "vote_count": 50211,
+  "review_score": "4.896",
+  "review_count": 467,
+  "comment_count": 4134,
+  "chapter_count": 1056,
+  "view_count": 0,
+  "word_count": 2334380,
+  "created_at": "2020-03-26T06:56:05.000000Z",
+  "updated_at": "2026-02-17T07:30:15.000000Z",
+  "new_chap_at": "2022-01-21T17:13:09.000000Z",
+  "published_at": "2020-06-10T05:19:34.000000Z",
+  "published": 1,
+  "user_id": 1000024,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Gamer Xưng Bá Dị Giới",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 4017,
+  "chapter_per_week": 0,
+  "ready_for_sale": 1,
+  "discount_price": 104960,
+  "discount": 20,
+  "creator": {
+    "id": 1000024,
+    "name": "Keima42",
+    "avatar": [
+      "https://static.cdnno.com/user/6ad0f8bf32b1fd3b286fd244f7656637/200.jpg?1590806043",
+      "https://static.cdnno.com/user/6ad0f8bf32b1fd3b286fd244f7656637/100.jpg?1590806043",
+      "https://static.cdnno.com/user/6ad0f8bf32b1fd3b286fd244f7656637/50.jpg?1590806043"
+    ],
+    "level": 4,
+    "exp": 7025,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 2,
+    "name": "Đang Cập Nhật",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 7,
+      "name": "Đồng Nhân",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 12,
+      "name": "Dị Thế Đại Lục",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 10,
+      "name": "Giảo Hoạt",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

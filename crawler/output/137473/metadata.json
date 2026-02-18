@@ -1,0 +1,90 @@
+{
+  "id": 137473,
+  "name": "Ngã Dục Phong Thiên",
+  "slug": "nga-duc-phong-thien",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://metruyencv.com/truyen/nga-duc-phong-thien",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 20921440,
+  "latest_chapter": 26785142,
+  "latest_index": 350,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/nga-duc-phong-thien/default.jpg?1736938039",
+    "600": "https://static.cdnno.com/poster/nga-duc-phong-thien/600.jpg?1736938039",
+    "300": "https://static.cdnno.com/poster/nga-duc-phong-thien/300.jpg?1736938039",
+    "150": "https://static.cdnno.com/poster/nga-duc-phong-thien/150.jpg?1736938039"
+  },
+  "synopsis": "Ta nếu muốn có, Thiên không thể không\n\nTa nếu muốn không, Thiên không thể có",
+  "vote_count": 58,
+  "review_score": "5.000",
+  "review_count": 1,
+  "comment_count": 25,
+  "chapter_count": 350,
+  "view_count": 0,
+  "word_count": 515063,
+  "created_at": "2025-01-15T10:46:42.000000Z",
+  "updated_at": "2026-02-16T07:14:52.000000Z",
+  "new_chap_at": "2026-02-01T05:56:30.000000Z",
+  "published_at": "2025-01-15T12:01:09.000000Z",
+  "published": 1,
+  "user_id": 1000044,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ngã Dục Phong Thiên",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 421,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000044,
+    "name": "HadesLoki",
+    "avatar": [
+      "https://static.cdnno.com/user/072ab14696657b46a86febd461e999f0/200.jpg?1718619913",
+      "https://static.cdnno.com/user/072ab14696657b46a86febd461e999f0/100.jpg?1718619913",
+      "https://static.cdnno.com/user/072ab14696657b46a86febd461e999f0/50.jpg?1718619913"
+    ],
+    "level": 4,
+    "exp": 2080,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 367,
+    "name": "Nhĩ Căn",
+    "avatar": null,
+    "local_name": "耳根",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 5,
+      "name": "Nhẹ Nhàng",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

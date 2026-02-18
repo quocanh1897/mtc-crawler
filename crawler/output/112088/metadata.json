@@ -1,0 +1,102 @@
+{
+  "id": 112088,
+  "name": "Cẩu Thả Tại Tiên Giới Thành Đại Lão",
+  "slug": "cau-tha-tai-tien-gioi-thanh-dai-lao",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/cau-tha-tai-tien-gioi-thanh-dai-lao",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 14694907,
+  "latest_chapter": 18979732,
+  "latest_index": 1517,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/cau-tha-tai-tien-gioi-thanh-dai-lao/default.jpg?1650613537",
+    "600": "https://static.cdnno.com/poster/cau-tha-tai-tien-gioi-thanh-dai-lao/600.jpg?1650613537",
+    "300": "https://static.cdnno.com/poster/cau-tha-tai-tien-gioi-thanh-dai-lao/300.jpg?1650613537",
+    "150": "https://static.cdnno.com/poster/cau-tha-tai-tien-gioi-thanh-dai-lao/150.jpg?1650613537"
+  },
+  "synopsis": "Uông Trần ngoài ý muốn xuyên qua đến tu tiên thế giới.\n\n\tTrở thành Đông Thương châu Vân Dương phái ngoại môn một cái luyện khí tiểu tu.\n\n\tTông phái bên trong , cấp bậc sâm nghiêm lục đục với nhau;\n\n\tSơn môn bên ngoài, yêu ma hoành hành Tà Sùng khắp nơi trên đất!\n\n\tThực lực nhỏ yếu Uông Trần quyết định muốn cẩu thả đến thiên hoang địa lão.\n\n\tNhưng mà cẩu thả lấy cẩu thả lấy. . .\n\n\tHắn phát hiện mình vậy mà thành đại lão!",
+  "vote_count": 1047,
+  "review_score": "4.621",
+  "review_count": 22,
+  "comment_count": 564,
+  "chapter_count": 1516,
+  "view_count": 0,
+  "word_count": 2598303,
+  "created_at": "2022-04-22T07:44:50.000000Z",
+  "updated_at": "2026-02-17T20:01:00.000000Z",
+  "new_chap_at": "2024-08-05T02:52:20.000000Z",
+  "published_at": "2022-04-22T07:44:50.000000Z",
+  "published": 1,
+  "user_id": 1000043,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Cẩu Thả Tại Tiên Giới Thành Đại Lão",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2268,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000043,
+    "name": "KOL",
+    "avatar": [
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/200.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/100.jpg?1586581800",
+      "https://static.cdnno.com/user/ca984adb8b7a66287718584d2eb27742/50.jpg?1586581800"
+    ],
+    "level": 1,
+    "exp": 57,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 2343,
+    "name": "Trầm Nhập Thái Bình Dương",
+    "avatar": null,
+    "local_name": "沉入太平洋",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 2,
+      "name": "Tiên Hiệp",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 62,
+      "name": "Vô Địch",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

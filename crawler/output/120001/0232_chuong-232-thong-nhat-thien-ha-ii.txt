@@ -1,0 +1,121 @@
+Chương 232. Thống nhất thiên hạ II
+
+Chương 232. Thống nhất thiên hạ II
+
+Thu thập dữ liệu tất cả nguyên thủ quốc gia, vùng lãnh thổ rất vất vả và khó chịu nhưng chỉ mình Giang Bình An nếm trải, không ai chia sẻ được việc này, tạm thời hắn dẫn cả gia đình vợ con về S quốc để hoàn thành chúng.
+
+Cùng theo về có thêm ba bà bầu sắp sanh nở. Giang gia bỗng chốc có thêm ba người phu nhân, nâng tổng số phu nhân lên thành 8. Tần Kinh Như là người đầu tiên phát hiện sự tiện dụng của con số 8 này:
+
+- Hì hì... từ nay có thể chơi một lần hai bàn mạc chược, hoặc hai bàn tứ sắc... không còn sợ dư tay hoặc thiếu tay nữa rồi!
+
+Sau đó là quãng thời gian mạc chược và tứ sắc hoành hành Giang gia. Trong nhà thì hai sòng bài, bên ngoài sân gạch đỏ thì trẻ con đá bóng ỏm tỏi, vì phong trào quốc gia này mà Giang Bình An đành di dời mấy chậu kiểng cổ đi chỗ khác an toàn hơn.
+
+...
+
+Gần hết năm 1961, tại nhà riêng ở tỉnh Sông Bé, như thường lệ Giang Bình An sắm vai cậu hai Giang chấp tay sau đít đi một vòng, thấy vợ và con đều chơi vui vẻ, hắn thích ý, yên lòng,  lần ra góc vườn uống trà nghe chim hót, đọc sách và xem xét các dữ liệu thu thập được của ngày hôm trước.
+
+Việc thu thập dữ liệu tất cả nguyên thủ quốc gia đã được hơn một tháng, tuy rằng đã đủ dữ liệu, thậm chí dư ra cả đống bằng chứng phạm tội của bọn họ như tham nhũng, tổn công phì tư, sa đọa háo sắc... nhưng hắn vẫn tiếp tục chịu đựng sự khó chịu để theo dõi tiếp tục.
+
+Đây không phải là hắn có sở thích tự ngược hoặc theo dõi cuồng mà là hắn phát hiện làm công việc khó chịu này thường xuyên lại có thể giúp cho hắn luyện tâm.
+
+Kiếp trước 30 năm nhân sinh, hắn sống quá mờ nhạt, cuộc đời ngắn ngủi chỉ biết có cơm áo gạo tiền, biết tiết kiệm, gửi tiền về giúp cha mẹ... Kiếp này khai cục mặc dù siêu cao, nhưng quá trình tích lũy tâm tính quá ít, giờ nhờ có mỗi ngày đều quan sát cuộc sống các nhân vật đỉnh cấp quyền lực, Giang Bình An mới cảm nhận được sâu sắc những mặt tăm tối, âm u nhất của con người, của xã hội.
+
+Có thể nói 80% các lãnh đạo này là không xứng đáng với chức vụ đang nắm giữ, 5% là chết chưa hết tội, 10% là tạm đạt tiêu chuẩn. Cuối cùng chỉ có 5% là danh xứng với thực, lo cho nước lo cho dân... nhưng vì nhiều lý do nên họ không thể giúp ích nhiều hơn cho mọi người.
+
+Việc tổng hợp dữ liệu chi tiết, phân ra làm 4 loại người như vậy càng khiến cho các lão bằng hữu lãnh đạo của Liên Minh thích thú. Có sự phân chia rạch ròi này thì các biện pháp, các phương hướng được chủ tịch Hà đưa ra càng thêm dễ dàng áp dụng thỏa đáng từng trường hợp của từng cá nhân khác nhau.
+
+...
+
+Thời gian càng gần đến 1962, kế hoạch "Thống nhất thiên hạ" càng sắp khởi động thì tâm tình của Giang Bình An càng bình tĩnh, không chút lo lắng.
+
+Đêm nay hắn ngồi ngoài sân, cố ý gọi riêng ba bà bầu ra ngoài tâm sự. Đây hầu như là lần đầu tiên hắn ngồi tâm sự riêng với ba nàng từ lúc hay tin ba nàng đều có con với hắn.
+
+Giang Bình An: - Các nàng ở đây có buồn không?
+
+Marilyn: - Có, rất buồn. Nơi này quá vắng vẻ. Nhưng ta lại thích.
+
+- ???
+
+Marilyn: - Ta thích vì có chàng đấy, Supper Giang của ta.
+
+- Vậy nàng không chọn đóng phim nữa à?
+
+Marilyn: - Oh my God... chàng có thấy ai ôm cái bụng bầu bự như vầy mà đi đóng phim không? Các diễn viên nữ thường sanh con xong 2-3 năm mới đi diễn lại. Nếu đến chừng đó mà chàng làm bụng ta lớn lên nữa thì ta sẽ ở nhà tiếp!
+
+Giang Bình An nghe mỹ nhân chân tình bộc lộ bèn thích thú cười ngô nghê, hắn lấy tay xoa xoa cái bụng Marilyn, ngay lập tức trái tim của Marilyn như muốn tan chảy. Trong tíc tắc này, Marilyn Monroe dường như cảm thấy cả vũ trụ xung quanh đều tan biến, chỉ còn lại nàng cùng ý trung nhân và em bé trong bụng mà thôi!
+
+Ngồi bên cạnh, Jessica Alba gương mặt hiện ra nét hâm mộ và ghen tuông chua lè. Giang Bình An nhìn thấy vậy liền chua chát lắc đầu nói với Jessica:
+
+- Jessica... lúc trước nàng đến với ta giống như một thiêu thân lao mình vào lửa. Ta đã nói ta không đem lại được một hạnh phúc trọn vẹn đến cho nàng! Bây giờ sự thật hiện ra trước mắt, nàng đã tin chưa?
+
+Cô nàng thánh nữ hoang mạc này bĩu môi, tánh háo thắng hào phóng như một nữ cao bồi lại nổi lên trong nàng, nàng lắc đầu làm tung bay cả mái tóc vàng bồng bềnh như mây rồi kiên quyết trả lời:
+
+- Không... nếu không yêu được chàng... ta thà ở vậy cho xong. Dù phải chia sẻ chàng với thật nhiều chị em thì vẫn hơn là không có gì. Thế gian luôn nói: cái gì hiếm mới quý nha! Huống chi giờ ta đã có con với chàng, cả đời này chàng đừng hòng bỏ ta và con.
+
+Giang Bình An thất thủ bó tay, hắn ngay từ lần đầu gặp Jessica Alba trong buổi phỏng vấn cũng đã biết cô nàng này là thứ dữ, dám yêu dám hận, dám nói dám làm. Cuối cùng hắn chịu thua, giơ hai tay lên trời đầu hàng:
+
+- Ta thua nàng luôn đó thánh nữ hoang mạc! Thế giờ nàng tính sao? Bỏ hoang mạc về đây sống? Còn dân nghèo Niger, dân nghèo châu Phi, dân nghèo thế giới thì sao?
+
+Jessica: - Thôi chàng đừng dụ khị ta nữa. Có chàng và liên minh Thịnh Vượng ở đây, trước sau gì dân nghèo cả thế giới đều sẽ giàu có thôi, ta còn lo lắng làm gì nữa, chỉ cần lo cho con của chúng ta mà thôi!
+
+Giang Bình An mỉm cười, hắn rất thích một Jessica Alba thẳng thắn, đầy chân thành và đầy sức sống. Sau đó hắn quay đầu qua nhìn Lý Tố Linh...
+
+Bốn mắt nhìn nhau... cảm xúc về nàng ùa về trong đầu hắn thật nhiều. Thành thật mà nói trong ba cô nàng này, hắn tiếp xúc và ân oán nhiều nhất lại là Lý Tố Linh, cơ thể vưu vật của nàng ta, hắn đã xem không biết bao nhiêu lần... làm sao không ấn tượng nhiều cho được.
+
+Nhưng tình cảm giữa hai người lại thuộc dạng khó nảy nở và khó phát triển nhất, vì tình huống giữa hai người vừa bắt đầu đã là chuyện sinh tử, là kẻ thù, ngươi sống thì ta chết...
+
+Đáng tiếc Tần Hoài Như không hiểu, tự tay lôi kéo sắp đặt đưa Lý Tố Linh lên giường của chồng mình. May mắn mà lúc ấy Lý Tố Linh đã thực sự cải tà quy chánh, bỏ nghề sát thủ, nếu không thật lòng Giang Bình An cũng không biết chuyện gì sẽ xảy ra. Đây cũng là lý do chính khiến hắn sử dụng gia pháp trừng phạt Tần Hoài Như.
+
+Bên này cảm xúc ùa về bên trong Giang Bình An, bên kia Lý Tố Linh cũng xúc động từng cơn. Nàng đâu muốn yêu một kẻ thù, một mục tiêu ám sát làm gì. Nhưng khổ nỗi, tâm hồn thiếu nữ mới lớn đã bị in đậm dấu ấn quá lớn của hắn ta. Đặc biệt nhất là trong sức chiến đấu, nàng là một Hắc Phượng Hoàng, là Phượng trung chi hoàng, vậy mà thua tan nát trước Giang Bình An, hoàn toàn bị hắn chinh phục từ cảm tính đến lý tính.
+
+Lý Tố Linh không thay đổi được tánh tình gọn lẹ của một sát thủ, nàng trả lời dứt khoát không cần Giang Bình An lên tiếng:
+
+- Ta muốn ở lại đây! Được không?
+
+Giang Bình An cười khổ, các nàng mang thai với hắn, làm sao lại không được... Nếu không thay đổi được số phận, Giang Bình An đành hưởng thụ mà thôi, hắn cười sang sảng nói một cách bá đạo:
+
+- Từ giờ trở đi, ba người mỹ nhân các nàng đã trở thành nữ nhân của Giang Bình An, đã trở thành con dâu của Giang gia. Mà đã vào Giang gia, nhất định phải tuân thủ hai điều này: một là "Phu phụ tương kính như tân" hai là "Không buông không bỏ dù bất kỳ tình huống nào".
+
+Jessica Alba và Lý Tố Linh thì vui vẻ gật đầu, chỉ có Marilyn Monroe là muốn trêu đùa:
+
+- Khoan... từ từ... ta chỉ muốn có con thôi mà...
+
+- Hừ... leo lên giường của ta, lén ăn sạch ta... giờ còn muốn leo xuống bỏ chạy nữa ư? Không có cửa đâu, ta đã cảnh báo rất rõ rồi! Ha ha ha...
+
+...
+
+Đêm giao thừa 31/12/1961, Giang Bình An chỉ ở nhà tổ chức tiệc tất niên và tổ chức quà tặng Tết năm mới 1962 cho mọi người dân của Liên Minh Thịnh Vượng.
+
+Khác với món quà pháo hoa năm ngoái, năm nay quà là màn biểu diễn đèn laser trên bầu trời đêm giao thừa, vừa tiết kiệm thuốc nổ vừa có thêm nhiều chiêu thức biểu diễn phù hợp với từng văn hóa địa phương.
+
+Bàn nhậu tất niên ở nhà Giang Bình An đêm nay vẫn chỉ là năm người lãnh đạo của Liên Minh Thịnh Vượng, cả bốn người khách nhân đều không mang theo nữ quyến vì vợ của chủ tịch Hà và hoàng hậu của Phổ Nghi mới vừa sanh nở.
+
+Đồng hồ điểm đúng 12h giao thừa, trên bầu trời đã hiện ra một hàng chữ laser cực lớn bằng tiếng S quốc đầy sắc màu lung linh rực rỡ:
+
+"Chúc mừng năm mới 1962"
+
+Sau đó là hoạt cảnh đám cưới chuột, hoạt cảnh cá chép vượt long môn hóa rồng, ruộng lúa chín vàng, nương khoai xanh ngát, đầm sen mênh mông...
+
+Càng xem càng mê mẩn, chủ tịch Hà vỗ đùi cái "Đét" và khen nức nở:
+
+- Đẹp, đẹp quá Giang thủ tướng! Toàn là cảnh đẹp ý vui của nước ta
+
+Mọi người còn lại bắt đầu khen ngợi, bắt đầu bàn tán xem đèn laser và pháo hoa cái nào lợi hại hơn. Hamani Diori nhớ lại chuyện năm ngoái, bèn trêu chọc lão bằng hữu:
+
+- Phổ Nghi à... ông có nhớ năm ngoái vụ pháo hoa tồn tại ngắn ngủi hay lâu dài không?
+
+Phổ Nghi: - Nhớ chứ sao không! Lời giải thích của Giang thủ tướng quá hay. Ta lĩnh ngộ được thật nhiều thứ.
+
+Hamani Diori: - Ha ha ha... ông thì lĩnh ngộ còn Giang thủ tướng chắc chắn là sợ hãi rồi!
+
+Phổ Nghi: - Quái lạ! Tại sao phải sợ hãi?
+
+Hamani Diori: - Không sợ hãi sao năm nay Giang thủ tướng lại không dùng pháo hoa mà lại dùng đèn laser? Đó không phải Giang thủ tướng sợ hết thuốc nổ mà là vì đèn laser chỉ tốn điện, ông có muốn nó trình diễn tới sáng thì Giang thủ tướng cho người biểu diễn tới sáng... miễn cho ông nói là quá ngắn ngủi đó!
+
+Ha ha ha ha...
+
+Cả bàn nhậu cười nghiêng ngả, bình thường tổng thống Hamani Diori rất nghiêm trang, lâu lâu mới chọc cười, nhưng toàn chọn những chuyện cười đau bụng, làm người ta khó mà quên được.
+
+Vui vẻ đã đủ, U Nu chợt hạ thấp giọng nói hỏi thăm về kế hoạch:
+
+- Giang thủ tướng, các thế thân nguyên thủ quốc gia đã được hoàn thành chưa vậy thưa ngài?.

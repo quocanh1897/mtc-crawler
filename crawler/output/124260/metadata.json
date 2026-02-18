@@ -1,0 +1,102 @@
+{
+  "id": 124260,
+  "name": "Thỉnh Tiên Sinh Cứu Ta",
+  "slug": "thinh-tien-sinh-cuu-ta",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/thinh-tien-sinh-cuu-ta",
+  "note": "\"Giới thiệu truyện hay:\n + Thế Giới Yêu Ma: Ta Lấy Hệ Thống Thành Võ Thánh!\n + Chế Tạo Cảnh Khu, Ta Npc Đến Từ Cổ Đại!\n + Vô Hạn Tận Thế: Mỗi Lần Đánh Dấu Siêu Cấp Hack!\n + Thần Hồn Đan Đế\n + Toàn Cầu Truy Nã: Bắt Đầu Cấp Ngũ Tinh Vượt Ngục\n Cầu nguyệt phiếu, cầu đề cử, cầu khoai ăn sáng :v\"",
+  "status_name": "Hoàn thành",
+  "first_chapter": 17563023,
+  "latest_chapter": 24257302,
+  "latest_index": 1428,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/thinh-tien-sinh-cuu-ta/default.jpg?1728443490",
+    "600": "https://static.cdnno.com/poster/thinh-tien-sinh-cuu-ta/600.jpg?1728443490",
+    "300": "https://static.cdnno.com/poster/thinh-tien-sinh-cuu-ta/300.jpg?1728443490",
+    "150": "https://static.cdnno.com/poster/thinh-tien-sinh-cuu-ta/150.jpg?1728443490"
+  },
+  "synopsis": "Một triều mộng tỉnh, Hứa Khinh Chu xuyên qua huyền huyễn thế giới, thức tỉnh giải ưu hệ thống, từ đó ngày đi một thiện, đạp vào một đầu thay thế nhân giải ưu tiêu sầu trường sinh lộ. \n\nThế gian nhiều một tiên sinh, là nói: Vong Ưu. \n\nTiên sinh nói, thiên hạ này mặc dù lớn, lại không có hắn không độ hóa được cô nương. \n\nTiên sinh còn nói, cầu thần bái phật, sao không bằng cầu ta. \n\nTiên sinh còn nói, đời này của hắn, gặp tuyệt sắc, nghe phong minh, tấu bằng trắc, uống say liệt rượu, múa nhanh nhất kiếm, duy phong lưu. \n\nNhân gian nữ hoàng: \"Tiên sinh nói qua, hắn không chịu nổi nữ tử nhíu mày, càng hơn là cô gái xinh đẹp.\" \n\nTrên trời Nữ Đế: \"Thiếu niên kia, rất đáng sợ, trong tay hắn một ít gì đó có thể diệt thế.\" \n\nHứa Vô Ưu: \"Sư phụ nói qua, ta gọi Vô Ưu, vô ưu vô,vô ưu ưu\" \n\nCô nương kia: \"Tiên sinh, mau cứu ta?\" \n\nHứa Khinh Chu: \"Cô nương đừng sợ, đưa tay cho ta!\"",
+  "vote_count": 366,
+  "review_score": "4.833",
+  "review_count": 6,
+  "comment_count": 123,
+  "chapter_count": 1428,
+  "view_count": 0,
+  "word_count": 2529766,
+  "created_at": "2024-03-09T10:46:45.000000Z",
+  "updated_at": "2026-02-17T10:56:09.000000Z",
+  "new_chap_at": "2025-08-24T15:00:00.000000Z",
+  "published_at": "2024-03-09T10:46:45.000000Z",
+  "published": 1,
+  "user_id": 1514447,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Thỉnh Tiên Sinh Cứu Ta",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 2357,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1514447,
+    "name": "Quan Sư Nhĩ",
+    "avatar": [
+      "https://static.cdnno.com/user/204f66c069b6c52103e0b1e619b91351/200.jpg?1721735311",
+      "https://static.cdnno.com/user/204f66c069b6c52103e0b1e619b91351/100.jpg?1721735311",
+      "https://static.cdnno.com/user/204f66c069b6c52103e0b1e619b91351/50.jpg?1721735311"
+    ],
+    "level": 0,
+    "exp": 0,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 12182,
+    "name": "Tiểu Hà Phiếm Khinh Chu",
+    "avatar": null,
+    "local_name": "小河泛轻舟",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "Vô Sỉ",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

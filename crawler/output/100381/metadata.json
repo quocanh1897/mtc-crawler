@@ -1,0 +1,101 @@
+{
+  "id": 100381,
+  "name": "Đế Chế Đại Việt",
+  "slug": "de-che-dai-viet",
+  "kind": 2,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://vtruyen.com/truyen/de-che-dai-viet",
+  "note": "Tham gia nhóm độc giả Đế Chế Đại Việt trên group fb Đế Chế Đại Việt để cùng nhau bàn luận, chém gió và theo dõi lịch ra chương nhé.",
+  "status_name": "Hoàn thành",
+  "first_chapter": 10377441,
+  "latest_chapter": 14724251,
+  "latest_index": 1471,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/de-che-dai-viet/default.jpg?1623679244",
+    "600": "https://static.cdnno.com/poster/de-che-dai-viet/600.jpg?1623679244",
+    "300": "https://static.cdnno.com/poster/de-che-dai-viet/300.jpg?1623679244",
+    "150": "https://static.cdnno.com/poster/de-che-dai-viet/150.jpg?1623679244"
+  },
+  "synopsis": "Tiếp nối bộ \"Nhẫn giả hệ thống\". Franz sau khi thống nhất được hai đại lục ở Tử Lam tinh cầu đã trở về Trái Đất, nơi đây hắn gặp được Lạc Long Quân và đi tìm người để gánh trọng trách tìm con đường sống cho Hải Việt tộc. Lý Anh Tú được Lạc Long Quân trao cho một hệ thống như gần như AOE để xây dựng một vương quốc tại dị giới. Hãy xem cuộc hành trình đó như thế nào.\n\nTruyện liên tục nằm trong top những truyện quân sự.\n======++\n\n\n\nĐể tránh trường hợp hiểu lầm, ta xin nói trước tất cả những nhân vật, đất nước, tôn giáo trong truyện đều là hư cấu, nếu có giống nhau hoặc tương tự thì chỉ là ngẫu nhiên. Tất cả nhân vật, sự kiện trong truyện hoàn toàn hư cấu, không phản ánh sự thật lịch sử\n----------------------------\nCầu đề cử, cầu buff, cầu vote 10*",
+  "vote_count": 93473,
+  "review_score": "4.926",
+  "review_count": 500,
+  "comment_count": 6588,
+  "chapter_count": 1470,
+  "view_count": 0,
+  "word_count": 3500129,
+  "created_at": "2020-03-26T06:52:57.000000Z",
+  "updated_at": "2026-02-18T08:16:29.000000Z",
+  "new_chap_at": "2022-04-30T11:32:32.000000Z",
+  "published_at": "2020-06-10T05:18:29.000000Z",
+  "published": 1,
+  "user_id": 1000014,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Đế Chế Đại Việt",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 4326,
+  "chapter_per_week": 0,
+  "ready_for_sale": 1,
+  "discount_price": 228150,
+  "discount": 35,
+  "creator": {
+    "id": 1000014,
+    "name": "Hàm Ngư",
+    "avatar": [
+      "https://static.cdnno.com/user/7bef20627bb50052e352b9653c3bca53/200.jpg?1596985905",
+      "https://static.cdnno.com/user/7bef20627bb50052e352b9653c3bca53/100.jpg?1596985905",
+      "https://static.cdnno.com/user/7bef20627bb50052e352b9653c3bca53/50.jpg?1596985905"
+    ],
+    "level": 4,
+    "exp": 3839,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 2,
+    "name": "Đang Cập Nhật",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 8,
+      "name": "Dã Sử",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 12,
+      "name": "Dị Thế Đại Lục",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

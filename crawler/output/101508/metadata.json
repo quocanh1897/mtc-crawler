@@ -1,0 +1,96 @@
+{
+  "id": 101508,
+  "name": "Ta Làm Sao Lên Làm Hoàng Đế",
+  "slug": "ta-lam-sao-len-lam-hoang-de",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ta-lam-sao-len-lam-hoang-de",
+  "note": "✨CẦU HOA✨ CẦU ĐÁNH GIÁ✨CẦU NÉM GẠCH VÀO MẶT✨",
+  "status_name": "Hoàn thành",
+  "first_chapter": 12318335,
+  "latest_chapter": 13575312,
+  "latest_index": 1302,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-lam-sao-len-lam-hoang-de/default.jpg?1588170309",
+    "600": "https://static.cdnno.com/poster/ta-lam-sao-len-lam-hoang-de/600.jpg?1588170309",
+    "300": "https://static.cdnno.com/poster/ta-lam-sao-len-lam-hoang-de/300.jpg?1588170309",
+    "150": "https://static.cdnno.com/poster/ta-lam-sao-len-lam-hoang-de/150.jpg?1588170309"
+  },
+  "synopsis": "Người mang thần bộ hệ thống, xuyên qua cao võ thế giới, thành một cái nho nhỏ bộ đầu.\n\nChỉ bất quá, Lục Càn làm bộ đầu chỉ muốn bắt trộm thăng cấp võ công, tại cái này nguy hiểm cao võ thế giới tự vệ, thuận tiện trừ gian diệt ác, làm sao đang tại làm trò liền làm đến bên trong hoàng cung đi?\nP/s: Main cơ trí thông minh, sát phạt quyết đoán...\nMain miệng độn vô song, chửi cho cắm đầu xuống đất mà chết, rồi chửi tiếp phải đội mồ mà sống dậy =))phải nói là độc, bị nó chửi tức ói máu luôn\n\nTruyện kể về 1 thằng nhân vật phụ thông minh vô sỉ, cơ trí quyết đoán giỏi dựa thế nhân vật chính , cố gắng từ bộ đầu làm lên, cuối cùng được main truyền vị làm hoàng đế =))\n\n✨CẦU HOA✨ CẦU ĐÁNH GIÁ✨CẦU NÉM GẠCH VÀO MẶT✨",
+  "vote_count": 775,
+  "review_score": "4.783",
+  "review_count": 31,
+  "comment_count": 147,
+  "chapter_count": 1302,
+  "view_count": 0,
+  "word_count": 3743982,
+  "created_at": "2020-03-26T07:03:07.000000Z",
+  "updated_at": "2026-02-18T14:06:07.000000Z",
+  "new_chap_at": "2021-04-25T14:59:49.000000Z",
+  "published_at": "2020-03-26T07:03:07.000000Z",
+  "published": 1,
+  "user_id": 1000046,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Làm Sao Lên Làm Hoàng Đế",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1186,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000046,
+    "name": "Huyền Linh",
+    "avatar": [
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/200.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/100.jpg?1615709578",
+      "https://static.cdnno.com/user/ba5c1ee4bf41d89c195e01aed64ea6a7/50.jpg?1615709578"
+    ],
+    "level": 4,
+    "exp": 2395,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 1258,
+    "name": "Nhật Mỗi Nhất Vạn Thần Thành",
+    "avatar": null,
+    "local_name": "日每一万神成",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "Vô Sỉ",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 22,
+      "name": "Huyễn Tưởng Tu Tiên",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

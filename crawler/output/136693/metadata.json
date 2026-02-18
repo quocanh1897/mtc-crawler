@@ -1,0 +1,90 @@
+{
+  "id": 136693,
+  "name": "Trở Về 1996 Bắt Đầu Từ Chợ Lớn Bán Thịt Heo",
+  "slug": "tro-ve-1996-bat-dau-tu-cho-lon-giang-ho-ban-thit-heo-1",
+  "kind": 2,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://vtruyen.com/truyen/tro-ve-1996-bat-dau-tu-cho-lon-giang-ho-ban-thit-heo-1",
+  "note": "",
+  "status_name": "Còn tiếp",
+  "first_chapter": 20661257,
+  "latest_chapter": 26888433,
+  "latest_index": 1188,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/tro-ve-1996-bat-dau-tu-cho-lon-giang-ho-ban-thit-heo-1/default.jpg?1763373052",
+    "600": "https://static.cdnno.com/poster/tro-ve-1996-bat-dau-tu-cho-lon-giang-ho-ban-thit-heo-1/600.jpg?1763373052",
+    "300": "https://static.cdnno.com/poster/tro-ve-1996-bat-dau-tu-cho-lon-giang-ho-ban-thit-heo-1/300.jpg?1763373052",
+    "150": "https://static.cdnno.com/poster/tro-ve-1996-bat-dau-tu-cho-lon-giang-ho-ban-thit-heo-1/150.jpg?1763373052"
+  },
+  "synopsis": "Năm 1996 Giang hồ Chợ Lớn nổi tiếng với sự khốc liệt cùng những vụ việc gây chấn động đất nước, gắn liền với thời kỳ mà xã hội Đại Nam đang chuyển mình mạnh mẽ về kinh tế cùng văn hóa. Chợ Lớn, khu vực đông đúc của người Hoa tại Sài Thành, không chỉ là trung tâm thương mại sầm uất mà còn là nơi hoạt động của nhiều băng đảng tội phạm có tổ chức.\n\nHoàng Duy Thành một Luật Sư từ thế kỷ 21 trong một cuộc đàm phán thất bại, đối thủ ôm hận hạ sát hắn tại một con hẻm nhỏ tại Chợ Lớn.\n\nMở mắt sống lại một đời, khung cảnh trước mắt thay đổi, thân phận cũng thay đổi, hắn một Luật Sư lại trở thành một tên bán thịt heo.\n\nVũng nước đục tại Chợ Lớn năm 1996 liệu rằng một Luật Sư trong thân phận một tên bán thịt heo có thể vượt qua được hay không?\n\nLiệu hắn có thể sống sót ở một nơi là toàn là tội phạm? Liệu hắn có thể sống sót, có thể vùng vẫy vượt qua được con sóng ngầm mạnh mẽ của các băng đẳng tội phạm tại Chợ Lớn hay không?\n\n(P/S: Đây chỉ là thế giới song song, mọi nhân vật, địa danh, tất cả đều là \n hư cấu.)",
+  "vote_count": 1614,
+  "review_score": "5.000",
+  "review_count": 14,
+  "comment_count": 164,
+  "chapter_count": 1188,
+  "view_count": 0,
+  "word_count": 2369553,
+  "created_at": "2024-12-25T04:08:17.000000Z",
+  "updated_at": "2026-02-16T15:30:17.000000Z",
+  "new_chap_at": "2026-02-16T14:15:32.000000Z",
+  "published_at": "2024-12-26T02:07:50.000000Z",
+  "published": 1,
+  "user_id": 1280543,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Trở Về 1996 Bắt Đầu Từ Chợ Lớn Bán Thịt Heo",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 587,
+  "chapter_per_week": 6,
+  "ready_for_sale": 0,
+  "discount_price": 942300,
+  "discount": 0,
+  "creator": {
+    "id": 1280543,
+    "name": "Ngoa Tiên",
+    "avatar": [
+      "https://static.cdnno.com/user/8199ddf87625100aa88495fdea4ea28c/200.jpg?1719221169",
+      "https://static.cdnno.com/user/8199ddf87625100aa88495fdea4ea28c/100.jpg?1719221169",
+      "https://static.cdnno.com/user/8199ddf87625100aa88495fdea4ea28c/50.jpg?1719221169"
+    ],
+    "level": 1,
+    "exp": 23,
+    "object_type": "User"
+  },
+  "author": null,
+  "genres": [
+    {
+      "id": 6,
+      "name": "Đô Thị",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 6,
+      "name": "Cơ Trí",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 27,
+      "name": "Đô Thị Sinh Hoạt",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 66,
+      "name": "Trọng Sinh",
+      "type_id": "3",
+      "object_type": "Tag"
+    }
+  ]
+}

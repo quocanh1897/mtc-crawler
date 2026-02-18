@@ -1,0 +1,101 @@
+{
+  "id": 115313,
+  "name": "Ngôi Sao Hi Vọng",
+  "slug": "ngoi-sao-hi-vong",
+  "kind": 2,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 1,
+  "link": "https://vtruyen.com/truyen/ngoi-sao-hi-vong",
+  "note": "Cầu đề cử, cầu cất giữ, cầu đánh giá và bình luận cho truyện thêm xôm tụ nha mọi người!!!",
+  "status_name": "Còn tiếp",
+  "first_chapter": 15501202,
+  "latest_chapter": 26890457,
+  "latest_index": 1183,
+  "high_quality": 0,
+  "manager_pick": 1,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ngoi-sao-hi-vong/default.jpg?1686024702",
+    "600": "https://static.cdnno.com/poster/ngoi-sao-hi-vong/600.jpg?1686024702",
+    "300": "https://static.cdnno.com/poster/ngoi-sao-hi-vong/300.jpg?1686024702",
+    "150": "https://static.cdnno.com/poster/ngoi-sao-hi-vong/150.jpg?1686024702"
+  },
+  "synopsis": "Nguyễn Thanh Tùng đứng trước chiếc cúp danh giá nhất của làng túc cầu Thế giới, hai mắt không tự chủ được chảy dài dòng lệ.\nCòn điều gì tự hào hơn khi giấc mơ trở thành hiện thực?\nCòn điều gì hạnh phúc hơn khi nghe tiếng Quốc ca đầy hùng hồn vang vọng trên sàn đấu bóng đá lớn nhất Thế giới?\nVà còn điều gì có thể ngăn cản được những cố gắng, đưa ước mơ biến thành thành hiện thực?\nCùng theo dõi cuộc hành trình của Nguyễn Thanh Tùng, từ một cậu bé chân ướt chân ráo đến mảnh đất Bồ Đào Nha, từng bước từng bước trở thành huyền thoại trong ngôi đền của những cầu thủ bóng đá xuất sắc nhất Thế giới!\n\nTruyện mô phỏng theo đời thật, tất cả các sự kiện và nhân vật đều là hư cấu, nếu có trùng hợp xin hãy bỏ qua\n\nĐính chính: truyện do dân nghiệp dư về bóng đá viết, vừa là truyện đầu tay. Rất mong anh em nhẹ tay khi bình luận về chuyên môn với ạ. Xin cám ơn mọi người!",
+  "vote_count": 42960,
+  "review_score": "4.962",
+  "review_count": 184,
+  "comment_count": 4974,
+  "chapter_count": 1183,
+  "view_count": 0,
+  "word_count": 2351559,
+  "created_at": "2022-11-16T15:12:59.000000Z",
+  "updated_at": "2026-02-18T14:00:21.000000Z",
+  "new_chap_at": "2026-02-18T05:00:24.000000Z",
+  "published_at": "2022-11-21T03:32:56.000000Z",
+  "published": 1,
+  "user_id": 1077778,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ngôi Sao Hi Vọng",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 1824,
+  "chapter_per_week": 4,
+  "ready_for_sale": 0,
+  "discount_price": 49000,
+  "discount": 90,
+  "creator": {
+    "id": 1077778,
+    "name": " Tùng Thanh",
+    "avatar": [
+      "https://static.cdnno.com/user/5a0658df6b1a6ec5f3ea9a2a62b68f0f/200.jpg?1762617167",
+      "https://static.cdnno.com/user/5a0658df6b1a6ec5f3ea9a2a62b68f0f/100.jpg?1762617167",
+      "https://static.cdnno.com/user/5a0658df6b1a6ec5f3ea9a2a62b68f0f/50.jpg?1762617167"
+    ],
+    "level": 3,
+    "exp": 1504,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 3167,
+    "name": "",
+    "avatar": null,
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 9,
+      "name": "Cạnh Kỹ",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Điềm Đạm",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 39,
+      "name": "Thể Dục Cạnh Kỹ",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 57,
+      "name": "Hệ Thống",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

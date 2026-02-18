@@ -1,0 +1,101 @@
+Chương 242. Lời lỗ ra sao
+
+Chương 242. Lời lỗ ra sao
+
+Chuyện lời lỗ khi làm ăn là phải tính chi phí và thu hoạch. Trồng Dù Bạch Kim cũng vậy, nhưng vì giao dịch bằng tiền ảo HP nên mọi công cán và tiền tài trái đất Giang Bình An không tính.
+
+Đầu tiên là tiền vốn hạt giống Dù Bạch Kim, lúc trồng 600.000 km² ở Đại Thịnh đế quốc phải mua hết 300 tỷ HP tiền hạt giống, được 150 tấn hạt.
+
+Đến lúc dự án trồng 1 triệu km² ở hoang mạc Sahara, số tiền mua hạt giống bỏ ra là 500 tỷ HP, được 250 tấn hạt.
+
+Sau đó là bài toán hơi chi li về sự lời lãi khi trồng (PS: nếu không thích có thể bỏ qua, nếu muốn xem kỹ xin xem lại chương 27-28):
+
+* Giá mua hạt giống là 2 tỷ HP/tấn, có được 1 tỷ hạt giống, tỷ lệ nảy mầm trên 90%. Như vậy mỗi hạt giống Dù Bạch Kim nảy mầm thành công sẽ có giá thành 2,2 HP.
+
+* Sau ba tháng gieo trồng đúng kỹ thuật sẽ trưởng thành và ra hoa đậu quả, sau khoảng nửa năm nếu nắng đầy đủ thì quả sẽ chín tự rụng. Mỗi quả 0,5-1kg. Mỗi cây sẽ thu hoạch 10-50 trái, như vậy nếu chỉ tính mức trung bình thấp, mỗi cây sẽ thu hoạch được 10kg quả.
+
+* Cửa hàng ảo thu mua quả Dù Bạch Kim thành thục với mức giá: 5.000HP/tấn, nghĩ là 5HP/kg, như vậy hạt giống mất 2,2HP tiền vốn sẽ thu hoạch được 10 kg quả trị giá 50HP, tiền lời gấp 22,7 lần tiền vốn
+
+Nhưng tiền lời 22,7 lần chỉ là tiền lời sơ cấp nhất nếu chỉ bán trái cây. Còn nếu bán dịch năng lượng hoặc tự sản xuất ra thanh năng lượng sơ cấp giống Giang Bình An đang cho khu công nghiệp làm thì hệ số tiền lời sẽ cao hơn khoảng 25 lần. Dĩ nhiên là phải bỏ vốn 100 tỷ HP mua quy trình và máy móc làm thanh năng lượng sơ cấp.
+
+Hệ số tiền lời cũng có thể cao hơn 25 nếu Giang Bình An nghiên cứu ra cơ chất làm thanh năng lượng, nhưng đáng tiếc hiện giờ vẫn đang không có kết quả.
+
+Nhưng 25 lần tiền lời đã là rất cao. Cầm bảng đánh giá tiền lời này Giang Bình An nhẩm tính:
+
+Bỏ vốn 800 tỷ HP mua hạt giống, nhân hệ số 25, như vậy nếu thu hoạch hết lứa đầu thì Giang Bình An sẽ tạo ra một số lượng thanh năng lượng sơ cấp trị giá 20.000 tỷ HP nếu bán cho cửa hàng ảo.
+
+Nhưng hiện tại Giang Bình An có tiền rủng rỉnh trong túi, hắn không ngu gì bán cho cửa hàng ảo 20.000 tỷ HP rồi khi cần lại mua về với giá gấp đôi 40.000 tỷ HP.
+
+Cuối cùng tổng kết lại, khi trồng trọt vụ đầu Dù Bạch Kim ở Đại Thịnh đế quốc và sa mạc Sahara với tổng diện tích 1,6 triệu km², số vốn bỏ ra làm chẵn là 1.000 tỷ HP, sau hai năm sẽ thu về số thanh năng lượng sơ cấp trị giá 20.000 tỷ HP, lời 19.000 tỷ HP.
+
+Đây là 1,6 triệu km², nếu 16 triệu km² thì sao? Xem ra tiền lời không quá cao nhưng cũng không quá nhỏ. Làm nông nghiệp chỉ cần đất rộng người đông, nước nôi và ánh nắng sung túc là ngon lành.
+
+Có một vấn đề các kỹ sư nông nghiệp người máy đã nhắc nhở chủ nhân Giang Bình An:
+
+- Dự án 1 triệu km² cải tạo hoang mạc Sahara theo dự tính ban đầu cần 1-2 tỷ người chăm sóc là có đúng nhưng thật ra là sai. Đúng là vì nếu chăm sóc tỉ mỉ và kết hợp chăn nuôi nhiều loại gia súc gia cầm. Nhưng sai là vì nếu thật sự làm như vậy sẽ xảy ra khủng hoảng thừa. Không phải thừa về Dù Bạch Kim mà thừa về gia súc gia cầm quá nhiều tiêu hóa không hết. Mà chủ nhân lại không chịu bán đi liên vũ trụ.
+
+- Không bán. Bán đi có được bao nhiêu HP đâu, lại bị mất các nguyên tố ra liên vũ trụ, mai mốt mua về thì lỗ gấp đôi.
+
+- Chính vì lẽ đó nên chúng ta cần điều chỉnh lại tỷ lệ nhân công trên tổng số diện tích. Như vậy vẫn đảm bảo Dù Bạch Kim có năng suất cao nhất mà lượng gia súc gia cầm chăn nuôi cũng không cần nhiều.
+
+- Điều chỉnh như thế nào?
+
+- Giảm 9/10.
+
+- Nghĩa là chỉ cần 100-200 triệu người chăm sóc cho 1 triệu km² trồng Dù Bạch Kim?
+
+- Chính xác như vậy thưa chủ nhân.
+
+- Vậy lượng cỏ đậu đuôi chồn dư thừa ra rất nhiều thì sao?
+
+- Chúng ta đã có kế hoạch cho chúng làm phân xanh để bón thêm cho Dù Bạch Kim, đồng thời tăng tốc độ cải tạo đất cát hoang mạc. Như vậy với số nhân công ít ỏi hiện nay trên trái đất, chúng ta có thể khai phá trồng Dù Bạch Kim nhiều hơn, chủ nhân sẽ thu lợi nhiều hơn.
+
+- Hay... cứ quyết định làm như vậy đi, nhớ khống chế đừng cho gia súc gia cầm dư thừa quá nhiều. Khi thật sự dư thừa thì hãy nghiên cứu sản xuất đồ hộp, tăng lượng thịt trong khẩu phần của người dân.
+
+...
+
+Nhờ sự góp ý đúng lúc của các kỹ sư nông nghiệp người máy, Giang Bình An ngay thời điểm gần cuối năm 1962, đã quyết định tăng dự án 1 triệu km² lên thêm 2 triệu km² nữa, lấn sang phần hoang mạc của các nước láng giềng Niger.
+
+Giang Bình An vẫn sử dụng hợp đồng thuê đất hoang sa mạc. Lần này không ai đứng ra nghi ngờ tính khả thi của dự án, và cũng không ai ngăn cản hoặc bắt chước làm theo hắn.
+
+Việc nghi ngờ là không thể, 1 triệu km² bên Niger đã phủ xanh hoàn toàn, các ốc đảo mọc lên như nấm, các hồ nước hiện ra đến đâu là các tòa nhà cao tầng và cỏ đậu đuôi chồn che phủ ra đến đó. Sau đó xung quanh các tòa nhà cao tầng lại bắt đầu trồng những loại cây ăn trái che bóng mát rượi hệt như trong những câu truyện cổ tích. Đây là minh chứng cho sự cải tạo hoang mạc thành công không thể nào thành công hơn.
+
+Vậy còn về ngăn cản? Ngăn cản là không thể nào vì các nước láng giềng Niger thèm thuồng dự án này suốt 2 năm rồi. Các quốc gia này cũng đã nhiều lần xin Giang thủ tướng triển khai cải tạo hoang mạc trên phần đất của họ và họ cũng đã gia nhập Liên Minh Thịnh Vượng từ đầu năm 1962.
+
+Nhưng ban đầu Giang Bình An cứ từ chối vì dự án 1 triệu km² bên Niger chưa hoàn tất, và vì thiếu nhân công. Đến cuối năm 1962 mọi chuyện mới khác đi, dự án 1 triệu km² bên Niger đã phủ xanh hoàn toàn, nhân công lại ồ ạt từ khắp nơi trên thế giới đổ vào đây nâng tổng số nhân công từ 100 triệu lúc giữa năm tăng lên 300 triệu lúc cuối năm.
+
+Chính vì thiên thời - địa lợi - nhân hòa như vậy, Giang Bình An mới quyết đoán mở rộng thêm 2 triệu km² cải tạo hoang mạc tiếp theo. Theo dự tính tổng 3 triệu km² này sẽ cần tập trung 500 triệu lao động, một con số khủng khiếp cho người quản lý nhưng lại là phúc âm của người dân nghèo cần việc làm trên toàn thế giới.
+
+Cuối cùng là câu hỏi vì sao không ai bắt chước hắn làm như vậy để cải tạo hoang mạc? Chuyện bắt chước làm theo là quá thường tình, nhưng phải có tiền để kiếm thì mới có người bỏ vốn ra làm.
+
+Đằng này nhìn thấy từng chi tiết mà Giang Bình An làm trên hoang mạc thì mọi tay tư bản cá sấu trên thế giới đều co đầu rụt cổ.
+
+Xây nhà cho mấy triệu, mấy chục triệu, mấy trăm triệu người ở... miễn phí? Nhiêu đây thôi là tập thể cá sấu đều phải quỳ trước bút tích to lớn khủng bố của Giang Bình An. Có số tiền khổng lồ đó ai còn rảnh rỗi dư hơi chạy đến hoang mạc làm dự án làm gì?
+
+Khoan tìm nước sông ngầm cách mặt đất vài chục km? Thôi bỏ qua, chưa nghe bao giờ.
+
+Trả lương công nhân cao ngất ngưởng? Lại càng bỏ qua, lương công nhân cao thì ông chủ phá sản hết à? ...
+
+Có hàng tá lý do khiến không ai dám chơi lớn như Giang Bình An, thậm chí họ còn không hiểu dự án này thu lợi bằng cái gì? Giang thủ tướng làm sao có được tài lực khổng lồ để trả lương cho mấy trăm triệu người lao động như vậy?
+
+Quả thật, vấn đề tiền lương cho 300 triệu người lao động đang tập trung bên Niger là một vấn đề to lớn mà hầu như không ai giải quyết được. Nhưng Giang Bình An vẫn cố gắng chèo chống vượt qua.
+
+Đầu tiên là hắn hạ bớt tiền lương khi kết thúc hợp đồng cũ ở đầu năm 1962. Năm 1961 hắn phải dùng lương cao là để khởi động dự án, nhưng qua một năm dự án đã thành công khởi động, và điều kiện sinh hoạt bên Niger đã được cải thiện rất nhiều, cây xanh thành ấm quanh các hồ nước hình thành ốc đảo xinh đẹp, làm cho mọi người đi làm mà rất giống đi du lịch.
+
+Cả hai lý do trên kết hợp lại, Giang Bình An cho giảm mức lương từ gấp 5 lần bản địa ở Đại Thịnh đế quốc chuyển thành gấp 3 lần.
+
+Sau đó Giang Bình An lại tích cực tiếp nhận người dân châu Phi bản địa, những người khốn khó thật sự cần việc làm và nơi ăn chốn ở. Như vậy khi tiếp nhận những lao động này, tiền lương sẽ thấp một phần, làm giảm bớt quỹ lương.
+
+Biện pháp giảm quỹ lương thứ ba là nằm ở khu sản xuất nghiên cứu dược phẩm bên tỉnh Sông Bé của S quốc. Có tới khoảng 30-40% người lao động qua Niger là để kiếm tiền chữa bệnh cho người thân. Mỗi tháng họ dành ra 60-70% tiền lương để trả tiền chữa bệnh. Như vậy quỹ lương của những người này cũng trở nên nhẹ nhàng rất nhiều.
+
+Cuối cùng nhất là biện pháp quay vòng tiền tệ. Giang Bình An cho khu công nghiệp tung ra rất nhiều sản phẩm phục vụ đời sống như quần áo, giày dép thời trang, nước hoa, vàng bạc trang sức, thậm chí hắn đã cho ra đời những thế hệ điện thoại cục gạch siêu bền... để bán cho tất cả mọi người, đặc biệt là các công nhân, từ đó Giang Bình An có thể thu hồi lại một lượng tiền tệ rất lớn để quay vòng trả lương cho công nhân.
+
+Trên các màn hình lớn, luôn có tuyên truyền người dân mua sắm để kích thích kinh tế trong lúc hoàn cảnh thế giới ổn định. Kèm theo tuyên truyền mua sắm là hàng đống quảng cáo hàng hóa tạo thành những trào lưu xã hội, khiến cho mọi người theo đuổi mua sắm...
+
+Như vậy đồng tiền sinh ra đồng tiền giúp kinh tế xã hội phát triển.
+
+Giúp công nhân có việc làm lương cao, chi tiêu thoải mái, và còn dư để tích lũy.
+
+Giúp Giang Bình An thu lượng lớn Dù Bạch Kim, tạo ra thanh năng lượng sơ cấp, tạo ra HP.
+
+Mà có HP là có tất cả.

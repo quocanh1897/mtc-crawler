@@ -1,0 +1,102 @@
+{
+  "id": 102261,
+  "name": "Ta Có Thể Phục Chế Thiên Phú",
+  "slug": "ta-co-the-phuc-che-thien-phu",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/ta-co-the-phuc-che-thien-phu",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 17602755,
+  "latest_chapter": 18657678,
+  "latest_index": 3613,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/ta-co-the-phuc-che-thien-phu/default.jpg?1720013682",
+    "600": "https://static.cdnno.com/poster/ta-co-the-phuc-che-thien-phu/600.jpg?1720013682",
+    "300": "https://static.cdnno.com/poster/ta-co-the-phuc-che-thien-phu/300.jpg?1720013682",
+    "150": "https://static.cdnno.com/poster/ta-co-the-phuc-che-thien-phu/150.jpg?1720013682"
+  },
+  "synopsis": "« B.faloo mạng tiểu thuyết độc nhất vô nhị ký hợp đồng tiểu thuyết: Ta có thể phục chế thiên phú »\n\n\t« nên thư vì Manga « Ta Có Thể Phục Chế Thiên Phú » nguyên bản tiểu thuyết »\n\n\tToàn dân thiên phú thời đại, người cùng hung thú cùng tồn tại, mỗi người lấy giác tỉnh thiên phú đi lên Võ Giả con đường làm vinh danh tiếng.\n\n\tDiệp Thiên thu được phục chế thiên phú, chỉ cần cùng những người khác đụng vào, có thể phục chế bọn họ năng lực thiên phú.\n\n\tVô luận là Võ Giả, vẫn là hung thú, chỉ cần bị hắn để mắt tới rồi, thiên phú chính là của hắn lạp!\n\n\tHơn nữa, hắn còn có thể dung hợp thiên phú, đem thiên phú không ngừng thăng cấp.\n\n\tNào đó thiên kiêu: Ta sở hữu Siêu Thần Cấp thiên phú, ai có thể so với ta ?\n\n\tDiệp Thiên mở ra chính mình thiên phú bảng, nhìn lấy cái kia từng hàng Siêu Thần Cấp thiên phú, nhìn lại cái kia vị thiên kiêu cũng chỉ có một cái Siêu Thần Cấp thiên phú, sau đó sẽ âm thầm niệm một câu —— phục chế!\n\n\tSiêu Thần Cấp thiên phú, lại thêm một cái!\n\n\nTÁC RA 3K6 CHƯƠNG R, BẠO NHANH KỊP TÁC",
+  "vote_count": 2152,
+  "review_score": "4.989",
+  "review_count": 15,
+  "comment_count": 410,
+  "chapter_count": 3612,
+  "view_count": 0,
+  "word_count": 6547465,
+  "created_at": "2020-03-26T08:09:03.000000Z",
+  "updated_at": "2026-02-18T14:36:50.000000Z",
+  "new_chap_at": "2024-07-07T01:00:00.000000Z",
+  "published_at": "2024-03-13T15:26:58.000000Z",
+  "published": 1,
+  "user_id": 1000010,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Ta Có Thể Phục Chế Thiên Phú",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 5971,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000010,
+    "name": "Yurisa",
+    "avatar": [
+      "https://static.cdnno.com/user/3e267ff3c8b6621e5ad4d0f26142892b/200.jpg?1614187826",
+      "https://static.cdnno.com/user/3e267ff3c8b6621e5ad4d0f26142892b/100.jpg?1614187826",
+      "https://static.cdnno.com/user/3e267ff3c8b6621e5ad4d0f26142892b/50.jpg?1614187826"
+    ],
+    "level": 4,
+    "exp": 2123,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 12315,
+    "name": "Kiếm Thần Vô Địch",
+    "avatar": null,
+    "local_name": "剑神无敌",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 5,
+      "name": "Nhẹ Nhàng",
+      "type_id": "1",
+      "object_type": "Tag"
+    },
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    },
+    {
+      "id": 92,
+      "name": "Toàn Dân",
+      "type_id": "3",
+      "object_type": "Tag"
+    },
+    {
+      "id": 86,
+      "name": "Góc Nhìn Nam",
+      "type_id": "4",
+      "object_type": "Tag"
+    }
+  ]
+}

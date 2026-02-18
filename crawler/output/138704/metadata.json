@@ -1,0 +1,84 @@
+{
+  "id": 138704,
+  "name": "Thế Giới Hoàn Mỹ",
+  "slug": "the-gioi-hoan-my-1",
+  "kind": 1,
+  "sex": 1,
+  "state": "Đã xuất bản",
+  "status": 2,
+  "link": "https://metruyencv.com/truyen/the-gioi-hoan-my-1",
+  "note": "",
+  "status_name": "Hoàn thành",
+  "first_chapter": 21494731,
+  "latest_chapter": 24498752,
+  "latest_index": 2016,
+  "high_quality": 0,
+  "manager_pick": 0,
+  "poster": {
+    "default": "https://static.cdnno.com/poster/the-gioi-hoan-my-1/default.jpg?1757784964",
+    "600": "https://static.cdnno.com/poster/the-gioi-hoan-my-1/600.jpg?1757784964",
+    "300": "https://static.cdnno.com/poster/the-gioi-hoan-my-1/300.jpg?1757784964",
+    "150": "https://static.cdnno.com/poster/the-gioi-hoan-my-1/150.jpg?1757784964"
+  },
+  "synopsis": "Một hạt bụi có thể lấp biển, một cọng cỏ chém hết nhật nguyệt tinh thần, trong nháy mắt long trời lở đất.\n\nQuần hùng cùng nổi lên, vạn tộc mọc lên như rừng, Chư Thánh tranh bá, loạn thiên động địa.\n\nHỏi mặt đất bao la, cuộc đời thăng trầm?!\n\nMột thiếu niên đi ra từ Đại Hoang, hết thảy bắt đầu từ chính nơi này......\n\nMời độc giả thưởng thức - Thế Giới Hoàn Mỹ",
+  "vote_count": 149,
+  "review_score": "0.000",
+  "review_count": 0,
+  "comment_count": 30,
+  "chapter_count": 2016,
+  "view_count": 0,
+  "word_count": 5514104,
+  "created_at": "2025-02-22T09:54:59.000000Z",
+  "updated_at": "2026-02-18T11:30:58.000000Z",
+  "new_chap_at": "2025-09-04T17:31:52.000000Z",
+  "published_at": "2025-02-22T09:54:59.000000Z",
+  "published": 1,
+  "user_id": 1000044,
+  "object_type": "Book",
+  "report_options": [
+    {
+      "title": "Báo cáo truyện Thế Giới Hoàn Mỹ",
+      "assign_to": "editor",
+      "content_placeholder": "Vui lòng cung cấp thông tin chi tiết về lỗi hoặc vi phạm của truyện"
+    }
+  ],
+  "bookmark_count": 427,
+  "chapter_per_week": 0,
+  "ready_for_sale": 0,
+  "discount_price": 0,
+  "discount": 0,
+  "creator": {
+    "id": 1000044,
+    "name": "HadesLoki",
+    "avatar": [
+      "https://static.cdnno.com/user/072ab14696657b46a86febd461e999f0/200.jpg?1718619913",
+      "https://static.cdnno.com/user/072ab14696657b46a86febd461e999f0/100.jpg?1718619913",
+      "https://static.cdnno.com/user/072ab14696657b46a86febd461e999f0/50.jpg?1718619913"
+    ],
+    "level": 4,
+    "exp": 2080,
+    "object_type": "User"
+  },
+  "author": {
+    "id": 370,
+    "name": "Thần Đông",
+    "avatar": null,
+    "local_name": "辰东",
+    "object_type": "Author"
+  },
+  "genres": [
+    {
+      "id": 3,
+      "name": "Huyền Huyễn",
+      "object_type": "Genre"
+    }
+  ],
+  "tags": [
+    {
+      "id": 11,
+      "name": "Đông Phương Huyền Huyễn",
+      "type_id": "2",
+      "object_type": "Tag"
+    }
+  ]
+}

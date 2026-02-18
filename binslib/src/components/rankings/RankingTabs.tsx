@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { useRouter } from "next/navigation";
 import Link from "next/link";
 import { cn, formatNumber } from "@/lib/utils";
 import { BookCover } from "@/components/books/BookCover";
@@ -19,6 +20,7 @@ interface RankingTabsProps {
 }
 
 export function RankingTabs({ data, genreSlug }: RankingTabsProps) {
+  const router = useRouter();
   const [active, setActive] = useState<RankingMetric>("vote_count");
 
   const books = data[active] || [];
@@ -68,10 +70,13 @@ export function RankingTabs({ data, genreSlug }: RankingTabsProps) {
           </p>
         ) : (
           books.map((book, i) => (
-            <Link
+            <div
               key={book.id}
-              href={`/doc-truyen/${book.slug}`}
-              className="flex items-center gap-3 px-4 py-2.5 hover:bg-gray-50 transition-colors"
+              role="link"
+              tabIndex={0}
+              onClick={() => router.push(`/doc-truyen/${book.slug}`)}
+              onKeyDown={(e) => { if (e.key === "Enter") router.push(`/doc-truyen/${book.slug}`); }}
+              className="flex items-center gap-3 px-4 py-2.5 hover:bg-gray-50 transition-colors cursor-pointer"
             >
               {/* Rank */}
               <span
@@ -116,7 +121,7 @@ export function RankingTabs({ data, genreSlug }: RankingTabsProps) {
                 </div>
                 <QuickDownloadButton bookId={book.id} />
               </div>
-            </Link>
+            </div>
           ))
         )}
       </div>
